@@ -1,0 +1,15 @@
+{
+  "name": "cpm-html",
+  "version": "1.0.0",
+  "description": "Proyecto CPM - Desarrollo de maquetado en HTML con bootstrap",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "sass": "^1.23.1"
+  }
+}
