@@ -1,2 +1,5 @@
 # all node modules
 node_modules
+
+# dont add .DS_store
+assets/css/.DS_Store
