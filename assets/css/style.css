@@ -70,6 +70,8 @@ li.dropdown:hover .dropdown-menu {
 /* =========================
 		3. INER NAVIGATION
 ========================= */
+#inner-nav.inner-nav-home{}
+#inner-nav.inner-nav-pages{}
 
 /* =========================
 		4. MAIN SLIDER
