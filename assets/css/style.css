@@ -7,10 +7,11 @@ Tags: October CMS, Laravel, SASS, JS, PHP, MySQL, CSS
 */
 
 /* INDEX
+	0. GLOBALS
 	1. HEADER
 	2. NAVIGATION
 	3. INER NAVIGATION
-	4. MAIN SLIDER
+	4. HOME SLIDER
 	5. INFO SLIDER
 	6. INER SLIDER V1
 	7. INER SLIDER V2
@@ -21,10 +22,73 @@ Tags: October CMS, Laravel, SASS, JS, PHP, MySQL, CSS
  */
 
 /* =========================
+		0. GLOBALS
+========================= */
+*{
+	font-family: 'Montserrat', sans-serif;
+}
+/* Extra Color */
+.bg-tertiary{ background-color: #12881B; }
+.text-tertiary{ background-color: #12881B; }
+/* Fonts */
+.font-weight-semibold{
+	font-weight: 600 !important;
+}
+.display-5{
+	font-size: 3.4rem;
+	line-height: 3.6rem;
+}
+/* Border Radius */
+.br-30{ border-radius: 30px; }
+.br-tl-30{ border-radius: 30px 0 0 0; }
+.br-tr-30{ border-radius: 0 30px 0 0; }
+.br-br-30{ border-radius: 0 0 30px 0; }
+.br-bl-30{ border-radius: 0 0 0 30px; }
+.br-ntl-30{ border-radius: 0 30px 30px 30px; }
+/* White Flange */
+.haz-flange{
+	z-index: -1;
+}
+.after-flange{
+	position: relative;
+}
+.after-flange::after{
+	content: "";
+	display: block;
+	position: absolute;
+	bottom: -50px;
+	left: 0;
+	width: 100%;
+	height: 100px;
+	z-index: 0;
+
+	background-color: #fff;
+	border-radius: 100%;
+}
+/* Side Label */
+.has-label{}
+.has-label::before{
+	content: "";
+	display: block;
+	position: absolute;
+	top: 10%;
+	left: -40px;
+	width: 80px;
+	height: 25px;
+	background-color: #8CF800;
+	border-radius: 30px;
+}
+
+/* =========================
 		1. HEADER
 ========================= */
 header{
-	background: transparent;
+	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#000000+0,000000+99&0.65+0,0+100 */
+	background: -moz-linear-gradient(top,  rgba(0,0,0,0.65) 0%, rgba(0,0,0,0.01) 99%, rgba(0,0,0,0) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top,  rgba(0,0,0,0.65) 0%,rgba(0,0,0,0.01) 99%,rgba(0,0,0,0) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom,  rgba(0,0,0,0.65) 0%,rgba(0,0,0,0.01) 99%,rgba(0,0,0,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6000000', endColorstr='#00000000',GradientType=0 ); /* IE6-9 */
+
 }
 header .main-logo{
 	max-width: 100px;
@@ -60,6 +124,15 @@ li.dropdown:hover .dropdown-menu {
 .navbar-nav {
     position:static !important;
 }
+.navbar-nav li > a,
+.navbar-nav li > a:visited{
+	color: #fff;
+}
+.navbar-nav li > a:hover,
+.navbar-nav li > a:focus,
+.navbar-nav li > a:active{
+	color: #8CF800;
+}
 .dropdown {
     position:static;
 }
@@ -74,8 +147,14 @@ li.dropdown:hover .dropdown-menu {
 #inner-nav.inner-nav-pages{}
 
 /* =========================
-		4. MAIN SLIDER
+		4. HOME SLIDER
 ========================= */
+#home-slider .carousel-caption{
+	bottom: inherit;
+	top: 50%;
+	margin-top: -5% !important;
+}
+
 
 /* =========================
 		5. INFO SLIDER
