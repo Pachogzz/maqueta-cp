@@ -1,3 +1,6 @@
+# Max OS hidden file
+**/.DS_Store
+
 # all node modules
 node_modules
 
