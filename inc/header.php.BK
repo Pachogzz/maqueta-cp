@@ -26,7 +26,7 @@
 					</button>
 
 					<div class="collapse navbar-collapse" id="navbarSupportedContent">
-						<ul class="navbar-nav ml-auto">
+						<ul id="main-nav" class="navbar-nav ml-auto">
 							<li class="nav-item active">
 								<a href="#" class="nav-link">Banca en línea <span class="sr-only">(current)</span></a>
 							</li>
@@ -50,55 +50,76 @@
 								
 								<div class="dropdown-menu border-0 p-3">
 									<div class="row">
-										<!-- <div class="col-12 col-lg-2">
-											<h6 class="font-weight-semibold text-primary text-left d-flex align-items-stretch">&nbsp;</h6>
-												<ul class="social-icons text-center">
-													<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-													<li><a href="#"><i class="fab fa-twitter"></i></a></li>
-													<li><a href="#"><i class="fab fa-instagram"></i></a></li>
-													<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-												</ul>
-										</div> -->
-										<div class="col-12 col-lg">
-											<h6 class="font-weight-semibold text-primary text-left d-flex align-items-stretch">¿Quiénes somos?</h6>
-											<div class="dropdown-divider border-success"></div>
-											<a class="dropdown-item px-0 pb-1" href="#">Conoce a Caja Popular</a>
-											<a class="dropdown-item px-0 pb-1" href="#">Solidéz empresarial</a>
-											<a class="dropdown-item px-0 pb-1" href="#">Línea de tiempo</a>
-											<a class="dropdown-item px-0 pb-1" href="#">Organismos de integración</a>
+										<div class="col-12 col-lg-3">
+											<h6 class="font-weight-semibold text-white bg-primary text-center py-2 px-3 br-30">Conócenos</h6>
+											<ul class="nav flex-column">
+												<li class="nav-item"><a href="#" class="nav-link">Conoce a Caja Popular Mexicana</a>
+													<ul class="nav flex-column">
+														<li class="nav-item"><a href="#" class="nav-link">Filosofía</a></li>
+														<li class="nav-item"><a href="#" class="nav-link">Línea de tiempo</a></li>
+													</ul>
+												</li>
+												<li class="nav-item"><a href="#" class="nav-link">Conoce nuestra solidez empresarial</a></li>
+											</ul>
 										</div>
-										<div class="col-12 col-lg">
-											<h6 class="font-weight-semibold text-primary text-left d-flex align-items-stretch">Quiero ser socio</h6>
-											<div class="dropdown-divider border-success"></div>
-											<a class="dropdown-item px-0 pb-1" href="beneficios.php">Beneficios</a>
-											<a class="dropdown-item px-0 pb-1" href="requisitos.php">Requisitos</a>
-											<a class="dropdown-item px-0 pb-1" href="soy-menor-de-edad.php">Soy menor de edad</a>
-											<a class="dropdown-item px-0 pb-1" href="como-ser-socio-cumplidor.php">¿Cómo puedo ser socio cumplido?</a>
+										<div class="col-12 col-lg-3">
+											<h6 class="font-weight-semibold text-white bg-primary text-center py-2 px-3 br-30">Queremos Servirte</h6>
+											<ul class="nav flex-column">
+												<li class="nav-item"><a href="#" class="nav-link">Socio</a>
+													<ul class="nav">
+														<li class="nav-item"><a href="#" class="nav-link">Requisitos</a></li>
+														<li class="nav-item"><a href="beneficios.php" class="nav-link">Beneficios</a></li>
+													</ul>
+												</li>
+												<li class="nav-item"><a href="#" class="nav-link">Ahorrador menor de edad</a>
+													<ul class="nav">
+														<li class="nav-item"><a href="#" class="nav-link">Requisitos</a></li>
+														<li class="nav-item"><a href="#" class="nav-link">Beneficios</a></li>
+													</ul>
+												</li>
+												<li class="nav-item"><a href="#" class="nav-link">Préstamos</a>
+													<ul class="nav">
+														<li class="nav-item"><a href="#" class="nav-link">Productos</a></li>
+													</ul>
+												</li>
+												<li class="nav-item"><a href="#" class="nav-link">Ahorro e inveresión</a>
+													<ul class="nav">
+														<li class="nav-item"><a href="#" class="nav-link">Productos</a></li>
+													</ul>
+												</li>
+												<li class="nav-item"><a href="#" class="nav-link">Puntos verdes</a></li>
+												<li class="nav-item"><a href="#" class="nav-link">Remesas</a></li>
+												<li class="nav-item"><a href="#" class="nav-link">Tarjetas</a></li>
+												<li class="nav-item"><a href="#" class="nav-link">Mi nómina mexicana</a></li>
+												<li class="nav-item"><a href="#" class="nav-link">Seguros</a></li>
+												<li class="nav-item"><a href="#" class="nav-link">Banca en línea</a></li>
+											</ul>
 										</div>
-										<div class="col-12 col-lg-auto">
-											<h6 class="font-weight-semibold text-primary text-left d-flex align-items-stretch">¿En qué te podemos ayudar?</h6>
-											<div class="dropdown-divider border-success"></div>
-											<a class="dropdown-item px-0 pb-1" href="#">Crédito</a>
-											<a class="dropdown-item px-0 pb-1" href="#">Ahorro e invertir</a>
-											<a class="dropdown-item px-0 pb-1" href="#">Mi nómina mexicana</a>
-											<a class="dropdown-item px-0 pb-1" href="#">Tarjeta de débito</a>
-											<a class="dropdown-item px-0 pb-1" href="#">Tarjeta de débito JR</a>
-											<a class="dropdown-item px-0 pb-1" href="#">Tasas de rendimiento</a>
-											<a class="dropdown-item px-0 pb-1" href="#">Conoce más de tu crédito</a>
-											<a class="dropdown-item px-0 pb-1" href="#">Seguros</a>
-											<a class="dropdown-item px-0 pb-1" href="#">FAQs</a>
+										<div class="col-12 col-lg-3">
+											<h6 class="font-weight-semibold text-white bg-primary text-center py-2 px-3 br-30">Comunicación</h6>
+											<ul class="nav">
+												<li class="nav-item"><a href="#" class="nav-link">Revistas</a>
+													<ul class="nav">
+														<li class="nav-item"><a href="#" class="nav-link">Compromiso</a></li>
+														<li class="nav-item"><a href="#" class="nav-link">Patrimonio</a></li>
+														<li class="nav-item"><a href="#" class="nav-link">Encuentro</a></li>
+													</ul>
+												</li>
+												<li class="nav-item"><a href="#" class="nav-link">Sala de prensa</a>
+													<ul class="nav">
+														<li class="nav-item"><a href="#" class="nav-link">Notas de presna</a></li>
+														<li class="nav-item"><a href="#" class="nav-link">Boletines</a></li>
+														<li class="nav-item"><a href="#" class="nav-link">Noticias</a></li>
+													</ul>
+												</li>
+											</ul>
 										</div>
-										<div class="col-12 col-lg">
-											<h6 class="font-weight-semibold text-primary text-left d-flex align-items-stretch">Comunicación</h6>
-											<div class="dropdown-divider border-success"></div>
-											<a class="dropdown-item px-0 pb-1" href="#">Revista</a>
-											<a class="dropdown-item px-0 pb-1" href="#">Noticias CPM</a>
-											<a class="dropdown-item px-0 pb-1" href="#">Compromiso social</a>
-											<a class="dropdown-item px-0 pb-1" href="#">Notas de prensa</a>
-											<a class="dropdown-item px-0 pb-1" href="#">Boletínes</a>
-										</div>
-										<div class="col-12 col-lg">
-											<h6 class="font-weight-semibold text-primary text-left d-flex align-items-stretch">Servicios de Educación</h6>
+										<div class="col-12 col-lg-3">
+											<h6 class="font-weight-semibold text-white bg-primary text-center py-2 px-3 br-30">Educación</h6>
+											<ul class="nav">
+												<li class="nav-item"><a href="#" class="nav-link">Cooperando ando</a></li>
+												<li class="nav-item"><a href="#" class="nav-link">Educación cooperativa</a></li>
+											</ul>
 										</div>
 									</div>
 								</div> <!-- /. Mega Menu Ends -->

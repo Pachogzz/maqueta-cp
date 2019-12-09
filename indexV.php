@@ -1,6 +1,6 @@
 <?php include('inc/header.php'); ?>
 
-<?php include('inc/home-slider.php'); ?>
+<?php include('inc/home-video.php'); ?>
 
 		<section id="inner-nav" class="inner-nav-home pb-5 bg-white">
 			<div class="container">

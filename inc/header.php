@@ -16,19 +16,21 @@
 
 	</head>
 	<body>
-		<header class="fixed-top">
+		<header class="">
 			<div class="w-100 p-1 bg-primary d-none d-lg-block d-xl-block"></div>
 			<div class="container">
 				<nav class="navbar navbar-expand-lg">
+
 					<a class="navbar-brand" href="index.php"><img class="main-logo" src="assets/img/cpm-logo.png" alt="Logotipo - Caja Popular Mexicana"></a>
-					<button class="navbar-toggler text-white border rounded text-center" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+					
+					<button class="navbar-toggler text-white border rounded text-center" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbars" aria-expanded="false" aria-label="Toggle navigation">
 						<span class="fa fa-bars fa-md px-2 py-1"></span>
 					</button>
 
-					<div class="collapse navbar-collapse" id="navbarSupportedContent">
+					<div class="collapse navbar-collapse" id="navbar">
 						<ul id="main-nav" class="navbar-nav ml-auto">
-							<li class="nav-item active">
-								<a href="#" class="nav-link">Banca en línea <span class="sr-only">(current)</span></a>
+							<li class="nav-item">
+								<a href="#" class="nav-link">CPM en línea</a>
 							</li>
 							<li class="nav-item">
 								<a href="#" class="nav-link">Asambleas</a>
@@ -36,19 +38,22 @@
 							<li class="nav-item">
 								<a href="#" class="nav-link">Inmuebles</a>
 							</li>
-							<li class="nav-item">
+							<!-- <li class="nav-item">
 								<a href="#" class="nav-link">Blog</a>
-							</li>
+							</li> -->
 							<li class="nav-item">
 								<a href="#" class="nav-link"><i class="fa fa-map-marker-alt"></i></a>
 							</li>
 							<li class="nav-item">
 								<a href="#" class="nav-link"><i class="fa fa-search"></i></a>
 							</li>
-							<li class="nav-item dropdown">
-								<a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-bars"></i></a>
+							<li class="nav-item dropdown menu-area">
+								<a class="nav-link dropdown-toggle" id="mega-one" href="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+									<i class="fa fa-bars"></i>
+								</a>
 								
-								<div class="dropdown-menu border-0 p-3">
+								<div class="dropdown-menu border-0 p-3 mega-area" aria-labelledby="mega-one">
+
 									<div class="row">
 										<div class="col-12 col-lg-3">
 											<h6 class="font-weight-semibold text-white bg-primary text-center py-2 px-3 br-30">Conócenos</h6>
@@ -92,7 +97,7 @@
 												<li class="nav-item"><a href="#" class="nav-link">Tarjetas</a></li>
 												<li class="nav-item"><a href="#" class="nav-link">Mi nómina mexicana</a></li>
 												<li class="nav-item"><a href="#" class="nav-link">Seguros</a></li>
-												<li class="nav-item"><a href="#" class="nav-link">Banca en línea</a></li>
+												<li class="nav-item"><a href="#" class="nav-link">Servicios electrónicos por internet</a></li>
 											</ul>
 										</div>
 										<div class="col-12 col-lg-3">
@@ -121,7 +126,8 @@
 												<li class="nav-item"><a href="#" class="nav-link">Educación cooperativa</a></li>
 											</ul>
 										</div>
-									</div>
+									</div> <!-- ./ Mega Menu Área -->
+
 								</div> <!-- /. Mega Menu Ends -->
 							</li>
 						</ul>

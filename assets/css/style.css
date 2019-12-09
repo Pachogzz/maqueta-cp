@@ -164,7 +164,7 @@ header .main-logo{
     min-width:100%;
     width:100%;
     transition:all 0.5s ease;
-    background:#fff;
+    background-color: rgba(255,255,255,.9);
     border-bottom: 5px solid #45bf00 !important;
 }
 .navbar-nav .navbar {
@@ -198,7 +198,7 @@ header .main-logo{
 	font-weight: 600;
 	padding-top: 1px;
 	padding-bottom: 5px;
-	margin-bottom: 5px;
+	/*margin-bottom: 5px;*/
 	border-bottom: 1px solid #f1f1f1;
 }
 #main-nav .dropdown-menu .nav li > a:hover,
@@ -228,7 +228,10 @@ header .main-logo{
 /* =========================
 		4. HOME SLIDER
 ========================= */
-#home-slider{}
+#home-slider{
+	margin-top: -110px;
+	z-index: -1;
+}
 
 /* =========================
 		5. INFO SLIDER
@@ -256,6 +259,9 @@ header .main-logo{
 .header-title-inner{
 	height: 450px;
 	background-color: #ccc;
+
+	margin-top: -110px;
+	z-index: -1;
 }
 
 /* =========================
