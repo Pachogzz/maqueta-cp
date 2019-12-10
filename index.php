@@ -41,7 +41,7 @@
 							<div class="col-md-6 col-lg-4 h-50 ml-lg-n5 my-auto">
 								<div class="h-100 p-5 py-md-2 p-lg-5 bg-primary text-white br-ntl-30">
 									<h3><strong>¡Aprende cómo usar nuestro Servicio Electrónico por Internet!</strong></h3>
-									<h5 class="text-secondary">Y disfruta #MásTiempoEnTusManos</h5>
+									<h5 class="text-yellow"><strong>Y disfruta #MásTiempoEnTusManos</strong></h5>
 									<p>Conoce las operaciones que puedes hacer en cada plataforma y no olvides calificar tu experiencia en las tiendas oficiales.</p>
 								</div>
 							</div>

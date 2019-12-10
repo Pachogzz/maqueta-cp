@@ -4,10 +4,10 @@
 					<div class="col-12 col-lg-8">
 						<div class="row mx-lg-1 mb-3 mb-md-0 px-3 py-5 p-md-5 p-lg-5 bg-tertiary br-bl-30">
 							<div class="col-md-6 col-lg-5">
-								<h3 class="text-white font-weight-semibold">Mantente al día</h3>
-								<h6 class="text-white">Boletín informativo</h6>
-								<p class="text-white">Recibe consejos para cuidar tu dinero y las noticias y eventos de Caja Popular Mexicana.</p>
-								<a href="#" class="text-white"><u>Términos y condiciones</u></a>
+								<h3 class="text-white font-weight-semibold">¡Mantente informado!</h3>
+								<h6 class="text-white">Boletín electrónico</h6>
+								<p class="text-white">Recibe consejos financieros para <i>sacarle jugo</i> a tus <strong>créditos, inversiones ¡y mucho más!</strong></p>
+								<!-- <a href="#" class="text-white"><u>Términos y condiciones</u></a> -->
 							</div>
 							<div class="col-md-6 col-lg-7">
 								<form action="" method="">
@@ -19,9 +19,9 @@
 									</div>
 									<div class="form-group form-check">
 										<input type="checkbox" class="form-check-input" id="aceptoTerminosyCondiciones">
-										<label class="form-check-label text-white" for="aceptoTerminosyCondiciones">Acepto los términos y condiciones</label>
+										<label class="form-check-label text-white" for="aceptoTerminosyCondiciones">Acepto el aviso de privacidad</label>
 									</div>
-									<button type="submit" class="btn btn-secondary br-30 px-5">Suscribirse</button>
+									<button type="submit" class="btn btn-secondary br-30 px-5">¡Suscríbete!</button>
 								</form>
 							</div>
 						</div>

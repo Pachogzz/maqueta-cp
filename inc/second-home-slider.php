@@ -11,7 +11,7 @@
 								<img src="assets/img/cpm-secondslider-image-01.jpg" class="d-block w-100" alt="...">
 								<div class="carousel-caption d-none d-md-block p-5 py-md-2 p-lg-5 bg-primary text-white text-left br-ntl-30 col-6 col-lg-4 my-auto">
 									<h3 class="font-weight-semibold"><strong>Únete a nuestro #TalentoCPM</strong></h3>
-									<h5 class="text-secondary">Bolsa de trabajo</h5>
+									<h5 class="text-yellow"><strong>Bolsa de trabajo</strong></h5>
 									<p>Da clic aquí y conoce por qué Caja Popular Mexicana es una <strong>#SúperEmpresa</strong></p>
 									<a href="#" class="btn btn-secondary br-30 px-5">Saber más</a>
 								</div>
@@ -20,7 +20,7 @@
 								<img src="assets/img/cpm-secondslider-image-01.jpg" class="d-block w-100" alt="...">
 								<div class="carousel-caption d-none d-md-block p-5 py-md-2 p-lg-5 bg-primary text-white text-left br-ntl-30 col-6 col-lg-4 my-auto">
 									<h3 class="font-weight-semibold"><strong>Consejos financieros en un clic</strong></h3>
-									<h5 class="text-secondary">Blog Cooperando Ando</h5>
+									<h5 class="text-yellow"><strong>Blog Cooperando Ando</strong></h5>
 									<p>Olvídate de los sermones y acércate a la verdad, <strong>NO</strong> te hablaremos bonito, pero <strong>SÍ</strong> sincero, ¿te atreves?</p>
 								</div>
 							</div>

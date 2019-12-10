@@ -1,24 +1,18 @@
-<section id="home-slider" class="video" data-vide-bg="https://content.jwplatform.com/thumbs/gplKz4H0-1280.jpg" data-vide-options="posterType: jpg">
-	<div class="home-slider">
-
-		<video autoplay loop muted class="video-bg container-fluid px-0" id="video-bg">
-		<!--this id is only used for the toggle function; can be removed if you don't need an event -->
-		<source 
-			class="d-block w-100"
-			src="https://content.jwplatform.com/videos/gplKz4H0-j7VkahGy.mp4" 
-			type="video/mp4" alt="Bienvenido a Caja Popular Mexicana">
-		</video>
-
-	    <div class="informacion">
-			<h2 class="informacion__title">BIENVENIDOS A CAJA POPULAR MEXICANA</h2>
-	    </div>
-    </div>
-</section>
-
-
-<!-- 		<section id="home-slider" class="styled-carousel haz-flange after-flange">
+		<section id="home-slider" class="styled-carousel haz-flange after-flange">
 			<div class="home-slider">
-				<div class="embed-responsive embed-responsive-16by9">
-					<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/IGQcKO49ew8?autoplay=1&controls=0&loop=0" allowfullscreen></iframe>
+				<div id="mainSlideNav" class="carousel slide" data-ride="carousel">
+					<div class="carousel-inner">
+						<div class="carousel-item active align-items-center">
+							<video autoplay loop muted class="video-bg container-fluid px-0" id="video-bg">
+								<source 
+									class="d-block w-100"
+									src="https://content.jwplatform.com/videos/gplKz4H0-j7VkahGy.mp4" 
+									type="video/mp4" 
+									alt="Bienvenido a Caja Popular Mexicana">
+							</video>
+							<div class="carousel-caption d-none d-md-block p-5 py-md-2 p-lg-5 bg-primary text-white text-left br-ntl-30 col-6 col-lg-3 my-auto has-label">
+								<h2 class="display-5 font-weight-bold">Bienvenido a Caja Popular Mexicana.</h2>
+							</div>
+						</div>
 				</div>
-		</section> /. Slider Home -->
+		</section> <!-- /. Slider Home -->

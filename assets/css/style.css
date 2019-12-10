@@ -34,6 +34,8 @@ p{ font-size: 16px; }
 	.text-quaternary{ color: #77bf4d; }
 	.bg-quinary{ background-color: #8bcc66; }
 	.text-quinary{ color: #8bcc66; }
+	.bg-yellow{ background-color: #ffed58; }
+	.text-yellow{ color: #ffed58; }
 	.bg-grey0{ background-color: #f1f1f1 !important; }
 	.bg-grey1{ background-color: #ccc !important; }
 	.bg-grey2{ background-color: #999 !important; }
