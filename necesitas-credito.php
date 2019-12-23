@@ -10,7 +10,7 @@
 			</div>
 		</section> <!-- /. Page Title -->
 
-		<?php include('inc/inner-nav-page-quiero-credito.php') ?>
+		<?php include('inc/navs/inner-nav-page-quiero-credito.php') ?>
 
 		<section class="featured-module-home py-5 mb-5">
 			<div class="container">
