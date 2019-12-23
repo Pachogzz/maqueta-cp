@@ -14,7 +14,7 @@
 						</a>
 					</div>
 					<div class="col-12 col-md-12 col-lg-4 mb-2 mb-lg-0 mb-xl-0">
-						<a href="#" class="btn btn-primary btn-lg btn-block rounded-pill w-100 w-lg-75 mx-auto p-3">
+						<a href="necesitas-credito.php" class="btn btn-primary btn-lg btn-block rounded-pill w-100 w-lg-75 mx-auto p-3">
 							Quiero un crédito <i class="fa fa-chevron-circle-right"></i>
 						</a>
 					</div>
@@ -48,8 +48,25 @@
 						</div>
 					</div>
 				</div>
+
+				<div class="row">
+					<div class="col-12 col-sm-4 offset-2">
+						<a href="beneficios.php" class="btn btn-primary btn-lg btn-block rounded-pill w-100 w-lg-75 mx-auto p-3">
+							Calcular mi crédito <i class="fas fa-calculator"></i>
+						</a>
+					</div>
+					<div class="col-12 col-sm-4">
+						<a href="beneficios.php" class="btn btn-primary btn-lg btn-block rounded-pill w-100 w-lg-75 mx-auto p-3">
+							Solicitar mi crédito <i class="fas fa-clipboard-list"></i>
+						</a>
+					</div>
+				</div>
 			</div>
 		</section> <!-- /. Featured Module Home -->
+
+		<!-- Dos botones:
+		1 calcular mi credito
+		2 solicitar mi credito ( Ver PDF ver campos en PDF de productos.pdf) -->
 
 <?php include('inc/second-home-slider.php') ?>
 

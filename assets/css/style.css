@@ -58,16 +58,16 @@ p{ font-size: 16px; }
 	.font-weight-semibold{ font-weight: 600 !important; }
 	.display-5{ font-size: 3.4rem; line-height: 3.6rem; }
 /* Border width */
-	.bw-1{ border-width: 1px !important; }
-	.bw-2{ border-width: 2px !important; }
-	.bw-3{ border-width: 3px !important; }
-	.bw-4{ border-width: 4px !important; }
-	.bw-5{ border-width: 5px !important; }
-	.bw-6{ border-width: 6px !important; }
-	.bw-7{ border-width: 7px !important; }
-	.bw-8{ border-width: 8px !important; }
-	.bw-9{ border-width: 9px !important; }
-	.bw-10{ border-width: 10px !important; }
+	.bw-1{ border-width: 1px !important; border-style: solid; }
+	.bw-2{ border-width: 2px !important; border-style: solid; }
+	.bw-3{ border-width: 3px !important; border-style: solid; }
+	.bw-4{ border-width: 4px !important; border-style: solid; }
+	.bw-5{ border-width: 5px !important; border-style: solid; }
+	.bw-6{ border-width: 6px !important; border-style: solid; }
+	.bw-7{ border-width: 7px !important; border-style: solid; }
+	.bw-8{ border-width: 8px !important; border-style: solid; }
+	.bw-9{ border-width: 9px !important; border-style: solid; }
+	.bw-10{ border-width: 10px !important; border-style: solid; }
 /* White Flange */
 	.haz-flange{
 	}
