@@ -30,7 +30,7 @@
 					<div class="collapse navbar-collapse" id="navbar">
 						<ul id="main-nav" class="navbar-nav ml-auto">
 							<li class="nav-item">
-								<a href="#" class="nav-link">CPM en línea</a>
+								<a href="#" class="nav-link">CPM en Línea</a>
 							</li>
 							<li class="nav-item">
 								<a href="#" class="nav-link">Asambleas</a>
@@ -58,10 +58,12 @@
 										<div class="col-12 col-lg-3">
 											<h6 class="font-weight-semibold text-white bg-primary text-center py-2 px-3 br-30">Conócenos</h6>
 											<ul class="nav flex-column">
-												<li class="nav-item"><a href="#" class="nav-link">Conoce a Caja Popular Mexicana</a>
-													<ul class="nav flex-column">
+												<li class="nav-item dropdown-submenu">
+													<a href="#" class="sub-drop nav-link dropdown-toggle" data-toggle="dropdown">Conoce a Caja Popular Mexicana</a>
+													<ul class="nav flex-column dropdown-menu">
 														<li class="nav-item"><a href="#" class="nav-link">Filosofía</a></li>
 														<li class="nav-item"><a href="#" class="nav-link">Línea de tiempo</a></li>
+														<li class="nav-item"><a href="#" class="nav-link">Solidéz Empresarial</a></li>
 													</ul>
 												</li>
 												<li class="nav-item"><a href="#" class="nav-link">Conoce nuestra solidez empresarial</a></li>
@@ -70,48 +72,77 @@
 										<div class="col-12 col-lg-3">
 											<h6 class="font-weight-semibold text-white bg-primary text-center py-2 px-3 br-30">Queremos Servirte</h6>
 											<ul class="nav flex-column">
-												<li class="nav-item"><a href="#" class="nav-link">Socio</a>
-													<ul class="nav">
+												<li class="nav-item dropdown-submenu">
+													<a href="#" class="sub-drop nav-link dropdown-toggle" data-toggle="dropdown">Socio</a>
+													<ul class="nav dropdown-menu">
 														<li class="nav-item"><a href="#" class="nav-link">Requisitos</a></li>
 														<li class="nav-item"><a href="beneficios.php" class="nav-link">Beneficios</a></li>
 													</ul>
 												</li>
-												<li class="nav-item"><a href="#" class="nav-link">Ahorrador menor de edad</a>
-													<ul class="nav">
+												<li class="nav-item dropdown-submenu">
+													<a href="#" class="sub-drop nav-link dropdown-toggle" data-toggle="dropdown">Ahorrador menor de edad</a>
+													<ul class="nav dropdown-menu">
 														<li class="nav-item"><a href="#" class="nav-link">Requisitos</a></li>
 														<li class="nav-item"><a href="#" class="nav-link">Beneficios</a></li>
 													</ul>
 												</li>
-												<li class="nav-item"><a href="#" class="nav-link">Préstamos</a>
-													<ul class="nav">
-														<li class="nav-item"><a href="#" class="nav-link">Productos</a></li>
+												<li class="nav-item dropdown-submenu">
+													<a href="#" class="sub-drop nav-link dropdown-toggle" data-toggle="dropdown">Servicios electrónicos por internet</a>
+													<ul class="nav dropdown-menu">
+														<li class="nav-item"><a href="#" class="nav-link">CPM Móvil</a></li>
+														<li class="nav-item"><a href="#" class="nav-link">CPM en Línea</a></li>
 													</ul>
 												</li>
-												<li class="nav-item"><a href="#" class="nav-link">Ahorro e inveresión</a>
-													<ul class="nav">
-														<li class="nav-item"><a href="#" class="nav-link">Productos</a></li>
+												<li class="nav-item dropdown-submenu">
+													<a href="necesitas-credito.php" class="sub-drop nav-link dropdown-toggle" data-toggle="dropdown">Créditos</a>
+													<ul class="nav dropdown-menu">
+														<li class="nav-item"><a href="credito-personal-plus-cpm.php" class="nav-link">Crédito Personal Plus CPM</a></li>
+														<li class="nav-item"><a href="#" class="nav-link">Credinámico</a></li>
+														<li class="nav-item"><a href="#" class="nav-link">Crédito Productivo</a></li>
+														<li class="nav-item"><a href="#" class="nav-link">Crédito Automotriz</a></li>
+														<li class="nav-item"><a href="#" class="nav-link">Crédito Hipotecario</a></li>
+														<li class="nav-item"><a href="credito-inmediato-cpm.php" class="nav-link">Crédito Inmediato CPM</a></li>
+														<!-- <li class="nav-item"><a href="#" class="nav-link">Crédito Personal</a></li> -->
 													</ul>
 												</li>
+												<li class="nav-item dropdown-submenu">
+													<a href="#" class="sub-drop nav-link dropdown-toggle" data-toggle="dropdown">Ahorro e inveresión</a>
+													<ul class="nav dropdown-menu">
+														<li><a href="#" class="nav-link dropdown-item">Rendicuenta</a></li>
+														<li><a href="#" class="nav-link dropdown-item">Mi Alcancía y Mi Alcancía Jr.</a></li>
+														<li><a href="#" class="nav-link dropdown-item">Servicuenta</a></li>
+														<li><a href="#" class="nav-link dropdown-item">Cuenta Mexicana</a></li>
+														<li><a href="#" class="nav-link dropdown-item">Cuentamiga</a></li>
+														<li><a href="#" class="nav-link dropdown-item">Tasas de rendimientos</a></li>
+													</ul>
+												</li>
+												<li class="nav-item"><a href="#" class="nav-link">Tarjetas de Débito CPM y JR</a></li>
 												<li class="nav-item"><a href="#" class="nav-link">Puntos verdes</a></li>
-												<li class="nav-item"><a href="#" class="nav-link">Remesas</a></li>
-												<li class="nav-item"><a href="#" class="nav-link">Tarjetas</a></li>
+												<!-- <li class="nav-item"><a href="#" class="nav-link">Remesas</a></li> -->
 												<li class="nav-item"><a href="#" class="nav-link">Mi nómina mexicana</a></li>
-												<li class="nav-item"><a href="#" class="nav-link">Seguros</a></li>
-												<li class="nav-item"><a href="#" class="nav-link">Servicios electrónicos por internet</a></li>
+												<li class="nav-item dropdown-submenu">
+													<a href="#" class="sub-drop nav-link dropdown-toggle" data-toggle="dropdown">Seguros</a>
+													<ul class="nav dropdown-menu">
+														<li class="nav-item"><a href="#" class="nav-link">MiSeguro PRYBE</a></li>
+														<li class="nav-item"><a href="#" class="nav-link">MiAutoSeguro CPM</a></li>
+													</ul>
+												</li>
 											</ul>
 										</div>
 										<div class="col-12 col-lg-3">
 											<h6 class="font-weight-semibold text-white bg-primary text-center py-2 px-3 br-30">Comunicación</h6>
 											<ul class="nav">
-												<li class="nav-item"><a href="#" class="nav-link">Revistas</a>
-													<ul class="nav">
+												<li class="nav-item dropdown-submenu">
+													<a href="#" class="sub-drop nav-link dropdown-toggle" data-toggle="dropdown">Revistas</a>
+													<ul class="nav dropdown-menu">
 														<li class="nav-item"><a href="#" class="nav-link">Compromiso</a></li>
 														<li class="nav-item"><a href="#" class="nav-link">Patrimonio</a></li>
 														<li class="nav-item"><a href="#" class="nav-link">Encuentro</a></li>
 													</ul>
 												</li>
-												<li class="nav-item"><a href="#" class="nav-link">Sala de prensa</a>
-													<ul class="nav">
+												<li class="nav-item dropdown-submenu">
+													<a href="#" class="sub-drop nav-link dropdown-toggle" data-toggle="dropdown">Sala de prensa</a>
+													<ul class="nav dropdown-menu">
 														<li class="nav-item"><a href="#" class="nav-link">Notas de presna</a></li>
 														<li class="nav-item"><a href="#" class="nav-link">Boletines</a></li>
 														<li class="nav-item"><a href="#" class="nav-link">Noticias</a></li>

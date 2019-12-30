@@ -20,6 +20,7 @@ Tags: October CMS, Laravel, SASS, JS, PHP, MySQL, CSS
 	10. PAGES
 	11. FOOTER
 	12. COPYRIGHT
+	13. ACCORDION
  */
 
 /* =========================
@@ -48,6 +49,12 @@ p{ font-size: 16px; }
 	.text-grey3{ color: #666 !important; }
 	.text-grey4{ color: #333 !important; }
 	.text-grey5{ color: #111 !important; }
+	.border-primary{ border-color: #45bf00; }
+	.border-secondary{ border-color: #8bf900; }
+	.border-tertiary{ border-color: #09871a; }
+	.border-quaternary{ border-color: #77bf4d; }
+	.border-quinary{ border-color: #8bcc66; }
+	.border-yellow{ border-color: #ffed58; }
 	.border-grey0{ border-color: #f1f1f1 !important; }
 	.border-grey1{ border-color: #ccc !important; }
 	.border-grey2{ border-color: #999 !important; }
@@ -85,6 +92,21 @@ p{ font-size: 16px; }
 
 		background-color: #fff;
 		border-radius: 100% 100% 0 0;
+	}
+/* Background Gap */
+	.has-bg-gap{
+		position: relative;
+	}
+	.has-bg-gap::before{
+		content: "";
+		display: block;
+		position: absolute;
+		width: 100%;
+		height: 100%;
+		top: 0;
+		left: -40%;
+		background-color: green;
+		opacity: .1;
 	}
 /* Side Label */
 	.has-label{}
@@ -162,13 +184,6 @@ header .main-logo{
     padding-bottom:0;
 
 }
-.dropdown-menu {
-    min-width:100%;
-    width:100%;
-    transition:all 0.5s ease;
-    background-color: rgba(255,255,255,.9);
-    border-bottom: 5px solid #45bf00 !important;
-}
 .navbar-nav .navbar {
     position: static;
 }
@@ -190,7 +205,13 @@ header .main-logo{
 .dropdown-menu a {
     width:100%;
 }
-#main-nav{}
+#main-nav .dropdown-menu {
+    min-width:100%;
+    width:100%;
+    transition:all 0.5s ease;
+    background-color: rgba(255,255,255,.9);
+    border-bottom: 5px solid #45bf00 !important;
+}
 #main-nav .dropdown-menu .nav{
 	display: block;
 }
@@ -219,13 +240,30 @@ header .main-logo{
 #main-nav .dropdown-menu .nav .nav li > a{
 	margin-bottom: 0px;
 }
+#main-nav .dropdown-submenu .dropdown-menu{
+	position: relative;
+	display: none;
+}
+
 
 /* =========================
 		3. INER NAVIGATION
 ========================= */
 .inner-nav-home{}
 .inner-nav-page{}
-.inner-nav-page.secondary{}
+.inner-nav-page .dropdown-menu{
+	padding: 0;
+}
+.inner-nav-page .dropdown-menu a,
+.inner-nav-page .dropdown-menu a:visited{
+	padding: 1rem 1.5rem;
+	color: #fff;
+}
+.inner-nav-page .dropdown-menu a:hover,
+.inner-nav-page .dropdown-menu a:focus,
+.inner-nav-page .dropdown-menu a:active{
+	background-color: #09871a;
+}
 
 /* =========================
 		4. HOME SLIDER
@@ -273,6 +311,12 @@ header .main-logo{
 /* =========================
 		12. COPYRIGHT
 ========================= */
+
+/* =========================
+		13. ACCORDION
+========================= */
+.accordion-cpm{}
+
 /*
 	Extra small devices (portrait phones, less than 576px)
 	No media query for `xs` since this is the default in Bootstrap

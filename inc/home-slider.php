@@ -9,13 +9,13 @@
 						<div class="carousel-item active align-items-center" data-interval="6000">
 							<img src="assets/img/cpm-mainslider-image-01.jpg" class="d-block w-100" alt="...">
 							<div class="carousel-caption d-none d-md-block p-5 py-md-2 p-lg-5 bg-primary text-white text-left br-ntl-30 col-6 col-lg-3 my-auto has-label">
-								<h2 class="display-5 font-weight-bold">Bienvenido a Caja Popular Mexicana.</h2>
+								<h2 class="display-5 font-weight-bold">Bienvenido a Caja Popular Mexicana</h2>
 							</div>
 						</div>
 						<div class="carousel-item align-items-center" data-interval="6000">
 							<img src="assets/img/cpm-mainslider-image-01.jpg" class="d-block w-100" alt="...">
 							<div class="carousel-caption d-none d-md-block p-5 py-md-2 p-lg-5 bg-primary text-white text-left br-ntl-30 col-6 col-lg-3 my-auto has-label">
-								<h2 class="display-5 font-weight-bold">Nos encanta ver lograr tus sueños.</h2>
+								<h2 class="display-5 font-weight-bold">Nos encanta ver lograr tus sueños</h2>
 							</div>
 						</div>
 					</div>
