@@ -6,6 +6,34 @@
 		<title>Caja Popular Mexicana</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+		<!-- SEO Tags -->
+		<meta name="description" content="..." />
+		<meta name="author" content="Nombre del autor" />
+		<meta name="copyright" content="Propietario del copyright" />
+		<meta name="robots" content="noindex, nofollow" />
+		<!-- Open Graph Protocol -->
+		<meta property="og:type" content="article" />
+		<meta property="og:title" content="TITLE OF YOUR POST OR PAGE" />
+		<meta property="og:description" content="DESCRIPTION OF PAGE CONTENT" />
+		<meta property="og:image" content="LINK TO THE IMAGE FILE" />
+		<meta property="og:url" content="PERMALINK" />
+		<meta property="og:site_name" content="SITE NAME" />
+		<!-- Twitter Cards -->
+		<meta name="twitter:title" content="TITLE OF POST OR PAGE" />
+		<meta name="twitter:description" content="DESCRIPTION OF PAGE CONTENT" />
+		<meta name="twitter:image" content="LINK TO IMAGE" />
+		<meta name="twitter:site" content="@USERNAME" />
+		<meta name="twitter:creator" content="@USERNAME" />
+
+		<!-- Favicon -->
+		<link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicon/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon/favicon-16x16.png">
+		<link rel="manifest" href="assets/img/favicon/site.webmanifest">
+		<link rel="mask-icon" href="assets/img/favicon/safari-pinned-tab.svg" color="#008457">
+		<meta name="msapplication-TileColor" content="#008457">
+		<meta name="theme-color" content="#ffffff">
+
 		<!-- Custom Bootstrap CSS -->
 		<link rel="stylesheet" href="assets/css/main.css">
 		<!-- Montserrat Font -->
@@ -59,7 +87,7 @@
 											<h6 class="font-weight-semibold text-white bg-primary text-center py-2 px-3 br-30">Conócenos</h6>
 											<ul class="nav flex-column">
 												<li class="nav-item dropdown-submenu">
-													<a href="#" class="sub-drop nav-link dropdown-toggle" data-toggle="dropdown">Conoce a Caja Popular Mexicana</a>
+													<a href="conocenos.php" class="sub-drop nav-link dropdown-toggle" data-toggle="dropdown">Conoce a Caja Popular Mexicana</a>
 													<ul class="nav flex-column dropdown-menu">
 														<li class="nav-item"><a href="#" class="nav-link">Filosofía</a></li>
 														<li class="nav-item"><a href="#" class="nav-link">Línea de tiempo</a></li>
@@ -151,10 +179,10 @@
 											</ul>
 										</div>
 										<div class="col-12 col-lg-3">
-											<h6 class="font-weight-semibold text-white bg-primary text-center py-2 px-3 br-30">Educación</h6>
+											<h6 class="font-weight-semibold text-white bg-primary text-center py-2 px-3 br-30">Sé un experto</h6>
 											<ul class="nav">
-												<li class="nav-item"><a href="#" class="nav-link">Cooperando ando</a></li>
-												<li class="nav-item"><a href="#" class="nav-link">Educación cooperativa</a></li>
+												<li class="nav-item"><a href="https://cooperandoando.com/" class="nav-link" target="_blank">Blog Cooperando Ando</a></li>
+												<li class="nav-item"><a href="https://www.cpm.coop/educacion/" class="nav-link" target="_blank">Educación Cooperativa</a></li>
 											</ul>
 										</div>
 									</div> <!-- ./ Mega Menu Área -->

@@ -21,6 +21,7 @@ Tags: October CMS, Laravel, SASS, JS, PHP, MySQL, CSS
 	11. FOOTER
 	12. COPYRIGHT
 	13. ACCORDION
+	14. LANDING GRID
  */
 
 /* =========================
@@ -30,13 +31,15 @@ Tags: October CMS, Laravel, SASS, JS, PHP, MySQL, CSS
 p{ font-size: 16px; }
 /* Extra Color */
 	.bg-tertiary{ background-color: #09871a; }
-	.text-tertiary{ color: #09871a; }
 	.bg-quaternary{ background-color: #77bf4d; }
-	.text-quaternary{ color: #77bf4d; }
 	.bg-quinary{ background-color: #8bcc66; }
-	.text-quinary{ color: #8bcc66; }
 	.bg-yellow{ background-color: #ffed58; }
+	.bg-purple{ background-color: #864192; }
+	.text-tertiary{ color: #09871a; }
+	.text-quaternary{ color: #77bf4d; }
+	.text-quinary{ color: #8bcc66; }
 	.text-yellow{ color: #ffed58; }
+	.text-purple{ color: #864192; }
 	.bg-grey0{ background-color: #f1f1f1 !important; }
 	.bg-grey1{ background-color: #ccc !important; }
 	.bg-grey2{ background-color: #999 !important; }
@@ -49,12 +52,13 @@ p{ font-size: 16px; }
 	.text-grey3{ color: #666 !important; }
 	.text-grey4{ color: #333 !important; }
 	.text-grey5{ color: #111 !important; }
-	.border-primary{ border-color: #45bf00; }
-	.border-secondary{ border-color: #8bf900; }
-	.border-tertiary{ border-color: #09871a; }
-	.border-quaternary{ border-color: #77bf4d; }
-	.border-quinary{ border-color: #8bcc66; }
-	.border-yellow{ border-color: #ffed58; }
+	.border-primary{ border-color: #45bf00 !important; }
+	.border-secondary{ border-color: #8bf900 !important; }
+	.border-tertiary{ border-color: #09871a !important; }
+	.border-quaternary{ border-color: #77bf4d !important; }
+	.border-quinary{ border-color: #8bcc66 !important; }
+	.border-yellow{ border-color: #ffed58 !important; }
+	.border-purple{ border-color: #864192 !important; }
 	.border-grey0{ border-color: #f1f1f1 !important; }
 	.border-grey1{ border-color: #ccc !important; }
 	.border-grey2{ border-color: #999 !important; }
@@ -303,6 +307,7 @@ header .main-logo{
 	margin-top: -110px;
 	z-index: -1;
 }
+.main-tag-line{}
 
 /* =========================
 		11. FOOTER
@@ -316,6 +321,33 @@ header .main-logo{
 		13. ACCORDION
 ========================= */
 .accordion-cpm{}
+
+/* =========================
+		14. LANDING GRID
+========================= */
+.landing-grid{}
+.landing-grid-box{
+	margin-bottom: 100px;
+}
+.landing-grid-box-info{
+	padding-bottom: 3rem;
+	padding-left: 1.5rem;
+	padding-right: 1.5rem;
+}
+.landing-grid-box-info img{
+	margin-top: -60px;
+	margin-bottom: 40px;
+}
+.landing-grid-box-info h3{
+	display: block;
+	width: 100%;
+	font-weight: bolder;
+	margin-bottom: 1.5rem;
+}
+.landing-grid-box-info p{
+	font-size: 1.25rem;
+	font-weight: 300;
+}
 
 /*
 	Extra small devices (portrait phones, less than 576px)

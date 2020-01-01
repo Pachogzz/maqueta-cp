@@ -31,13 +31,13 @@
 					<div class="col-12 mb-2 text-center">
 						<ul class="nav justify-content-center">
 							<a class="nav-link p-0 mr-1 text-light" href="#"><small>Consulta los costos y comisiones de nuestros productos |</small></a>
-							<a class="nav-link p-0 mr-1 text-light" href="#"><small>Políticas de uso |</small></a>
+							<a class="nav-link p-0 mr-1 text-light" href="politicas-de-uso.php"><small>Políticas de uso |</small></a>
 							<a class="nav-link p-0 mr-1 text-light" href="#"><small>Mapa del sitio |</small></a>
-							<a class="nav-link p-0 mr-1 text-light" href="#"><small>Aviso de privacidad |</small></a>
+							<a class="nav-link p-0 mr-1 text-light" href="aviso-de-privacidad.php"><small>Aviso de privacidad |</small></a>
 							<a class="nav-link p-0 mr-1 text-light" href="#"><small>Despacho de Cobranza |</small></a>
-							<a class="nav-link p-0 mr-1 text-light" href="#"><small>Aviso de privacidad crédito y cobranza |</small></a>
+							<a class="nav-link p-0 mr-1 text-light" href="aviso-de-privacidad-credito-y-cobranza.php"><small>Aviso de privacidad crédito y cobranza |</small></a>
 							<a class="nav-link p-0 mr-1 text-light" href="#"><small>Términos de uso para redes sociales |</small></a>
-							<a class="nav-link p-0 mr-1 text-light" href="#"><small>Aviso de privacidad en redes sociales</small></a>
+							<a class="nav-link p-0 mr-1 text-light" href="aviso-de-privacidad-en-redes-sociales.php"><small>Aviso de privacidad en redes sociales</small></a>
 						</ul>
 					</div>
 					<div class="col-12 text-center text-light"><small>&copy; Caja Popular Mexicana 2020</small></div>
