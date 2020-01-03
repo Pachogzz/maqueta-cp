@@ -14,5 +14,6 @@
 								<h2 class="display-5 font-weight-bold">Bienvenido a Caja Popular Mexicana.</h2>
 							</div>
 						</div>
+					</div>
 				</div>
 		</section> <!-- /. Slider Home -->

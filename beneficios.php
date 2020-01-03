@@ -60,7 +60,6 @@
 						<p>Con el respaldo de las principales empresas remesadoras en los Estados Unidos.</p>
 
 						<img src="assets/img/secciones/cpm-beneficios-wide-banner.jpg" alt="Banner Placeholder" class="img-fluid mt-3">
-						<!-- <img src="https://via.placeholder.com/1980x400.jpg/ccc/333?text=Banner+1" alt="Banner Placeholder" class="img-fluid mt-3"> -->
 					</div>
 				</div>
 			</div>

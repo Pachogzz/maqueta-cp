@@ -27,11 +27,13 @@
 			<div class="container">
 				<div class="row row-eq-height">
 					<div class="landing-grid-box col-12 col-md-4">
+						<a href="credito-personal.php">
 						<div class="landing-grid-box-info rounded bw-5 border-quinary text-center h-100">
 							<img src="assets/img/icons/icon-coin.png" class="bg-quinary p-3 rounded-circle" width="120" height="120" alt="">
 							<h3>Crédito Personal</h3>
 							<p>Satisface todas tus necesidades de negocio, vacaciones, gastos médicos, educación y pago de deudas.</p>
 						</div>
+						</a>
 					</div>
 					<div class="landing-grid-box col-12 col-md-4">
 						<div class="landing-grid-box-info rounded bw-5 border-quinary text-center h-100">

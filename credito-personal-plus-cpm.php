@@ -1,6 +1,6 @@
 <?php include('inc/header.php'); ?>
 
-		<section class="after-flange header-title-inner">
+		<section class="after-flange header-title-inner" style="background-image: url('assets/img/secciones/creditos/credito_personal_plus-banner.jpg');background-position: center; background-size: cover; background-repeat: no-repeat;">
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
@@ -15,34 +15,31 @@
 		<section class="">
 			<div class="container">
 				<div class="row">
-					<div class="col">
-						<blockquote class="blockquote mb-5 p-5 border border-light bw-5 rounded border-grey1 text-center">
-							<p class="mb-0 lead font-weight-normal">Satisface cualquier necesidad de consumo o actividad lícita, excepto finalidades productivas y comerciales.<br>
-							<strong> Montos desde $1,000 pesos hasta $18,078,600.</strong>
-							</p>
-							<p class="mb-0 lead font-weight-normal"><strong>Por ejemplo, solicita $15,000 pesos <br>a 12 meses y pagas ¡409 semanales*</strong></p>
-						</blockquote>
-					</div>
-				</div>
-				<div class="row">
 					<div class="col-12 col-md-6 order-md-2">
 						<div class="accordion accordion-cpm" id="accordionCICPM">
 							<div class="card">
 								<div class="card-header" id="headingOne">
 									<h2 class="mb-0">
 										<button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-											Tasas
+											Montos y plazos
 										</button>
 									</h2>
 								</div>
 
 								<div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionCICPM">
 									<div class="card-body bg-grey0 p-4">
+										<h4>Monto</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Tasa de interés ordinaria anual fija desde 12.00% hasta 33.00% antes de impuestos.</li>
-											<li>La tasa se asignará de acuerdo al perfil crediticio del socio.</li>
-											<li>Sin comisión por apertura.</li>
-											<li>Costo Anual Total Promedio de 31.5% sin IVA. Para fines informativos y de comparación exclusivamente. Fecha de cálculo 30 de Junio de 2019.</li>
+											<li>Desde $1,000.00</li>
+											<li>Hasta 3,000,000 UDIS (Al 31 de enero de 2019, importe $18,742,785] UDIS [Unidad de inversión que se actualiza mensualmente para su conversión en moneda nacional].</li>
+										</ul>
+										<h4>Plazo</h4>
+										<ul class="p-5 bg-white bw-1 border-grey1">
+											<li>Hasta 72 meses para finalidades de consumo.</li>
+											<li>Hasta 48 meses para socios participantes en el programa “Semilla Cooperativa”</li>
+											<li>Hasta 120 meses para construir o adquirir inmuebles y pago de deudas derivadas de estos conceptos.</li>
+											<li>Hasta 12 meses para adquisición de seguros de daños cuando se adquiera a través de la aplicación denominada “Portal WEB Prybe”</li>
+											<li>En caso de pagos únicos, el plazo máximo será de 18 meses.</li>
 										</ul>
 									</div>
 								</div>
@@ -51,37 +48,19 @@
 								<div class="card-header" id="headingTwo">
 									<h2 class="mb-0">
 										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-											Plazo
+											Tasas y GAT
 										</button>
 									</h2>
 								</div>
 								<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionCICPM">
 									<div class="card-body bg-grey0 p-4">
 										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Hasta 72 meses para fines de consumo.</li>
-											<li>Hasta 48 meses, para los socios participantes en el programa “Semilla Cooperativa”.</li>
-											<li>Hasta 120 meses para construir, o adquirir inmuebles y para pago de deudas derivada de estos conceptos.</li>
-											<li>Hasta 12 meses para adquisición de seguros de daños cuando se adquiera a través de la aplicación denominada “Portal WEB Prybe”.</li>
-											<li>Aplican restricciones para forma de pago único.</ul>
-									</div>
-								</div>
-							</div>
-							<div class="card">
-								<div class="card-header" id="headingThree">
-									<h2 class="mb-0">
-										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-											Ventajas y beneficios
-										</button>
-									</h2>
-								</div>
-								<div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionCICPM">
-									<div class="card-body bg-grey0 p-4">
-										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Consulta los beneficios que tenemos para ti <a href="#">aquí</a></li>
-											<li>Crea historial crediticio.</li>
-											<li>El ahorro depositado como garantía líquida en Cuenta Mexicana continúa generando intereses.</li>
-											<li>Sin comisiones.</li>
-											<li>Aplican restricciones con base en las condiciones que se encuentra el crédito.</li>
+											<li><strong>Tasa de Interés</strong>
+												<p>Tasa de interés ordinaria anual fija desde un 12.00% hasta un 33.0% antes de impuestos. La tasa se asignará de acuerdo al perfil crediticio del socio.</p>
+											</li>
+											<li><strong>CAT Promedio Creédito Personal Plus CPM</strong>
+												<p>Costo Anual Total Promedio de 31.5% sin IVA. Para fines informativos y de comparación exclusivamente. Fecha de cálculo 30 de Junio de 2019.</p>
+											</li>
 										</ul>
 									</div>
 								</div>
@@ -90,23 +69,29 @@
 								<div class="card-header" id="headingThree">
 									<h2 class="mb-0">
 										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFourt" aria-expanded="false" aria-controls="collapseFourt">
-											Requisitos
+											Requisitos y generales
 										</button>
 									</h2>
 								</div>
 								<div id="collapseFourt" class="collapse" aria-labelledby="headingThree" data-parent="#accordionCICPM">
 									<div class="card-body bg-grey0 p-4">
+										<h4>Requisitos</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Ser socio de Caja Popular Mexicana.</li>
+											<li>Ser <a href="#">socio</a> de Caja Popular Mexicana.</li>
+											<li>Ahorro del 10% del monto a solicitar como garantía, depositando en su Cuenta Mexicana.</li>
+										</ul>
+										<h4>Condiciones</h4>
+										<ul class="p-5 bg-white bw-1 border-grey1">
+											<li>Puede obtener y mantener a la vez más de un préstamo de este producto siempre y cuando su capacidad de pago se lo permita así como no exceder el monto máximo a prestar permitido de este producto.</li>
+										</ul>
+										<h4>Documentos generales</h4>
+										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li>Identificación oficial y de la sociedad.</li>
 											<li>Comprobante de domicilio.</li>
-											<li>Ahorro en garantía del 10%.</li>
 											<li>Comprobante de ingresos*</li>
-											<li>Requiere de garantía hipotecaria o prendaria y un seguro que lo cubra en préstamos mayores a 60,000 UDIS para socios cumplidos y 25,000 UDIS para socios no clasificados como cumplidos.</li>
-											<li>Un socio podrá obtener y mantener a la vez más de un préstamo de este producto.</li>
-											<li>No se otorgará este producto para créditos cuando la garantía hipotecaria consista en la vivienda propiedad del acreditado.</li>
-											<li>*Aplican restricciones, para mayor información acude a nuestras sucursales.</li>
+											<li>Comprobante de acredite la finalidad</li>
 										</ul>
+										<p><small>*Aplican restricciones, para mayor información acude a nuestras sucursales.</small></p>
 									</div>
 								</div>
 							</div>
@@ -114,66 +99,132 @@
 								<div class="card-header" id="headingThree">
 									<h2 class="mb-0">
 										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-											Recomendaciones
+											Costos y comisiones
 										</button>
 									</h2>
 								</div>
 								<div id="collapseSix" class="collapse" aria-labelledby="headingThree" data-parent="#accordionCICPM">
 									<div class="card-body bg-grey0 p-4">
+										<h4>Costos y comisiones</h4>
+										<ul class="p-5 bg-white bw-1 border-grey1">
+											<li>Sin comisión por apertura o administración del crédito.</li>
+										</ul>
+										<h4>Gastos de contratación</h4>
+										<ul class="p-5 bg-white bw-1 border-grey1">
+											<li>Cuando exista una garantía prendaria o hipotecaria así como de seguro que lo cubra, los costos dependen del valor de la garantía.</li>
+											<li>Consulta los costos y comisiones de nuestros productos dando <a href="#">clic aquí</a>.</li>
+										</ul>
+										<h4>Recomendaciones</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li>Contratar créditos por arriba de tu capacidad de pago puede afectar tu historial crediticio.</li>
-											<li>Incumplir tus obligaciones te puede generar comisiones e intereses moratorios.</li>
+											<li>Incumplir con tus obligaciones te puede generar comisiones e intereses moratorios.</li>
 										</ul>
 									</div>
 								</div>
 							</div>
-							<div class="card">
-								<div class="card-header" id="headingThree">
-									<h2 class="mb-0">
-										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-											Legales
-										</button>
-									</h2>
-								</div>
-								<div id="collapseSeven" class="collapse" aria-labelledby="headingThree" data-parent="#accordionCICPM">
-									<div class="card-body bg-grey0 p-4">
-										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Cálculo para el Crédito Personal Plus CPM por la cantidad de $15,000.00 a un plazo de 12 meses con un monto mínimo de ahorro de $1,500.00. Tabulador para fines informativos, no representa una contratación. Incluye interés e IVA. Sujeto a aprobación de crédito. La tasa de interés se asignará de acuerdo al historial crediticio interno y externo a Caja Popular Mexicana que presente el socio. En la contratación del producto, el plan de pagos se establece de manera mensual.</li>
-											<li>Sujeto a aprobación de historial crediticio.</li>
-											<li>Préstamo otorgado en moneda nacional.</li>
-											<li>Disponible en todas nuestras sucursales a nivel nacional.</li>
-																					</ul>
-									</div>
-								</div>
-							</div>
 						</div>
-					</div>
-					<div class="col-12 col-md-6 order-md-1">
-						<div class="has-label p-5">
-							<h2 class="d-inline-block border-primary text-primary font-weight-bolder bw-3 py-2 px-3 mb-3">OBJETIVO</h2>
-							<p class="lead">Informar a los usuarios sobre los requisitos, beneficios, tasas y consideraciones que deben tomar en cuenta para contratar un Crédito Personal Plus CPM.</p>
+						<!--  -->
+						<div class="bg-quinary text-white my-5 p-4">
+							<p class="p-4 mb-0 bw-4 rounded border-white">Los recursos depositados en esta cuenta están protegidos por el <strong>Fondo de Protección</strong> a que se refiere el <strong>Título Cuarto de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo</strong>, hasta por <strong>25,000 Unidades de Inversión</strong>, de acuerdo a las disposiciones que establezcan el <strong>Comité Técnico y Comité de Protección al Ahorro Cooperativo del Fideicomiso</strong> que lo administra.</p>
 						</div>
 						<!--  -->
 						<div class="bg-grey0 p-5 mb-5">
-							<p class="">Con la finalidad de atender sus aclaraciones, consultas y reclamaciones relacionadas con las operaciones y servicios que realice con nosotros Caja Popular Mexicana pone a su disposición la Unidad Especializada de Atención a Usuarios (UNE), con domicilio en <strong>Calle Ignacio Altamirano No. 407, Colonia San Juan de Dios, C.P. 37004, en la ciudad de León, Gto.</strong>, así como un número telefónico gratuito <strong>01 800 276 86 37</strong> y <strong>01 477 7 88 80 00 extensión 8142</strong> y correo electrónico <strong>une@cpm.coop</strong>.</p>
+							<p class="">Con la finalidad de atender sus aclaraciones, consultas y reclamaciones relacionadas con las operaciones y servicios que realice con nosotros, Caja Popular Mexicana pone a su disposición la <strong>Unidad Especializada de Atención a Usuarios (UNE)</strong>, con domicilio en <strong>Calle Ignacio Altamirano No. 407, Colonia San Juan de Dios, C.P. 37004, en la ciudad de León, Gto.</strong>, así como un número telefónico gratuito <strong>800 276 86 37 y 477 7 88 80 00 extensión 8142</strong> y correo electrónico une@cpm.coop.</p>
 							<p class="">Situaciones que NO pueden ser atendidas por la UNE</p>
 							<ul class="">
 								<li>Solicitudes de reestructura o convenios de pago de créditos.</li>
 								<li>Asuntos relacionados con solicitudes de crédito.</li>
 								<li>Aquellas que se encuentren en trámite ante la CONDUSEF o en proceso Judicial.</li>
 							</ul>
-							<p class=""><strong>Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros (CONDUSEF)</strong>, al teléfono <strong>01800 999 80 80</strong> y en el D.F. al <strong>55 5340 0999</strong>, página de internet <strong>www.condusef.gob.mx</strong> y al correo electrónico <strong>asesoria@condusef.gob.mx</strong></p>
+							<p class=""><strong>Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros (CONDUSEF)</strong>, al teléfono <strong>800 999 8080</strong> y en el D.F. al <strong>55 5340 0999</strong>, página de internet <strong>www.condusef.gob.mx</strong> y al correo electrónico <strong>asesoria@condusef.gob.mx</strong>.</p>
 						</div>
+						<!-- <img src="https://via.placeholder.com/600x275.jpg/ccc/333?text=Banner+3" alt="Banner Placeholder" class="img-fluid"> -->
+						<!--  -->
 					</div>
-				</div>
-				<div class="row">
-					<div class="col-12 col-md-6">
-						<div class="bg-quinary text-white mb-3 p-4">
-							<p class="p-4 mb-0 bw-4 rounded border-white">Los recursos depositados en esta cuenta están protegidos por el <strong>Fondo de Protección</strong> a que se refiere el <strong>Título Cuarto de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo</strong>, hasta por <strong>25,000 Unidades de Inversión</strong>, de acuerdo a las disposiciones que establezcan el <strong>Comité Técnico y Comité de Protección al Ahorro Cooperativo del Fideicomiso</strong> que lo administra.</p>
+					<div class="col-12 col-md-6 order-md-1">
+						<div class="has-label pb-5 pt-0 px-5">
+							<h2 class="d-inline-block border-primary text-primary font-weight-bolder bw-3 py-2 px-3 mb-3">DESCRIPCIÓN</h2>
+							<img width="" src="assets/img/secciones/logos-credito/personal-plus.png" class="d-block w-100 py-2 px-3 mb-3">
+							<p class="lead">Satisface cualquier necesidad de consumo o actividad lícita, excepto finalidades productivas y comerciales.</p>
+							<p class="lead my-3 font-weight-bold text-primary">Montos desde $1,000.00 Hasta $18,078,600.00</p>
+							<p class="lead">Por ejemplo, <span class="font-weight-bold text-primary">solicita $15,000 pesos a 12 meses y pagas ¡$409 semanales*!</span></p>
 						</div>
-					</div>
-					<div class="col-12 col-md-6">
-						<img src="https://via.placeholder.com/600x275.jpg/ccc/333?text=Banner+3" alt="Banner Placeholder" class="img-fluid">
+						<!--  -->
+						<div class="bg-grey0 p-5 mb-5">
+							<p class=""><strong>Costo Anual Total Promedio de 31.5% sin IVA</strong>. Para fines informativos y de comparación exclusivamente. Fecha de cálculo 30 de Junio de 2019.</p>
+							<p class="">*Cálculo para el <strong>Crédito Personal Plus CPM</strong> por la cantidad de <strong>$15,000.00 a un plazo de 12 meses con un monto mínimo de ahorro de $1,500.00</strong>.</p>
+							<ul class="">
+								<li>Tabulador para fines informativos, no representa una contratación.</li>
+								<li>Incluye interés e IVA.</li>
+								<li>Sujeto a aprobación de crédito.</li>
+								<li>Préstamo otorgado en moneda nacional.</li>
+								<li>Disponible en todas nuestras sucursales a nivel nacional.</li>
+								<li>La tasa de interés se asignará de acuerdo al historial crediticio interno y externo a Caja Popular Mexicana que presente el socio.</li>
+								<li>En la contratación del producto, el plan de pagos se establece de manera mensual.</li>
+							</ul>
+						</div>
+						<!--  -->
+						<div class="bg-grey0 p-5 mb-5">
+							<h3>¿Dudas sobre nuestro Crédito Personal Plus?</h3>
+							<hr>
+							<form>
+								<div class="form-row">
+									<div class="form-group col-12">
+										<label for="nombreCompleto">Nombre completo</label>
+										<input type="text" class="form-control" id="nombreCompleto" required="">
+									</div>
+									<div class="form-group col-md-6">
+										<label for="correoelectronico">Correo</label>
+										<input type="email" class="form-control" id="correoelectronico" required="">
+									</div>
+									<div class="form-group col-md-6">
+										<label for="telefonoDeContacto">Teléfono</label>
+										<input type="text" class="form-control" id="telefonoDeContacto" required="">
+									</div>
+								</div>
+								<div class="form-group">
+									<label for="montoaSolicitar">Monto a solicitar</label>
+									<div class="input-group">
+										<div class="input-group-prepend">
+											<div class="input-group-text"><i class="fas fa-dollar-sign"></i></div>
+										</div>
+										<input type="number" class="form-control" id="montoaSolicitar" required="">
+									</div>
+								</div>
+								<div class="form-group">
+									<label for="finalidad">Finalidad</label>
+									<input type="text" class="form-control" id="finalidad" required="">
+								</div>
+								<div class="form-group">
+									<label for="numerodeSocio">Numero de socio</label>
+									<div class="input-group">
+										<div class="input-group-prepend">
+											<div class="input-group-text"><i class="fas fa-user"></i></div>
+										</div>
+										<input type="number" class="form-control" id="numerodeSocio">
+									</div>
+								</div>
+								<div class="form-row">
+									<div class="form-group col-md-6">
+            							<label for="estado">Estado</label>
+										<select id="estado" class="form-control" name="estado"></select>
+									</div>
+									<div class="form-group col-md-6">
+            							<label for="municipio">Municipio</label>
+										<select id="municipio" class="form-control" name="municipio"></select>
+									</div>
+								</div>
+								<div class="form-group">
+									<div class="form-check">
+										<input class="form-check-input" type="checkbox" id="avisoDePrivacidad">
+										<label class="form-check-label" for="avisoDePrivacidad">
+											<a href="#" target="_blank">Consulta nuestro aviso de privacidad</a>
+										</label>
+									</div>
+								</div>
+								<button type="submit" class="btn btn-primary">Enviar información</button>
+							</form>
+						</div>
 					</div>
 				</div>
 			</div>

@@ -179,6 +179,12 @@ header .main-logo{
 	max-width: 100px;
 	height: auto;
 }
+#site-header{
+	margin-bottom: -120px;
+	z-index: 999;
+	position: absolute;
+	width: 100%;
+}
 
 /* =========================
 		2. NAVIGATION
@@ -298,8 +304,8 @@ header .main-logo{
 		4. HOME SLIDER
 ========================= */
 #home-slider{
-	margin-top: -110px;
-	z-index: -1;
+	/*margin-top: -110px;*/
+	/*z-index: -1;*/
 }
 
 /* =========================
@@ -328,10 +334,10 @@ header .main-logo{
 .header-title-inner{
 	height: 450px;
 	background-color: #ccc;
-
-	margin-top: -110px;
-	z-index: -1;
 }
+.header-title-inner .bg-video-title{ text-align: center; }
+.header-title-inner .bg-video-title video{ height: 450px; }
+.header-title-inner .has-video-bg{ position: absolute; top: 0; }
 .main-tag-line{}
 
 /* =========================
@@ -346,6 +352,32 @@ header .main-logo{
 		13. ACCORDION
 ========================= */
 .accordion-cpm{}
+.accordion-cpm .card-header{ padding: 0; }
+.accordion-cpm .card-header h2{}
+.accordion-cpm .card-header h2 button{ width: 100%; text-align: left; font-weight: 600; border-bottom: 2px solid #09871a; border-radius: 0 !important; padding: 20px 20px 20px 50px; }
+.accordion-cpm .card-header h2 button:before{ 
+	font-family: "Font Awesome 5 Pro";
+	font-weight: 900;
+	content: "\f055";
+	position: absolute;
+	top: 17px;
+	left: 20px;
+	font-size: 22px;
+	color: #45bf00; 
+}
+.accordion-cpm .card-header h2 button:hover{ text-decoration: none; }
+.accordion-cpm .card-header h2 button:focus{ border:1px solid red; }
+.accordion-cpm .card-body{}
+.accordion-cpm .card-body ul{ list-style: none; }
+.accordion-cpm .card-body ul li{ position: relative; display: block; margin-bottom: 10px; }
+.accordion-cpm .card-body ul li:before{
+	font-family: "Font Awesome 5 Pro";
+	font-weight: 900;
+	content: "\f0da";
+	position: absolute;
+	left: -15px;
+	color: #45bf00; 
+}
 
 /* =========================
 		14. LANDING GRID
@@ -354,6 +386,8 @@ header .main-logo{
 .landing-grid-box{
 	margin-bottom: 100px;
 }
+.landing-grid-box a{ color: initial; }
+.landing-grid-box a:hover{}
 .landing-grid-box-info{
 	padding-bottom: 3rem;
 	padding-left: 1.5rem;
@@ -394,6 +428,8 @@ header .main-logo{
 		z-index: 999;
 	}
 	.container{}
+	header .main-logo{ max-width: 70px; }
+	.header-title-inner{ height: 350px; }
 	.after-flange::after{
 		height: 30px;
 	}
@@ -433,6 +469,8 @@ header .main-logo{
 		z-index: 999;
 	}
 	.container{}
+	header .main-logo{ max-width: 70px; }
+	.header-title-inner{ height: 350px; }
 	.after-flange::after{
 		height: 40px;
 	}
@@ -484,6 +522,8 @@ header .main-logo{
 		z-index: 999;
 	}
 	.container{}
+	header .main-logo{ max-width: 100px; }
+	.header-title-inner{ height: 450px; }
 	.after-flange::after{
 		height: 60px;
 	}
@@ -525,6 +565,9 @@ header .main-logo{
 		z-index: 999;
 	}
 	.container{}
+	header .main-logo{ max-width: 100px; }
+	.header-title-inner{ height: 450px; }
+	.header-title-inner .has-video-bg{ left: 12%; }
 	.after-flange::after{
 		height: 70px;
 	}
@@ -580,6 +623,9 @@ header .main-logo{
 	.container{
 		max-width: 1300px;
 	}
+	header .main-logo{ max-width: 100px; }
+	.header-title-inner{ height: 450px; }
+	.header-title-inner .has-video-bg{ left: 12%; }
 	.after-flange::after{
 		height: 80px;
 	}

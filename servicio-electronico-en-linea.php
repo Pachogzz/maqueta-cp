@@ -30,11 +30,13 @@
 			<div class="container">
 				<div class="row row-eq-height">
 					<div class="landing-grid-box col-12 col-md-4">
-						<div class="landing-grid-box-info rounded bw-5 border-purple text-center h-100">
-							<img src="assets/img/icons/icon_CPMMovil.png" class="bg-purple rounded-circle" width="120" height="120" alt="">
-							<h3>CPM Móvil</h3>
-							<p>Realiza trodas tus operaciones desde tu celular. Conoce nuestra aplicadción y ten más tiempo en tus manos.</p>
-						</div>
+						<a href="cpm-movil.php">
+							<div class="landing-grid-box-info rounded bw-5 border-purple text-center h-100">
+								<img src="assets/img/icons/icon_CPMMovil.png" class="bg-purple rounded-circle" width="120" height="120" alt="">
+								<h3>CPM Móvil</h3>
+								<p>Realiza trodas tus operaciones desde tu celular. Conoce nuestra aplicadción y ten más tiempo en tus manos.</p>
+							</div>
+						</a>
 					</div>
 					<div class="landing-grid-box col-12 col-md-4">
 						<div class="landing-grid-box-info rounded bw-5 border-purple text-center h-100">

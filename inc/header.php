@@ -42,11 +42,12 @@
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/tiny-slider.css">
 		<!--[if (lt IE 9)]><script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.helper.ie8.js"></script><![endif]-->
 		<!-- Main CSS -->
+		<link rel="stylesheet" href="assets/css/timeline.css">
 		<link rel="stylesheet" href="assets/css/style.css">
 
 	</head>
 	<body>
-		<header class="">
+		<header id="site-header">
 			<div class="w-100 p-1 bg-primary d-none d-lg-block d-xl-block"></div>
 			<div class="container">
 				<nav class="navbar navbar-expand-lg">
@@ -60,14 +61,14 @@
 					<div class="collapse navbar-collapse" id="navbar">
 						<ul id="main-nav" class="navbar-nav ml-auto">
 							<li class="nav-item">
-								<a href="#" class="nav-link">CPM en Línea</a>
+								<a href="servicio-electronico-en-linea.php" class="nav-link">CPM en Línea</a>
 							</li>
 							<li class="nav-item">
 								<a href="#" class="nav-link">Asambleas</a>
 							</li>
-							<li class="nav-item">
+							<!-- <li class="nav-item">
 								<a href="#" class="nav-link">Inmuebles</a>
-							</li>
+							</li> -->
 							<!-- <li class="nav-item">
 								<a href="#" class="nav-link">Blog</a>
 							</li> -->
@@ -91,7 +92,7 @@
 												<li class="nav-item dropdown-submenu">
 													<a href="conocenos.php" class="sub-drop nav-link dropdown-toggle" data-toggle="dropdown">Conoce a Caja Popular Mexicana</a>
 													<ul class="nav flex-column dropdown-menu">
-														<li class="nav-item"><a href="#" class="nav-link">Filosofía</a></li>
+														<li class="nav-item"><a href="conocenos.php" class="nav-link">Filosofía</a></li>
 														<li class="nav-item"><a href="#" class="nav-link">Línea de tiempo</a></li>
 														<li class="nav-item"><a href="#" class="nav-link">Solidéz Empresarial</a></li>
 													</ul>
