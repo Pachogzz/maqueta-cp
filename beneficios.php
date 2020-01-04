@@ -22,7 +22,7 @@
 			</div>
 		</section> <!-- /. Main Tag Line -->
 
-		<section class="inner-nav-page secondary py-5 bg-white">
+		<!-- <section class="inner-nav-page secondary py-5 bg-white">
 			<div class="container">
 				<div class="row text-center">
 					<div class="col-12 col-lg p-0 mr-lg-n5 mb-2 mb-lg-0  z-index-4">
@@ -47,7 +47,7 @@
 					</div>
 				</div>
 			</div>
-		</section> <!-- /. Inner Nav Home -->
+		</section> --> <!-- /. Inner Nav Home -->
 
 		<section class="">
 			<div class="container">

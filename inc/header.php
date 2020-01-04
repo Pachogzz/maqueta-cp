@@ -61,7 +61,7 @@
 					<div class="collapse navbar-collapse" id="navbar">
 						<ul id="main-nav" class="navbar-nav ml-auto">
 							<li class="nav-item">
-								<a href="servicio-electronico-en-linea.php" class="nav-link">CPM en Línea</a>
+								<a href="https://www.cpmenlinea.cpm.coop/" class="nav-link" target="_blank">Acceso CPM en Línea</a>
 							</li>
 							<li class="nav-item">
 								<a href="#" class="nav-link">Asambleas</a>
@@ -86,7 +86,7 @@
 								<div class="dropdown-menu border-0 p-3 mega-area" aria-labelledby="mega-one">
 
 									<div class="row">
-										<div class="col-12 col-lg-3">
+										<div class="col-12 col-lg-4">
 											<h6 class="font-weight-semibold text-white bg-primary text-center py-2 px-3 br-30">Conócenos</h6>
 											<ul class="nav flex-column">
 												<li class="nav-item dropdown-submenu">
@@ -100,7 +100,7 @@
 												<li class="nav-item"><a href="#" class="nav-link">Conoce nuestra solidez empresarial</a></li>
 											</ul>
 										</div>
-										<div class="col-12 col-lg-3">
+										<div class="col-12 col-lg-4">
 											<h6 class="font-weight-semibold text-white bg-primary text-center py-2 px-3 br-30">Queremos Servirte</h6>
 											<ul class="nav flex-column">
 												<li class="nav-item dropdown-submenu">
@@ -160,7 +160,7 @@
 												</li>
 											</ul>
 										</div>
-										<div class="col-12 col-lg-3">
+										<!-- <div class="col-12 col-lg-3">
 											<h6 class="font-weight-semibold text-white bg-primary text-center py-2 px-3 br-30">Comunicación</h6>
 											<ul class="nav">
 												<li class="nav-item dropdown-submenu">
@@ -180,8 +180,8 @@
 													</ul>
 												</li>
 											</ul>
-										</div>
-										<div class="col-12 col-lg-3">
+										</div> -->
+										<div class="col-12 col-lg-4">
 											<h6 class="font-weight-semibold text-white bg-primary text-center py-2 px-3 br-30">Sé un experto</h6>
 											<ul class="nav">
 												<li class="nav-item"><a href="https://cooperandoando.com/" class="nav-link" target="_blank">Blog Cooperando Ando</a></li>

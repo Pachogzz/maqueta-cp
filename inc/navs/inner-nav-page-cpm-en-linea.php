@@ -8,17 +8,22 @@
 					</div>
 					<div class="col-12 col-lg p-0 pl-md-0 pl-lg-3 mb-2 mb-lg-0 white-circle-n-line">
 						<a href="#" class="btn bg-tertiary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
-							Socio
+							Tu caja ya es móvil
 						</a>
 					</div>
 					<div class="col-12 col-lg p-0 mb-2 mb-lg-0 ">
 						<a href="#" class="btn bg-primary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
-							Ahorrador menor de edad
+							Operaciones disponibles
 						</a>
 					</div>
 					<div class="col-12 col-lg p-0 mb-2 mb-lg-0 ">
 						<a href="#" class="btn bg-quaternary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
-							Servicio electrónico en línera
+							Consideraciones técnicas
+						</a>
+					</div>
+					<div class="col-12 col-lg p-0 mb-2 mb-lg-0 ">
+						<a href="#" class="btn bg-quaternary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
+							Términos y condiciones
 						</a>
 					</div>
 					<!-- <div class="dropdown col-12 col-lg p-0 mb-2 mb-lg-0 ">
