@@ -12,20 +12,6 @@
 
 		<?php include('inc/navs/inner-nav-page-cpm-en-linea.php') ?>
 
-		<!-- <section class="main-tag-line py-5 mb-5">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-8 offset-md-2 text-center">
-						<p class="h3 w-100 font-weight-semibold mb-md-4">TU CAJA YA ESTÁ EN LÍNEA Y ES MÓVIL MÁS TIEMPO EN TUS MANOS</p>
-						<div class="embed-responsive embed-responsive-16by9 mb-md-5">
-							<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/w4pRvIYgO5Y?rel=0" allowfullscreen></iframe>
-						</div>
-						<p class="h2 font-weight-bold mb-md-4"><span class="text-purple">Donde sea</span> + <span class="text-purple">Fácil</span> + <span class="text-purple">Seguro</span></p>
-					</div>
-				</div>
-			</div>
-		</section> --> <!-- /. Main Tag Line -->
-
 		<section class="page-content">
 			<div class="container">
 				<div class="row">
