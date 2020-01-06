@@ -11,6 +11,7 @@ Tags: October CMS, Laravel, SASS, JS, PHP, MySQL, CSS
 	1. HEADER
 	2. NAVIGATION
 	3. INER NAVIGATION
+	4.0 GENERAL SLIDERS
 	4. HOME SLIDER
 	5. INFO SLIDER
 	6. INER SLIDER V1
@@ -22,6 +23,8 @@ Tags: October CMS, Laravel, SASS, JS, PHP, MySQL, CSS
 	12. COPYRIGHT
 	13. ACCORDION
 	14. LANDING GRID
+	15. GUIDE GRID
+	16. TABS
  */
 
 /* =========================
@@ -370,7 +373,19 @@ header .main-logo{
 .header-title-inner .bg-video-title video{ height: 450px; }
 .header-title-inner .has-video-bg{ position: absolute; top: 0; }
 .header-title-inner div[class*="col"]{ text-align: center; }
-.main-tag-line{}
+
+	/* Titles */
+	.main-tag-line{}
+	.title-big{}
+	.title-medium{}
+	.title-small{}
+
+	/*Video tutorials*/
+	.video-tutorial-holder{}
+	.video-tutorial-holder .embed-responsive{}
+	.video-tutorial-holder .embed-responsive iframe{}
+	.video-tutorial-holder .video-label{}
+
 
 /* =========================
 		11. FOOTER
@@ -439,6 +454,60 @@ header .main-logo{
 	font-size: 1.25rem;
 	font-weight: 300;
 }
+
+/* =========================
+		15. GUIDE GRID
+========================= */
+.guides-grid{
+	margin-bottom: 3rem !important;
+}
+.guides-grid .guides-grid-col{
+	margin-bottom: 30px;
+}
+.guides-grid .guides-grid-col .guides-grid-block{
+	border: 5px solid #864192;
+	text-align: center;
+	padding: 3rem 0rem 0rem;
+	border-radius: 0.25rem;
+	height: 100% !important;
+}
+.guides-grid .guides-grid-col .guides-grid-block img{
+	display: block;
+	margin:0 auto;
+}
+.guides-grid .guides-grid-col .guides-grid-block .card-body{}
+.guides-grid .guides-grid-col .guides-grid-block .card-body .card-title{}
+.guides-grid .guides-grid-col .guides-grid-block .card-footer{}
+
+/* =========================
+		16. TABS
+========================= */
+/* p rimary 	color #45bf00 */
+/* s econdary 	color #8bf900 */
+/* t ertiary 	color #09871a */
+/* q uaternary 	color #77bf4d */
+/* q uinary 	color #8bcc66 */
+/* y ellow 		color #ffed58 */
+/* p urple 		color #864192 */
+/* g rey0 		color #f1f1f1 */
+[class*="tab-cpm-style"]{}
+[class*="tab-cpm-style"] .nav-item{}
+[class*="tab-cpm-style"] .nav-item .nav-link{}
+[class*="tab-cpm-style"] .nav-item .nav-link.active{}
+[class*="tab-cpm-style"].tab-content{}
+[class*="tab-cpm-style"].tab-content .tab-pane{}
+
+.tab-cpm-style1 .nav-item .nav-link{
+	background-color: #f1f1f1;
+	color: #09871a;	
+	border: none !important;
+}
+.tab-cpm-style1 .nav-item .nav-link.active{
+	background-color: #09871a;
+	color: #ffed58;
+}
+.tab-cpm-style2{}
+.tab-cpm-style3{}
 
 /*
 	Extra small devices (portrait phones, less than 576px)
@@ -652,6 +721,17 @@ header .main-logo{
 		padding: 10px;
 		z-index: 999;
 	}
+	.row-eq-height{
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		flex-wrap: wrap;
+	}
+	.row-eq-height [class*="col-"]{
+		display: flex;
+		flex-direction: column;
+	}
 	.container{
 		max-width: 1300px;
 	}
@@ -690,7 +770,7 @@ header .main-logo{
 			height: 100%;
 			width: 64px;
 			border-radius: 50%;
-			left: -15px;
+			left: -30px;
 			background:#fff;
 		}
 		.white-circle-n-line::after{
@@ -699,6 +779,6 @@ header .main-logo{
 			width: 100px;
 			top: 50%;
 			margin-top: -1px;
-			left: -51px;
+			left: -65px;
 		}
 }
