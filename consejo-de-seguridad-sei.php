@@ -23,32 +23,29 @@
 				</div> <!-- ./ Main info block -->
 
 				<div class="row mb-5">
-					<div class="col-12 col-md-7">
+					<div class="col-12 col-md-6">
 						<div class="embed-responsive embed-responsive-16by9">
 							<iframe class="embed-responsive-item" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCajaPopularMexicana%2Fvideos%2F1152682858133593" allowfullscreen></iframe>
 						</div>
 					</div>
-					<div class="col-12 col-md-5">
+					<div class="col-12 col-md-6">
 						<div class="video-label bg-purple p-3 text-center">
 							<p class="h3 text-white font-weight-bold mb-0">Fraudes más comunies</p>
 						</div>
 
-						<div class="accordion accordion-cpm" id="accordionCICPM">
+						<div class="accordion accordion-cpm purple" id="accordionCSCPM">
 							<div class="card">
 								<div class="card-header" id="headingOne">
 									<h2 class="mb-0">
-										<button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-											Tasa
+										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+											Correo basura
 										</button>
 									</h2>
 								</div>
 
-								<div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionCICPM">
+								<div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionCSCPM">
 									<div class="card-body bg-grey0 p-4">
-										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Tasa de interés ordinaria anual fija del 12.24% antes de impuestos.</li>
-											<li>Costo Anual Total Promedio a 73856570763370100000000000.0% sin IVA. Para fines informativos y de comparación exclusivamente. Fecha de cálculo 30 de junio de 2019.</li>
-										</ul>
+										<p>Son correos recibidos, sin haberlos solicitado, con publicidad; estos correos te invitan a visitar una página o descargar archivos que por lo general son virus para robar información en tu dispositivo.</p>
 									</div>
 								</div>
 							</div>
@@ -56,16 +53,13 @@
 								<div class="card-header" id="headingTwo">
 									<h2 class="mb-0">
 										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-											Ahorro
+											Suplantación o robo de identidad
 										</button>
 									</h2>
 								</div>
-								<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionCICPM">
+								<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionCSCPM">
 									<div class="card-body bg-grey0 p-4">
-										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Conforme al porcentaje de financiamiento sobre el monto del crédito o de la inversión en garantía.</li>
-											<li>Mínimo del 100 % y Máximo del 115 %.</li>
-										</ul>
+										<p>En este tipo de fraude, los usurpadores se hacen pasar por una institución como Caja Popular Mexicana mediante llamadas telefónicas, mensajes o correos electrónicos simulando ser empleados, argumentando que tus cuentas están registrando cargos irregulares o que requieren alguna información con el propósito de obtener tus datos personales.</p>
 									</div>
 								</div>
 							</div>
@@ -73,17 +67,13 @@
 								<div class="card-header" id="headingThree">
 									<h2 class="mb-0">
 										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-											Plazo
+											Ventanas emergentes
 										</button>
 									</h2>
 								</div>
-								<div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionCICPM">
+								<div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionCSCPM">
 									<div class="card-body bg-grey0 p-4">
-										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Hasta 72 meses en créditos garantizados con garantía líquida basada en Cuenta Mexicana.</li>
-											<li>Aplican restricciones para forma de pago único en créditos con garantía líquida basada en Cuenta Mexicana *</li>
-											<li>73856570763370100000000000.0% a 12 meses y pagas ¡409 semanales*!*! los datos en caso de cambios. informarles Tratándose de créditos garantizados con una inversión en Rendicuenta, el plazo será de conformidad con el vencimiento de la inversión.</li>
-										</ul>
+										<p>Consiste en redirigirte a una página de internet falsa para robar tu información. Suelen mostrar leyendas similares a esta: “ERROR EN EL SISTEMA. Para solucionarlo da clic aquí”.</p>
 									</div>
 								</div>
 							</div>
@@ -91,75 +81,26 @@
 								<div class="card-header" id="headingThree">
 									<h2 class="mb-0">
 										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFourt" aria-expanded="false" aria-controls="collapseFourt">
-											Ventajas y beneficios
+											Medidas básicas de seguridad
 										</button>
 									</h2>
 								</div>
-								<div id="collapseFourt" class="collapse" aria-labelledby="headingThree" data-parent="#accordionCICPM">
+								<div id="collapseFourt" class="collapse" aria-labelledby="headingThree" data-parent="#accordionCSCPM">
 									<div class="card-body bg-grey0 p-4">
-										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Permite no deshacerse de sus ahorros y patrimonio.</li>
-											<li>Consulta los beneficios que tenemos para ti <a href="#">aquí</a></li>
-											<li>Crea historial crediticio.</li>
-											<li>El ahorro depositado como garantía líquida en Cuenta Mexicana o la Rendicuenta en garantía, continúa generando intereses.</li>
-											<li>No requiere de reciprocidad.</li>
-											<li>Sin costos y comisiones.</li>
-										</ul>
-									</div>
-								</div>
-							</div>
-							<div class="card">
-								<div class="card-header" id="headingThree">
-									<h2 class="mb-0">
-										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-											Requisitos
-										</button>
-									</h2>
-								</div>
-								<div id="collapseFive" class="collapse" aria-labelledby="headingThree" data-parent="#accordionCICPM">
-									<div class="card-body bg-grey0 p-4">
-										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Ser socio de Caja Popular Mexicana.</li>
-											<li>Identificación oficial y de la sociedad.</li>
-											<li>Tener disponibilidad en Cuenta Mexicana o mantener una inversión en Rendicuenta* (Ver apartado de Ahorro).</li>
-											<li>*Sólo se podrá manejar un préstamo por cada inversión de Rendicuenta.</li>
-										</ul>
-									</div>
-								</div>
-							</div>
-							<div class="card">
-								<div class="card-header" id="headingThree">
-									<h2 class="mb-0">
-										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-											Recomendaciones
-										</button>
-									</h2>
-								</div>
-								<div id="collapseSix" class="collapse" aria-labelledby="headingThree" data-parent="#accordionCICPM">
-									<div class="card-body bg-grey0 p-4">
-										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Contratar créditos por arriba de tu capacidad de pago puede afectar tu historial crediticio.</li>
-											<li>Incumplir tus obligaciones te puede generar comisiones e intereses moratorios.</li>
-										</ul>
-									</div>
-								</div>
-							</div>
-							<div class="card">
-								<div class="card-header" id="headingThree">
-									<h2 class="mb-0">
-										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-											Observaciones
-										</button>
-									</h2>
-								</div>
-								<div id="collapseSeven" class="collapse" aria-labelledby="headingThree" data-parent="#accordionCICPM">
-									<div class="card-body bg-grey0 p-4">
-										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Sujeto a aprobación de historial crediticio.</li>
-											<li>Préstamo otorgado en moneda nacional.</li>
-											<li>Disponible en todas nuestras sucursales a nivel nacional.</li>
-											<li>Tratándose de préstamos con garantía de Rendicuenta el monto máximo de financiamiento se establecerá sobre un porcentaje de acuerdo a la fecha de solicitud del préstamo y el vencimiento de la inversión.</li>
-										</ul>
+										<ol class="p-5 bg-white bw-1 border-grey1">
+											<li>Evita compartir las claves de acceso (Nombre de Usuario y NIP).</li>
+											<li>Solicita o activa el registro de alertas al celular o correo electrónico.</li>
+											<li>Compra sólo en establecimientos reconocidos y seguros (sitios reconocidos “https”).</li>
+											<li>Programa los movimientos que vas a hacer (pagos, transferencias u operaciones) para evitar tener abierta la sesión por mucho tiempo; concreta la operación y cierra tu sesión. Nunca dejes abierta la sesión, sobre todo en lugares públicos, como los llamados ciber- cafés.</li>
+											<li>Verifica de manera recurrente tu estado de cuenta por Internet para ver que no haya cargos no reconocidos.</li>
+											<li>Revisa periódicamente las cuentas registradas para hacer traspasos y asegúrate de no tener cuentas que no diste de alta.</li>
+											<li>Teclea directamente la dirección de CPM, evita ingresar mediante “ligas” que recibas.</li>
+											<li>Nunca abras o respondas a una ventana emergente, o correo electrónico sospechoso de remitentes desconocidos o aquellos que te dicen haber ganado un premio, viaje o sorteo.</li>
+											<li>Utiliza un antivirus.</li>
+											<li>Procura tener diferentes contraseñas para cada servicio.</li>
+											<li>Toma en cuenta que CPM nunca solicita datos personales o verificación de tus cuentas, mediante correo electrónico o llamada telefónica.</li>
+											<li>Nunca ingreses tus contraseñas, a algún sitio al que se llegó por un correo electrónico o chat.</li>
+										</ol>
 									</div>
 								</div>
 							</div>

@@ -398,19 +398,20 @@ header .main-logo{
 /* =========================
 		13. ACCORDION
 ========================= */
-.accordion-cpm{}
 .accordion-cpm .card-header{ padding: 0; }
-.accordion-cpm .card-header h2{}
 .accordion-cpm .card-header h2 button{ width: 100%; text-align: left; font-weight: 600; border-bottom: 2px solid #09871a; border-radius: 0 !important; padding: 20px 20px 20px 50px; }
-.accordion-cpm .card-header h2 button:before{ 
+.accordion-cpm .card-header h2 button:before{
 	font-family: "Font Awesome 5 Pro";
 	font-weight: 900;
-	content: "\f055";
+	content: "\f056";
 	position: absolute;
 	top: 17px;
 	left: 20px;
 	font-size: 22px;
 	color: #45bf00; 
+}
+.accordion-cpm .card-header h2 button.collapsed:before{ 
+	content: "\f055";
 }
 .accordion-cpm .card-header h2 button:hover{ text-decoration: none; }
 .accordion-cpm .card-header h2 button:focus{  }
@@ -424,6 +425,14 @@ header .main-logo{
 	position: absolute;
 	left: -15px;
 	color: #45bf00; 
+}
+.accordion-cpm.purple .card-header h2 button{ border-bottom-color: #65316f; color: #864192; }
+.accordion-cpm.purple .card-header h2 button.collapsed{ color: #b956cb; }
+.accordion-cpm.purple .card-header h2 button:before{ 
+	color: #864192; 
+}
+.accordion-cpm.purple .card-body ul li:before{
+	color: #864192; 
 }
 
 /* =========================

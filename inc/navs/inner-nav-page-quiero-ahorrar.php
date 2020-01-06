@@ -19,9 +19,12 @@
 					<div class="dropdown col-12 col-lg p-0 mb-2 mb-lg-0 ">
 						<a href="#" class="btn bg-quaternary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white dropdown-toggle" type="button" id="dropdownMenuItem3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Ahorro</a>
 						<div class="dropdown-menu bg-quaternary" aria-labelledby="dropdownMenuItem3">
+							<a class="dropdown-item" href="rendicuenta.php"><i class="fa fa-chevron-circle-right mr-1"></i> Rendicuenta</a>
+							<a class="dropdown-item" href="mi-alcancia.php"><i class="fa fa-chevron-circle-right mr-1"></i> Mi Alcancía</a>
+							<a class="dropdown-item" href="mi-alcancia-junior.php"><i class="fa fa-chevron-circle-right mr-1"></i> Mi Alcancía Jr.</a>
+							<a class="dropdown-item" href="servicuenta.php"><i class="fa fa-chevron-circle-right mr-1"></i> Servicuenta</a>
 							<a class="dropdown-item" href="cuenta-mexicana.php"><i class="fa fa-chevron-circle-right mr-1"></i> Cuenta Mexicana</a>
 							<a class="dropdown-item" href="cuentamiga.php"><i class="fa fa-chevron-circle-right mr-1"></i> Cuentamiga</a>
-							<a class="dropdown-item" href="mi-alcancia.php"><i class="fa fa-chevron-circle-right mr-1"></i> Mi alcancía</a>
 						</div>
 					</div>
 				</div>

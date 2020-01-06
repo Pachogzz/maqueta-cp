@@ -16,4 +16,11 @@ $(document).ready(function(){
 		e.stopPropagation();
 		e.preventDefault();
 	});
+	
+	$(function() {
+		$('#filterSelector').change(function(){
+			$('.guides-grid-col').hide();
+			$('.guides-grid #' + $(this).val()).show();
+		});
+	});
 });
