@@ -1,4 +1,4 @@
-$(document).ready(function(){
+jQuery(document).ready(function(){
     // Cargamos los estados
     var estados = "<option value='' disabled selected>Selecciona el estado</option>";
 
@@ -8,21 +8,21 @@ $(document).ready(function(){
         }
     }
 
-    $('#estado').html(estados);
+    jQuery('#estado').html(estados);
 
     // Al detectar
-    $( "#estado" ).change(function() {
+    jQuery( "#estado" ).change(function() {
         var html = "<option value='' disabled selected>Selecciona el municipio</option>";
-        $( "#estado option:selected" ).each(function() {
-            var estado = $(this).text();
+        jQuery( "#estado option:selected" ).each(function() {
+            var estado = jQuery(this).text();
             if(estado != "Selecciona el estado"){
                 var municipio = municipios[estado];
                 for (var i = 0; i < municipio.length; i++)
                     html += "<option value='" + municipio[i] + "'>" + municipio[i] + "</option>";
             }
         });
-        $('#municipio').html(html);
-        $('select').material_select('update');
+        jQuery('#municipio').html(html);
+        // jQuery('select').material_select('update');
     })
     .trigger( "change" );
 });

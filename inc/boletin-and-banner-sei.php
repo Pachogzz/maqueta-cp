@@ -12,15 +12,23 @@
 							<div class="col-md-6 col-lg-7">
 								<!-- Begin Mailchimp Signup Form -->
 								<div id="mc_embed_signup">
-									<form action="https://cpm.us13.list-manage.com/subscribe/post?u=929b8338b3f2ba53253936d83&amp;id=22a1d8e15a" onsubmit="return validateform();" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+									<form action="https://cpm.us13.list-manage.com/subscribe/post?u=929b8338b3f2ba53253936d83&amp;id=21892af6c0" onsubmit="return validatesei();" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 									    <div id="mc_embed_signup_scroll">
-											<div class="mc-field-group form-group">
-												<input type="text" value="" name="FNAME" class="form-control" id="mce-FNAME" placeholder="Nombre completo:" required>
-											</div>
-											<div class="mc-field-group form-group">
-												<input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL" placeholder="Correo: *" required>
-											</div>
-											<div id="mce-responses" class="clear">
+										<h2>Suscribirse</h2>
+									<div class="mc-field-group">
+										<label for="mce-EMAIL">Correo Eléctronico <span class="asterisk">*</span>
+									</label>
+										<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+									</div>
+									<div class="mc-field-group">
+										<label for="mce-FNAME">Nombre(s) </label>
+										<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+									</div>
+									<div class="mc-field-group">
+										<label for="mce-LNAME">Apellido(s) </label>
+										<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+									</div>
+									<div id="mce-responses" class="clear">
 												<div class="response" id="mce-error-response" style="display:none"></div>
 												<div class="response" id="mce-success-response" style="display:none"></div>
 											</div>
@@ -29,8 +37,8 @@
 										    	<input type="text" name="b_929b8338b3f2ba53253936d83_22a1d8e15a" tabindex="-1" value="">
 										    </div>
 											<div class="form-group form-check">
-												<input type="checkbox" class="form-check-input" id="aceptoTerminosyCondiciones" required>
-												<label class="form-check-label text-white" for="aceptoTerminosyCondiciones"> Acepto el aviso de privacidad</label>
+												<input type="checkbox" class="form-check-input" id="aceptoTerminosyCondiciones">
+												<label class="form-check-label text-white" for="aceptoTerminosyCondiciones">&nbsp;&nbsp;&nbsp;&nbsp;Acepto el aviso de privacidad</label>
 											</div>
 										    <div class="clear">
 										    	<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button btn btn-secondary br-30 px-5">

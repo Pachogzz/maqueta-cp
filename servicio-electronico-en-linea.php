@@ -38,7 +38,7 @@
 
 				<div class="row row-eq-height">
 					<div class="landing-grid-box col-12 col-md-6">
-						<a href="cpm-movil.php">
+						<a href="cpm-movil.php" class="h-100">
 							<div class="landing-grid-box-info rounded bw-5 border-purple text-center h-100">
 								<img src="assets/img/icons/icon_CPMMovil.png" class="bg-purple rounded-circle" width="120" height="120" alt="">
 								<h3>CPM Móvil</h3>
@@ -47,7 +47,7 @@
 						</a>
 					</div>
 					<div class="landing-grid-box col-12 col-md-6">
-						<a href="cpm-en-linea.php">
+						<a href="cpm-en-linea.php" class="h-100">
 							<div class="landing-grid-box-info rounded bw-5 border-purple text-center h-100">
 								<img src="assets/img/icons/icon_CPMenLinea.png" class="bg-purple rounded-circle" width="120" height="120" alt="">
 								<h3>CPM en línea</h3>
@@ -59,7 +59,7 @@
 
 				<div class="row row-eq-height">
 					<div class="landing-grid-box col-12 col-md-4 mb-5">
-						<a href="cpm-movil.php">
+						<a href="operaciones-disponibles-sei.php" class="h-100">
 							<div class="landing-grid-box-info rounded bw-5 border-purple text-center h-100">
 								<img src="assets/img/icons/icon-book.png" class="bg-purple rounded-circle" width="120" height="120" alt="">
 								<h3>Operaciones disponibles</h3>
@@ -68,18 +68,22 @@
 						</a>
 					</div>
 					<div class="landing-grid-box col-12 col-md-4 mb-5">
-						<div class="landing-grid-box-info rounded bw-5 border-purple text-center h-100">
-							<img src="assets/img/icons/icon-book.png" class="bg-purple rounded-circle" width="120" height="120" alt="">
-							<h3>Preguntas frecuentes</h3>
-							<p>CPM en línea consultando nuestra guías en línea o descargándolas en tu computadora.</p>
-						</div>
+						<a href="preguntas-frecuentes-sei.php" class="h-100">
+							<div class="landing-grid-box-info rounded bw-5 border-purple text-center h-100">
+								<img src="assets/img/icons/icon-book.png" class="bg-purple rounded-circle" width="120" height="120" alt="">
+								<h3>Preguntas frecuentes</h3>
+								<p>CPM en línea consultando nuestra guías en línea o descargándolas en tu computadora.</p>	
+							</div>
+						</a>
 					</div>
 					<div class="landing-grid-box col-12 col-md-4 mb-5">
-						<div class="landing-grid-box-info rounded bw-5 border-purple text-center h-100">
-							<img src="assets/img/icons/icon-book.png" class="bg-purple rounded-circle" width="120" height="120" alt="">
-							<h3>Consideraciones técnicas</h3>
-							<p>Aprende a usar CPM móvil y CPM en línea consultando nuestra guías en línea o descargándolas en tu computadora.</p>
-						</div>
+						<a href="consideraciones-tecnicas-sei.php" class="h-100">
+							<div class="landing-grid-box-info rounded bw-5 border-purple text-center h-100">
+								<img src="assets/img/icons/icon-book.png" class="bg-purple rounded-circle" width="120" height="120" alt="">
+								<h3>Consideraciones técnicas</h3>
+								<p>Aprende a usar CPM móvil y CPM en línea consultando nuestra guías en línea o descargándolas en tu computadora.</p>
+							</div>
+						</a>
 					</div>
 				</div>
 
@@ -87,7 +91,7 @@
 					<div class="landing-grid-box col-12 mb-0">
 						<div class="landing-grid-box-info rounded bw-5 border-purple text-center py-5">
 							<h3 class="">No olvides revisar estos consejos de seguridad que tenemos para tí</h3>
-							<a href="#" class="btn btn-lg bg-purple text-white">Por tu seguridad</a>
+							<a href="consejo-de-seguridad-sei.php" class="btn btn-lg bg-purple text-white">Por tu seguridad</a>
 						</div>
 					</div>
 				</div>

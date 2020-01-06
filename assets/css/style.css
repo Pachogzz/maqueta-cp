@@ -38,11 +38,19 @@ p{ font-size: 16px; }
 	.bg-quinary{ background-color: #8bcc66; }
 	.bg-yellow{ background-color: #ffed58; }
 	.bg-purple{ background-color: #864192; }
+	.bg-lightpurple{ background-color: #b4add4; }
+	.bg-blue{ background-color: #5eb4e5; }
+	.bg-orange{ background-color: #f59e35; }
+	.bg-red{ background-color: #ed6868; }
 	.text-tertiary{ color: #09871a; }
 	.text-quaternary{ color: #77bf4d; }
 	.text-quinary{ color: #8bcc66; }
 	.text-yellow{ color: #ffed58; }
 	.text-purple{ color: #864192; }
+	.text-lightpurple{ color: #b4add4; }
+	.text-blue{ color: #5eb4e5; }
+	.text-orange{ color: #f59e35; }
+	.text-red{ color: #ed6868; }
 	.bg-grey0{ background-color: #f1f1f1 !important; }
 	.bg-grey1{ background-color: #ccc !important; }
 	.bg-grey2{ background-color: #999 !important; }
@@ -62,6 +70,10 @@ p{ font-size: 16px; }
 	.border-quinary{ border-color: #8bcc66 !important; }
 	.border-yellow{ border-color: #ffed58 !important; }
 	.border-purple{ border-color: #864192 !important; }
+	.border-lightpurple{ border-color: #b4add4; }
+	.border-blue{ border-color: #5eb4e5 !important; }
+	.border-orange{ border-color: #f59e35 !important; }
+	.border-red{ border-color: #ed6868 !important; }
 	.border-grey0{ border-color: #f1f1f1 !important; }
 	.border-grey1{ border-color: #ccc !important; }
 	.border-grey2{ border-color: #999 !important; }
@@ -158,6 +170,9 @@ p{ font-size: 16px; }
 		height: 25px;
 		background-color: #8CF800;
 		border-radius: 30px;
+	}
+	.has-label.purple::before{
+		background-color: #864192;
 	}
 /* Slider Styled Captions */
 	.styled-carousel .carousel-caption{
@@ -453,6 +468,15 @@ header .main-logo{
 	margin-top: -60px;
 	margin-bottom: 40px;
 }
+.landing-grid-box-info i{
+	width: 120px;
+	height: 120px;
+	margin-top: -60px;
+	margin-bottom: 40px;
+}
+.landing-grid-box-info i:before{
+	line-height: 115px;
+}
 .landing-grid-box-info h3{
 	display: block;
 	width: 100%;
@@ -517,6 +541,34 @@ header .main-logo{
 }
 .tab-cpm-style2{}
 .tab-cpm-style3{}
+
+.tabs-color{}
+.tabs-color .nav-link{
+	border-radius: 0.25rem;
+	background-color: #f1f1f1; 
+	color: #864192;
+}
+.tabs-color .nav-link.active{
+	background-color: #864192;
+	color: #f1f1f1; 
+}
+.tabs-color .nav-link.active:before{
+	content: "";
+	position: absolute;
+	display: block;
+	bottom: -20px;
+	left: 50%;
+	margin-left: -20px;
+	border-style: solid;
+	border-top-width: 20px;
+	border-right-width: 20px;
+	border-bottom-width: 0;
+	border-left-width: 20px;
+	border-top-color: #864192;
+	border-right-color: transparent;
+	border-bottom-color: transparent;
+	border-left-color: transparent;
+}
 
 /*
 	Extra small devices (portrait phones, less than 576px)

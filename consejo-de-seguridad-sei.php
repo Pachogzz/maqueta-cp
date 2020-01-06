@@ -105,311 +105,115 @@
 								</div>
 							</div>
 						</div>
-
 					</div>
-				</div> <!-- ./ Video guides -->
+				</div> <!-- ./ Video and Accordion -->
 
 				<div class="row mb-5">
-					<div class="col-12 col-md-6 offset-md-3 text-center py-3">
-						<h3 class="title-medium font-weight-bold">GUÍAS DE USO</h3>
-						<p class="lead font-weight-semibold">Selecciona la guía de tu interés por su categoría</p>
-						<form action="">
-							<div class="form-group">
-								<select class="form-control" id="filterSelector">
-									<option value="seleccione">- Seleccione una guía -</option>
-									<option value="0">Guía de uso general</option>
-									<option value="1">Guía primer ingreso</option>
-									<option value="2">Guía de transacciones</option>
-									<option value="3">Guía de consulta y eliminación de transferencias programadas</option>
-									<option value="4">Guía de transferencias a cuentas de otros socios</option>
-									<option value="5">Guía de administración de dispositivo</option>
-									<option value="6">Guía de consulta de saldos</option>
-									<option value="7">Guía de consulta, bloqueo y desbloqueo de tarjeta</option>
-									<option value="8">Guía de notificaciones de cuentas</option>
-									<option value="9">Guía de administración de terceros</option>
-									<option value="10">Guía de consulta de actividad en línea y recibo electrónico</option>
-									<option value="11">Guía de cambio de nombre de usuario</option>
-									<option value="12">Guía de administración de límites diarios</option>
-									<option value="13">Guía de cambio de contraseña</option>
-									<option value="14">Guía de envío y respuesta de mensajes del servicio</option>
-								</select>
+					<div class="col-12">
+						<p class="h2 font-weight-bold text-purple text-center mb-md-4">¿Cómo evitar el fraude?</p>
+						<nav>
+							<div class="nav nav-tabs tabs-color row mb-5 border-bottom-0" id="nav-tab" role="tablist">
+								<a class="nav-item nav-link col-md-1 p-3 mr-1 active" id="tab-one" data-toggle="pill" href="#tabOne" role="tab" aria-controls="tabOne" aria-selected="true">
+									<i class="fas fa-hand-point-up fa-5x"></i>
+								</a>
+								<a class="nav-item nav-link col-md-1 p-3 mr-1" id="tab-two" data-toggle="pill" href="#tabTwo" role="tab" aria-controls="tabTwo" aria-selected="false">
+									<i class="fas fa-hand-point-up fa-5x"></i>
+								</a>
+								<a class="nav-item nav-link col-md-1 p-3 mr-1" id="tab-three" data-toggle="pill" href="#tabThree" role="tab" aria-controls="tabThree" aria-selected="false">
+									<i class="fas fa-hand-point-up fa-5x"></i>
+								</a>
+								<a class="nav-item nav-link col-md-1 p-3 mr-1" id="tab-four" data-toggle="pill" href="#tabFour" role="tab" aria-controls="tabFour" aria-selected="false">
+									<i class="fas fa-hand-point-up fa-5x"></i>
+								</a>
+								<a class="nav-item nav-link col-md-1 p-3 mr-1" id="tab-five" data-toggle="pill" href="#tabFive" role="tab" aria-controls="tabFive" aria-selected="false">
+									<i class="fas fa-hand-point-up fa-5x"></i>
+								</a>
+								<a class="nav-item nav-link col-md-1 p-3 mr-1" id="tab-six" data-toggle="pill" href="#tabSix" role="tab" aria-controls="tabSix" aria-selected="false">
+									<i class="fas fa-hand-point-up fa-5x"></i>
+								</a>
+								<a class="nav-item nav-link col-md-1 p-3 mr-1" id="tab-seven" data-toggle="pill" href="#tabSeven" role="tab" aria-controls="tabSeven" aria-selected="false">
+									<i class="fas fa-hand-point-up fa-5x"></i>
+								</a>
 							</div>
-						</form>
+						</nav>
+						<div class="tab-content" id="nav-tabContent">
+							<div class="p-5 bw-5 border-grey1 rounded tab-pane fade show active" id="tabOne" role="tabpanel" aria-labelledby="tab-one">
+								<p>No des “clic” o abras páginas, archivos, correos sospechosos o respondas mensajes de correo que te notifican haber ganado un premio, viaje o sorteo ya que, generalmente, solicitan tus datos personales para otorgarte el supuesto premio.</p>
+							</div>
+							<div class="p-5 bw-5 border-grey1 rounded tab-pane fade" id="tabTwo" role="tabpanel" aria-labelledby="tab-two">
+								<p>No proporciones tus datos por correo electrónico o vía telefónica.</p>
+							</div>
+							<div class="p-5 bw-5 border-grey1 rounded tab-pane fade" id="tabThree" role="tabpanel" aria-labelledby="tab-three">
+								<p>Verifica que el sitio en el que navegas cuente con el protocolo de seguridad <strong>“https://”</strong> y un candado cerrado en la barra de direcciones.</p>
+							</div>
+							<div class="p-5 bw-5 border-grey1 rounded tab-pane fade" id="tabFour" role="tabpanel" aria-labelledby="tab-four">
+								<p>Cuando no seas tú quien inicie una operación, Caja Popular Mexicana nunca te solicitará tus datos de Socio, tales como números de cuenta, tarjeta, CIF, etc.</p>
+							</div>
+							<div class="p-5 bw-5 border-grey1 rounded tab-pane fade" id="tabFive" role="tabpanel" aria-labelledby="tab-five">
+								<p>Si descargas aplicaciones, hazlo por medio de las tiendas oficiales.</p>
+							</div>
+							<div class="p-5 bw-5 border-grey1 rounded tab-pane fade" id="tabSix" role="tabpanel" aria-labelledby="tab-six">
+								<p>Instala en tu dispositivo móvil o computadora un buen antivirus.</p>
+							</div>
+							<div class="p-5 bw-5 border-grey1 rounded tab-pane fade" id="tabSeven" role="tabpanel" aria-labelledby="tab-seven">
+								<p>Si aún te queda duda, solicita asistencia vía telefónica o asiste a tu sucursal más cercana y verifica los hechos.</p>
+							</div>
+						</div>
 					</div>
-				</div>
+				</div> <!-- ./ Tabs -->
 
-				<div class="row guides-grid">
-				  <div id="0" class="guides-grid-col col-12 col-md-4">
-				    <div class="card h-100 guides-grid-block">
-				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
-				      <div class="card-body">
-				        <h4 class="card-title mb-3 font-weight-bolder">Guía de uso general</h4>
-				      </div>
-				      <div class="card-footer">
-								<div class="row">
-									<div class="col-6">
-										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center">Visualizar</a>
-									</div>
-									<div class="col-6">
-										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
-									</div>
-								</div>
-				      </div>
-				    </div>
-				  </div>
-				  <div id="1" class="guides-grid-col col-12 col-md-4">
-				    <div class="card h-100 guides-grid-block">
-				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
-				      <div class="card-body">
-				        <h4 class="card-title mb-3 font-weight-bolder">Guía primer ingreso</h4>
-				      </div>
-				      <div class="card-footer">
-								<div class="row">
-									<div class="col-6">
-										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center">Visualizar</a>
-									</div>
-									<div class="col-6">
-										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
-									</div>
-								</div>
-				      </div>
-				    </div>
-				  </div>
-				  <div id="2" class="guides-grid-col col-12 col-md-4">
-				    <div class="card h-100 guides-grid-block">
-				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
-				      <div class="card-body">
-				        <h4 class="card-title mb-3 font-weight-bolder">Guía de transacciones</h4>
-				      </div>
-				      <div class="card-footer">
-								<div class="row">
-									<div class="col-6">
-										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center">Visualizar</a>
-									</div>
-									<div class="col-6">
-										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
-									</div>
-								</div>
-				      </div>
-				    </div>
-				  </div>
-				  <div id="3" class="guides-grid-col col-12 col-md-4">
-				    <div class="card h-100 guides-grid-block">
-				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
-				      <div class="card-body">
-				        <h4 class="card-title mb-3 font-weight-bolder">Guía de consulta y eliminación de transferencias programadas</h4>
-				      </div>
-				      <div class="card-footer">
-								<div class="row">
-									<div class="col-6">
-										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center">Visualizar</a>
-									</div>
-									<div class="col-6">
-										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
-									</div>
-								</div>
-				      </div>
-				    </div>
-				  </div>
-				  <div id="4" class="guides-grid-col col-12 col-md-4">
-				    <div class="card h-100 guides-grid-block">
-				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
-				      <div class="card-body">
-				        <h4 class="card-title mb-3 font-weight-bolder">Guía de transferencias a cuentas de otros socios</h4>
-				      </div>
-				      <div class="card-footer">
-								<div class="row">
-									<div class="col-6">
-										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center">Visualizar</a>
-									</div>
-									<div class="col-6">
-										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
-									</div>
-								</div>
-				      </div>
-				    </div>
-				  </div>
-				  <div id="5" class="guides-grid-col col-12 col-md-4">
-				    <div class="card h-100 guides-grid-block">
-				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
-				      <div class="card-body">
-				        <h4 class="card-title mb-3 font-weight-bolder">Guía de administración de dispositivo</h4>
-				      </div>
-				      <div class="card-footer">
-								<div class="row">
-									<div class="col-6">
-										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center">Visualizar</a>
-									</div>
-									<div class="col-6">
-										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
-									</div>
-								</div>
-				      </div>
-				    </div>
-				  </div>
-				  <div id="6" class="guides-grid-col col-12 col-md-4">
-				    <div class="card h-100 guides-grid-block">
-				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
-				      <div class="card-body">
-				        <h4 class="card-title mb-3 font-weight-bolder">Guía de consulta de saldos</h4>
-				      </div>
-				      <div class="card-footer">
-								<div class="row">
-									<div class="col-6">
-										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center">Visualizar</a>
-									</div>
-									<div class="col-6">
-										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
-									</div>
-								</div>
-				      </div>
-				    </div>
-				  </div>
-				  <div id="7" class="guides-grid-col col-12 col-md-4">
-				    <div class="card h-100 guides-grid-block">
-				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
-				      <div class="card-body">
-				        <h4 class="card-title mb-3 font-weight-bolder">Guía de consulta, bloqueo y desbloqueo de tarjeta</h4>
-				      </div>
-				      <div class="card-footer">
-								<div class="row">
-									<div class="col-6">
-										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center">Visualizar</a>
-									</div>
-									<div class="col-6">
-										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
-									</div>
-								</div>
-				      </div>
-				    </div>
-				  </div>
-				  <div id="8" class="guides-grid-col col-12 col-md-4">
-				    <div class="card h-100 guides-grid-block">
-				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
-				      <div class="card-body">
-				        <h4 class="card-title mb-3 font-weight-bolder">Guía de notificaciones de cuentas</h4>
-				      </div>
-				      <div class="card-footer">
-								<div class="row">
-									<div class="col-6">
-										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center">Visualizar</a>
-									</div>
-									<div class="col-6">
-										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
-									</div>
-								</div>
-				      </div>
-				    </div>
-				  </div>
-				  <div id="9" class="guides-grid-col col-12 col-md-4">
-				    <div class="card h-100 guides-grid-block">
-				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
-				      <div class="card-body">
-				        <h4 class="card-title mb-3 font-weight-bolder">Guía de administración de terceros</h4>
-				      </div>
-				      <div class="card-footer">
-								<div class="row">
-									<div class="col-6">
-										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center">Visualizar</a>
-									</div>
-									<div class="col-6">
-										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
-									</div>
-								</div>
-				      </div>
-				    </div>
-				  </div>
-				  <div id="10" class="guides-grid-col col-12 col-md-4">
-				    <div class="card h-100 guides-grid-block">
-				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
-				      <div class="card-body">
-				        <h4 class="card-title mb-3 font-weight-bolder">Guía de consulta de actividad en línea y recibo electrónico</h4>
-				      </div>
-				      <div class="card-footer">
-								<div class="row">
-									<div class="col-6">
-										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center">Visualizar</a>
-									</div>
-									<div class="col-6">
-										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
-									</div>
-								</div>
-				      </div>
-				    </div>
-				  </div>
-				  <div id="11" class="guides-grid-col col-12 col-md-4">
-				    <div class="card h-100 guides-grid-block">
-				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
-				      <div class="card-body">
-				        <h4 class="card-title mb-3 font-weight-bolder">Guía de cambio de nombre de usuario</h4>
-				      </div>
-				      <div class="card-footer">
-								<div class="row">
-									<div class="col-6">
-										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center">Visualizar</a>
-									</div>
-									<div class="col-6">
-										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
-									</div>
-								</div>
-				      </div>
-				    </div>
-				  </div>
-				  <div id="12" class="guides-grid-col col-12 col-md-4">
-				    <div class="card h-100 guides-grid-block">
-				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
-				      <div class="card-body">
-				        <h4 class="card-title mb-3 font-weight-bolder">Guía de administración de límites diarios</h4>
-				      </div>
-				      <div class="card-footer">
-								<div class="row">
-									<div class="col-6">
-										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center">Visualizar</a>
-									</div>
-									<div class="col-6">
-										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
-									</div>
-								</div>
-				      </div>
-				    </div>
-				  </div>
-				  <div id="13" class="guides-grid-col col-12 col-md-4">
-				    <div class="card h-100 guides-grid-block">
-				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
-				      <div class="card-body">
-				        <h4 class="card-title mb-3 font-weight-bolder">Guía de cambio de contraseña</h4>
-				      </div>
-				      <div class="card-footer">
-								<div class="row">
-									<div class="col-6">
-										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center">Visualizar</a>
-									</div>
-									<div class="col-6">
-										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
-									</div>
-								</div>
-				      </div>
-				    </div>
-				  </div>
-				  <div id="14" class="guides-grid-col col-12 col-md-4">
-				    <div class="card h-100 guides-grid-block">
-				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
-				      <div class="card-body">
-				        <h4 class="card-title mb-3 font-weight-bolder">Guía de envío y respuesta de mensajes del servicio</h4>
-				      </div>
-				      <div class="card-footer">
-								<div class="row">
-									<div class="col-6">
-										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center">Visualizar</a>
-									</div>
-									<div class="col-6">
-										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
-									</div>
-								</div>
-				      </div>
-				    </div>
-				  </div>
-				</div>
+				<section id="blog-slider-module" class="blog-slider-module mb-5">
+					<div class="row">
+						<div class="col-12">
+							<p class="h2 font-weight-bold text-purple text-center mb-5">Más información de nuestro blog</p>
+						</div>
+					</div> <!-- ./ Blog slider -->
+
+					<div class="row">
+						<div class="col-md-6 col-lg-7 offset-lg-1 mr-lg-n5 has-label purple">
+							<img src="assets/img/secciones/blog/cpm-blog-combate_fraudes_financieros.png" class="bg-grey1 img-fluid" alt="Yo hago Click, con Caja Popular Mexicana">
+						</div>
+						<div class="col-md-6 col-lg-4 h-50 ml-lg-n1 my-auto">
+							<div class="h-100 p-5 py-md-2 p-lg-5 bg-purple text-white br-ntl-30">
+								<h3><strong>Combate los fraudes financieros</strong></h3>
+								<h5 class="text-yellow"><strong>Blog Cooperando Ando</strong></h5>
+								<!-- <p>Conoce las operaciones que puedes hacer en cada plataforma y no olvides calificar tu experiencia en las tiendas oficiales.</p> -->
+								<a href="#" class="btn bg-lightpurple text-white br-30 px-5">Saber más</a>
+							</div>
+						</div>
+					</div>
+					
+				</section> <!-- /. Featured Module Home -->
+
+				<div class="row row-eq-height">
+					<div class="col-12">
+						<p class="h2 font-weight-bold text-purple text-center mb-5">¿Qué hacer en caso de ser víctima de un fraude?</p>
+					</div>
+					<div class="landing-grid-box col-12 col-md-4 my-5">
+						<a href="operaciones-disponibles-sei.php" class="h-100">
+							<div class="landing-grid-box-info rounded bw-5 border-purple text-center h-100">
+								<i class="fas fa-hand-point-up fa-5x bg-purple rounded-circle text-white"></i>
+								<p class="lead">Llama al 01 800 7100 800 o acude a tu sucursal más cercana e informa de tu situación para evitar más daños.</p>
+							</div>
+						</a>
+					</div>
+					<div class="landing-grid-box col-12 col-md-4 my-5">
+						<a href="preguntas-frecuentes-sei.php" class="h-100">
+							<div class="landing-grid-box-info rounded bw-5 border-purple text-center p-3 h-100">
+								<i class="fas fa-hand-point-up fa-5x bg-purple rounded-circle text-white"></i>
+								<p class="lead">En caso de pérdida y robo de identificaciones, informa de inmediato al 01800 7100 800 o a tu sucursal más cercana para evitar que hagan mal uso de tus documentos.</p>
+							</div>
+						</a>
+					</div>
+					<div class="landing-grid-box col-12 col-md-4 my-5">
+						<a href="consideraciones-tecnicas-sei.php" class="h-100">
+							<div class="landing-grid-box-info rounded bw-5 border-purple text-center p-3 h-100">
+								<i class="fas fa-hand-point-up fa-5x bg-purple rounded-circle text-white"></i>
+								<p class="lead">No dejes de acudir al Ministerio Público a levantar un acta, incluso si Caja Popular Mexicana ya te devolvió tu dinero.</p>
+							</div>
+						</a>
+					</div>
+				</div> <!-- ./ Three blocks -->
 
 			</div>
 		</section> <!-- ./ Page content -->

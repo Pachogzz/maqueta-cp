@@ -58,6 +58,8 @@
 		<!-- Selector de estados -->
 		<script type="text/javascript" src="assets/js/municipios.js"></script>
 		<script type="text/javascript" src="assets/js/select_estados.js"></script>
+		<!-- Form Validatr -->
+		<script src="assets/js/validator.js"></script>
 		<!-- Custom JS -->
 		<script src="assets/js/site.js"></script>
 	</body>
