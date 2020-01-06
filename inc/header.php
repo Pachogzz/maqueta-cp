@@ -129,10 +129,10 @@
 													<a href="necesitas-credito.php" class="sub-drop nav-link dropdown-toggle" data-toggle="dropdown">Créditos</a>
 													<ul class="nav dropdown-menu">
 														<li class="nav-item"><a href="credito-personal-plus-cpm.php" class="nav-link">Crédito Personal Plus CPM</a></li>
-														<li class="nav-item"><a href="#" class="nav-link">Credinámico</a></li>
-														<li class="nav-item"><a href="#" class="nav-link">Crédito Productivo</a></li>
-														<li class="nav-item"><a href="#" class="nav-link">Crédito Automotriz</a></li>
-														<li class="nav-item"><a href="#" class="nav-link">Crédito Hipotecario</a></li>
+														<li class="nav-item"><a href="credito-credinamico-cpm.php" class="nav-link">Credinámico</a></li>
+														<li class="nav-item"><a href="credito-productivo-cpm.php" class="nav-link">Crédito Productivo</a></li>
+														<li class="nav-item"><a href="credito-automotriz-cpm.php" class="nav-link">Crédito Automotriz</a></li>
+														<li class="nav-item"><a href="credito-hipotecario-cpm.php" class="nav-link">Crédito Hipotecario</a></li>
 														<li class="nav-item"><a href="credito-inmediato-cpm.php" class="nav-link">Crédito Inmediato CPM</a></li>
 														<!-- <li class="nav-item"><a href="#" class="nav-link">Crédito Personal</a></li> -->
 													</ul>
