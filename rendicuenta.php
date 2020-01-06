@@ -33,20 +33,6 @@
 							<p class="lead">Por ejemplo, <span class="font-weight-bold text-primary">Consulta el contrato universal <a href="assets/img/secciones/ahorro/FR-1008-Contrato-Universal.pdf" target="blank">aquí</a></span></p>
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
-						<!--  -->
-						<!-- <div class="bg-grey0 p-5 mb-5">
-							<p class="display-12"><strong>Costo Anual Total Promedio de 31.5% sin IVA</strong>. Para fines informativos y de comparación exclusivamente. Fecha de cálculo 30 de Junio de 2019.</p>
-							<p class="display-12">*Cálculo para el <strong>Crédito Personal Plus CPM</strong> por la cantidad de <strong>$15,000.00 a un plazo de 12 meses con un monto mínimo de ahorro de $1,500.00</strong>.</p>
-							<ul class="display-12">
-								<li>Tabulador para fines informativos, no representa una contratación.</li>
-								<li>Incluye interés e IVA.</li>
-								<li>Sujeto a aprobación de crédito.</li>
-								<li>Préstamo otorgado en moneda nacional.</li>
-								<li>Disponible en todas nuestras sucursales a nivel nacional.</li>
-								<li>La tasa de interés se asignará de acuerdo al historial crediticio interno y externo a Caja Popular Mexicana que presente el socio.</li>
-								<li>En la contratación del producto, el plan de pagos se establece de manera mensual.</li>
-							</ul>
-						</div> -->
 						<!-- Cuadro de Recursos -->
 						<div class="bg-quinary text-white mb-5 p-4">
 							<p class="p-4 mb-0 bw-4 rounded border-white">Los recursos depositados en esta cuenta están protegidos por el <strong>Fondo de Protección</strong> a que se refiere el <strong>Título Cuarto de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo</strong>, hasta por <strong>25,000 Unidades de Inversión</strong>, de acuerdo a las disposiciones que establezcan el <strong>Comité Técnico y Comité de Protección al Ahorro Cooperativo del Fideicomiso</strong> que lo administra.</p>
@@ -161,625 +147,664 @@
 
 				<div class="row">
 					<div class="col-12">
-						<!-- Nota Legal Tabla -->
-						<!-- Tabla 30 días -->
-						<div class="table-responsive mt-5">
-							<table class="table">
-								<thead>
-									<tr class="bg-primary">
-									<th scope="col"><span class="text-white">#</span></th>
-									<th scope="col"><span class="text-white">De</span></th>
-									<th scope="col"><span class="text-white">A</span></th>
-									<th scope="col"><span class="text-white">Tasa anual</span></th>
-									<th scope="col"><span class="text-white">GAT nominal* <br>antes de impuestos</span></th>
-									<th scope="col"><span class="text-white">GAT real** antes <br>de impuestos</span></th>
-								</tr>
-								</thead>
-								<tbody>
-									<tr>
-										<th scope="row">1</th>
-										<td>$ 1000</td>
-										<td>$ 25,000</td>
-										<td>3.95%</td>
-										<td>4.02%</td>
-										<td>0.55%</td>
-									</tr>
-									<tr>
-										<th scope="row">2</th>
-										<td>$ 25,001</td>
-										<td>$ 50,000</td>
-										<td>4.13%</td>
-										<td>4.21%</td>
-										<td>0.73%</td>
-									</tr>
-									<tr>
-										<th scope="row">3</th>
-										<td>$ 50,001</td>
-										<td>$ 100,000.</td>
-										<td>4.30%</td>
-										<td>4.39%</td>
-										<td>0.90%</td>
-									</tr>
-									<tr>
-										<th scope="row">4</th>
-										<td>$ 101,001</td>
-										<td>$ 250,000</td>
-										<td>4.46%</td>
-										<td>4.55%</td>
-										<td>1.07%</td>
-									</tr>
-									<tr>
-										<th scope="row">5</th>
-										<td>$ 250,001</td>
-										<td>$ 500,000.</td>
-										<td>4.60%</td>
-										<td>4.70%</td>
-										<td>1.21%</td>
-									</tr>
-									<tr>
-										<th scope="row">6</th>
-										<td>$ 500,001</td>
-										<td>$ 1,000,000.</td>
-										<td>4.74%</td>
-										<td>4.84%</td>
-										<td>1.35%</td>
-									</tr>
-									<tr>
-										<th scope="row">7</th>
-										<td>$ 1,001,001</td>
-										<td>En adelante.</td>
-										<td>4.86%</td>
-										<td>4.97%</td>
-										<td>0.1.47%</td>
-									</tr>
-								</tbody>
-								</tbody>
-							</table>
+
+						<ul class="nav nav-pills tab-cpm-style1 mt-5" id="pills-tab" role="tablist">
+							<li class="nav-item">
+								<a class="nav-link font-weight-semibold active" id="tabOne-tab" data-toggle="pill" href="#tabOne" role="tab" aria-controls="tabOne" aria-selected="true">30 días</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link font-weight-semibold" id="tabTwo-tab" data-toggle="pill" href="#tabTwo" role="tab" aria-controls="tabTwo" aria-selected="false">60 días</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link font-weight-semibold" id="tabThree-tab" data-toggle="pill" href="#tabThree" role="tab" aria-controls="tabThree" aria-selected="false">90 días</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link font-weight-semibold" id="tabFour-tab" data-toggle="pill" href="#tabFour" role="tab" aria-controls="tabFour" aria-selected="false">120 días</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link font-weight-semibold" id="tabFive-tab" data-toggle="pill" href="#tabFive" role="tab" aria-controls="tabFive" aria-selected="false">150 días</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link font-weight-semibold" id="tabSix-tab" data-toggle="pill" href="#tabSix" role="tab" aria-controls="tabSix" aria-selected="false">180 días</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link font-weight-semibold" id="tabSeven-tab" data-toggle="pill" href="#tabSeven" role="tab" aria-controls="tabSeven" aria-selected="false">360 días</a>
+							</li>
+						</ul>
+						<div class="tab-content tab-cpm-style1" id="pills-tabContent">
+							<div class="tab-pane fade show active" id="tabOne" role="tabpanel" aria-labelledby="tabOne-tab">
+								<!-- Nota Legal Tabla -->
+								<!-- Tabla 30 días -->
+								<div class="table-responsive">
+									<table class="table">
+										<thead>
+											<tr class="bg-primary">
+											<th scope="col"><span class="text-white">#</span></th>
+											<th scope="col"><span class="text-white">De</span></th>
+											<th scope="col"><span class="text-white">A</span></th>
+											<th scope="col"><span class="text-white">Tasa anual</span></th>
+											<th scope="col"><span class="text-white">GAT nominal* <br>antes de impuestos</span></th>
+											<th scope="col"><span class="text-white">GAT real** antes <br>de impuestos</span></th>
+										</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<th scope="row">1</th>
+												<td>$ 1000</td>
+												<td>$ 25,000</td>
+												<td>3.95%</td>
+												<td>4.02%</td>
+												<td>0.55%</td>
+											</tr>
+											<tr>
+												<th scope="row">2</th>
+												<td>$ 25,001</td>
+												<td>$ 50,000</td>
+												<td>4.13%</td>
+												<td>4.21%</td>
+												<td>0.73%</td>
+											</tr>
+											<tr>
+												<th scope="row">3</th>
+												<td>$ 50,001</td>
+												<td>$ 100,000.</td>
+												<td>4.30%</td>
+												<td>4.39%</td>
+												<td>0.90%</td>
+											</tr>
+											<tr>
+												<th scope="row">4</th>
+												<td>$ 101,001</td>
+												<td>$ 250,000</td>
+												<td>4.46%</td>
+												<td>4.55%</td>
+												<td>1.07%</td>
+											</tr>
+											<tr>
+												<th scope="row">5</th>
+												<td>$ 250,001</td>
+												<td>$ 500,000.</td>
+												<td>4.60%</td>
+												<td>4.70%</td>
+												<td>1.21%</td>
+											</tr>
+											<tr>
+												<th scope="row">6</th>
+												<td>$ 500,001</td>
+												<td>$ 1,000,000.</td>
+												<td>4.74%</td>
+												<td>4.84%</td>
+												<td>1.35%</td>
+											</tr>
+											<tr>
+												<th scope="row">7</th>
+												<td>$ 1,001,001</td>
+												<td>En adelante.</td>
+												<td>4.86%</td>
+												<td>4.97%</td>
+												<td>0.1.47%</td>
+											</tr>
+										</tbody>
+										</tbody>
+									</table>
+								</div>
+							</div>
+							<div class="tab-pane fade" id="tabTwo" role="tabpanel" aria-labelledby="tabTwo-tab">
+								<!-- Nota Legal Tabla -->
+								<!-- Tabla 60 días -->
+								<div class="table-responsive">
+									<table class="table">
+										<thead>
+											<tr class="bg-primary">
+											<th scope="col"><span class="text-white">#</span></th>
+											<th scope="col"><span class="text-white">De</span></th>
+											<th scope="col"><span class="text-white">A</span></th>
+											<th scope="col"><span class="text-white">Tasa anual</span></th>
+											<th scope="col"><span class="text-white">GAT nominal* <br>antes de impuestos</span></th>
+											<th scope="col"><span class="text-white">GAT real** antes <br>de impuestos</span></th>
+										</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<th scope="row">1</th>
+												<td>$ 1000</td>
+												<td>$ 25,000</td>
+												<td>4.16%</td>
+												<td>4.23%</td>
+												<td>0.76%</td>
+											</tr>
+											<tr>
+												<th scope="row">2</th>
+												<td>$ 25,001</td>
+												<td>$ 50,000</td>
+												<td>4.35%</td>
+												<td>4.43%</td>
+												<td>0.95%</td>
+											</tr>
+											<tr>
+												<th scope="row">3</th>
+												<td>$ 50,001</td>
+												<td>$ 100,000.</td>
+												<td>4.51%</td>
+												<td>4.60%</td>
+												<td>1.11%</td>
+											</tr>
+											<tr>
+												<th scope="row">4</th>
+												<td>$ 101,001</td>
+												<td>$ 250,000</td>
+												<td>4.68%</td>
+												<td>4.77%</td>
+												<td>1.28%</td>
+											</tr>
+											<tr>
+												<th scope="row">5</th>
+												<td>$ 250,001</td>
+												<td>$ 500,000.</td>
+												<td>4.82%</td>
+												<td>4.92%</td>
+												<td>1.42%</td>
+											</tr>
+											<tr>
+												<th scope="row">6</th>
+												<td>$ 500,001</td>
+												<td>$ 1,000,000.</td>
+												<td>4.95%</td>
+												<td>5.05%</td>
+												<td>1.55%</td>
+											</tr>
+											<tr>
+												<th scope="row">7</th>
+												<td>$ 1,001,001</td>
+												<td>En adelante.</td>
+												<td>5.07%</td>
+												<td>5.18%</td>
+												<td>1.67%</td>
+											</tr>
+										</tbody>
+										</tbody>
+									</table>
+								</div>
+							</div>
+							<div class="tab-pane fade" id="tabThree" role="tabpanel" aria-labelledby="tabThree-tab">
+								<!-- Nota Legal Tabla -->
+								<!-- Tabla 90 días -->
+								<div class="table-responsive">
+									<table class="table">
+										<thead>
+											<tr class="bg-primary">
+											<th scope="col"><span class="text-white">#</span></th>
+											<th scope="col"><span class="text-white">De</span></th>
+											<th scope="col"><span class="text-white">A</span></th>
+											<th scope="col"><span class="text-white">Tasa anual</span></th>
+											<th scope="col"><span class="text-white">GAT nominal* <br>antes de impuestos</span></th>
+											<th scope="col"><span class="text-white">GAT real** antes <br>de impuestos</span></th>
+										</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<th scope="row">1</th>
+												<td>$ 1000</td>
+												<td>$ 25,000</td>
+												<td>4.38%</td>
+												<td>4.45%</td>
+												<td>0.97%</td>
+											</tr>
+											<tr>
+												<th scope="row">2</th>
+												<td>$ 25,001</td>
+												<td>$ 50,000</td>
+												<td>4.56%</td>
+												<td>4.64%</td>
+												<td>1.15%</td>
+											</tr>
+											<tr>
+												<th scope="row">3</th>
+												<td>$ 50,001</td>
+												<td>$ 100,000.</td>
+												<td>4.74%</td>
+												<td>4.82%</td>
+												<td>1.133%</td>
+											</tr>
+											<tr>
+												<th scope="row">4</th>
+												<td>$ 101,001</td>
+												<td>$ 250,000</td>
+												<td>4.89%</td>
+												<td>4.98%</td>
+												<td>1.48%</td>
+											</tr>
+											<tr>
+												<th scope="row">5</th>
+												<td>$ 250,001</td>
+												<td>$ 500,000.</td>
+												<td>5.03%</td>
+												<td>5/13%</td>
+												<td>1.62%</td>
+											</tr>
+											<tr>
+												<th scope="row">6</th>
+												<td>$ 500,001</td>
+												<td>$ 1,000,000.</td>
+												<td>5.17%</td>
+												<td>5.27%</td>
+												<td>1.76%</td>
+											</tr>
+											<tr>
+												<th scope="row">7</th>
+												<td>$ 1,001,001</td>
+												<td>En adelante.</td>
+												<td>5.29%</td>
+												<td>5.40%</td>
+												<td>1.88%</td>
+											</tr>
+										</tbody>
+										</tbody>
+									</table>
+								</div>
+							</div>
+							<div class="tab-pane fade" id="tabFour" role="tabpanel" aria-labelledby="tabFour-tab">
+								<!-- Nota Legal Tabla -->
+								<!-- Tabla 120 días -->
+								<div class="table-responsive">
+									<table class="table">
+										<thead>
+											<tr class="bg-primary">
+											<th scope="col"><span class="text-white">#</span></th>
+											<th scope="col"><span class="text-white">De</span></th>
+											<th scope="col"><span class="text-white">A</span></th>
+											<th scope="col"><span class="text-white">Tasa anual</span></th>
+											<th scope="col"><span class="text-white">GAT <br>nominal*<br>antes de<br>impuestos</span></th>
+											<th scope="col"><span class="text-white">GAT <br>real**<br>antes de<br>impuestos</span></th>
+											<th scope="col"><span class="text-white">Tasas de intereses anual <br>variable antes de<br>impuestos para pago<br>de interés c/30 días</span></th>
+											<th scope="col"><span class="text-white">* GAT nominal anual<br>antes de impuestos<br>para pago de interés<br>c/30 días</span></th>
+											<th scope="col"><span class="text-white">** GAT real anual<br>antes de impuestos<br>para pago de interés<br>c/30 días</span></th>
+										</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<th scope="row">1</th>
+												<td>$ 1000</td>
+												<td>$ 25,000</td>
+												<td>4.59%</td>
+												<td>4.66%</td>
+												<td>1.17%</td>
+												<td>4.55%</td>
+												<td>4.62%</td>
+												<td>1.13%</td>
+											</tr>
+											<tr>
+												<th scope="row">2</th>
+												<td>$ 25,001</td>
+												<td>$ 50,000</td>
+												<td>4.78%</td>
+												<td>4.86%</td>
+												<td>1.36%</td>
+												<td>4.74%</td>
+												<td>4.82%</td>
+												<td>1.13%</td>
+											</tr>
+											<tr>
+												<th scope="row">3</th>
+												<td>$ 50,001</td>
+												<td>$ 100,000.</td>
+												<td>4.95%</td>
+												<td>5.03%</td>
+												<td>1.53%</td>
+												<td>4.91%</td>
+												<td>4.99%</td>
+												<td>1.49%</td>
+											</tr>
+											<tr>
+												<th scope="row">4</th>
+												<td>$ 101,001</td>
+												<td>$ 250,000</td>
+												<td>5.10%</td>
+												<td>5.19%</td>
+												<td>1.68%</td>
+												<td>5.06%</td>
+												<td>5.15%</td>
+												<td>1.64%</td>
+											</tr>
+											<tr>
+												<th scope="row">5</th>
+												<td>$ 250,001</td>
+												<td>$ 500,000.</td>
+												<td>5.26%</td>
+												<td>5.35%</td>
+												<td>1.84%</td>
+												<td>5.22%</td>
+												<td>5.31%</td>
+												<td>1.80%</td>
+											</tr>
+											<tr>
+												<th scope="row">6</th>
+												<td>$ 500,001</td>
+												<td>$ 1,000,000.</td>
+												<td>5.39%</td>
+												<td>5.49%</td>
+												<td>1.97%</td>
+												<td>5.35%</td>
+												<td>5.45%</td>
+												<td>1.93%</td>
+											<tr>
+												<th scope="row">7</th>
+												<td>$ 1,001,001</td>
+												<td>En adelante.</td>
+												<td>5.51%</td>
+												<td>5.61%</td>
+												<td>2.09%</td>
+												<td>5.47%</td>
+												<td>5.57%</td>
+												<td>2.05%</td>
+											</tr>
+										</tbody>
+										</tbody>
+									</table>
+								</div>
+							</div>
+							<div class="tab-pane fade" id="tabFive" role="tabpanel" aria-labelledby="tabFive-tab">
+								<!-- Nota Legal Tabla -->
+								<!-- Tabla 120 días -->
+								<div class="table-responsive">
+									<table class="table">
+										<thead>
+											<tr class="bg-primary">
+											<th scope="col"><span class="text-white">#</span></th>
+											<th scope="col"><span class="text-white">De</span></th>
+											<th scope="col"><span class="text-white">A</span></th>
+											<th scope="col"><span class="text-white">Tasa anual</span></th>
+											<th scope="col"><span class="text-white">GAT <br>nominal*<br>antes de<br>impuestos</span></th>
+											<th scope="col"><span class="text-white">GAT <br>real**<br>antes de<br>impuestos</span></th>
+											<th scope="col"><span class="text-white">Tasas de intereses anual <br>variable antes de<br>impuestos para pago<br>de interés c/30 días</span></th>
+											<th scope="col"><span class="text-white">* GAT nominal anual<br>antes de impuestos<br>para pago de interés<br>c/30 días</span></th>
+											<th scope="col"><span class="text-white">** GAT real anual<br>antes de impuestos<br>para pago de interés<br>c/30 días</span></th>
+										</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<th scope="row">1</th>
+												<td>$ 1000</td>
+												<td>$ 25,000</td>
+												<td>4.82%</td>
+												<td>4.90%</td>
+												<td>1.40%</td>
+												<td>4.77%</td>
+												<td>4.85%</td>
+												<td>1.35%</td>
+											</tr>
+											<tr>
+												<th scope="row">2</th>
+												<td>$ 25,001</td>
+												<td>$ 50,000</td>
+												<td>5.00%</td>
+												<td>5.08%</td>
+												<td>1.58%</td>
+												<td>4.95%</td>
+												<td>5.03%</td>
+												<td>1.53%</td>
+											</tr>
+											<tr>
+												<th scope="row">3</th>
+												<td>$ 50,001</td>
+												<td>$ 100,000.</td>
+												<td>5.17%</td>
+												<td>5.26%</td>
+												<td>1.75%</td>
+												<td>5.12%</td>
+												<td>5.21%</td>
+												<td>1.70%</td>
+											</tr>
+											<tr>
+												<th scope="row">4</th>
+												<td>$ 101,001</td>
+												<td>$ 250,000</td>
+												<td>5.33%</td>
+												<td>5.43%</td>
+												<td>1.91%</td>
+												<td>5.28%</td>
+												<td>5.37%</td>
+												<td>1.86%</td>
+											</tr>
+											<tr>
+												<th scope="row">5</th>
+												<td>$ 250,001</td>
+												<td>$ 500,000.</td>
+												<td>5.48%</td>
+												<td>5.58%</td>
+												<td>2.06%</td>
+												<td>5.43%</td>
+												<td>5.53%</td>
+												<td>2.01%</td>
+											</tr>
+											<tr>
+												<th scope="row">6</th>
+												<td>$ 500,001</td>
+												<td>$ 1,000,000.</td>
+												<td>5.61%</td>
+												<td>5.72%</td>
+												<td>2.19%</td>
+												<td>5.56%</td>
+												<td>5.66%</td>
+												<td>2.14%</td>
+											<tr>
+												<th scope="row">7</th>
+												<td>$ 1,001,001</td>
+												<td>En adelante.</td>
+												<td>5.73%</td>
+												<td>5.84%</td>
+												<td>2.31%</td>
+												<td>5.68%</td>
+												<td>5.79%</td>
+												<td>2.26%</td>
+											</tr>
+										</tbody>
+										</tbody>
+									</table>
+								</div>
+							</div>
+							<div class="tab-pane fade" id="tabSix" role="tabpanel" aria-labelledby="tabSix-tab">
+								<!-- Nota Legal Tabla -->
+								<!-- Tabla 180 días -->
+								<div class="table-responsive">
+									<table class="table">
+										<thead>
+											<tr class="bg-primary">
+											<th scope="col"><span class="text-white">#</span></th>
+											<th scope="col"><span class="text-white">De</span></th>
+											<th scope="col"><span class="text-white">A</span></th>
+											<th scope="col"><span class="text-white">Tasa anual</span></th>
+											<th scope="col"><span class="text-white">GAT <br>nominal*<br>antes de<br>impuestos</span></th>
+											<th scope="col"><span class="text-white">GAT <br>real**<br>antes de<br>impuestos</span></th>
+											<th scope="col"><span class="text-white">Tasas de intereses anual <br>variable antes de<br>impuestos para pago<br>de interés c/30 días</span></th>
+											<th scope="col"><span class="text-white">* GAT nominal anual<br>antes de impuestos<br>para pago de interés<br>c/30 días</span></th>
+											<th scope="col"><span class="text-white">** GAT real anual<br>antes de impuestos<br>para pago de interés<br>c/30 días</span></th>
+										</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<th scope="row">1</th>
+												<td>$ 1000</td>
+												<td>$ 25,000</td>
+												<td>5.03%</td>
+												<td>5.09%</td>
+												<td>1.59%</td>
+												<td>4.96%</td>
+												<td>5.02%</td>
+												<td>1.52%</td>
+											</tr>
+											<tr>
+												<th scope="row">2</th>
+												<td>$ 25,001</td>
+												<td>$ 50,000</td>
+												<td>5.22%</td>
+												<td>5.29%</td>
+												<td>1.78%</td>
+												<td>5.15%</td>
+												<td>5.22%</td>
+												<td>1.71%</td>
+											</tr>
+											<tr>
+												<th scope="row">3</th>
+												<td>$ 50,001</td>
+												<td>$ 100,000.</td>
+												<td>5.39%</td>
+												<td>5.46%</td>
+												<td>1.95%</td>
+												<td>5.32%</td>
+												<td>5.39%</td>
+												<td>1.88%</td>
+											</tr>
+											<tr>
+												<th scope="row">4</th>
+												<td>$ 101,001</td>
+												<td>$ 250,000</td>
+												<td>5.55%</td>
+												<td>5.63%</td>
+												<td>2.10%</td>
+												<td>5.48%</td>
+												<td>5.56%</td>
+												<td>2.03%</td>
+											</tr>
+											<tr>
+												<th scope="row">5</th>
+												<td>$ 250,001</td>
+												<td>$ 500,000.</td>
+												<td>5.69%</td>
+												<td>5.77%</td>
+												<td>2.24%</td>
+												<td>5.62%</td>
+												<td>5.70%</td>
+												<td>2.17%</td>
+											</tr>
+											<tr>
+												<th scope="row">6</th>
+												<td>$ 500,001</td>
+												<td>$ 1,000,000.</td>
+												<td>5.84%</td>
+												<td>5.93%</td>
+												<td>2.39%</td>
+												<td>5.77%</td>
+												<td>5.85%</td>
+												<td>2.32%</td>
+											<tr>
+												<th scope="row">7</th>
+												<td>$ 1,001,001</td>
+												<td>En adelante.</td>
+												<td>5.96%</td>
+												<td>6.05%</td>
+												<td>2.51%</td>
+												<td>5.89%</td>
+												<td>5.96%</td>
+												<td>2.44%</td>
+											</tr>
+										</tbody>
+										</tbody>
+									</table>
+								</div>
+							</div>
+							<div class="tab-pane fade" id="tabSeven" role="tabpanel" aria-labelledby="tabSeven-tab">
+								<!-- Nota Legal Tabla -->
+								<!-- Tabla 360 días -->
+								<div class="table-responsive">
+									<table class="table">
+										<thead>
+											<tr class="bg-primary">
+											<th scope="col"><span class="text-white">#</span></th>
+											<th scope="col"><span class="text-white">De</span></th>
+											<th scope="col"><span class="text-white">A</span></th>
+											<th scope="col"><span class="text-white">Tasa anual</span></th>
+											<th scope="col"><span class="text-white">GAT <br>nominal*<br>antes de<br>impuestos</span></th>
+											<th scope="col"><span class="text-white">GAT <br>real**<br>antes de<br>impuestos</span></th>
+											<th scope="col"><span class="text-white">Tasas de intereses anual <br>variable antes de<br>impuestos para pago<br>de interés c/30 días</span></th>
+											<th scope="col"><span class="text-white">* GAT nominal anual<br>antes de impuestos<br>para pago de interés<br>c/30 días</span></th>
+											<th scope="col"><span class="text-white">** GAT real anual<br>antes de impuestos<br>para pago de interés<br>c/30 días</span></th>
+										</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<th scope="row">1</th>
+												<td>$ 1000</td>
+												<td>$ 25,000</td>
+												<td>6.38%</td>
+												<td>6.38%</td>
+												<td>2.83%</td>
+												<td>6.23%</td>
+												<td>6.41%</td>
+												<td>2.86%</td>
+											</tr>
+											<tr>
+												<th scope="row">2</th>
+												<td>$ 25,001</td>
+												<td>$ 50,000</td>
+												<td>6.58%</td>
+												<td>6.58%</td>
+												<td>3.03%</td>
+												<td>6.43%</td>
+												<td>6.62%</td>
+												<td>3.07%</td>
+											</tr>
+											<tr>
+												<th scope="row">3</th>
+												<td>$ 50,001</td>
+												<td>$ 100,000.</td>
+												<td>6.75%</td>
+												<td>6.75%</td>
+												<td>3.19%</td>
+												<td>6.61%</td>
+												<td>6.81%</td>
+												<td>3.25%</td>
+											</tr>
+											<tr>
+												<th scope="row">4</th>
+												<td>$ 101,001</td>
+												<td>$ 250,000</td>
+												<td>6.92%</td>
+												<td>6.92%</td>
+												<td>3.35%</td>
+												<td>6.78%</td>
+												<td>6.99%</td>
+												<td>3.43%</td>
+											</tr>
+											<tr>
+												<th scope="row">5</th>
+												<td>$ 250,001</td>
+												<td>$ 500,000.</td>
+												<td>7.07%</td>
+												<td>7.07%</td>
+												<td>3.50%</td>
+												<td>6.93%</td>
+												<td>7.15%</td>
+												<td>3.73%</td>
+											</tr>
+											<tr>
+												<th scope="row">6</th>
+												<td>$ 500,001</td>
+												<td>$ 1,000,000.</td>
+												<td>7.21%</td>
+												<td>7.21%</td>
+												<td>3.63%</td>
+												<td>7.07%</td>
+												<td>7.30%</td>
+												<td>3.73%</td>
+											<tr>
+												<th scope="row">7</th>
+												<td>$ 1,001,001</td>
+												<td>En adelante.</td>
+												<td>7.33%</td>
+												<td>7.33%</td>
+												<td>3.75%</td>
+												<td>7.19%</td>
+												<td>7.43%</td>
+												<td>3.85%</td>
+											</tr>	
+										</tbody>
+										</tbody>
+									</table>
+								</div>
+							</div>
 						</div>
-						<!-- Nota Legal Tabla -->
-						<!-- Tabla 60 días -->
-						<div class="table-responsive mt-5">
-							<table class="table">
-								<thead>
-									<tr class="bg-primary">
-									<th scope="col"><span class="text-white">#</span></th>
-									<th scope="col"><span class="text-white">De</span></th>
-									<th scope="col"><span class="text-white">A</span></th>
-									<th scope="col"><span class="text-white">Tasa anual</span></th>
-									<th scope="col"><span class="text-white">GAT nominal* <br>antes de impuestos</span></th>
-									<th scope="col"><span class="text-white">GAT real** antes <br>de impuestos</span></th>
-								</tr>
-								</thead>
-								<tbody>
-									<tr>
-										<th scope="row">1</th>
-										<td>$ 1000</td>
-										<td>$ 25,000</td>
-										<td>4.16%</td>
-										<td>4.23%</td>
-										<td>0.76%</td>
-									</tr>
-									<tr>
-										<th scope="row">2</th>
-										<td>$ 25,001</td>
-										<td>$ 50,000</td>
-										<td>4.35%</td>
-										<td>4.43%</td>
-										<td>0.95%</td>
-									</tr>
-									<tr>
-										<th scope="row">3</th>
-										<td>$ 50,001</td>
-										<td>$ 100,000.</td>
-										<td>4.51%</td>
-										<td>4.60%</td>
-										<td>1.11%</td>
-									</tr>
-									<tr>
-										<th scope="row">4</th>
-										<td>$ 101,001</td>
-										<td>$ 250,000</td>
-										<td>4.68%</td>
-										<td>4.77%</td>
-										<td>1.28%</td>
-									</tr>
-									<tr>
-										<th scope="row">5</th>
-										<td>$ 250,001</td>
-										<td>$ 500,000.</td>
-										<td>4.82%</td>
-										<td>4.92%</td>
-										<td>1.42%</td>
-									</tr>
-									<tr>
-										<th scope="row">6</th>
-										<td>$ 500,001</td>
-										<td>$ 1,000,000.</td>
-										<td>4.95%</td>
-										<td>5.05%</td>
-										<td>1.55%</td>
-									</tr>
-									<tr>
-										<th scope="row">7</th>
-										<td>$ 1,001,001</td>
-										<td>En adelante.</td>
-										<td>5.07%</td>
-										<td>5.18%</td>
-										<td>1.67%</td>
-									</tr>
-								</tbody>
-								</tbody>
-							</table>
-						</div>
-						<!-- Nota Legal Tabla -->
-						<!-- Nota Legal Tabla -->
-						<!-- Tabla 90 días -->
-						<div class="table-responsive mt-5">
-							<table class="table">
-								<thead>
-									<tr class="bg-primary">
-									<th scope="col"><span class="text-white">#</span></th>
-									<th scope="col"><span class="text-white">De</span></th>
-									<th scope="col"><span class="text-white">A</span></th>
-									<th scope="col"><span class="text-white">Tasa anual</span></th>
-									<th scope="col"><span class="text-white">GAT nominal* <br>antes de impuestos</span></th>
-									<th scope="col"><span class="text-white">GAT real** antes <br>de impuestos</span></th>
-								</tr>
-								</thead>
-								<tbody>
-									<tr>
-										<th scope="row">1</th>
-										<td>$ 1000</td>
-										<td>$ 25,000</td>
-										<td>4.38%</td>
-										<td>4.45%</td>
-										<td>0.97%</td>
-									</tr>
-									<tr>
-										<th scope="row">2</th>
-										<td>$ 25,001</td>
-										<td>$ 50,000</td>
-										<td>4.56%</td>
-										<td>4.64%</td>
-										<td>1.15%</td>
-									</tr>
-									<tr>
-										<th scope="row">3</th>
-										<td>$ 50,001</td>
-										<td>$ 100,000.</td>
-										<td>4.74%</td>
-										<td>4.82%</td>
-										<td>1.133%</td>
-									</tr>
-									<tr>
-										<th scope="row">4</th>
-										<td>$ 101,001</td>
-										<td>$ 250,000</td>
-										<td>4.89%</td>
-										<td>4.98%</td>
-										<td>1.48%</td>
-									</tr>
-									<tr>
-										<th scope="row">5</th>
-										<td>$ 250,001</td>
-										<td>$ 500,000.</td>
-										<td>5.03%</td>
-										<td>5/13%</td>
-										<td>1.62%</td>
-									</tr>
-									<tr>
-										<th scope="row">6</th>
-										<td>$ 500,001</td>
-										<td>$ 1,000,000.</td>
-										<td>5.17%</td>
-										<td>5.27%</td>
-										<td>1.76%</td>
-									</tr>
-									<tr>
-										<th scope="row">7</th>
-										<td>$ 1,001,001</td>
-										<td>En adelante.</td>
-										<td>5.29%</td>
-										<td>5.40%</td>
-										<td>1.88%</td>
-									</tr>
-								</tbody>
-								</tbody>
-							</table>
-						</div>
-						<!-- Nota Legal Tabla -->
-						<!-- Nota Legal Tabla -->
-						<!-- Tabla 120 días -->
-						<div class="table-responsive mt-5">
-							<table class="table">
-								<thead>
-									<tr class="bg-primary">
-									<th scope="col"><span class="text-white">#</span></th>
-									<th scope="col"><span class="text-white">De</span></th>
-									<th scope="col"><span class="text-white">A</span></th>
-									<th scope="col"><span class="text-white">Tasa anual</span></th>
-									<th scope="col"><span class="text-white">GAT <br>nominal*<br>antes de<br>impuestos</span></th>
-									<th scope="col"><span class="text-white">GAT <br>real**<br>antes de<br>impuestos</span></th>
-									<th scope="col"><span class="text-white">Tasas de intereses anual <br>variable antes de<br>impuestos para pago<br>de interés c/30 días</span></th>
-									<th scope="col"><span class="text-white">* GAT nominal anual<br>antes de impuestos<br>para pago de interés<br>c/30 días</span></th>
-									<th scope="col"><span class="text-white">** GAT real anual<br>antes de impuestos<br>para pago de interés<br>c/30 días</span></th>
-								</tr>
-								</thead>
-								<tbody>
-									<tr>
-										<th scope="row">1</th>
-										<td>$ 1000</td>
-										<td>$ 25,000</td>
-										<td>4.59%</td>
-										<td>4.66%</td>
-										<td>1.17%</td>
-										<td>4.55%</td>
-										<td>4.62%</td>
-										<td>1.13%</td>
-									</tr>
-									<tr>
-										<th scope="row">2</th>
-										<td>$ 25,001</td>
-										<td>$ 50,000</td>
-										<td>4.78%</td>
-										<td>4.86%</td>
-										<td>1.36%</td>
-										<td>4.74%</td>
-										<td>4.82%</td>
-										<td>1.13%</td>
-									</tr>
-									<tr>
-										<th scope="row">3</th>
-										<td>$ 50,001</td>
-										<td>$ 100,000.</td>
-										<td>4.95%</td>
-										<td>5.03%</td>
-										<td>1.53%</td>
-										<td>4.91%</td>
-										<td>4.99%</td>
-										<td>1.49%</td>
-									</tr>
-									<tr>
-										<th scope="row">4</th>
-										<td>$ 101,001</td>
-										<td>$ 250,000</td>
-										<td>5.10%</td>
-										<td>5.19%</td>
-										<td>1.68%</td>
-										<td>5.06%</td>
-										<td>5.15%</td>
-										<td>1.64%</td>
-									</tr>
-									<tr>
-										<th scope="row">5</th>
-										<td>$ 250,001</td>
-										<td>$ 500,000.</td>
-										<td>5.26%</td>
-										<td>5.35%</td>
-										<td>1.84%</td>
-										<td>5.22%</td>
-										<td>5.31%</td>
-										<td>1.80%</td>
-									</tr>
-									<tr>
-										<th scope="row">6</th>
-										<td>$ 500,001</td>
-										<td>$ 1,000,000.</td>
-										<td>5.39%</td>
-										<td>5.49%</td>
-										<td>1.97%</td>
-										<td>5.35%</td>
-										<td>5.45%</td>
-										<td>1.93%</td>
-									<tr>
-										<th scope="row">7</th>
-										<td>$ 1,001,001</td>
-										<td>En adelante.</td>
-										<td>5.51%</td>
-										<td>5.61%</td>
-										<td>2.09%</td>
-										<td>5.47%</td>
-										<td>5.57%</td>
-										<td>2.05%</td>
-									</tr>
-								</tbody>
-								</tbody>
-							</table>
-						</div>
-						<!-- Nota Legal Tabla --><!-- Tabla 120 días -->
-						<div class="table-responsive mt-5">
-							<table class="table">
-								<thead>
-									<tr class="bg-primary">
-									<th scope="col"><span class="text-white">#</span></th>
-									<th scope="col"><span class="text-white">De</span></th>
-									<th scope="col"><span class="text-white">A</span></th>
-									<th scope="col"><span class="text-white">Tasa anual</span></th>
-									<th scope="col"><span class="text-white">GAT <br>nominal*<br>antes de<br>impuestos</span></th>
-									<th scope="col"><span class="text-white">GAT <br>real**<br>antes de<br>impuestos</span></th>
-									<th scope="col"><span class="text-white">Tasas de intereses anual <br>variable antes de<br>impuestos para pago<br>de interés c/30 días</span></th>
-									<th scope="col"><span class="text-white">* GAT nominal anual<br>antes de impuestos<br>para pago de interés<br>c/30 días</span></th>
-									<th scope="col"><span class="text-white">** GAT real anual<br>antes de impuestos<br>para pago de interés<br>c/30 días</span></th>
-								</tr>
-								</thead>
-								<tbody>
-									<tr>
-										<th scope="row">1</th>
-										<td>$ 1000</td>
-										<td>$ 25,000</td>
-										<td>4.82%</td>
-										<td>4.90%</td>
-										<td>1.40%</td>
-										<td>4.77%</td>
-										<td>4.85%</td>
-										<td>1.35%</td>
-									</tr>
-									<tr>
-										<th scope="row">2</th>
-										<td>$ 25,001</td>
-										<td>$ 50,000</td>
-										<td>5.00%</td>
-										<td>5.08%</td>
-										<td>1.58%</td>
-										<td>4.95%</td>
-										<td>5.03%</td>
-										<td>1.53%</td>
-									</tr>
-									<tr>
-										<th scope="row">3</th>
-										<td>$ 50,001</td>
-										<td>$ 100,000.</td>
-										<td>5.17%</td>
-										<td>5.26%</td>
-										<td>1.75%</td>
-										<td>5.12%</td>
-										<td>5.21%</td>
-										<td>1.70%</td>
-									</tr>
-									<tr>
-										<th scope="row">4</th>
-										<td>$ 101,001</td>
-										<td>$ 250,000</td>
-										<td>5.33%</td>
-										<td>5.43%</td>
-										<td>1.91%</td>
-										<td>5.28%</td>
-										<td>5.37%</td>
-										<td>1.86%</td>
-									</tr>
-									<tr>
-										<th scope="row">5</th>
-										<td>$ 250,001</td>
-										<td>$ 500,000.</td>
-										<td>5.48%</td>
-										<td>5.58%</td>
-										<td>2.06%</td>
-										<td>5.43%</td>
-										<td>5.53%</td>
-										<td>2.01%</td>
-									</tr>
-									<tr>
-										<th scope="row">6</th>
-										<td>$ 500,001</td>
-										<td>$ 1,000,000.</td>
-										<td>5.61%</td>
-										<td>5.72%</td>
-										<td>2.19%</td>
-										<td>5.56%</td>
-										<td>5.66%</td>
-										<td>2.14%</td>
-									<tr>
-										<th scope="row">7</th>
-										<td>$ 1,001,001</td>
-										<td>En adelante.</td>
-										<td>5.73%</td>
-										<td>5.84%</td>
-										<td>2.31%</td>
-										<td>5.68%</td>
-										<td>5.79%</td>
-										<td>2.26%</td>
-									</tr>
-								</tbody>
-								</tbody>
-							</table>
-						</div>
-						<!-- Nota Legal Tabla -->
-						<!-- Nota Legal Tabla --><!-- Tabla 180 días -->
-						<div class="table-responsive mt-5">
-							<table class="table">
-								<thead>
-									<tr class="bg-primary">
-									<th scope="col"><span class="text-white">#</span></th>
-									<th scope="col"><span class="text-white">De</span></th>
-									<th scope="col"><span class="text-white">A</span></th>
-									<th scope="col"><span class="text-white">Tasa anual</span></th>
-									<th scope="col"><span class="text-white">GAT <br>nominal*<br>antes de<br>impuestos</span></th>
-									<th scope="col"><span class="text-white">GAT <br>real**<br>antes de<br>impuestos</span></th>
-									<th scope="col"><span class="text-white">Tasas de intereses anual <br>variable antes de<br>impuestos para pago<br>de interés c/30 días</span></th>
-									<th scope="col"><span class="text-white">* GAT nominal anual<br>antes de impuestos<br>para pago de interés<br>c/30 días</span></th>
-									<th scope="col"><span class="text-white">** GAT real anual<br>antes de impuestos<br>para pago de interés<br>c/30 días</span></th>
-								</tr>
-								</thead>
-								<tbody>
-									<tr>
-										<th scope="row">1</th>
-										<td>$ 1000</td>
-										<td>$ 25,000</td>
-										<td>5.03%</td>
-										<td>5.09%</td>
-										<td>1.59%</td>
-										<td>4.96%</td>
-										<td>5.02%</td>
-										<td>1.52%</td>
-									</tr>
-									<tr>
-										<th scope="row">2</th>
-										<td>$ 25,001</td>
-										<td>$ 50,000</td>
-										<td>5.22%</td>
-										<td>5.29%</td>
-										<td>1.78%</td>
-										<td>5.15%</td>
-										<td>5.22%</td>
-										<td>1.71%</td>
-									</tr>
-									<tr>
-										<th scope="row">3</th>
-										<td>$ 50,001</td>
-										<td>$ 100,000.</td>
-										<td>5.39%</td>
-										<td>5.46%</td>
-										<td>1.95%</td>
-										<td>5.32%</td>
-										<td>5.39%</td>
-										<td>1.88%</td>
-									</tr>
-									<tr>
-										<th scope="row">4</th>
-										<td>$ 101,001</td>
-										<td>$ 250,000</td>
-										<td>5.55%</td>
-										<td>5.63%</td>
-										<td>2.10%</td>
-										<td>5.48%</td>
-										<td>5.56%</td>
-										<td>2.03%</td>
-									</tr>
-									<tr>
-										<th scope="row">5</th>
-										<td>$ 250,001</td>
-										<td>$ 500,000.</td>
-										<td>5.69%</td>
-										<td>5.77%</td>
-										<td>2.24%</td>
-										<td>5.62%</td>
-										<td>5.70%</td>
-										<td>2.17%</td>
-									</tr>
-									<tr>
-										<th scope="row">6</th>
-										<td>$ 500,001</td>
-										<td>$ 1,000,000.</td>
-										<td>5.84%</td>
-										<td>5.93%</td>
-										<td>2.39%</td>
-										<td>5.77%</td>
-										<td>5.85%</td>
-										<td>2.32%</td>
-									<tr>
-										<th scope="row">7</th>
-										<td>$ 1,001,001</td>
-										<td>En adelante.</td>
-										<td>5.96%</td>
-										<td>6.05%</td>
-										<td>2.51%</td>
-										<td>5.89%</td>
-										<td>5.96%</td>
-										<td>2.44%</td>
-									</tr>
-								</tbody>
-								</tbody>
-							</table>
-						</div>
-						<!-- Nota Legal Tabla -->
-						<!-- Nota Legal Tabla --><!-- Tabla 360 días -->
-						<div class="table-responsive mt-5">
-							<table class="table">
-								<thead>
-									<tr class="bg-primary">
-									<th scope="col"><span class="text-white">#</span></th>
-									<th scope="col"><span class="text-white">De</span></th>
-									<th scope="col"><span class="text-white">A</span></th>
-									<th scope="col"><span class="text-white">Tasa anual</span></th>
-									<th scope="col"><span class="text-white">GAT <br>nominal*<br>antes de<br>impuestos</span></th>
-									<th scope="col"><span class="text-white">GAT <br>real**<br>antes de<br>impuestos</span></th>
-									<th scope="col"><span class="text-white">Tasas de intereses anual <br>variable antes de<br>impuestos para pago<br>de interés c/30 días</span></th>
-									<th scope="col"><span class="text-white">* GAT nominal anual<br>antes de impuestos<br>para pago de interés<br>c/30 días</span></th>
-									<th scope="col"><span class="text-white">** GAT real anual<br>antes de impuestos<br>para pago de interés<br>c/30 días</span></th>
-								</tr>
-								</thead>
-								<tbody>
-									<tr>
-										<th scope="row">1</th>
-										<td>$ 1000</td>
-										<td>$ 25,000</td>
-										<td>6.38%</td>
-										<td>6.38%</td>
-										<td>2.83%</td>
-										<td>6.23%</td>
-										<td>6.41%</td>
-										<td>2.86%</td>
-									</tr>
-									<tr>
-										<th scope="row">2</th>
-										<td>$ 25,001</td>
-										<td>$ 50,000</td>
-										<td>6.58%</td>
-										<td>6.58%</td>
-										<td>3.03%</td>
-										<td>6.43%</td>
-										<td>6.62%</td>
-										<td>3.07%</td>
-									</tr>
-									<tr>
-										<th scope="row">3</th>
-										<td>$ 50,001</td>
-										<td>$ 100,000.</td>
-										<td>6.75%</td>
-										<td>6.75%</td>
-										<td>3.19%</td>
-										<td>6.61%</td>
-										<td>6.81%</td>
-										<td>3.25%</td>
-									</tr>
-									<tr>
-										<th scope="row">4</th>
-										<td>$ 101,001</td>
-										<td>$ 250,000</td>
-										<td>6.92%</td>
-										<td>6.92%</td>
-										<td>3.35%</td>
-										<td>6.78%</td>
-										<td>6.99%</td>
-										<td>3.43%</td>
-									</tr>
-									<tr>
-										<th scope="row">5</th>
-										<td>$ 250,001</td>
-										<td>$ 500,000.</td>
-										<td>7.07%</td>
-										<td>7.07%</td>
-										<td>3.50%</td>
-										<td>6.93%</td>
-										<td>7.15%</td>
-										<td>3.73%</td>
-									</tr>
-									<tr>
-										<th scope="row">6</th>
-										<td>$ 500,001</td>
-										<td>$ 1,000,000.</td>
-										<td>7.21%</td>
-										<td>7.21%</td>
-										<td>3.63%</td>
-										<td>7.07%</td>
-										<td>7.30%</td>
-										<td>3.73%</td>
-									<tr>
-										<th scope="row">7</th>
-										<td>$ 1,001,001</td>
-										<td>En adelante.</td>
-										<td>7.33%</td>
-										<td>7.33%</td>
-										<td>3.75%</td>
-										<td>7.19%</td>
-										<td>7.43%</td>
-										<td>3.85%</td>
-									</tr>	
-								</tbody>
-								</tbody>
-							</table>
-						</div>
-						<!-- Nota Legal Tabla -->
+
 					</div>
 				</div>
 				
