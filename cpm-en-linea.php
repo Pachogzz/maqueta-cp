@@ -27,7 +27,7 @@
 				</div> <!-- ./ Main info block -->
 
 				<div class="row video-tutorial-holder mb-5">
-					<div class="col-12 col-md-6 mb-5 mb-md-0">
+					<div class="col-12 col-md-6">
 						<div class="embed-responsive embed-responsive-16by9">
 							<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9i5BUEnW-_Q?rel=0" allowfullscreen></iframe>
 						</div>

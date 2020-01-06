@@ -370,7 +370,19 @@ header .main-logo{
 .header-title-inner .bg-video-title video{ height: 450px; }
 .header-title-inner .has-video-bg{ position: absolute; top: 0; }
 .header-title-inner div[class*="col"]{ text-align: center; }
-.main-tag-line{}
+
+	/* Titles */
+	.main-tag-line{}
+	.title-big{}
+	.title-medium{}
+	.title-small{}
+
+	/*Video tutorials*/
+	.video-tutorial-holder{}
+	.video-tutorial-holder .embed-responsive{}
+	.video-tutorial-holder .embed-responsive iframe{}
+	.video-tutorial-holder .video-label{}
+
 
 /* =========================
 		11. FOOTER
@@ -439,6 +451,30 @@ header .main-logo{
 	font-size: 1.25rem;
 	font-weight: 300;
 }
+
+/* =========================
+		15. GUIDE GRID
+========================= */
+.guides-grid{
+	margin-bottom: 3rem !important;
+}
+.guides-grid .guides-grid-col{
+	margin-bottom: 30px;
+}
+.guides-grid .guides-grid-col .guides-grid-block{
+	border: 5px solid #864192;
+	text-align: center;
+	padding: 3rem 0rem 0rem;
+	border-radius: 0.25rem;
+	height: 100% !important;
+}
+.guides-grid .guides-grid-col .guides-grid-block img{
+	display: block;
+	margin:0 auto;
+}
+.guides-grid .guides-grid-col .guides-grid-block .card-body{}
+.guides-grid .guides-grid-col .guides-grid-block .card-body .card-title{}
+.guides-grid .guides-grid-col .guides-grid-block .card-footer{}
 
 /*
 	Extra small devices (portrait phones, less than 576px)
@@ -652,6 +688,17 @@ header .main-logo{
 		padding: 10px;
 		z-index: 999;
 	}
+	.row-eq-height{
+		display: -webkit-box;
+		display: -webkit-flex;
+		display: -ms-flexbox;
+		display: flex;
+		flex-wrap: wrap;
+	}
+	.row-eq-height [class*="col-"]{
+		display: flex;
+		flex-direction: column;
+	}
 	.container{
 		max-width: 1300px;
 	}
@@ -690,7 +737,7 @@ header .main-logo{
 			height: 100%;
 			width: 64px;
 			border-radius: 50%;
-			left: -15px;
+			left: -30px;
 			background:#fff;
 		}
 		.white-circle-n-line::after{
@@ -699,6 +746,6 @@ header .main-logo{
 			width: 100px;
 			top: 50%;
 			margin-top: -1px;
-			left: -51px;
+			left: -65px;
 		}
 }

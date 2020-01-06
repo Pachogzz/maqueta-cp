@@ -4,7 +4,7 @@
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 bg-primary d-inline-block px-lg-5 py-lg-3 br-30 text-white font-weight-semibold">Consideraciones técnicas</h1>
+						<h1 class="display-4 bg-primary d-inline-block px-lg-5 py-lg-3 br-30 text-white font-weight-semibold">Operaciones disponibles</h1>
 					</div>
 				</div>
 			</div>
@@ -17,21 +17,16 @@
 				<div class="row mb-5">
 					<div class="col">
 						<blockquote class="blockquote p-5 border border-light bw-5 rounded border-grey1 text-center">
-							<p class="mb-0 h3 font-weight-normal">Conoce las consideraciones y requsitos técnicos para nuestras plataformas</p>
+							<p class="mb-0 h3 font-weight-normal">Conoce las operaciones que puedes realizar en cada una de nuestras plataformas</p>
 						</blockquote>
 					</div>
 				</div> <!-- ./ Main info block -->
 
 				<div class="row mb-5">
 					<div class="col-12 col-md-10 offset-md-1 text-center">
-						<h3 class="font-weight-bold mb-3">Consideraciones técnicas</h3>
-						<img src="assets/img/icons/icon_CPMenLinea.png" class="bg-purple rounded-circle mb-3" width="120" height="120">
-						<h3 class="font-weight-semibold">CPM en lína</h3>
-						<img src="assets/img/secciones/en-linea/consideraciones-tecnicas-cpm-en-linea.jpg" class="img-fluid" width="900">
-						<hr class="mb-5">
-						<img src="assets/img/icons/icon_CPMMovil.png" class="bg-purple rounded-circle mb-3" width="120" height="120">
-						<h3 class="font-weight-semibold">CPM movil</h3>
-						<img src="assets/img/secciones/en-linea/consideraciones-tecnicas-cpm-movil.jpg" class="img-fluid" width="900">
+						<img src="assets/img/secciones/en-linea/cpm-operaciones-por-plataforma-transferencias.jpg" class="img-fluid" width="900">
+						<img src="assets/img/secciones/en-linea/cpm-operaciones-por-plataforma-consultas.jpg" class="img-fluid" width="900">
+						<img src="assets/img/secciones/en-linea/cpm-operaciones-por-plataforma-configuracion.jpg" class="img-fluid" width="900">
 					</div>
 				</div>
 

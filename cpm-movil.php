@@ -14,7 +14,7 @@
 
 		<section class="page-content">
 			<div class="container">
-				<div class="row">
+				<div class="row mb-5">
 					<div class="col">
 						<blockquote class="blockquote p-5 border border-light bw-5 rounded border-grey1 text-center">
 							<p class="mb-0 lead font-weight-normal">Descarga la aplicación CPM móvil y realiza operaciones desde tu celular.</p>
@@ -31,192 +31,313 @@
 									</a>
 								</div>
 							</div>
+							<p class="mt-3 mb-0 lead font-weight-normal">Consulta los términos y condiciones de nuestro servicio Electrónico por Internet dando <a href="#" target="_blank">clic aquí</a>.</p>
 						</blockquote>
 					</div>
 				</div> <!-- ./ Main info block -->
-				<div class="row">
-					<div class="col-12">
-						<div class="page-content-tabs">
 
-							<!-- Nav tabs -->
-							<ul class="nav nav-tabs mt-5" id="SeccionesCPMMovil" role="tablist">
-								<li class="nav-item w-25">
-									<a class="nav-link bg-tertiary rounded-pill btn-lg btn-block text-center active" id="operaciones-por-plataforma" data-toggle="tab" href="#operacionesPorPlataforma" role="tab" aria-controls="operacionesPorPlataforma" aria-selected="true">Operaciones por plataforma</a>
-								</li>
-								<li class="nav-item w-25">
-									<a class="nav-link bg-tertiary rounded-pill btn-lg btn-block text-center" id="requisitos-tecnicos" data-toggle="tab" href="#requisitosTecnicos" role="tab" aria-controls="requisitosTecnicos" aria-selected="false">Requisitos Técnicos</a>
-								</li>
-								<li class="nav-item w-25">
-									<a class="nav-link bg-tertiary rounded-pill btn-lg btn-block text-center" id="preguntas-frecuentes" data-toggle="tab" href="#preguntasFrecuentes" role="tab" aria-controls="preguntasFrecuentes" aria-selected="false">Preguntas Frecuentes</a>
-								</li>
-								<!-- <li class="nav-item w-25">
-									<a class="nav-link bg-tertiary rounded-pill btn-lg btn-block text-center" id="disponibilidad-de-servicio" data-toggle="tab" href="#disponibilidadDelServicio" role="tab" aria-controls="disponibilidadDelServicio" aria-selected="false">Disponibilidad del servicio</a>
-								</li> -->
-							</ul>
-
-							<!-- Tab panes -->
-							<div class="tab-content">
-								<div class="tab-pane py-5 active" id="operacionesPorPlataforma" role="tabpanel" aria-labelledby="operaciones-por-plataforma">
-									<img src="assets/img/cpm-operaciones-por-plataforma.jpg" class="img-fluid" alt="">
-								</div>
-								<div class="tab-pane py-5" id="requisitosTecnicos" role="tabpanel" aria-labelledby="requisitos-tecnicos">
-									<img src="assets/img/cpm-consideraciones-tecnicas.jpg" class="img-fluid" alt="">
-								</div>
-								<div class="tab-pane py-5" id="preguntasFrecuentes" role="tabpanel" aria-labelledby="preguntas-frecuentes">
-									<div class="accordion accordion-cpm" id="accordionCICPM">
-										<div class="card">
-											<div class="card-header" id="headingOne">
-												<h2 class="mb-0">
-													<button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-														¿Qué requisitos necesito para contratar el Servicio Electrónico por Internet?
-													</button>
-												</h2>
-											</div>
-
-											<div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionCICPM">
-												<div class="card-body bg-grey0 p-4">
-													<ol class="p-5 bg-white bw-1 border-grey1">
-														<li>Ser socio [link socio] de Caja Popular Mexicana.</li>
-														<li>Contar con medios electrónicos con acceso a una conexión de internet que cumplan con las consideraciones técnicas [link consideraciones técnicas] establecidas.</li>
-														<li>Proporcionar una cuenta de correo electrónico personal y número de teléfono celular.</li>
-														<li>Firmar el contrato correspondiente en la sucursal de tu preferencia.</li>
-													</ol>
-												</div>
-											</div>
-										</div>
-										<div class="card">
-											<div class="card-header" id="headingTwo">
-												<h2 class="mb-0">
-													<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-														¿Tiene costo el Servicio Electrónico por Internet?
-													</button>
-												</h2>
-											</div>
-											<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionCICPM">
-												<div class="card-body bg-grey0 p-4">
-													<p>No, el servicio no tiene ningún costo.</p>
-												</div>
-											</div>
-										</div>
-										<div class="card">
-											<div class="card-header" id="headingThree">
-												<h2 class="mb-0">
-													<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFourt" aria-expanded="false" aria-controls="collapseFourt">
-														¿Qué operaciones puedo realizar en el Servicio Electrónico por Internet?
-													</button>
-												</h2>
-											</div>
-											<div id="collapseFourt" class="collapse" aria-labelledby="headingThree" data-parent="#accordionCICPM">
-												<div class="card-body bg-grey0 p-4">
-													<p>Las principales operaciones que se pueden realizar son:</p>
-													<ul class="p-5 bg-white bw-1 border-grey1">
-														<li>Consulta de saldos.</li>
-														<li>Pago de préstamos.</li>
-														<li>Transferencias entre cuentas propias y a otros socios de Caja Popular Mexicana.</li>
-														<li>Activación, bloqueo y desbloqueo de tarjetas de débito.</li>
-														<li>Consulta y descarga de estados de cuenta.</li>
-													</ul>
-												</div>
-											</div>
-										</div>
-										<div class="card">
-											<div class="card-header" id="headingThree">
-												<h2 class="mb-0">
-													<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-														¿En dónde puedo descargar la aplicación CPM Móvil?
-													</button>
-												</h2>
-											</div>
-											<div id="collapseSix" class="collapse" aria-labelledby="headingThree" data-parent="#accordionCICPM">
-												<div class="card-body bg-grey0 p-4">
-													<p>Según el sistema operativo del dispositivo móvil, si es Android en <a href="https://play.google.com/store/apps/details?id=coop.cpm.cpmenlinea.mobile&amp;hl=es_MX" target="_blank">Play Store</a>, si es iOS en <a href="https://apps.apple.com/mx/app/cpm-movil/id1395963629" target="_blank">App Store</a></p>
-												</div>
-											</div>
-										</div>
-										<div class="card">
-											<div class="card-header" id="headingThree">
-												<h2 class="mb-0">
-													<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFourt" aria-expanded="false" aria-controls="collapseFourt">
-														¿Cómo puedo obtener ayuda para realizar operaciones a través de CPM en Línea / CPM Móvil?
-													</button>
-												</h2>
-											</div>
-											<div id="collapseFourt" class="collapse" aria-labelledby="headingThree" data-parent="#accordionCICPM">
-												<div class="card-body bg-grey0 p-4">
-													<p>Comunícate al 800 7100 800 para recibir asesoría dentro del horario de lunes a domingo de 8:00 a 21:00 hrs o puedes dar <a href="#">clic aquí</a></p>
-												</div>
-											</div>
-										</div>
-										<div class="card">
-											<div class="card-header" id="headingThree">
-												<h2 class="mb-0">
-													<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFourt" aria-expanded="false" aria-controls="collapseFourt">
-														¿Se requiere usuario y contraseña distinta para CPM en Línea y CPM Móvil?
-													</button>
-												</h2>
-											</div>
-											<div id="collapseFourt" class="collapse" aria-labelledby="headingThree" data-parent="#accordionCICPM">
-												<div class="card-body bg-grey0 p-4">
-													<p>No, se utiliza el mismo usuario y contraseña.</p>
-												</div>
-											</div>
-										</div>
-										<div class="card">
-											<div class="card-header" id="headingThree">
-												<h2 class="mb-0">
-													<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFourt" aria-expanded="false" aria-controls="collapseFourt">
-														¿Qué debo hacer si olvidé mi contraseña?
-													</button>
-												</h2>
-											</div>
-											<div id="collapseFourt" class="collapse" aria-labelledby="headingThree" data-parent="#accordionCICPM">
-												<div class="card-body bg-grey0 p-4">
-													<p>Comunícate al 800 7100 800 para solicitar una nueva contraseña dentro del horario de lunes a domingo de 8:00 a 21:00hrs</p>
-												</div>
-											</div>
-										</div>
-										<div class="card">
-											<div class="card-header" id="headingThree">
-												<h2 class="mb-0">
-													<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFourt" aria-expanded="false" aria-controls="collapseFourt">
-														¿Qué debo hacer si extravié o me robaron el teléfono celular?
-													</button>
-												</h2>
-											</div>
-											<div id="collapseFourt" class="collapse" aria-labelledby="headingThree" data-parent="#accordionCICPM">
-												<div class="card-body bg-grey0 p-4">
-													<p>Comunícate al 800 7100 800 para bloquear temporalmente el servicio dentro del horario de lunes a domingo de 8:00 a 21:00 hrs</p>
-												</div>
-											</div>
-										</div>
-										<div class="card">
-											<div class="card-header" id="headingThree">
-												<h2 class="mb-0">
-													<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFourt" aria-expanded="false" aria-controls="collapseFourt">
-														¿Cómo puedo obtener ayuda para realizar operaciones a través de CPM en Línea / CPM Móvil?
-													</button>
-												</h2>
-											</div>
-											<div id="collapseFourt" class="collapse" aria-labelledby="headingThree" data-parent="#accordionCICPM">
-												<div class="card-body bg-grey0 p-4">
-													<p>Comunícate al 800 7100 800 para recibir asesoría dentro del horario de lunes a domingo de 8:00 a 21:00 hrs o puedes dar <a href="#">clic aquí</a></p>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="tab-pane py-5" id="disponibilidadDelServicio" role="tabpanel" aria-labelledby="disponibilidad-de-servicio">
-									<p>...</p>
-								</div>
-							</div>
-
+				<div class="row video-tutorial-holder mb-5">
+					<div class="col-12 col-md-6">
+						<div class="embed-responsive embed-responsive-16by9">
+							<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wq1jWcMSXMM?rel=0" allowfullscreen></iframe>
 						</div>
+						<div class="video-label bg-purple p-3 text-center"><p class="h3 text-white font-weight-bold mb-0">Guía de primer ingreso</p></div>
+					</div>
+					<div class="col-12 col-md-6">
+						<div class="embed-responsive embed-responsive-16by9">
+							<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/12k7cvzy4S0?rel=0" allowfullscreen></iframe>
+						</div>
+						<div class="video-label bg-purple p-3 text-center"><p class="h3 text-white font-weight-bold mb-0">Guía de transferencias</p></div>
+					</div>
+				</div> <!-- ./ Video guides -->
+
+				<div class="row mb-5">
+					<div class="col-12 col-md-6 offset-md-3 text-center py-3">
+						<h3 class="title-medium font-weight-bold">GUÍAS DE USO</h3>
+						<p class="lead font-weight-semibold">Selecciona la guía de tu interés por su categoría</p>
+						<form action="">
+							<div class="form-group">
+								<select class="form-control" id="filterSelector">
+									<option value="seleccione">- Seleccione una guía -</option>
+									<option value="0">Guía de uso general</option>
+									<option value="1">Guía de primer ingreso</option>
+									<option value="2">Guía de transacciones</option>
+									<option value="3">Guía de consulta y eliminación de cuentas programada</option>
+									<option value="4">Guía de transferencias a cuentas de otros socios</option>
+									<option value="5">Guía de administración de dispositivo</option>
+									<option value="6">Guía de consulta de saldos</option>
+									<option value="7">Guía de consulta, bloqueo y desbloqueo de tarjetas</option>
+									<option value="8">Guía de notificaciones de cuentas</option>
+									<option value="9">Guía de consulta de actividad en línea y recibo electrónico</option>
+									<option value="10">Guía de cambio de nombre de usuario</option>
+									<option value="11">Guía de cambio de contraseña</option>
+									<option value="12">Guía de localización de cajeros y sucursales</option>
+									<option value="13">Guía de administración de cuentas</option>
+								</select>
+							</div>
+						</form>
 					</div>
 				</div>
+
+				<div class="row guides-grid">
+				  <div id="0" class="guides-grid-col col-12 col-md-4">
+				    <div class="card h-100 guides-grid-block">
+				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
+				      <div class="card-body">
+				        <h4 class="card-title mb-3 font-weight-bolder">Guía de uso general</h4>
+				      </div>
+				      <div class="card-footer">
+								<div class="row">
+									<div class="col-6">
+										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center">Visualizar</a>
+									</div>
+									<div class="col-6">
+										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+									</div>
+								</div>
+				      </div>
+				    </div>
+				  </div>
+				  <div id="1" class="guides-grid-col col-12 col-md-4">
+				    <div class="card h-100 guides-grid-block">
+				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
+				      <div class="card-body">
+				        <h4 class="card-title mb-3 font-weight-bolder">Guía de primer ingreso</h4>
+				      </div>
+				      <div class="card-footer">
+								<div class="row">
+									<div class="col-6">
+										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center">Visualizar</a>
+									</div>
+									<div class="col-6">
+										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+									</div>
+								</div>
+				      </div>
+				    </div>
+				  </div>
+				  <div id="2" class="guides-grid-col col-12 col-md-4">
+				    <div class="card h-100 guides-grid-block">
+				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
+				      <div class="card-body">
+				        <h4 class="card-title mb-3 font-weight-bolder">Guía de transacciones</h4>
+				      </div>
+				      <div class="card-footer">
+								<div class="row">
+									<div class="col-6">
+										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center">Visualizar</a>
+									</div>
+									<div class="col-6">
+										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+									</div>
+								</div>
+				      </div>
+				    </div>
+				  </div>
+				  <div id="3" class="guides-grid-col col-12 col-md-4">
+				    <div class="card h-100 guides-grid-block">
+				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
+				      <div class="card-body">
+				        <h4 class="card-title mb-3 font-weight-bolder">Guía de consulta y eliminación de cuentas programada</h4>
+				      </div>
+				      <div class="card-footer">
+								<div class="row">
+									<div class="col-6">
+										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center">Visualizar</a>
+									</div>
+									<div class="col-6">
+										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+									</div>
+								</div>
+				      </div>
+				    </div>
+				  </div>
+				  <div id="4" class="guides-grid-col col-12 col-md-4">
+				    <div class="card h-100 guides-grid-block">
+				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
+				      <div class="card-body">
+				        <h4 class="card-title mb-3 font-weight-bolder">Guía de transferencias a cuentas de otros socios</h4>
+				      </div>
+				      <div class="card-footer">
+								<div class="row">
+									<div class="col-6">
+										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center">Visualizar</a>
+									</div>
+									<div class="col-6">
+										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+									</div>
+								</div>
+				      </div>
+				    </div>
+				  </div>
+				  <div id="5" class="guides-grid-col col-12 col-md-4">
+				    <div class="card h-100 guides-grid-block">
+				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
+				      <div class="card-body">
+				        <h4 class="card-title mb-3 font-weight-bolder">Guía de administración de dispositivo</h4>
+				      </div>
+				      <div class="card-footer">
+								<div class="row">
+									<div class="col-6">
+										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center">Visualizar</a>
+									</div>
+									<div class="col-6">
+										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+									</div>
+								</div>
+				      </div>
+				    </div>
+				  </div>
+				  <div id="6" class="guides-grid-col col-12 col-md-4">
+				    <div class="card h-100 guides-grid-block">
+				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
+				      <div class="card-body">
+				        <h4 class="card-title mb-3 font-weight-bolder">Guía de consulta de saldos</h4>
+				      </div>
+				      <div class="card-footer">
+								<div class="row">
+									<div class="col-6">
+										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center">Visualizar</a>
+									</div>
+									<div class="col-6">
+										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+									</div>
+								</div>
+				      </div>
+				    </div>
+				  </div>
+				  <div id="7" class="guides-grid-col col-12 col-md-4">
+				    <div class="card h-100 guides-grid-block">
+				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
+				      <div class="card-body">
+				        <h4 class="card-title mb-3 font-weight-bolder">Guía de consulta, bloqueo y desbloqueo de tarjetas</h4>
+				      </div>
+				      <div class="card-footer">
+								<div class="row">
+									<div class="col-6">
+										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center">Visualizar</a>
+									</div>
+									<div class="col-6">
+										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+									</div>
+								</div>
+				      </div>
+				    </div>
+				  </div>
+				  <div id="8" class="guides-grid-col col-12 col-md-4">
+				    <div class="card h-100 guides-grid-block">
+				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
+				      <div class="card-body">
+				        <h4 class="card-title mb-3 font-weight-bolder">Guía de notificaciones de cuentas</h4>
+				      </div>
+				      <div class="card-footer">
+								<div class="row">
+									<div class="col-6">
+										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center">Visualizar</a>
+									</div>
+									<div class="col-6">
+										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+									</div>
+								</div>
+				      </div>
+				    </div>
+				  </div>
+				  <div id="9" class="guides-grid-col col-12 col-md-4">
+				    <div class="card h-100 guides-grid-block">
+				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
+				      <div class="card-body">
+				        <h4 class="card-title mb-3 font-weight-bolder">Guía de consulta de actividad en línea y recibo electrónico</h4>
+				      </div>
+				      <div class="card-footer">
+								<div class="row">
+									<div class="col-6">
+										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center">Visualizar</a>
+									</div>
+									<div class="col-6">
+										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+									</div>
+								</div>
+				      </div>
+				    </div>
+				  </div>
+				  <div id="10" class="guides-grid-col col-12 col-md-4">
+				    <div class="card h-100 guides-grid-block">
+				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
+				      <div class="card-body">
+				        <h4 class="card-title mb-3 font-weight-bolder">Guía de cambio de nombre de usuario</h4>
+				      </div>
+				      <div class="card-footer">
+								<div class="row">
+									<div class="col-6">
+										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center">Visualizar</a>
+									</div>
+									<div class="col-6">
+										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+									</div>
+								</div>
+				      </div>
+				    </div>
+				  </div>
+				  <div id="11" class="guides-grid-col col-12 col-md-4">
+				    <div class="card h-100 guides-grid-block">
+				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
+				      <div class="card-body">
+				        <h4 class="card-title mb-3 font-weight-bolder">Guía de cambio de contraseña</h4>
+				      </div>
+				      <div class="card-footer">
+								<div class="row">
+									<div class="col-6">
+										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center">Visualizar</a>
+									</div>
+									<div class="col-6">
+										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+									</div>
+								</div>
+				      </div>
+				    </div>
+				  </div>
+				  <div id="12" class="guides-grid-col col-12 col-md-4">
+				    <div class="card h-100 guides-grid-block">
+				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
+				      <div class="card-body">
+				        <h4 class="card-title mb-3 font-weight-bolder">Guía de localización de cajeros y sucursales</h4>
+				      </div>
+				      <div class="card-footer">
+								<div class="row">
+									<div class="col-6">
+										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center">Visualizar</a>
+									</div>
+									<div class="col-6">
+										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+									</div>
+								</div>
+				      </div>
+				    </div>
+				  </div>
+				  <div id="13" class="guides-grid-col col-12 col-md-4">
+				    <div class="card h-100 guides-grid-block">
+				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
+				      <div class="card-body">
+				        <h4 class="card-title mb-3 font-weight-bolder">Guía de administración de cuentas</h4>
+				      </div>
+				      <div class="card-footer">
+								<div class="row">
+									<div class="col-6">
+										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center">Visualizar</a>
+									</div>
+									<div class="col-6">
+										<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+									</div>
+								</div>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+
 			</div>
 		</section> <!-- ./ Page content -->
 
-		<section class="inner-nav-page secondary py-5 bg-white">
+		<!-- <section class="inner-nav-page secondary py-5 bg-white">
 			<div class="container">
 				<div class="row text-center">
 					<div class="col-12 col-lg p-0 mr-lg-n5 mb-2 mb-lg-0  z-index-4">
@@ -241,6 +362,6 @@
 					</div>
 				</div>
 			</div>
-		</section> <!-- /. Inner Nav Home -->
+		</section> --> <!-- /. Inner Nav Home -->
 
 <?php include('inc/footer.php'); ?>
