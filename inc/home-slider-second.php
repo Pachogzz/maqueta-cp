@@ -13,7 +13,7 @@
 									<h3 class="font-weight-semibold"><strong>Únete a nuestro #TalentoCPM</strong></h3>
 									<h5 class="text-yellow"><strong>Bolsa de trabajo</strong></h5>
 									<p>Da clic aquí y conoce por qué Caja Popular Mexicana es una <strong>#SúperEmpresa</strong></p>
-									<a href="#" class="btn btn-secondary br-30 px-5">Saber más</a>
+									<a href="#" class="btn btn-secondary br-30 px-5 font-weight-semibold">Saber más</a>
 								</div>
 							</div>
 							<div class="carousel-item">
@@ -22,7 +22,7 @@
 									<h3 class="font-weight-semibold"><strong>Consejos financieros en un clic</strong></h3>
 									<h5 class="text-yellow"><strong>Blog Cooperando Ando</strong></h5>
 									<p>Olvídate de los sermones y acércate a la verdad, <strong>NO</strong> te hablaremos bonito, pero <strong>SÍ</strong> sincero, ¿te atreves?</p>
-									<a href="https://cooperandoando.com/" class="btn btn-secondary br-30 px-5" target="_blank">Saber más</a>
+									<a href="https://cooperandoando.com/" class="btn btn-secondary br-30 px-5 font-weight-semibold" target="_blank">Saber más</a>
 								</div>
 							</div>
 						</div>

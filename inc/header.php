@@ -63,21 +63,21 @@
 							<li class="nav-item">
 								<a href="https://www.cpmenlinea.cpm.coop/" class="nav-link" target="_blank">Acceso CPM en Línea</a>
 							</li>
-							<li class="nav-item">
+							<!-- <li class="nav-item">
 								<a href="#" class="nav-link">Asambleas</a>
 							</li>
-							<!-- <li class="nav-item">
+							<li class="nav-item">
 								<a href="#" class="nav-link">Inmuebles</a>
-							</li> -->
-							<!-- <li class="nav-item">
+							</li>
+							<li class="nav-item">
 								<a href="#" class="nav-link">Blog</a>
-							</li> -->
+							</li>
 							<li class="nav-item">
 								<a href="#" class="nav-link"><i class="fa fa-map-marker-alt"></i></a>
 							</li>
 							<li class="nav-item">
 								<a href="#" class="nav-link"><i class="fa fa-search"></i></a>
-							</li>
+							</li> -->
 							<li class="nav-item dropdown menu-area">
 								<a class="nav-link dropdown-toggle" id="mega-one" href="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 									<i class="fa fa-bars"></i>
@@ -90,14 +90,13 @@
 											<h6 class="font-weight-semibold text-white bg-primary text-center py-2 px-3 br-30">Conócenos</h6>
 											<ul class="nav flex-column">
 												<li class="nav-item dropdown-submenu">
-													<a href="conocenos.php" class="sub-drop nav-link dropdown-toggle" data-toggle="dropdown">Conoce a Caja Popular Mexicana</a>
+													<a href="#" class="sub-drop nav-link dropdown-toggle" data-toggle="dropdown">Conoce a Caja Popular Mexicana</a>
 													<ul class="nav flex-column dropdown-menu">
 														<li class="nav-item"><a href="conocenos.php" class="nav-link">Filosofía</a></li>
-														<li class="nav-item"><a href="#" class="nav-link">Línea de tiempo</a></li>
-														<li class="nav-item"><a href="#" class="nav-link">Solidéz Empresarial</a></li>
+														<li class="nav-item"><a href="linea-de-tiempo.php" class="nav-link">Línea de tiempo</a></li>
+														<li class="nav-item"><a href="solidez-empresarial.php" class="nav-link">Solidéz Empresarial</a></li>
 													</ul>
 												</li>
-												<li class="nav-item"><a href="#" class="nav-link">Conoce nuestra solidez empresarial</a></li>
 											</ul>
 										</div>
 										<div class="col-12 col-lg-4">
@@ -106,14 +105,14 @@
 												<li class="nav-item dropdown-submenu">
 													<a href="#" class="sub-drop nav-link dropdown-toggle" data-toggle="dropdown">Socio</a>
 													<ul class="nav dropdown-menu">
-														<li class="nav-item"><a href="#" class="nav-link">Requisitos</a></li>
+														<li class="nav-item"><a href="requisitos.php" class="nav-link">Requisitos</a></li>
 														<li class="nav-item"><a href="beneficios.php" class="nav-link">Beneficios</a></li>
 													</ul>
 												</li>
 												<li class="nav-item dropdown-submenu">
 													<a href="#" class="sub-drop nav-link dropdown-toggle" data-toggle="dropdown">Ahorrador menor de edad</a>
 													<ul class="nav dropdown-menu">
-														<li class="nav-item"><a href="#" class="nav-link">Requisitos</a></li>
+														<li class="nav-item"><a href="soy-menor-de-edad.php" class="nav-link">Requisitos</a></li>
 														<li class="nav-item"><a href="#" class="nav-link">Beneficios</a></li>
 													</ul>
 												</li>
@@ -146,10 +145,10 @@
 														<li><a href="servicuenta.php" class="nav-link dropdown-item">Servicuenta</a></li>
 														<li><a href="cuenta-mexicana.php" class="nav-link dropdown-item">Cuenta Mexicana</a></li>
 														<li><a href="cuentamiga.php" class="nav-link dropdown-item">Cuentamiga</a></li>
-														<li><a href="#" class="nav-link dropdown-item">Tasas de rendimientos</a></li>
+														<li><a href="quieres-saber-las-tasas-de-rendimiento.php" class="nav-link dropdown-item">Tasas de rendimientos</a></li>
 													</ul>
 												</li>
-												<li class="nav-item"><a href="#" class="nav-link">Tarjetas de Débito CPM y JR</a></li>
+												<li class="nav-item"><a href="tarjeta-de-debito.php" class="nav-link">Tarjetas de Débito CPM y JR</a></li>
 												<li class="nav-item"><a href="#" class="nav-link">Puntos verdes</a></li>
 												<!-- <li class="nav-item"><a href="#" class="nav-link">Remesas</a></li> -->
 												<li class="nav-item"><a href="#" class="nav-link">Mi nómina mexicana</a></li>

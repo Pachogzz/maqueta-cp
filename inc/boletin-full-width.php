@@ -10,19 +10,35 @@
 								<!-- <a href="#" class="text-white"><u>Términos y condiciones</u></a> -->
 							</div>
 							<div class="col-md-6 col-lg-7">
-								<form action="" method="">
-									<div class="form-group">
-										<input type="text" class="form-control" id="boletinInputName" placeholder="Nombre">
-									</div>
-									<div class="form-group">
-										<input type="email" class="form-control" id="boletinInputEmail" placeholder="Correo">
-									</div>
-									<div class="form-group form-check">
-										<input type="checkbox" class="form-check-input" id="aceptoTerminosyCondiciones">
-										<label class="form-check-label text-white" for="aceptoTerminosyCondiciones">Acepto el aviso de privacidad</label>
-									</div>
-									<button type="submit" class="btn btn-secondary br-30 px-5">¡Suscríbete!</button>
-								</form>
+								<!-- Begin Mailchimp Signup Form -->
+								<div id="mc_embed_signup">
+									<form action="https://cpm.us13.list-manage.com/subscribe/post?u=929b8338b3f2ba53253936d83&amp;id=22a1d8e15a" onsubmit="return validateform();" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+									    <div id="mc_embed_signup_scroll">
+											<div class="mc-field-group form-group">
+												<input type="text" value="" name="FNAME" class="form-control" id="mce-FNAME" placeholder="Nombre completo:" required>
+											</div>
+											<div class="mc-field-group form-group">
+												<input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL" placeholder="Correo: *" required>
+											</div>
+											<div id="mce-responses" class="clear">
+												<div class="response" id="mce-error-response" style="display:none"></div>
+												<div class="response" id="mce-success-response" style="display:none"></div>
+											</div>
+											<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+										    <div style="position: absolute; left: -5000px;" aria-hidden="true">
+										    	<input type="text" name="b_929b8338b3f2ba53253936d83_22a1d8e15a" tabindex="-1" value="">
+										    </div>
+											<div class="form-group form-check">
+												<input type="checkbox" class="form-check-input" id="aceptoTerminosyCondiciones" required>
+												<label class="form-check-label text-white" for="aceptoTerminosyCondiciones"> Acepto el <a href="aviso-de-privacidad.php">aviso de privacidad</a></label>
+											</div>
+										    <div class="clear">
+										    	<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button btn btn-secondary br-30 px-5 font-weight-semibold">
+										    </div>
+											<div class="indicates-required text-white"><small><span class="asterisk">*</span> indca que el campo es requerido</small></div>
+									    </div>
+									</form>
+								</div>
 							</div>
 						</div>
 					</div>

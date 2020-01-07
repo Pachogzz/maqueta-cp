@@ -19,7 +19,7 @@
 						</a>
 					</div>
 					<div class="col-12 col-md-12 col-lg-4 mb-2 mb-lg-0 mb-xl-0">
-						<a href="#" class="btn btn-primary btn-lg btn-block rounded-pill w-100 w-lg-75 mx-auto p-3">
+						<a href="rendicuenta.php" class="btn btn-primary btn-lg btn-block rounded-pill w-100 w-lg-75 mx-auto p-3">
 							Quiero ahorrar e invertir <i class="fa fa-chevron-circle-right"></i>
 						</a>
 					</div>
@@ -43,7 +43,7 @@
 									<h3><strong>¡Aprende cómo usar nuestro Servicio Electrónico por Internet!</strong></h3>
 									<h5 class="text-yellow"><strong>Y disfruta #MásTiempoEnTusManos</strong></h5>
 									<p>Conoce las operaciones que puedes hacer en cada plataforma y no olvides calificar tu experiencia en las tiendas oficiales.</p>
-									<a href="#" class="btn btn-secondary br-30 px-5">Saber más</a>
+									<a href="servicio-electronico-en-linea.php" class="btn btn-secondary br-30 px-5 font-weight-semibold">Saber más</a>
 								</div>
 							</div>
 						</div>

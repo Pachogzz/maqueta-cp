@@ -60,6 +60,9 @@
 		<script type="text/javascript" src="assets/js/select_estados.js"></script>
 		<!-- Form Validatr -->
 		<script src="assets/js/validator.js"></script>
+		<!-- Línea de tiempo -->
+		<script src='https://cdn.jsdelivr.net/scrollreveal.js/3.3.1/scrollreveal.min.js'></script>
+		<script src="assets/js/timeline.js"></script>
 		<!-- Custom JS -->
 		<script src="assets/js/site.js"></script>
 	</body>

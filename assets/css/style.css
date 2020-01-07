@@ -100,6 +100,16 @@ p{ font-size: 16px; }
 		background: linear-gradient(to bottom, rgba(7,43,20,1) 0%, rgba(4,111,32,1) 50%, rgba(6,147,55,1) 100%);
 		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#072b14', endColorstr='#069337', GradientType=0 );
 	}
+	.bg-gradient-blue{
+		background: rgba(2,87,133,1);
+		background: -moz-linear-gradient(top, rgba(2,87,133,1) 0%, rgba(39,140,194,1) 47%, rgba(94,180,229,1) 100%);
+		background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(2,87,133,1)), color-stop(47%, rgba(39,140,194,1)), color-stop(100%, rgba(94,180,229,1)));
+		background: -webkit-linear-gradient(top, rgba(2,87,133,1) 0%, rgba(39,140,194,1) 47%, rgba(94,180,229,1) 100%);
+		background: -o-linear-gradient(top, rgba(2,87,133,1) 0%, rgba(39,140,194,1) 47%, rgba(94,180,229,1) 100%);
+		background: -ms-linear-gradient(top, rgba(2,87,133,1) 0%, rgba(39,140,194,1) 47%, rgba(94,180,229,1) 100%);
+		background: linear-gradient(to bottom, rgba(2,87,133,1) 0%, rgba(39,140,194,1) 47%, rgba(94,180,229,1) 100%);
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#025785', endColorstr='#5eb4e5', GradientType=0 );
+	}
 	.bg-gradient-orange{
 		background: rgba(101,31,6,1);
 		background: -moz-linear-gradient(top, rgba(101,31,6,1) 0%, rgba(208,73,6,1) 50%, rgba(218,84,6,1) 100%);
@@ -386,7 +396,7 @@ header .main-logo{
 }
 .header-title-inner .bg-video-title{ text-align: center; }
 .header-title-inner .bg-video-title video{ height: 450px; }
-.header-title-inner .has-video-bg{ position: absolute; top: 0; }
+.header-title-inner .has-video-bg{ position: relative; }
 .header-title-inner div[class*="col"]{ text-align: center; }
 
 	/* Titles */
@@ -431,8 +441,11 @@ header .main-logo{
 .accordion-cpm .card-header h2 button:hover{ text-decoration: none; }
 .accordion-cpm .card-header h2 button:focus{  }
 .accordion-cpm .card-body{}
+.tab-content .tab-pane ul,
 .accordion-cpm .card-body ul{ list-style: none; }
+.tab-content .tab-pane ul li,
 .accordion-cpm .card-body ul li{ position: relative; display: block; margin-bottom: 10px; }
+.tab-content .tab-pane ul li:before,
 .accordion-cpm .card-body ul li:before{
 	font-family: "Font Awesome 5 Pro";
 	font-weight: 900;
@@ -539,8 +552,6 @@ header .main-logo{
 	background-color: #09871a;
 	color: #ffed58;
 }
-.tab-cpm-style2{}
-.tab-cpm-style3{}
 
 .tabs-color{}
 .tabs-color .nav-link{
@@ -559,15 +570,65 @@ header .main-logo{
 	bottom: -20px;
 	left: 50%;
 	margin-left: -20px;
-	border-style: solid;
-	border-top-width: 20px;
-	border-right-width: 20px;
-	border-bottom-width: 0;
-	border-left-width: 20px;
-	border-top-color: #864192;
-	border-right-color: transparent;
-	border-bottom-color: transparent;
-	border-left-color: transparent;
+	border-top: 20px solid #864192;
+	border-right: 20px solid transparent;
+	border-bottom: 0px solid transparent;
+	border-left: 20px solid transparent;
+}
+
+.icon-tabs{}
+.icon-tabs .nav-item{}
+.icon-tabs .nav-link{
+	position: relative;
+	background-color: #fafafa;
+	min-height: 180px;
+	margin-bottom: 30px;
+}
+.icon-tabs .nav-link i{}
+.icon-tabs .nav-link i:before{}
+.icon-tabs .nav-link.active:before{
+	content: "";
+	position: absolute;
+	display: block;
+	bottom: -20px;
+	left: 50%;
+	margin-left: -20px;
+	border-top: 20px solid #45bf00;
+	border-right: 20px solid transparent;
+	border-bottom: 0px solid transparent;
+	border-left: 20px solid transparent;
+}
+
+/* =========================
+		17. TABS TO ACCORDION
+========================= */
+.nav-tabs.to-accordion {
+    display:none;
+}
+
+@media(min-width:768px) {
+    .nav-tabs.to-accordion {
+        display: flex;
+    }
+    
+    .tab-content.to-accordion .card {
+        border: none;
+    }
+
+    .tab-content.to-accordion .card .card-header {
+        display:none;
+    }  
+
+    .tab-content.to-accordion .card .collapse{
+        display:block;
+    }
+}
+
+@media(max-width:767px){
+    .tab-content.to-accordion  > .tab-pane {
+        display: block !important;
+        opacity: 1;
+    }
 }
 
 /*
@@ -578,7 +639,7 @@ header .main-logo{
 /* Extra Small devices (portrait phones, 300px and up) */
 @media (min-width: 300px) {
 	html::before{
-		content: "UND";
+		/*content: "UND";
 		display: block;
 		position: fixed;
 		background-color: yellow;
@@ -587,7 +648,7 @@ header .main-logo{
 		bottom: 0;
 		left: 0;
 		padding: 10px;
-		z-index: 999;
+		z-index: 999;*/
 	}
 	.container{}
 	header .main-logo{ max-width: 70px; }
@@ -619,7 +680,7 @@ header .main-logo{
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
 	html::before{
-		content: "XS";
+		/*content: "XS";
 		display: block;
 		position: fixed;
 		background-color: yellow;
@@ -628,7 +689,7 @@ header .main-logo{
 		bottom: 0;
 		left: 0;
 		padding: 10px;
-		z-index: 999;
+		z-index: 999;*/
 	}
 	.container{}
 	header .main-logo{ max-width: 70px; }
@@ -672,7 +733,7 @@ header .main-logo{
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
 	html::before{
-		content: "SM";
+		/*content: "SM";
 		display: block;
 		position: fixed;
 		background-color: yellow;
@@ -681,7 +742,7 @@ header .main-logo{
 		bottom: 0;
 		left: 0;
 		padding: 10px;
-		z-index: 999;
+		z-index: 999;*/
 	}
 	.container{}
 	header .main-logo{ max-width: 100px; }
@@ -715,7 +776,7 @@ header .main-logo{
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) {
 	html::before{
-		content: "MD";
+		/*content: "MD";
 		display: block;
 		position: fixed;
 		background-color: yellow;
@@ -724,12 +785,12 @@ header .main-logo{
 		bottom: 0;
 		left: 0;
 		padding: 10px;
-		z-index: 999;
+		z-index: 999;*/
 	}
 	.container{}
 	header .main-logo{ max-width: 100px; }
 	.header-title-inner{ height: 450px; }
-	.header-title-inner .has-video-bg{ left: 12%; }
+	/*.header-title-inner .has-video-bg{ left: 12%; }*/
 	.after-flange::after{
 		height: 70px;
 	}
@@ -771,7 +832,7 @@ header .main-logo{
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
 	html::before{
-		content: "LG";
+		/*content: "LG";
 		display: block;
 		position: fixed;
 		background-color: yellow;
@@ -780,7 +841,7 @@ header .main-logo{
 		bottom: 0;
 		left: 0;
 		padding: 10px;
-		z-index: 999;
+		z-index: 999;*/
 	}
 	.row-eq-height{
 		display: -webkit-box;
@@ -798,7 +859,7 @@ header .main-logo{
 	}
 	header .main-logo{ max-width: 100px; }
 	.header-title-inner{ height: 450px; }
-	.header-title-inner .has-video-bg{ left: 12%; }
+	/*.header-title-inner .has-video-bg{ left: 12%; }*/
 	.after-flange::after{
 		height: 80px;
 	}

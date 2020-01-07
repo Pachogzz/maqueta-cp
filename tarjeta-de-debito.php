@@ -33,20 +33,6 @@
 							<p class="lead">Por ejemplo, <span class="font-weight-bold text-primary">Consulta el contrato universal <a href="assets/img/secciones/ahorro/FR-1008-Contrato-Universal.pdf" target="blank">aquí</a></span></p>
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
-						<!--  -->
-						<!-- <div class="bg-grey0 p-5 mb-5">
-							<p class="display-12"><strong>Costo Anual Total Promedio de 31.5% sin IVA</strong>. Para fines informativos y de comparación exclusivamente. Fecha de cálculo 30 de Junio de 2019.</p>
-							<p class="display-12">*Cálculo para el <strong>Crédito Personal Plus CPM</strong> por la cantidad de <strong>$15,000.00 a un plazo de 12 meses con un monto mínimo de ahorro de $1,500.00</strong>.</p>
-							<ul class="display-12">
-								<li>Tabulador para fines informativos, no representa una contratación.</li>
-								<li>Incluye interés e IVA.</li>
-								<li>Sujeto a aprobación de crédito.</li>
-								<li>Préstamo otorgado en moneda nacional.</li>
-								<li>Disponible en todas nuestras sucursales a nivel nacional.</li>
-								<li>La tasa de interés se asignará de acuerdo al historial crediticio interno y externo a Caja Popular Mexicana que presente el socio.</li>
-								<li>En la contratación del producto, el plan de pagos se establece de manera mensual.</li>
-							</ul>
-						</div> -->
 						<!-- Cuadro de Recursos -->
 						<div class="bg-quinary text-white mb-5 p-4">
 							<p class="p-4 mb-0 bw-4 rounded border-white">Los recursos depositados en esta cuenta están protegidos por el <strong>Fondo de Protección</strong> a que se refiere el <strong>Título Cuarto de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo</strong>, hasta por <strong>25,000 Unidades de Inversión</strong>, de acuerdo a las disposiciones que establezcan el <strong>Comité Técnico y Comité de Protección al Ahorro Cooperativo del Fideicomiso</strong> que lo administra.</p>
@@ -77,7 +63,7 @@
 									</h2>
 								</div>
 
-								<div id="collapseOne" class="collapse.show" aria-labelledby="headingOne" data-parent="#accordionCICPM">
+								<div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionCICPM">
 									<div class="card-body bg-grey0 p-4">
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li>Realizar compras en terminales puntos de venta en México y en el extranjero [previa notificación en la sucursal].</li>

@@ -1,6 +1,6 @@
 <?php include('inc/header.php'); ?>
 
-		<section class="after-flange header-title-inner">
+		<section class="after-flange header-title-inner bg-gradient-blue">
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
