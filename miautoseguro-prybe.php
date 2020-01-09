@@ -4,13 +4,13 @@
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 bg-primary d-inline-block px-lg-5 py-lg-3 br-30 text-white font-weight-semibold">MiAutoSeguro CPM</h1>
+						<h1 class="display-4 bg-primary d-inline-block px-lg-5 py-lg-3 br-30 text-white font-weight-semibold">MiAutoSeguro PRYBE</h1>
 					</div>
 				</div>
 			</div>
 		</section> <!-- /. Page Title -->
 
-		<?php include('inc/navs/inner-nav-page-quiero-ahorrar.php') ?>
+		<?php include('inc/navs/inner-nav-page-prybe.php') ?>
 
 		<section class="page-content">
 			<div class="container">

@@ -41,9 +41,9 @@
 												<label class="form-check-label text-white" for="aceptoTerminosyCondiciones">&nbsp;&nbsp;&nbsp;&nbsp;Acepto el aviso de privacidad</label>
 											</div>
 										    <div class="clear">
-										    	<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button btn btn-secondary br-30 px-5">
+										    	<input type="submit" value="Quiero suscribirme" name="subscribe" id="mc-embedded-subscribe" class="button btn btn-secondary br-30 px-5">
 										    </div>
-											<div class="indicates-required text-white"><small><span class="asterisk">*</span> indca que el campo es requerido</small></div>
+											<!-- <div class="indicates-required text-white"><small><span class="asterisk">*</span> indca que el campo es requerido</small></div> -->
 									    </div>
 									</form>
 								</div>

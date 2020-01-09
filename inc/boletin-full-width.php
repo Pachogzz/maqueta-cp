@@ -33,9 +33,9 @@
 												<label class="form-check-label text-white" for="aceptoTerminosyCondiciones"> Acepto el <a href="aviso-de-privacidad.php">aviso de privacidad</a></label>
 											</div>
 										    <div class="clear">
-										    	<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button btn btn-secondary br-30 px-5 font-weight-semibold">
+										    	<input type="submit" value="Quiero suscribirme" name="subscribe" id="mc-embedded-subscribe" class="button btn btn-secondary br-30 px-5 font-weight-semibold">
 										    </div>
-											<div class="indicates-required text-white"><small><span class="asterisk">*</span> indca que el campo es requerido</small></div>
+											<!-- <div class="indicates-required text-white"><small><span class="asterisk">*</span> indca que el campo es requerido</small></div> -->
 									    </div>
 									</form>
 								</div>

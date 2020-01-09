@@ -170,7 +170,7 @@
 								<?php include('inc/calculadoras/calculadora-de-credito.php'); ?>
 							</div>
 							<div class="col-12 col-sm-6">
-								<a href="beneficios.php" class="btn btn-primary btn-lg btn-block rounded-pill w-100 w-lg-75 mx-auto p-3">
+								<a href="ser-socio.php" class="btn btn-primary btn-lg btn-block rounded-pill w-100 w-lg-75 mx-auto p-3">
 									Solicitar mi crédito <i class="fas fa-clipboard-list"></i>
 								</a>
 							</div>

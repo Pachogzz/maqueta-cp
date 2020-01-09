@@ -30,6 +30,7 @@
 				<div class="row">
 					<div class="col-12 mb-2 text-center">
 						<ul class="nav justify-content-center">
+							<a class="nav-link p-0 mr-1 text-light" href="https://www.cpm.coop/inmuebles/" target="_blank"><small>Inmuebles |</small></a>
 							<a class="nav-link p-0 mr-1 text-light" href="#"><small>Consulta los costos y comisiones de nuestros productos |</small></a>
 							<a class="nav-link p-0 mr-1 text-light" href="politicas-de-uso.php"><small>Políticas de uso |</small></a>
 							<a class="nav-link p-0 mr-1 text-light" href="#"><small>Mapa del sitio |</small></a>

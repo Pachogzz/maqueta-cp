@@ -4,20 +4,21 @@
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 bg-primary d-inline-block px-lg-5 py-lg-3 br-30 text-white font-weight-semibold">Consejos de seguridad</h1>
+						<h1 class="display-4 bg-primary d-inline-block px-lg-5 py-lg-3 br-30 text-white font-weight-semibold">Tus acciones dejan huella</h1>
 					</div>
 				</div>
 			</div>
 		</section> <!-- /. Page Title -->
 
-		<?php include('inc/navs/inner-nav-page-cpm-en-linea.php') ?>
+		<?php include('inc/navs/inner-nav-page-talento.php') ?>
 
 		<section class="page-content">
 			<div class="container">
 				<div class="row mb-5">
 					<div class="col">
 						<blockquote class="blockquote p-5 border border-light bw-5 rounded border-grey1 text-center">
-							<p class="mb-0 h3 font-weight-normal">¡Te ayudamos a combatir los fraudes Financieros!</p>
+							<p class="mb-0 h3 font-weight-normal">Aplica ahora y forma parte de nuestro gran equipo de trabajo</p>
+							<a href="https://career4.successfactors.com/careers" class="btn btn-lg bg-blue1 mt-4 text-white font-weight-semibold" target="_blank">Regístrate</a>
 						</blockquote>
 					</div>
 				</div> <!-- ./ Main info block -->
@@ -45,9 +46,7 @@
 
 								<div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionCSCPM">
 									<div class="card-body bg-grey0 p-4">
-										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Son correos recibidos, sin haberlos solicitado, con publicidad; estos correos te invitan a visitar una página o descargar archivos que por lo general son virus para robar información en tu dispositivo.</li>
-										</ul>
+										<p>Son correos recibidos, sin haberlos solicitado, con publicidad; estos correos te invitan a visitar una página o descargar archivos que por lo general son virus para robar información en tu dispositivo.</p>
 									</div>
 								</div>
 							</div>
@@ -61,9 +60,7 @@
 								</div>
 								<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionCSCPM">
 									<div class="card-body bg-grey0 p-4">
-										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>En este tipo de fraude, los usurpadores se hacen pasar por una institución como Caja Popular Mexicana mediante llamadas telefónicas, mensajes o correos electrónicos simulando ser empleados, argumentando que tus cuentas están registrando cargos irregulares o que requieren alguna información con el propósito de obtener tus datos personales.</li>
-										</ul>
+										<p>En este tipo de fraude, los usurpadores se hacen pasar por una institución como Caja Popular Mexicana mediante llamadas telefónicas, mensajes o correos electrónicos simulando ser empleados, argumentando que tus cuentas están registrando cargos irregulares o que requieren alguna información con el propósito de obtener tus datos personales.</p>
 									</div>
 								</div>
 							</div>
@@ -77,9 +74,7 @@
 								</div>
 								<div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionCSCPM">
 									<div class="card-body bg-grey0 p-4">
-										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Consiste en redirigirte a una página de internet falsa para robar tu información. Suelen mostrar leyendas similares a esta: “ERROR EN EL SISTEMA. Para solucionarlo da clic aquí”.</li>
-										</ul>
+										<p>Consiste en redirigirte a una página de internet falsa para robar tu información. Suelen mostrar leyendas similares a esta: “ERROR EN EL SISTEMA. Para solucionarlo da clic aquí”.</p>
 									</div>
 								</div>
 							</div>
@@ -118,7 +113,7 @@
 					<div class="col-12">
 						<p class="h2 font-weight-bold text-purple text-center mb-md-4">¿Cómo evitar el fraude?</p>
 						<nav>
-							<div class="nav nav-tabs tabs-color row mb-5 border-bottom-0 justify-content-center" id="nav-tab" role="tablist">
+							<div class="nav nav-tabs tabs-color row mb-5 border-bottom-0" id="nav-tab" role="tablist">
 								<a class="nav-item nav-link col-md-1 p-3 mr-1 active" id="tab-one" data-toggle="pill" href="#tabOne" role="tab" aria-controls="tabOne" aria-selected="true">
 									<i class="fas fa-hand-point-up fa-5x"></i>
 								</a>
@@ -176,83 +171,19 @@
 					</div> <!-- ./ Blog slider -->
 
 					<div class="row">
-						<div class="col">
-							<div class="blog-slider">
-								<div>
-									<div class="row">
-										<div class="col-md-6 col-lg-7 offset-lg-1 mr-lg-n5 has-label purple">
-											<img src="assets/img/secciones/blog/cpm-blog-combate_fraudes_financieros.png" class="bg-grey1 img-fluid" alt="Yo hago Click, con Caja Popular Mexicana">
-										</div>
-										<div class="col-md-6 col-lg-4 h-50 ml-lg-n1 my-auto">
-											<div class="h-100 p-5 py-md-2 p-lg-5 bg-purple text-white br-ntl-30">
-												<h3><strong>1. Combate los fraudes financieros</strong></h3>
-												<h5 class="text-yellow"><strong>Blog Cooperando Ando</strong></h5>
-												<!-- <p>Conoce las operaciones que puedes hacer en cada plataforma y no olvides calificar tu experiencia en las tiendas oficiales.</p> -->
-												<a href="#" class="btn bg-lightpurple text-white br-30 px-5">Saber más</a>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div>
-									<div class="row">
-										<div class="col-md-6 col-lg-7 offset-lg-1 mr-lg-n5 has-label purple">
-											<img src="assets/img/secciones/blog/cpm-blog-combate_fraudes_financieros.png" class="bg-grey1 img-fluid" alt="Yo hago Click, con Caja Popular Mexicana">
-										</div>
-										<div class="col-md-6 col-lg-4 h-50 ml-lg-n1 my-auto">
-											<div class="h-100 p-5 py-md-2 p-lg-5 bg-purple text-white br-ntl-30">
-												<h3><strong>2. Combate los fraudes financieros</strong></h3>
-												<h5 class="text-yellow"><strong>Blog Cooperando Ando</strong></h5>
-												<!-- <p>Conoce las operaciones que puedes hacer en cada plataforma y no olvides calificar tu experiencia en las tiendas oficiales.</p> -->
-												<a href="#" class="btn bg-lightpurple text-white br-30 px-5">Saber más</a>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div>
-									<div class="row">
-										<div class="col-md-6 col-lg-7 offset-lg-1 mr-lg-n5 has-label purple">
-											<img src="assets/img/secciones/blog/cpm-blog-combate_fraudes_financieros.png" class="bg-grey1 img-fluid" alt="Yo hago Click, con Caja Popular Mexicana">
-										</div>
-										<div class="col-md-6 col-lg-4 h-50 ml-lg-n1 my-auto">
-											<div class="h-100 p-5 py-md-2 p-lg-5 bg-purple text-white br-ntl-30">
-												<h3><strong>3. Combate los fraudes financieros</strong></h3>
-												<h5 class="text-yellow"><strong>Blog Cooperando Ando</strong></h5>
-												<!-- <p>Conoce las operaciones que puedes hacer en cada plataforma y no olvides calificar tu experiencia en las tiendas oficiales.</p> -->
-												<a href="#" class="btn bg-lightpurple text-white br-30 px-5">Saber más</a>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class="blog-slider_nav">
-								<ul class="controls" id="gallery-controls" aria-label="Gallery Navigation" tabindex="0">
-									<li class="prev" aria-controls="gallery" tabindex="-1" data-controls="prev">
-										<i class="fas fa-chevron-left"></i>
-									</li>
-									<li class="next" aria-controls="gallery" tabindex="-1" data-controls="next">
-										<i class="fas fa-chevron-right"></i>
-									</li>
-								</ul>
+						<div class="col-md-6 col-lg-7 offset-lg-1 mr-lg-n5 has-label purple">
+							<img src="assets/img/secciones/blog/cpm-blog-combate_fraudes_financieros.png" class="bg-grey1 img-fluid" alt="Yo hago Click, con Caja Popular Mexicana">
+						</div>
+						<div class="col-md-6 col-lg-4 h-50 ml-lg-n1 my-auto">
+							<div class="h-100 p-5 py-md-2 p-lg-5 bg-purple text-white br-ntl-30">
+								<h3><strong>Combate los fraudes financieros</strong></h3>
+								<h5 class="text-yellow"><strong>Blog Cooperando Ando</strong></h5>
+								<!-- <p>Conoce las operaciones que puedes hacer en cada plataforma y no olvides calificar tu experiencia en las tiendas oficiales.</p> -->
+								<a href="#" class="btn bg-lightpurple text-white br-30 px-5">Saber más</a>
 							</div>
 						</div>
 					</div>
-
-					<script type="module">
-						var slider = tns({
-							container: '.blog-slider',
-							mode: 'carousel',
-							controlsContainer: "#gallery-controls",
-							nav: false,
-							items: 1,
-							slideBy: 'page',
-							autoplay: true,
-							autoplayTimeout: 6500,
-							speed: 650,
-							animateIn: 'fadeIn',
-							animateOut: 'fadeOut',
-							touch: true
-						});
-					</script>					
+					
 				</section> <!-- /. Featured Module Home -->
 
 				<div class="row row-eq-height">

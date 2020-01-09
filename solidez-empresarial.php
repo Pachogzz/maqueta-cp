@@ -1,8 +1,9 @@
 <?php include('inc/header.php'); ?>
 
-		<section class="after-flange header-title-inner">
+		<section class="after-flange header-title-inner bg-gradient-green">
 			<div class="container h-100">
-				<div class="row h-100 align-items-center has-video-bg">
+				<div class="row h-100 align-items-center">
+				<!-- <div class="row h-100 align-items-center has-video-bg">
 					<div class="bg-video-title w-100 text-center">
 						<video autoplay loop muted class="video-bg container px-0" id="video-bg">
 							<source 
@@ -11,8 +12,8 @@
 								type="video/mp4" 
 								alt="Bienvenido a Caja Popular Mexicana">
 						</video>
-					</div>
-					<div class="col position-absolute">
+					</div> -->
+					<div class="col">
 						<h1 class="display-4 bg-primary d-inline-block px-lg-5 py-lg-3 br-30 text-white font-weight-semibold">Solidez Empresarial</h1>
 					</div>
 				</div>
@@ -51,35 +52,35 @@
 						</div>
 					</div>
 					<div class="col-12 col-md-4 mb-4 mb-md-5">
-						<div class="h-100 bg-red text-white text-center rounded p-5">
+						<div class="h-100 bg-quinary text-white text-center rounded p-5">
 							<i class="fas fa-child fa-5x mb-3"></i>
 							<h2 class="font-weight-bolder mb-3">360,957</h2>
 							<h4>Ahorradores Menores de Edad</h4>
 						</div>
 					</div>
 					<div class="col-12 col-md-4 mb-4 mb-md-5">
-						<div class="h-100 bg-purple text-white text-center rounded p-5">
+						<div class="h-100 bg-primary text-white text-center rounded p-5">
 							<i class="fas fa-store-alt fa-5x mb-3"></i>
 							<h2 class="font-weight-bolder mb-3">473</h2>
 							<h4>Sucursales</h4>
 						</div>
 					</div>
 					<div class="col-12 col-md-4 mb-4 mb-md-5">
-						<div class="h-100 bg-blue text-white text-center rounded p-5">
+						<div class="h-100 bg-quinary text-white text-center rounded p-5">
 							<i class="fas fa-piggy-bank fa-5x mb-3"></i>
 							<h2 class="font-weight-bolder mb-3">48,282,360*</h2>
 							<h4>Captación</h4>
 						</div>
 					</div>
 					<div class="col-12 col-md-4 mb-4 mb-md-5">
-						<div class="h-100 bg-orange text-white text-center rounded p-5">
+						<div class="h-100 bg-primary text-white text-center rounded p-5">
 							<i class="fas fa-money-bill-wave fa-5x mb-3"></i>
 							<h2 class="font-weight-bolder mb-3">38,479,149*</h2>
 							<h4>Colocación</h4>
 						</div>
 					</div>
 					<div class="col-12 col-md-4 mb-4 mb-md-5">
-						<div class="h-100 bg-tertiary text-white text-center rounded p-5">
+						<div class="h-100 bg-quinary text-white text-center rounded p-5">
 							<i class="fas fa-hand-holding-usd fa-5x mb-3"></i>
 							<h2 class="font-weight-bolder mb-3">60,047,095*</h2>
 							<h4>Activos</h4>

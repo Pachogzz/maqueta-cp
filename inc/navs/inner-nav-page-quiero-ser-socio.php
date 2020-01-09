@@ -12,18 +12,18 @@
 						</a>
 					</div>
 					<div class="col-12 col-lg p-0 mb-2 mb-lg-0 ">
-						<a href="requisitos.php" class="btn bg-primary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
-							Requisitos
+						<a href="ser-socio.php" class="btn bg-primary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
+							Ser socio
 						</a>
 					</div>
 					<div class="col-12 col-lg p-0 mb-2 mb-lg-0 ">
 						<a href="soy-menor-de-edad.php" class="btn bg-quaternary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
-							Soy menor de edad
+							Ahorrador menor de edad
 						</a>
 					</div>
 					<div class="col-12 col-lg p-0 mb-2 mb-lg-0 ">
 						<a href="como-ser-socio-cumplidor.php" class="btn bg-quinary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
-							¿Cómo puedo ser socio?
+							Ser socio cumplido
 						</a>
 					</div>
 				</div>

@@ -109,7 +109,7 @@
 									<div class="card-body bg-grey0 p-4">
 										<h4>Requisitos</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Ser <a href="beneficios.php">socio</a> de Caja Popular Mexicana.</li>
+											<li>Ser <a href="ser-socio.php">socio</a> de Caja Popular Mexicana.</li>
 											<li>Ahorro del 10% del monto a solicitar como garantía, depositado en su Cuenta Mexicana.</li>
 										</ul>
 										<h4>Condiciones</h4>

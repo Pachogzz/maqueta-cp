@@ -19,7 +19,7 @@
 						<blockquote class="blockquote p-5 border border-light bw-5 rounded border-grey1 text-center">
 							<p class="mb-0 lead font-weight-normal">Comineza a usar CPM en línea y comienza a tener más tiempo en tus manos</p>
 							<p class="mb-0 lead text-primary font-weight-bolder mb-3">
-								<a href="https://www.cpmenlinea.cpm.coop/" target="_blank">Ingresa aquí</a>
+								<a class="display-24" href="https://www.cpmenlinea.cpm.coop/" target="_blank">www.cpmenlinea.cpm.coop</a>
 							</p>
 							<p class="mt-3 mb-0 lead font-weight-normal">Consulta los términos y condiciones de nuestro servicio Electrónico por Internet dando <a href="terminos-y-condiciones-sei.php" target="_blank">clic aquí</a>.</p>
 						</blockquote>
@@ -82,7 +82,7 @@
 				      <div class="card-footer">
 						<div class="row">
 							<div class="col-6">
-								<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" data-toggle="modal" data-target="#modalOne">Visualizar</a>
+								<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center" data-toggle="modal" data-target="#modalOne">Visualizar</a>
 								<div class="modal fade vh-100" id="modalOne" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle1">
 								  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
 								    <div class="modal-content">
@@ -115,7 +115,7 @@
 				      <div class="card-footer">
 						<div class="row">
 							<div class="col-6">
-								<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" data-toggle="modal" data-target="#modalTwo">Visualizar</a>
+								<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center" data-toggle="modal" data-target="#modalTwo">Visualizar</a>
 								<div class="modal fade vh-100" id="modalTwo" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle2">
 								  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
 								    <div class="modal-content">
@@ -148,7 +148,7 @@
 				      <div class="card-footer">
 						<div class="row">
 							<div class="col-6">
-								<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" data-toggle="modal" data-target="#modalThree">Visualizar</a>
+								<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center" data-toggle="modal" data-target="#modalThree">Visualizar</a>
 								<div class="modal fade vh-100" id="modalThree" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle3">
 								  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
 								    <div class="modal-content">
@@ -181,7 +181,7 @@
 				      <div class="card-footer">
 						<div class="row">
 							<div class="col-6">
-								<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" data-toggle="modal" data-target="#modalFour">Visualizar</a>
+								<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center" data-toggle="modal" data-target="#modalFour">Visualizar</a>
 								<div class="modal fade vh-100" id="modalFour" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle4">
 								  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
 								    <div class="modal-content">
@@ -214,7 +214,7 @@
 				      <div class="card-footer">
 						<div class="row">
 							<div class="col-6">
-								<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" data-toggle="modal" data-target="#modalFive">Visualizar</a>
+								<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center" data-toggle="modal" data-target="#modalFive">Visualizar</a>
 								<div class="modal fade vh-100" id="modalFive" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle5">
 								  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
 								    <div class="modal-content">
@@ -247,7 +247,7 @@
 				      <div class="card-footer">
 						<div class="row">
 							<div class="col-6">
-								<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" data-toggle="modal" data-target="#modalSix">Visualizar</a>
+								<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center" data-toggle="modal" data-target="#modalSix">Visualizar</a>
 								<div class="modal fade vh-100" id="modalSix" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle6">
 								  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
 								    <div class="modal-content">
@@ -280,7 +280,7 @@
 				      <div class="card-footer">
 						<div class="row">
 							<div class="col-6">
-								<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" data-toggle="modal" data-target="#modalSeven">Visualizar</a>
+								<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center" data-toggle="modal" data-target="#modalSeven">Visualizar</a>
 								<div class="modal fade vh-100" id="modalSeven" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle7">
 								  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
 								    <div class="modal-content">
@@ -313,7 +313,7 @@
 				      <div class="card-footer">
 						<div class="row">
 							<div class="col-6">
-								<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" data-toggle="modal" data-target="#modalEight">Visualizar</a>
+								<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center" data-toggle="modal" data-target="#modalEight">Visualizar</a>
 								<div class="modal fade vh-100" id="modalEight" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle8">
 								  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
 								    <div class="modal-content">
@@ -346,7 +346,7 @@
 				      <div class="card-footer">
 						<div class="row">
 							<div class="col-6">
-								<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" data-toggle="modal" data-target="#modalNine">Visualizar</a>
+								<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center" data-toggle="modal" data-target="#modalNine">Visualizar</a>
 								<div class="modal fade vh-100" id="modalNine" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle9">
 								  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
 								    <div class="modal-content">
@@ -379,7 +379,7 @@
 				      <div class="card-footer">
 						<div class="row">
 							<div class="col-6">
-								<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" data-toggle="modal" data-target="#modalTen">Visualizar</a>
+								<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center" data-toggle="modal" data-target="#modalTen">Visualizar</a>
 								<div class="modal fade vh-100" id="modalTen" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle10">
 								  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
 								    <div class="modal-content">
@@ -412,7 +412,7 @@
 				      <div class="card-footer">
 						<div class="row">
 							<div class="col-6">
-								<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" data-toggle="modal" data-target="#modalEleven">Visualizar</a>
+								<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center" data-toggle="modal" data-target="#modalEleven">Visualizar</a>
 								<div class="modal fade vh-100" id="modalEleven" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle11">
 								  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
 								    <div class="modal-content">
@@ -445,7 +445,7 @@
 				      <div class="card-footer">
 						<div class="row">
 							<div class="col-6">
-								<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" data-toggle="modal" data-target="#modalTwelve">Visualizar</a>
+								<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center" data-toggle="modal" data-target="#modalTwelve">Visualizar</a>
 								<div class="modal fade vh-100" id="modalTwelve" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle12">
 								  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
 								    <div class="modal-content">
@@ -478,7 +478,7 @@
 				      <div class="card-footer">
 						<div class="row">
 							<div class="col-6">
-								<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" data-toggle="modal" data-target="#modalThirteen">Visualizar</a>
+								<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center" data-toggle="modal" data-target="#modalThirteen">Visualizar</a>
 								<div class="modal fade vh-100" id="modalThirteen" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle13">
 								  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
 								    <div class="modal-content">
@@ -511,7 +511,7 @@
 				      <div class="card-footer">
 						<div class="row">
 							<div class="col-6">
-								<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" data-toggle="modal" data-target="#modalFourteen">Visualizar</a>
+								<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center" data-toggle="modal" data-target="#modalFourteen">Visualizar</a>
 								<div class="modal fade vh-100" id="modalFourteen" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle14">
 								  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
 								    <div class="modal-content">
@@ -544,7 +544,7 @@
 				      <div class="card-footer">
 						<div class="row">
 							<div class="col-6">
-								<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" data-toggle="modal" data-target="#modalFifteen">Visualizar</a>
+								<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center" data-toggle="modal" data-target="#modalFifteen">Visualizar</a>
 								<div class="modal fade vh-100" id="modalFifteen" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle15">
 								  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
 								    <div class="modal-content">
@@ -577,7 +577,7 @@
 				      <div class="card-footer">
 						<div class="row">
 							<div class="col-6">
-								<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" data-toggle="modal" data-target="#modalSixteen">Visualizar</a>
+								<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center" data-toggle="modal" data-target="#modalSixteen">Visualizar</a>
 								<div class="modal fade vh-100" id="modalSixteen" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle16">
 								  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
 								    <div class="modal-content">
@@ -610,7 +610,7 @@
 				      <div class="card-footer">
 						<div class="row">
 							<div class="col-6">
-								<a href="#" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" data-toggle="modal" data-target="#modalSeventeen">Visualizar</a>
+								<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center" data-toggle="modal" data-target="#modalSeventeen">Visualizar</a>
 								<div class="modal fade vh-100" id="modalSeventeen" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle17">
 								  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
 								    <div class="modal-content">

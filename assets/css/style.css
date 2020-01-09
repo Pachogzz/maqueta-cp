@@ -40,6 +40,8 @@ p{ font-size: 16px; }
 	.bg-purple{ background-color: #864192; }
 	.bg-lightpurple{ background-color: #b4add4; }
 	.bg-blue{ background-color: #5eb4e5; }
+	.bg-blue1{ background-color: #2795C2; }
+	.bg-blue2{ background-color: #025785; }
 	.bg-orange{ background-color: #f59e35; }
 	.bg-red{ background-color: #ed6868; }
 	.text-tertiary{ color: #09871a; }
@@ -49,6 +51,8 @@ p{ font-size: 16px; }
 	.text-purple{ color: #864192; }
 	.text-lightpurple{ color: #b4add4; }
 	.text-blue{ color: #5eb4e5; }
+	.text-blue1{ color: #2795C2 }
+	.text-blue2{ color: #025785 }
 	.text-orange{ color: #f59e35; }
 	.text-red{ color: #ed6868; }
 	.bg-grey0{ background-color: #f1f1f1 !important; }
@@ -72,6 +76,8 @@ p{ font-size: 16px; }
 	.border-purple{ border-color: #864192 !important; }
 	.border-lightpurple{ border-color: #b4add4; }
 	.border-blue{ border-color: #5eb4e5 !important; }
+	.border-blue1{ border-color: #2795C2 !important; }
+	.border-blue2{ border-color: #025785 !important; }	
 	.border-orange{ border-color: #f59e35 !important; }
 	.border-red{ border-color: #ed6868 !important; }
 	.border-grey0{ border-color: #f1f1f1 !important; }
@@ -124,6 +130,12 @@ p{ font-size: 16px; }
 	.font-weight-semibold{ font-weight: 600 !important; }
 	.display-5{ font-size: 3.4rem; line-height: 3.6rem; }
 	.display-12{ font-size: 12px; }
+	.display-14{ font-size: 14px; }
+	.display-16{ font-size: 16px; }
+	.display-18{ font-size: 18px; }
+	.display-20{ font-size: 20px; }
+	.display-22{ font-size: 22px; }
+	.display-24{ font-size: 24px; }
 /* Border width */
 	.bw-1{ border-width: 1px !important; border-style: solid; }
 	.bw-2{ border-width: 2px !important; border-style: solid; }

@@ -43,8 +43,8 @@
 								<div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionCICPM">
 									<div class="card-body bg-grey0 p-4">
 										<ol class="p-5 bg-white bw-1 border-grey1">
-											<li>Ser socio [link socio] de Caja Popular Mexicana.</li>
-											<li>Contar con medios electrónicos con acceso a una conexión de internet que cumplan con las consideraciones técnicas [link consideraciones técnicas] establecidas.</li>
+											<li><a href="ser-socio.php">Ser socio</a> de Caja Popular Mexicana.</li>
+											<li>Contar con medios electrónicos con acceso a una conexión de internet que cumplan con las <a href="consideraciones-tecnicas-sei.php">consideraciones técnicas</a> establecidas.</li>
 											<li>Proporcionar una cuenta de correo electrónico personal y número de teléfono celular.</li>
 											<li>Firmar el contrato correspondiente en la sucursal de tu preferencia.</li>
 										</ol>
@@ -62,7 +62,9 @@
 								</div>
 								<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionCICPM">
 									<div class="card-body bg-grey0 p-4">
-										<p>No, el servicio no tiene ningún costo.</p>
+										<ul class="p-5 bg-white bw-1 border-grey1">
+											<li>No, el servicio no tiene ningún costo.</li>
+										</ul>
 									</div>
 								</div>
 							</div>
@@ -77,7 +79,7 @@
 								</div>
 								<div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionCICPM">
 									<div class="card-body bg-grey0 p-4">
-										<p>Las principales operaciones que se pueden realizar son:</p>
+										<p><strong>Las principales operaciones que se pueden realizar son:</strong></p>
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li>Consulta de saldos.</li>
 											<li>Pago de préstamos.</li>
@@ -99,7 +101,9 @@
 								</div>
 								<div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionCICPM">
 									<div class="card-body bg-grey0 p-4">
-										<p>Según el sistema operativo del dispositivo móvil, si es Android en <a href="https://play.google.com/store/apps/details?id=coop.cpm.cpmenlinea.mobile&amp;hl=es_MX" target="_blank">Play Store</a>, si es iOS en <a href="https://apps.apple.com/mx/app/cpm-movil/id1395963629" target="_blank">App Store</a></p>
+										<ul class="p-5 bg-white bw-1 border-grey1">
+											<li>Según el sistema operativo del dispositivo móvil, si es Android en <a href="https://play.google.com/store/apps/details?id=coop.cpm.cpmenlinea.mobile&amp;hl=es_MX" target="_blank">Play Store</a>, si es iOS en <a href="https://apps.apple.com/mx/app/cpm-movil/id1395963629" target="_blank">App Store</a></li>
+										</ul>
 									</div>
 								</div>
 							</div>
@@ -114,7 +118,9 @@
 								</div>
 								<div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionCICPM">
 									<div class="card-body bg-grey0 p-4">
-										<p>Comunícate al 800 7100 800 para recibir asesoría dentro del horario de lunes a domingo de 8:00 a 21:00 hrs o puedes dar <a href="#">clic aquí</a></p>
+										<ul class="p-5 bg-white bw-1 border-grey1">
+											<li>Comunícate al 800 7100 800 para recibir asesoría dentro del horario de lunes a domingo de 8:00 a 21:00 hrs o puedes dar <a href="#">clic aquí</a></li>
+										</ul>
 									</div>
 								</div>
 							</div>
@@ -129,7 +135,9 @@
 								</div>
 								<div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionCICPM">
 									<div class="card-body bg-grey0 p-4">
-										<p>No, se utiliza el mismo usuario y contraseña.</p>
+										<ul class="p-5 bg-white bw-1 border-grey1">
+											<li>No, se utiliza el mismo usuario y contraseña.</li>
+										</ul>
 									</div>
 								</div>
 							</div>
@@ -144,7 +152,9 @@
 								</div>
 								<div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordionCICPM">
 									<div class="card-body bg-grey0 p-4">
-										<p>Comunícate al 800 7100 800 para solicitar una nueva contraseña dentro del horario de lunes a domingo de 8:00 a 21:00hrs</p>
+										<ul class="p-5 bg-white bw-1 border-grey1">
+											<li>Comunícate al 800 7100 800 para solicitar una nueva contraseña dentro del horario de lunes a domingo de 8:00 a 21:00hrs</li>
+										</ul>
 									</div>
 								</div>
 							</div>
@@ -159,7 +169,9 @@
 								</div>
 								<div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordionCICPM">
 									<div class="card-body bg-grey0 p-4">
-										<p>Comunícate al 800 7100 800 para bloquear temporalmente el servicio dentro del horario de lunes a domingo de 8:00 a 21:00 hrs</p>
+										<ul class="p-5 bg-white bw-1 border-grey1">
+											<li>Comunícate al 800 7100 800 para bloquear temporalmente el servicio dentro del horario de lunes a domingo de 8:00 a 21:00 hrs</li>
+										</ul>
 									</div>
 								</div>
 							</div>
@@ -174,7 +186,9 @@
 								</div>
 								<div id="collapseNine" class="collapse" aria-labelledby="headingNine" data-parent="#accordionCICPM">
 									<div class="card-body bg-grey0 p-4">
-										<p>Debes acudir a la sucursal de tu preferencia para actualizar tu nuevo número de teléfono celular.</p>
+										<ul class="p-5 bg-white bw-1 border-grey1">
+											<li>Debes acudir a la sucursal de tu preferencia para actualizar tu nuevo número de teléfono celular.</li>
+										</ul>
 									</div>
 								</div>
 							</div>
@@ -189,7 +203,9 @@
 								</div>
 								<div id="collapseTen" class="collapse" aria-labelledby="headingTen" data-parent="#accordionCICPM">
 									<div class="card-body bg-grey0 p-4">
-										<p>Comunícate al 800 7100 800 para solicitar tu aclaración dentro del horario de lunes a domingo de 8:00 a 21:00 hrs o puedes acudir a la sucursal de tu preferencia.</p>
+										<ul class="p-5 bg-white bw-1 border-grey1">
+											<li>Comunícate al 800 7100 800 para solicitar tu aclaración dentro del horario de lunes a domingo de 8:00 a 21:00 hrs o puedes acudir a la sucursal de tu preferencia.</li>
+										</ul>
 									</div>
 								</div>
 							</div>
@@ -204,7 +220,9 @@
 								</div>
 								<div id="collapseeleven" class="collapse" aria-labelledby="headingEleven" data-parent="#accordionCICPM">
 									<div class="card-body bg-grey0 p-4">
-										<p>Debes acudir a la sucursal de tu preferencia a realizar el trámite de cancelación.</p>
+										<ul class="p-5 bg-white bw-1 border-grey1">
+											<li>Debes acudir a la sucursal de tu preferencia a realizar el trámite de cancelación.</li>
+										</ul>
 									</div>
 								</div>
 							</div>

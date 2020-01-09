@@ -9,7 +9,7 @@
 						<h2 class="display-4 text-primary font-weight-semibold">¿En qué te podemos ayudar?</h2>
 					</div>
 					<div class="col-12 col-md-12 col-lg-4 mb-2 mb-lg-0 mb-xl-0">
-						<a href="beneficios.php" class="btn btn-primary btn-lg btn-block rounded-pill w-100 w-lg-75 mx-auto p-3">
+						<a href="ser-socio.php" class="btn btn-primary btn-lg btn-block rounded-pill w-100 w-lg-75 mx-auto p-3">
 							Quiero ser socio <i class="fa fa-chevron-circle-right"></i>
 						</a>
 					</div>

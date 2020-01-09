@@ -22,7 +22,7 @@
 						</a>
 					</div>
 					<div class="col-12 col-lg p-0 mb-2 mb-lg-0 ">
-						<a href="requisitos.php" class="btn bg-quinary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
+						<a href="ser-socio.php" class="btn bg-quinary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
 							Quiero ser socio
 						</a>
 					</div>

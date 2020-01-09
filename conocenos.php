@@ -16,7 +16,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-10 offset-md-1">
-						<p class="h3 text-center w-100 font-weight-semibold">Somos una cooperativa de ahorro y préstamo, con más de 65 años de experiencia que contribuye a mejorar la calidad de vida de sus socios, educando en la cultura del ahorro, en la práctica de la ayuda mutua y el uso responsable del crédito por medio de sus diferentes productos de ahorro, crédito e inversión.</p>
+						<p class="h3 text-center w-100 font-weight-lighter">Somos una cooperativa de ahorro y préstamo que durante más de 68 años de servicio, ha contribuido al mejoramiento de la calidad de vida de nuestros socios; ofreciendo servicios de educación cooperativa y financiera que fomentan la vivencia de nuestros valores, además del uso responsable de los servicios de ahorro, crédito e inversión.</p>
 					</div>
 				</div>
 			</div>
@@ -109,20 +109,20 @@
 						</ul>
 					
 						<div class="tab-content icon-tabs" id="pills-tabContent">
-							<div class="tab-pane fade bw-5 border-primary rounded p-5 show active" id="pills-mision" role="tabpanel" aria-labelledby="pills-mision-tab">
-								<p>Contribuir al mejoramiento de la calidad de vida y satisfacción de nuestros socios en apego a los principios y valores cooperativos.</p>
+							<div class="tab-pane fade bw-5 border-primary rounded bg-grey0 p-4 show active" id="pills-mision" role="tabpanel" aria-labelledby="pills-mision-tab">
+								<p class="p-5 bg-white bw-1 border-grey1 mb-0">Contribuir al mejoramiento de la calidad de vida y satisfacción de nuestros socios en apego a los principios y valores cooperativos.</p>
 							</div>
 
-							<div class="tab-pane fade bw-5 border-primary rounded p-5" id="pills-vision" role="tabpanel" aria-labelledby="pills-vision-tab">
-								<p>Consolidar nuestro liderazgo como cooperativa de ahorro y préstamo mediante soluciones financieras competitivas, personalizadas, accesibles y oportunas que dinamicen la economía de nuestros socios y las comunidades en las que operamos.</p>
+							<div class="tab-pane fade bw-5 border-primary rounded  bg-grey0 p-4" id="pills-vision" role="tabpanel" aria-labelledby="pills-vision-tab">
+								<p class="p-5 bg-white bw-1 border-grey1 mb-0">Consolidar nuestro liderazgo como cooperativa de ahorro y préstamo mediante soluciones financieras competitivas, personalizadas, accesibles y oportunas que dinamicen la economía de nuestros socios y las comunidades en las que operamos.</p>
 							</div>
 							
-							<div class="tab-pane fade bw-5 border-primary rounded p-5" id="pills-propvalor" role="tabpanel" aria-labelledby="pills-propvalor-tab">
-								<p>Soluciones financieras competitivas, personalizadas, accesibles y oportunas.</p>
+							<div class="tab-pane fade bw-5 border-primary rounded  bg-grey0 p-4" id="pills-propvalor" role="tabpanel" aria-labelledby="pills-propvalor-tab">
+								<p class="p-5 bg-white bw-1 border-grey1 mb-0">Soluciones financieras competitivas, personalizadas, accesibles y oportunas.</p>
 							</div>
 							
-							<div class="tab-pane fade bw-5 border-primary rounded p-5" id="pills-valores" role="tabpanel" aria-labelledby="pills-valores-tab">
-								<div class="row">
+							<div class="tab-pane fade bw-5 border-primary rounded  bg-grey0 p-4" id="pills-valores" role="tabpanel" aria-labelledby="pills-valores-tab">
+								<div class="row p-5 bg-white bw-1 border-grey1 mx-0 mb-0">
 									<div class="col-12 col-md-6">
 										<h5><strong>Ayuda mutua</strong></h5>
 										<p>Demostrar en los hechos, compromiso por servir a los demás.</p>
@@ -158,8 +158,8 @@
 								</div>
 							</div>
 							
-							<div class="tab-pane fade bw-5 border-primary rounded p-5" id="pills-principios" role="tabpanel" aria-labelledby="pills-principios-tab">
-								<div class="row">
+							<div class="tab-pane fade bw-5 border-primary rounded  bg-grey0 p-4" id="pills-principios" role="tabpanel" aria-labelledby="pills-principios-tab">
+								<div class="row p-5 bg-white bw-1 border-grey1 mx-0 mb-0">
 									<div class="col-12 col-md-6">
 										<h5><strong>1. Adhesión voluntaria y abierta</strong></h5>
 										<p>Las cooperativas son organizaciones voluntarias y abiertas para todas aquellas personas dispuestas a utilizar sus servicios y dispuestas a aceptar las responsabilidades que conlleva la membresía sin discriminación de género, raza, clase social, posición política o religiosa.</p>
@@ -189,54 +189,56 @@
 								</div>
 							</div>
 							
-							<div class="tab-pane fade bw-5 border-primary rounded p-5" id="pills-organismos" role="tabpanel" aria-labelledby="pills-organismos-tab">
-								<div class="row border-bottom mb-3">
-									<div class="col-12 col-md-2">
-										<img width=80 src="assets/img/secciones/logos-organismos/1.png">
+							<div class="tab-pane fade bw-5 border-primary rounded  bg-grey0 p-4" id="pills-organismos" role="tabpanel" aria-labelledby="pills-organismos-tab">
+								<div class="p-5 bg-white bw-1 border-grey1 mx-0 mb-0">
+									<div class="row border-bottom mb-3">
+										<div class="col-12 col-md-2">
+											<img width=80 src="assets/img/secciones/logos-organismos/1.png">
+										</div>
+										<div class="col-12 col-md-10">
+											<h5><strong>Alianza Cooperativa Internacional [ACI]:</strong></h5>
+											<p>Organización no gubernamental independiente que reúne, representa y sirve a organizaciones cooperativas en todo el mundo. <a href="https://www.ica.coop/es"> https://www.ica.coop/es</a></p>
+										</div>
 									</div>
-									<div class="col-12 col-md-10">
-										<h5><strong>Alianza Cooperativa Internacional [ACI]:</strong></h5>
-										<p>Organización no gubernamental independiente que reúne, representa y sirve a organizaciones cooperativas en todo el mundo. <a href="https://www.ica.coop/es"> https://www.ica.coop/es</a></p>
-									</div>
-								</div>
 
-								<div class="row border-bottom mb-3">
-									<div class="col-12 col-md-2">
-										<img src="assets/img/secciones/logos-organismos/2.png">
+									<div class="row border-bottom mb-3">
+										<div class="col-12 col-md-2">
+											<img src="assets/img/secciones/logos-organismos/2.png">
+										</div>
+										<div class="col-12 col-md-10">
+											<h5><strong>Consejo Mundial de Cooperativas de Ahorro y Crédito [WOCCU]:</strong></h5>
+											<p>Ayuda a sus miembros y posibles miembros a organizar, expandir, mejorar e integrar las cooperativas de ahorro y crédito, e instituciones relacionadas como instrumentos eficaces para el desarrollo económico y social de la población. La visión de WOCCU es “cooperativas de ahorro y crédito de calidad para todos”.<a href="http://www.woccu.org"> http://www.woccu.org</a><br><br></p>
+										</div>
 									</div>
-									<div class="col-12 col-md-10">
-										<h5><strong>Consejo Mundial de Cooperativas de Ahorro y Crédito [WOCCU]:</strong></h5>
-										<p>Ayuda a sus miembros y posibles miembros a organizar, expandir, mejorar e integrar las cooperativas de ahorro y crédito, e instituciones relacionadas como instrumentos eficaces para el desarrollo económico y social de la población. La visión de WOCCU es “cooperativas de ahorro y crédito de calidad para todos”.<a href="http://www.woccu.org"> http://www.woccu.org</a><br><br></p>
-									</div>
-								</div>
 
-								<div class="row border-bottom mb-3">
-									<div class="col-12 col-md-2">
-										<img src="assets/img/secciones/logos-organismos/3.png">
+									<div class="row border-bottom mb-3">
+										<div class="col-12 col-md-2">
+											<img src="assets/img/secciones/logos-organismos/3.png">
+										</div>
+										<div class="col-12 col-md-10">
+											<h5><strong>La Unión Internacional Raiffeisen [IRU]:</strong></h5>
+											<p>Unión universal voluntaria de organizaciones cooperativas nacionales, cuya labor se basa en las ideas y en principios de Federico Guillermo Raiffeisen- autoayuda, autorresponsabilidad, autoadministración. La IRU se fundó en 1968 como asociación registrada en Neuwied/Rhin, con ocasión del 150 aniversario del nacimiento de Federico Guillermo Raiffeisen; hoy en día tiene 61 miembros de 36 países.<a href="https://www.iru.de"> https://www.iru.de</a></p>
+										</div>
 									</div>
-									<div class="col-12 col-md-10">
-										<h5><strong>La Unión Internacional Raiffeisen [IRU]:</strong></h5>
-										<p>Unión universal voluntaria de organizaciones cooperativas nacionales, cuya labor se basa en las ideas y en principios de Federico Guillermo Raiffeisen- autoayuda, autorresponsabilidad, autoadministración. La IRU se fundó en 1968 como asociación registrada en Neuwied/Rhin, con ocasión del 150 aniversario del nacimiento de Federico Guillermo Raiffeisen; hoy en día tiene 61 miembros de 36 países.<a href="https://www.iru.de"> https://www.iru.de</a></p>
-									</div>
-								</div>
 
-								<div class="row border-bottom mb-3">
-									<div class="col-12 col-md-2">
-										<img src="assets/img/secciones/logos-organismos/4.png">
+									<div class="row border-bottom mb-3">
+										<div class="col-12 col-md-2">
+											<img src="assets/img/secciones/logos-organismos/4.png">
+										</div>
+										<div class="col-12 col-md-10">
+											<h5><strong>Federación Integradora Central de Cooperativas de Ahorro y Préstamo:</strong></h5>
+											<p>La federación tiene como objeto social promover y fomentar la integración cooperativa y la representación conjunta de las Sociedades Cooperativas de ahorro y Préstamo afiliadas a la misma, de conformidad en lo preescrito en la ley. Es un organismo de integración y representación que fortalece y consolida a sus cooperativas afiliadas, respetando su identidad para que impulsen el desarrollo integral de sus socios.<a href="http://www.integradoracentral.coop"> http://www.integradoracentral.coop</a></p>
+										</div>
 									</div>
-									<div class="col-12 col-md-10">
-										<h5><strong>Federación Integradora Central de Cooperativas de Ahorro y Préstamo:</strong></h5>
-										<p>La federación tiene como objeto social promover y fomentar la integración cooperativa y la representación conjunta de las Sociedades Cooperativas de ahorro y Préstamo afiliadas a la misma, de conformidad en lo preescrito en la ley. Es un organismo de integración y representación que fortalece y consolida a sus cooperativas afiliadas, respetando su identidad para que impulsen el desarrollo integral de sus socios.<a href="http://www.integradoracentral.coop"> http://www.integradoracentral.coop</a></p>
-									</div>
-								</div>
 
-								<div class="row border-bottom mb-3">
-									<div class="col-12 col-md-2">
-										<img src="assets/img/secciones/logos-organismos/5.png">
-									</div>
-									<div class="col-12 col-md-10">
-										<h5><strong>Confederación de Cooperativas de Ahorro y Préstamo de México (CONCAMEX):</strong></h5>
-										<p>Integra, representa e impulsa una cultura cooperativa y el desarrollo sustentable del sector.<a href="http://www.concamex.coop/es-mx"> http://www.concamex.coop/es-mx</a></p>
+									<div class="row mb-0">
+										<div class="col-12 col-md-2">
+											<img src="assets/img/secciones/logos-organismos/5.png">
+										</div>
+										<div class="col-12 col-md-10">
+											<h5><strong>Confederación de Cooperativas de Ahorro y Préstamo de México (CONCAMEX):</strong></h5>
+											<p>Integra, representa e impulsa una cultura cooperativa y el desarrollo sustentable del sector.<a href="http://www.concamex.coop/es-mx"> http://www.concamex.coop/es-mx</a></p>
+										</div>
 									</div>
 								</div>
 							</div>

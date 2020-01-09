@@ -41,8 +41,6 @@
 		<!-- Tiny Slider 2.0 -->
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/tiny-slider.css">
 		<!--[if (lt IE 9)]><script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.helper.ie8.js"></script><![endif]-->
-		<!-- Animate CSS -->
-		<link rel="stylesheet" href="assets/css/animate.css">
 		<!-- Main CSS -->
 		<link rel="stylesheet" href="assets/css/timeline.css">
 		<link rel="stylesheet" href="assets/css/style.css">
@@ -91,27 +89,79 @@
 										<div class="col-12 col-lg-4">
 											<h6 class="font-weight-semibold text-white bg-primary text-center py-2 px-3 br-30">Conócenos</h6>
 											<ul class="nav flex-column">
-												<li class="nav-item">
-													<a href="conocenos.php" class="nav-link">Somos Caja Popular Mexicana</a>
-												</li>
-												<li class="nav-item">
-													<a href="talento-cpm.php" class="nav-link">Talento CPM</a>
+												<li class="nav-item dropdown-submenu">
+													<a href="#" class="sub-drop nav-link dropdown-toggle" data-toggle="dropdown">Conoce a Caja Popular Mexicana</a>
+													<ul class="nav flex-column dropdown-menu">
+														<li class="nav-item"><a href="conocenos.php" class="nav-link">Filosofía</a></li>
+														<li class="nav-item"><a href="linea-de-tiempo.php" class="nav-link">Línea de tiempo</a></li>
+														<li class="nav-item"><a href="solidez-empresarial.php" class="nav-link">Solidéz Empresarial</a></li>
+													</ul>
 												</li>
 											</ul>
 										</div>
 										<div class="col-12 col-lg-4">
 											<h6 class="font-weight-semibold text-white bg-primary text-center py-2 px-3 br-30">Queremos Servirte</h6>
 											<ul class="nav flex-column">
-												<li class="nav-item"><a href="ser-socio.php" class="nav-link">Socio</a></li>
-												<li class="nav-item"><a href="soy-menor-de-edad.php" class="nav-link">Ahorrador menor de edad</a></li>
-												<li class="nav-item"><a href="servicio-electronico-en-linea.php" class="nav-link">Servicios electrónicos por internet</a></li>
-												<li class="nav-item"><a href="necesitas-credito.php" class="nav-link">Créditos</a></li>
-												<li class="nav-item"><a href="ahorro-e-inversion.php" class="nav-link">Ahorro e inversión</a></li>
+												<li class="nav-item dropdown-submenu">
+													<a href="#" class="sub-drop nav-link dropdown-toggle" data-toggle="dropdown">Socio</a>
+													<ul class="nav dropdown-menu">
+														<li class="nav-item"><a href="requisitos.php" class="nav-link">Requisitos</a></li>
+														<li class="nav-item"><a href="beneficios.php" class="nav-link">Beneficios</a></li>
+													</ul>
+												</li>
+												<li class="nav-item dropdown-submenu">
+													<a href="#" class="sub-drop nav-link dropdown-toggle" data-toggle="dropdown">Ahorrador menor de edad</a>
+													<ul class="nav dropdown-menu">
+														<li class="nav-item"><a href="soy-menor-de-edad.php" class="nav-link">Requisitos</a></li>
+														<li class="nav-item"><a href="#" class="nav-link">Beneficios</a></li>
+													</ul>
+												</li>
+												<li class="nav-item dropdown-submenu">
+													<a href="#" class="sub-drop nav-link dropdown-toggle" data-toggle="dropdown">Servicios electrónicos por internet</a>
+													<ul class="nav dropdown-menu">
+														<li class="nav-item"><a href="servicio-electronico-en-linea.php" class="nav-link">Tu caja ya es móvil</a></li>
+														<li class="nav-item"><a href="cpm-movil.php" class="nav-link">CPM Móvil</a></li>
+														<li class="nav-item"><a href="cpm-en-linea.php" class="nav-link">CPM en Línea</a></li>
+													</ul>
+												</li>
+												<li class="nav-item dropdown-submenu">
+													<div class="btn btn-group">
+														<a href="necesitas-credito.php" class="nav-link">Créditos</a>
+														<a class="dropdown-toggle dropdown-toggle-split sub-drop" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></a>
+														<ul class="nav dropdown-menu">
+															<li class="nav-item"><a href="credito-personal-plus-cpm.php" class="nav-link">Crédito Personal Plus CPM</a></li>
+															<li class="nav-item"><a href="credito-credinamico-cpm.php" class="nav-link">Credinámico</a></li>
+															<li class="nav-item"><a href="credito-productivo-cpm.php" class="nav-link">Crédito Productivo</a></li>
+															<li class="nav-item"><a href="credito-automotriz-cpm.php" class="nav-link">Crédito Automotriz</a></li>
+															<li class="nav-item"><a href="credito-hipotecario-cpm.php" class="nav-link">Crédito Hipotecario</a></li>
+															<li class="nav-item"><a href="credito-inmediato-cpm.php" class="nav-link">Crédito Inmediato CPM</a></li>
+															<!-- <li class="nav-item"><a href="#" class="nav-link">Crédito Personal</a></li> -->
+														</ul>
+													</div>
+												</li>
+												<li class="nav-item dropdown-submenu">
+													<a href="#" class="sub-drop nav-link dropdown-toggle" data-toggle="dropdown">Ahorro e inveresión</a>
+													<ul class="nav dropdown-menu">
+														<li><a href="rendicuenta.php" class="nav-link dropdown-item">Rendicuenta</a></li>
+														<li><a href="mi-alcancia.php" class="nav-link dropdown-item">Mi Alcancía</a></li>
+														<li><a href="mi-alcancia-junior.php" class="nav-link dropdown-item">Mi Alcancía Jr.</a></li>
+														<li><a href="servicuenta.php" class="nav-link dropdown-item">Servicuenta</a></li>
+														<li><a href="cuenta-mexicana.php" class="nav-link dropdown-item">Cuenta Mexicana</a></li>
+														<li><a href="cuentamiga.php" class="nav-link dropdown-item">Cuentamiga</a></li>
+														<li><a href="quieres-saber-las-tasas-de-rendimiento.php" class="nav-link dropdown-item">Tasas de rendimientos</a></li>
+													</ul>
+												</li>
 												<li class="nav-item"><a href="tarjeta-de-debito.php" class="nav-link">Tarjetas de Débito CPM y JR</a></li>
-												<li class="nav-item"><a href="puntos-verdes.php" class="nav-link">Puntos Verdes</a></li>
+												<li class="nav-item"><a href="puntos-verdes.php" class="nav-link">Puntos verdes</a></li>
 												<!-- <li class="nav-item"><a href="#" class="nav-link">Remesas</a></li> -->
-												<li class="nav-item"><a href="mi-nomina-mexicana.php" class="nav-link">Mi Nómina Mexicana</a></li>
-												<li class="nav-item"><a href="necesitas-un-seguro.php" class="nav-link">Seguros</a></li>
+												<li class="nav-item"><a href="mi-nomina-mexicana.php" class="nav-link">Mi nómina mexicana</a></li>
+												<li class="nav-item dropdown-submenu">
+													<a href="#" class="sub-drop nav-link dropdown-toggle" data-toggle="dropdown">Seguros</a>
+													<ul class="nav dropdown-menu">
+														<li class="nav-item"><a href="miseguro-prybe-php" class="nav-link">MiSeguro PRYBE</a></li>
+														<li class="nav-item"><a href="miautoseguro-cpm.php" class="nav-link">MiAutoSeguro CPM</a></li>
+													</ul>
+												</li>
 											</ul>
 										</div>
 										<!-- <div class="col-12 col-lg-3">
