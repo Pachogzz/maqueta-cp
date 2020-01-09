@@ -235,6 +235,35 @@ p{ font-size: 16px; }
 	.z-index-9{ z-index: 9; }
 	.z-index-10{ z-index: 10; }
 
+/* Anchors */
+	a.text-yellow:hover{ color: #ffffff; }
+
+/* Counter asterisk*/
+	.asterisk{
+		display: inline-block;
+		position: relative;
+		width: 100%;
+	}
+	.asterisk:before{
+		font-family: "Font Awesome 5 Pro";
+		font-weight: 900;
+		content: "\f069";
+		position: absolute;
+		top: 35%;
+		right: 12%;
+		font-size: 10px; 
+	}
+
+/* Arrow in text */
+.arrow-txt:before{
+	font-family: "Font Awesome 5 Pro";
+	font-weight: 900;
+	content: "\f0da";
+	position: absolute;
+	left: 0;
+	color: #45bf00; 
+}
+
 /* =========================
 		1. HEADER
 ========================= */
@@ -664,7 +693,7 @@ header .main-logo{
 	}
 	.container{}
 	header .main-logo{ max-width: 70px; }
-	.header-title-inner{ height: 350px; }
+	.header-title-inner{ height: 250px; }
 	.after-flange::after{
 		height: 30px;
 	}
@@ -705,7 +734,7 @@ header .main-logo{
 	}
 	.container{}
 	header .main-logo{ max-width: 70px; }
-	.header-title-inner{ height: 350px; }
+	.header-title-inner{ height: 250px; }
 	.after-flange::after{
 		height: 40px;
 	}
@@ -758,7 +787,7 @@ header .main-logo{
 	}
 	.container{}
 	header .main-logo{ max-width: 100px; }
-	.header-title-inner{ height: 450px; }
+	.header-title-inner{ height: 350px; }
 	.after-flange::after{
 		height: 60px;
 	}
@@ -801,7 +830,7 @@ header .main-logo{
 	}
 	.container{}
 	header .main-logo{ max-width: 100px; }
-	.header-title-inner{ height: 450px; }
+	.header-title-inner{ height: 350px; }
 	/*.header-title-inner .has-video-bg{ left: 12%; }*/
 	.after-flange::after{
 		height: 70px;
@@ -870,7 +899,7 @@ header .main-logo{
 		max-width: 1300px;
 	}
 	header .main-logo{ max-width: 100px; }
-	.header-title-inner{ height: 450px; }
+	.header-title-inner{ height: 350px; }
 	/*.header-title-inner .has-video-bg{ left: 12%; }*/
 	.after-flange::after{
 		height: 80px;

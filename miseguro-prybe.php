@@ -26,7 +26,7 @@
 					<div class="col-12 col-md-6">
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 						<div class="has-label pb-5 pt-0 px-5 position-relative">
-							<h2 class="d-inline-block border-primary text-primary font-weight-bolder bw-3 py-2 px-3 mb-3">DESCRIPCIÓN</h2>
+							<!-- <h2 class="d-inline-block border-primary text-primary font-weight-bolder bw-3 py-2 px-3 mb-3">DESCRIPCIÓN</h2> -->
 							<img width="" src="" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Porque la tranquilidad de tu familia está en tus manos. Seguro de vida de bajo costo el cual asegura sumas que van desde los <span class="font-weight-bold text-primary">$25,000.00 hasta los $75,000.00 </span>que puedes tramitar en cualquiera de nuestras sucursales, buscando que nuestros socios y sus hijos cuenten con un servicio que cubra la necesidad de protección.</a></p>
 							<p class="lead">Consulta los <span class="font-weight-bold text-primary">costos y comisiones de nuestro producto <a href="consulta-los-costos-y-comisiones-de-nuestros-productos"></span>aquí </a></p>

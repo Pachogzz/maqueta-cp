@@ -105,7 +105,7 @@
 					</div>
 					<div class="col-12 col-md-6 order-md-1">
 						<div class="has-label pb-5 pt-0 px-5">
-							<h2 class="d-inline-block border-primary text-primary font-weight-bolder bw-3 py-2 px-3 mb-3">DESCRIPCIÓN</h2>
+							<!-- <h2 class="d-inline-block border-primary text-primary font-weight-bolder bw-3 py-2 px-3 mb-3">DESCRIPCIÓN</h2> -->
 							<img width="" src="assets/img/secciones/logos-ahorro/cuenta-mexicana.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Es una cuenta de ahorro ordinario que te ayuda a obtener un préstamo en Caja Popular Mexicana, pues el saldo forma parte de las garantías requeridas.</p>
 							<p class="lead">Consulta los <span class="font-weight-bold text-primary">costos y comisiones de nuestro producto <a href="#">aquí </a></span></p>

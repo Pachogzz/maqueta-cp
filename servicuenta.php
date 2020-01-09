@@ -26,7 +26,7 @@
 					<div class="col-12 col-md-6">
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 						<div class="has-label pb-5 pt-0 px-5 position-relative">
-							<h2 class="d-inline-block border-primary text-primary font-weight-bolder bw-3 py-2 px-3 mb-3">DESCRIPCIÓN</h2>
+							<!-- <h2 class="d-inline-block border-primary text-primary font-weight-bolder bw-3 py-2 px-3 mb-3">DESCRIPCIÓN</h2> -->
 							<img width="" src="assets/img/secciones/logos-ahorro/servicuenta.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Es un depósito de dinero a la vista que te permite manejar cómodamente tu dinero realizando disposiciones inmediatas; puedes realizar depósitos y retiros sin restricción alguna, sin cobro de comisión por saldo promedio, retiros o depósitos.</p>
 							<p class="lead">Consulta los <span class="font-weight-bold text-primary">costos y comisiones de nuestro producto <a href="#">aquí </a></span></p>

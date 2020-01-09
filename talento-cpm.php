@@ -1,6 +1,6 @@
 <?php include('inc/header.php'); ?>
 
-		<section class="after-flange header-title-inner  bg-gradient-purple">
+		<section class="after-flange header-title-inner  bg-gradient-green">
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
@@ -24,119 +24,112 @@
 				</div> <!-- ./ Main info block -->
 
 				<div class="row mb-5">
-					<div class="col-12 col-md-6">
-						<div class="embed-responsive embed-responsive-16by9">
-							<iframe class="embed-responsive-item" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCajaPopularMexicana%2Fvideos%2F1152682858133593" allowfullscreen></iframe>
+					<div class="col-12">
+						<div class="talento-slider">
+							<div id="talentoSlider" class="carousel slide" data-ride="carousel">
+								<div class="carousel-inner">
+									<div class="carousel-item active">
+										<img src="assets/img/secciones/talento/1-5R.jpg" class="d-block w-100" alt="...">
+										<div class="carousel-caption d-none d-md-block p-5 py-md-2 p-lg-5 bg-primary text-white text-left br-ntl-30 col-6 col-lg-4 my-auto">
+											<h3 class="font-weight-semibold"><strong>Con más de 65 años de experiencia, nos comprometemos con el bienestar social.</strong></h3>
+											<!-- <h5 class="text-yellow"><strong>Bolsa de trabajo</strong></h5> -->
+											<!-- <p>Da clic aquí y conoce por qué Caja Popular Mexicana es una <strong>#SúperEmpresa</strong></p> -->
+											<!-- <a href="talento-cpm.php" class="btn btn-secondary br-30 px-5 font-weight-semibold">Saber más</a> -->
+										</div>
+									</div>
+									<div class="carousel-item">
+										<img src="assets/img/secciones/talento/2-5R.jpg" class="d-block w-100" alt="...">
+										<div class="carousel-caption d-none d-md-block p-5 py-md-2 p-lg-5 bg-primary text-white text-left br-ntl-30 col-6 col-lg-4 my-auto">
+											<h3 class="font-weight-semibold"><strong>Impulsamos el aprendizaje y formación de nuestros colaboradores, procurando su desarrollo.</strong></h3>
+											<!-- <h5 class="text-yellow"><strong>Blog Cooperando Ando</strong></h5> -->
+											<!-- <p>Olvídate de los sermones y acércate a la verdad, <strong>NO</strong> te hablaremos bonito, pero <strong>SÍ</strong> sincero, ¿te atreves?</p> -->
+											<!-- <a href="https://cooperandoando.com/" class="btn btn-secondary br-30 px-5 font-weight-semibold" target="_blank">Saber más</a> -->
+										</div>
+									</div>
+									<div class="carousel-item">
+										<img src="assets/img/secciones/talento/3-5R.jpg" class="d-block w-100" alt="...">
+										<div class="carousel-caption d-none d-md-block p-5 py-md-2 p-lg-5 bg-primary text-white text-left br-ntl-30 col-6 col-lg-4 my-auto">
+											<h3 class="font-weight-semibold"><strong>Nos esforzamos por brindar un servicio de calidad, generando experiencias positivas a nuestros colaboradores.</strong></h3>
+											<!-- <h5 class="text-yellow"><strong>Bolsa de trabajo</strong></h5> -->
+											<!-- <p>Da clic aquí y conoce por qué Caja Popular Mexicana es una <strong>#SúperEmpresa</strong></p> -->
+											<!-- <a href="talento-cpm.php" class="btn btn-secondary br-30 px-5 font-weight-semibold">Saber más</a> -->
+										</div>
+									</div>
+									<div class="carousel-item">
+										<img src="assets/img/secciones/talento/4-5R.jpg" class="d-block w-100" alt="...">
+										<div class="carousel-caption d-none d-md-block p-5 py-md-2 p-lg-5 bg-primary text-white text-left br-ntl-30 col-6 col-lg-4 my-auto">
+											<h3 class="font-weight-semibold"><strong>4.	Vivimos un ambiente de colaboración y compañerismo, brindando espacios de convivencia que refuerzan nuestras relaciones interpersonales.</strong></h3>
+											<!-- <h5 class="text-yellow"><strong>Bolsa de trabajo</strong></h5> -->
+											<!-- <p>Da clic aquí y conoce por qué Caja Popular Mexicana es una <strong>#SúperEmpresa</strong></p> -->
+											<!-- <a href="talento-cpm.php" class="btn btn-secondary br-30 px-5 font-weight-semibold">Saber más</a> -->
+										</div>
+									</div>
+									<div class="carousel-item">
+										<img src="assets/img/secciones/talento/5-5R.jpg" class="d-block w-100" alt="...">
+										<div class="carousel-caption d-none d-md-block p-5 py-md-2 p-lg-5 bg-primary text-white text-left br-ntl-30 col-6 col-lg-4 my-auto">
+											<h3 class="font-weight-semibold"><strong>5.	¡Somos una Súper Empresa!</strong></h3>
+											<!-- <h5 class="text-yellow"><strong>Bolsa de trabajo</strong></h5> -->
+											<!-- <p>Da clic aquí y conoce por qué Caja Popular Mexicana es una <strong>#SúperEmpresa</strong></p> -->
+											<!-- <a href="talento-cpm.php" class="btn btn-secondary br-30 px-5 font-weight-semibold">Saber más</a> -->
+										</div>
+									</div>
+								</div>
+								<a class="carousel-control-prev" href="#talentoSlider" role="button" data-slide="prev">
+									<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+									<span class="sr-only">Previous</span>
+								</a>
+								<a class="carousel-control-next" href="#talentoSlider" role="button" data-slide="next">
+									<span class="carousel-control-next-icon" aria-hidden="true"></span>
+									<span class="sr-only">Next</span>
+								</a>
+							</div>
 						</div>
+						<div class="w-100 p-2 bg-secondary d-none d-lg-block d-xl-block"></div>
 					</div>
-					<div class="col-12 col-md-6">
-						<div class="video-label bg-purple p-3 text-center">
-							<p class="h3 text-white font-weight-bold mb-0">Fraudes más comunies</p>
-						</div>
-
-						<div class="accordion accordion-cpm purple" id="accordionCSCPM">
-							<div class="card">
-								<div class="card-header" id="headingOne">
-									<h2 class="mb-0">
-										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-											Correo basura
-										</button>
-									</h2>
-								</div>
-
-								<div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionCSCPM">
-									<div class="card-body bg-grey0 p-4">
-										<p>Son correos recibidos, sin haberlos solicitado, con publicidad; estos correos te invitan a visitar una página o descargar archivos que por lo general son virus para robar información en tu dispositivo.</p>
-									</div>
-								</div>
-							</div>
-							<div class="card">
-								<div class="card-header" id="headingTwo">
-									<h2 class="mb-0">
-										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-											Suplantación o robo de identidad
-										</button>
-									</h2>
-								</div>
-								<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionCSCPM">
-									<div class="card-body bg-grey0 p-4">
-										<p>En este tipo de fraude, los usurpadores se hacen pasar por una institución como Caja Popular Mexicana mediante llamadas telefónicas, mensajes o correos electrónicos simulando ser empleados, argumentando que tus cuentas están registrando cargos irregulares o que requieren alguna información con el propósito de obtener tus datos personales.</p>
-									</div>
-								</div>
-							</div>
-							<div class="card">
-								<div class="card-header" id="headingThree">
-									<h2 class="mb-0">
-										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-											Ventanas emergentes
-										</button>
-									</h2>
-								</div>
-								<div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionCSCPM">
-									<div class="card-body bg-grey0 p-4">
-										<p>Consiste en redirigirte a una página de internet falsa para robar tu información. Suelen mostrar leyendas similares a esta: “ERROR EN EL SISTEMA. Para solucionarlo da clic aquí”.</p>
-									</div>
-								</div>
-							</div>
-							<div class="card">
-								<div class="card-header" id="headingThree">
-									<h2 class="mb-0">
-										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFourt" aria-expanded="false" aria-controls="collapseFourt">
-											Medidas básicas de seguridad
-										</button>
-									</h2>
-								</div>
-								<div id="collapseFourt" class="collapse" aria-labelledby="headingThree" data-parent="#accordionCSCPM">
-									<div class="card-body bg-grey0 p-4">
-										<ol class="p-5 bg-white bw-1 border-grey1">
-											<li>Evita compartir las claves de acceso (Nombre de Usuario y NIP).</li>
-											<li>Solicita o activa el registro de alertas al celular o correo electrónico.</li>
-											<li>Compra sólo en establecimientos reconocidos y seguros (sitios reconocidos “https”).</li>
-											<li>Programa los movimientos que vas a hacer (pagos, transferencias u operaciones) para evitar tener abierta la sesión por mucho tiempo; concreta la operación y cierra tu sesión. Nunca dejes abierta la sesión, sobre todo en lugares públicos, como los llamados ciber- cafés.</li>
-											<li>Verifica de manera recurrente tu estado de cuenta por Internet para ver que no haya cargos no reconocidos.</li>
-											<li>Revisa periódicamente las cuentas registradas para hacer traspasos y asegúrate de no tener cuentas que no diste de alta.</li>
-											<li>Teclea directamente la dirección de CPM, evita ingresar mediante “ligas” que recibas.</li>
-											<li>Nunca abras o respondas a una ventana emergente, o correo electrónico sospechoso de remitentes desconocidos o aquellos que te dicen haber ganado un premio, viaje o sorteo.</li>
-											<li>Utiliza un antivirus.</li>
-											<li>Procura tener diferentes contraseñas para cada servicio.</li>
-											<li>Toma en cuenta que CPM nunca solicita datos personales o verificación de tus cuentas, mediante correo electrónico o llamada telefónica.</li>
-											<li>Nunca ingreses tus contraseñas, a algún sitio al que se llegó por un correo electrónico o chat.</li>
-										</ol>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div> <!-- ./ Video and Accordion -->
+				</div> <!-- /. Ser CPM -->
 
 				<div class="row mb-5">
 					<div class="col-12">
 						<p class="h2 font-weight-bold text-purple text-center mb-md-4">¿Cómo evitar el fraude?</p>
-						<nav>
-							<div class="nav nav-tabs tabs-color row mb-5 border-bottom-0" id="nav-tab" role="tablist">
-								<a class="nav-item nav-link col-md-1 p-3 mr-1 active" id="tab-one" data-toggle="pill" href="#tabOne" role="tab" aria-controls="tabOne" aria-selected="true">
-									<i class="fas fa-hand-point-up fa-5x"></i>
-								</a>
-								<a class="nav-item nav-link col-md-1 p-3 mr-1" id="tab-two" data-toggle="pill" href="#tabTwo" role="tab" aria-controls="tabTwo" aria-selected="false">
-									<i class="fas fa-hand-point-up fa-5x"></i>
-								</a>
-								<a class="nav-item nav-link col-md-1 p-3 mr-1" id="tab-three" data-toggle="pill" href="#tabThree" role="tab" aria-controls="tabThree" aria-selected="false">
-									<i class="fas fa-hand-point-up fa-5x"></i>
-								</a>
-								<a class="nav-item nav-link col-md-1 p-3 mr-1" id="tab-four" data-toggle="pill" href="#tabFour" role="tab" aria-controls="tabFour" aria-selected="false">
-									<i class="fas fa-hand-point-up fa-5x"></i>
-								</a>
-								<a class="nav-item nav-link col-md-1 p-3 mr-1" id="tab-five" data-toggle="pill" href="#tabFive" role="tab" aria-controls="tabFive" aria-selected="false">
-									<i class="fas fa-hand-point-up fa-5x"></i>
-								</a>
-								<a class="nav-item nav-link col-md-1 p-3 mr-1" id="tab-six" data-toggle="pill" href="#tabSix" role="tab" aria-controls="tabSix" aria-selected="false">
-									<i class="fas fa-hand-point-up fa-5x"></i>
-								</a>
-								<a class="nav-item nav-link col-md-1 p-3 mr-1" id="tab-seven" data-toggle="pill" href="#tabSeven" role="tab" aria-controls="tabSeven" aria-selected="false">
-									<i class="fas fa-hand-point-up fa-5x"></i>
-								</a>
-							</div>
-						</nav>
+
+							<ul class="nav nav-pills justify-content-center mb-5" id="nav-tab" role="tablist">
+								<li class="nav-item">
+									<a class="nav-link col-md-1 p-3 mr-1 active" id="tab-one" data-toggle="pill" href="#tabOne" role="tab" aria-controls="tabOne" aria-selected="true">
+										<i class="fas fa-hand-point-up fa-5x"></i>
+									</a>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link col-md-1 p-3 mr-1" id="tab-two" data-toggle="pill" href="#tabTwo" role="tab" aria-controls="tabTwo" aria-selected="false">
+										<i class="fas fa-hand-point-up fa-5x"></i>
+									</a>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link col-md-1 p-3 mr-1" id="tab-three" data-toggle="pill" href="#tabThree" role="tab" aria-controls="tabThree" aria-selected="false">
+										<i class="fas fa-hand-point-up fa-5x"></i>
+									</a>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link col-md-1 p-3 mr-1" id="tab-four" data-toggle="pill" href="#tabFour" role="tab" aria-controls="tabFour" aria-selected="false">
+										<i class="fas fa-hand-point-up fa-5x"></i>
+									</a>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link col-md-1 p-3 mr-1" id="tab-five" data-toggle="pill" href="#tabFive" role="tab" aria-controls="tabFive" aria-selected="false">
+										<i class="fas fa-hand-point-up fa-5x"></i>
+									</a>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link col-md-1 p-3 mr-1" id="tab-six" data-toggle="pill" href="#tabSix" role="tab" aria-controls="tabSix" aria-selected="false">
+										<i class="fas fa-hand-point-up fa-5x"></i>
+									</a>
+								</li>
+								<li class="nav-item">
+									<a class="nav-link col-md-1 p-3 mr-1" id="tab-seven" data-toggle="pill" href="#tabSeven" role="tab" aria-controls="tabSeven" aria-selected="false">
+										<i class="fas fa-hand-point-up fa-5x"></i>
+									</a>
+								</li>
+							</ul>
+
 						<div class="tab-content" id="nav-tabContent">
 							<div class="p-5 bw-5 border-grey1 rounded tab-pane fade show active" id="tabOne" role="tabpanel" aria-labelledby="tab-one">
 								<p>No des “clic” o abras páginas, archivos, correos sospechosos o respondas mensajes de correo que te notifican haber ganado un premio, viaje o sorteo ya que, generalmente, solicitan tus datos personales para otorgarte el supuesto premio.</p>

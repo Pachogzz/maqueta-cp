@@ -26,7 +26,7 @@
 					<div class="col-12 col-md-6">
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 						<div class="has-label pb-5 pt-0 px-5 position-relative">
-							<h2 class="d-inline-block border-primary text-primary font-weight-bolder bw-3 py-2 px-3 mb-3">DESCRIPCIÓN</h2>
+							<!-- <h2 class="d-inline-block border-primary text-primary font-weight-bolder bw-3 py-2 px-3 mb-3">DESCRIPCIÓN</h2> -->
 							<img width="" src="assets/img/secciones/logos-ahorro/mi_alcancia_junior.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Cuenta donde el menor de edad puede efectuar depósitos en cualquier fecha, a partir del monto mínimo que establezca al momento de aperturar la cuenta. El ahorro podrá ser retirado en los días pactados en el contrato, junto con los interés de acuerdo a la tasa.</p>
 							<p class="lead">Tendrás la posibilidad de cumplir los gustos que te mereces y al mismo tiempo mediante la constancia, crearte el hábito del ahorro.</p>

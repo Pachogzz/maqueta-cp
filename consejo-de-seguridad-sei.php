@@ -1,6 +1,6 @@
 <?php include('inc/header.php'); ?>
 
-		<section class="after-flange header-title-inner  bg-gradient-purple">
+		<section class="after-flange header-title-inner  bg-gradient-green">
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
@@ -30,7 +30,7 @@
 					</div>
 					<div class="col-12 col-md-6">
 						<div class="video-label bg-purple p-3 text-center">
-							<p class="h3 text-white font-weight-bold mb-0">Fraudes más comunies</p>
+							<p class="h3 text-white font-weight-bold mb-0">Fraudes más comunes</p>
 						</div>
 
 						<div class="accordion accordion-cpm purple" id="accordionCSCPM">

@@ -1,6 +1,6 @@
 <?php include('inc/header.php'); ?>
 
-		<section class="after-flange header-title-inner bg-gradient-purple">
+		<section class="after-flange header-title-inner bg-gradient-green">
 		<!-- <section class="after-flange header-title-inner" style="background-image: url('assets/img/secciones/cpm-servicio-en-linea.jpg'), url('assets/img/secciones/cpm-servicio-en-linea-bg.jpg'); background-position: bottom right, center; background-size: auto 100%; background-repeat: no-repeat, repeat-x;"> -->
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">

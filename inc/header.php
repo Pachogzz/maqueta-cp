@@ -104,7 +104,8 @@
 											<ul class="nav flex-column">
 												<li class="nav-item"><a href="ser-socio.php" class="nav-link">Socio</a></li>
 												<li class="nav-item"><a href="soy-menor-de-edad.php" class="nav-link">Ahorrador menor de edad</a></li>
-												<li class="nav-item"><a href="servicio-electronico-en-linea.php" class="nav-link">Servicios electrónicos por internet</a></li>
+												<li class="nav-item"><a href="servicio-electronico-en-linea.php" class="nav-link">Servicio Electrónico por Internet</a></li>
+												<li class="nav-item"><a href="" class="nav-link">Corresponsalias</a></li>
 												<li class="nav-item"><a href="necesitas-credito.php" class="nav-link">Créditos</a></li>
 												<li class="nav-item"><a href="ahorro-e-inversion.php" class="nav-link">Ahorro e inversión</a></li>
 												<li class="nav-item"><a href="tarjeta-de-debito.php" class="nav-link">Tarjetas de Débito CPM y JR</a></li>

@@ -23,7 +23,7 @@
 					<div class="col-12 col-md-6">
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 						<div class="has-label pb-5 pt-0 px-5">
-							<h2 class="d-inline-block border-primary text-primary font-weight-bolder bw-3 py-2 px-3 mb-3">DESCRIPCIÓN</h2>
+							<!-- <h2 class="d-inline-block border-primary text-primary font-weight-bolder bw-3 py-2 px-3 mb-3">DESCRIPCIÓN</h2> -->
 							<img width="" src="assets/img/secciones/logos-credito/credito-automotriz.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Adquiere el automóvil que tú quieras ya sea nuevo o seminuevo de agencia para uso personal o productivo ¡Te financiamos hasta el 100% del valor del vehículo!</p>
 							<p class="lead my-3 font-weight-bold text-primary">Montos desde $36,157.00 Hasta $903,930.00 </p>

@@ -1,11 +1,11 @@
 <?php include('inc/header.php'); ?>
 
-		<section class="after-flange header-title-inner bg-gradient-purple">
+		<section class="after-flange header-title-inner bg-gradient-green">
 		<!-- <section class="after-flange header-title-inner" style="background-image: url('assets/img/secciones/cpm-servicio-en-linea.jpg'), url('assets/img/secciones/cpm-servicio-en-linea-bg.jpg'); background-position: bottom right, center; background-size: auto 100%; background-repeat: no-repeat, repeat-x;"> -->
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 bg-primary d-inline-block px-lg-5 py-lg-3 br-30 text-white font-weight-semibold">Servicio electrónico por Internet</h1>
+						<h1 class="display-4 bg-primary d-inline-block px-lg-5 py-lg-3 br-30 text-white font-weight-semibold">Servicio Electrónico por Internet</h1>
 					</div>
 				</div>
 			</div>
@@ -72,7 +72,7 @@
 						<a href="preguntas-frecuentes-sei.php" class="h-100">
 							<div class="landing-grid-box-info rounded bw-5 border-grey0 text-center h-100">
 								<i class="far fa-question-circle fa-4x bg-primary text-white rounded-circle"></i>
-								<h3>Preguntas frecuentes</h3>
+								<h3>Preguntas <br>frecuentes</h3>
 								<p>CPM en línea consultando nuestra guías en línea o descargándolas en tu computadora.</p>	
 							</div>
 						</a>

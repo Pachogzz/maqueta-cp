@@ -23,7 +23,7 @@
 					<div class="col-12 col-md-6">
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 						<div class="has-label pb-5 pt-0 px-5">
-							<h2 class="d-inline-block border-primary text-primary font-weight-bolder bw-3 py-2 px-3 mb-3">DESCRIPCIÓN</h2>
+							<!-- <h2 class="d-inline-block border-primary text-primary font-weight-bolder bw-3 py-2 px-3 mb-3">DESCRIPCIÓN</h2> -->
 							<img width="" src="assets/img/secciones/logos-credito/credito-inmediato.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Obtén un crédito inmediato, de igual o menor monto a tu ahorro, con una tasa accesible</p>
 							<p class="lead my-3 font-weight-bold text-primary">Montos desde $1,000.00 Hasta $30,000,000.00</p>

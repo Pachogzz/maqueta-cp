@@ -110,134 +110,122 @@
 					
 						<div class="tab-content icon-tabs" id="pills-tabContent">
 							<div class="tab-pane fade bw-5 border-primary rounded bg-grey0 p-4 show active" id="pills-mision" role="tabpanel" aria-labelledby="pills-mision-tab">
-								<p class="p-5 bg-white bw-1 border-grey1 mb-0">Contribuir al mejoramiento de la calidad de vida y satisfacción de nuestros socios en apego a los principios y valores cooperativos.</p>
+								<p class="p-5 bg-white bw-1 border-grey1 mb-0 display-18 text-center">Contribuir al mejoramiento de la calidad de vida y satisfacción de nuestros socios, en apego a los principios y valores cooperativos.</p>
 							</div>
 
 							<div class="tab-pane fade bw-5 border-primary rounded  bg-grey0 p-4" id="pills-vision" role="tabpanel" aria-labelledby="pills-vision-tab">
-								<p class="p-5 bg-white bw-1 border-grey1 mb-0">Consolidar nuestro liderazgo como cooperativa de ahorro y préstamo mediante soluciones financieras competitivas, personalizadas, accesibles y oportunas que dinamicen la economía de nuestros socios y las comunidades en las que operamos.</p>
+								<p class="p-5 bg-white bw-1 border-grey1 mb-0 display-18 text-center">Consolidar nuestro liderazgo como cooperativa de ahorro y préstamo mediante soluciones financieras competitivas, personalizadas, accesibles y oportunas, que dinamicen la economía de nuestros socios y las comunidades en las que operamos.</p>
 							</div>
 							
 							<div class="tab-pane fade bw-5 border-primary rounded  bg-grey0 p-4" id="pills-propvalor" role="tabpanel" aria-labelledby="pills-propvalor-tab">
-								<p class="p-5 bg-white bw-1 border-grey1 mb-0">Soluciones financieras competitivas, personalizadas, accesibles y oportunas.</p>
+								<p class="p-5 bg-white bw-1 border-grey1 mb-0 display-18 text-center">Soluciones financieras <strong>competitivas</strong>, <strong>personalizadas</strong>, <strong>accesibles</strong> y <strong>oportunas</strong>.</p>
 							</div>
 							
-							<div class="tab-pane fade bw-5 border-primary rounded  bg-grey0 p-4" id="pills-valores" role="tabpanel" aria-labelledby="pills-valores-tab">
-								<div class="row p-5 bg-white bw-1 border-grey1 mx-0 mb-0">
+							<div class="tab-pane fade bw-5 border-grey0 rounded p-4" id="pills-valores" role="tabpanel" aria-labelledby="pills-valores-tab">
+								<div class="row p-5 bg-white mx-0 mb-0">
 									<div class="col-12 col-md-6">
-										<h5><strong>Ayuda mutua</strong></h5>
-										<p>Demostrar en los hechos, compromiso por servir a los demás.</p>
-										<p>Asumir la actitud de participar cooperando.</p>
-										<p>Unir esfuerzos para lograr resultados que serían inalcanzables en lo individual.</p>
+										<h5 class="text-primary arrow-txt"><strong>Ayuda mutua</strong></h5>
+										<p class="display-18"><i>Demostrar con los hechos el compromiso por servir</i> a los demás, asumiendo la actitud de <i>participar cooperativamente</i> y uniendo esfuerzos para lograr resultados que serían inalcanzables en lo individual.</p>
 
-										<h5><strong>Responsabilidad</strong></h5>
-										<p>Cumplir oportuna y completamente las tareas y compromisos adquiridos.</p>
-										<p>No esperar que los demás hagan lo que a uno le corresponde.</p>
-										<p>Reconocer y aceptar las consecuencias de nuestros actos y decisiones.</p>
+										<h5 class="text-primary arrow-txt"><strong>Responsabilidad</strong></h5>
+										<p class="display-18"><i>Cumplir con los compromisos adquiridos</i> sin esperar a que otra persona haga lo que a uno le corresponde; reconociendo y aceptando las consecuencias de los actos y decisiones.</p>
 
-										<h5><strong>Democracia</strong></h5>
-										<p>Practicar la delegación de autoridad y la participación en la toma de decisiones.</p>
-										<p>Reconocer el alcance de la opinión individual en el ámbito de las decisiones.</p>
-										<p>Acatar la autoridad de quienes la han recibido por elección o delegación.</p>
+										<h5 class="text-primary arrow-txt"><strong>Democracia</strong></h5>
+										<p class="display-18"><i>Reconocer el alcance de la opinión individual en la toma de decisiones</i>, acatando la autoridad de quienes la han recibido por elección o delegación.</p>
 									</div>
 									<div class="col-12 col-md-6">
-										<h5><strong>Igualdad</strong></h5>
-										<p>Evitar el trato privilegiado a las personas en función de su posición social o su investidura.</p>
-										<p>Actuar con autenticidad sin solicitar favores especiales y sin arrogancia.</p>
+										<h5 class="text-primary arrow-txt"><strong>Igualdad</strong></h5>
+										<p class="display-18"><i>Evitar el trato privilegiado</i> a las personas en función de su posición social o su investidura, evadiendo la solicitud y otorgamiento de favores especiales.</p>
 
-										<h5><strong>Equidad</strong></h5>
-										<p>No favorecer en el trato a unos, cuando con ellos se perjudique a otros.</p>
-										<p>Estimular a los ahorradores y prestatarios en forma proporcional a su contribución y beneficio.</p>
-										<p>Premiar el esfuerzo y contribución de quien cumple su obligación y sancionar a quien no lo hace.</p>
-										<p>Brindar las mismas oportunidades, condiciones y trato a las personas, sin importar las diferencias culturales, sociales o de género.</p>
-
-										<h5><strong>Solidaridad</strong></h5>
-										<p>Pensar en lo común antes que en lo individual.</p>
-										<p>Comprometerse con los derechos de las personas con independencia de su condición cultural, social o de género.</p>
-										<p>Tratar a los demás como deseamos que nos traten a nosotros.</p>
+										<h5 class="text-primary arrow-txt"><strong>Equidad</strong></h5>
+										<p class="display-18"><i>Brindar las mismas oportunidades</i>, condiciones y trato a las personas sin importar las diferencias culturales, sociales o de género.</p>
 									</div>
 								</div>
 							</div>
 							
-							<div class="tab-pane fade bw-5 border-primary rounded  bg-grey0 p-4" id="pills-principios" role="tabpanel" aria-labelledby="pills-principios-tab">
-								<div class="row p-5 bg-white bw-1 border-grey1 mx-0 mb-0">
+							<div class="tab-pane fade bw-5 border-grey0 rounded p-4" id="pills-principios" role="tabpanel" aria-labelledby="pills-principios-tab">
+								<div class="row p-5 bg-white mx-0 mb-0">
 									<div class="col-12 col-md-6">
-										<h5><strong>1. Adhesión voluntaria y abierta</strong></h5>
-										<p>Las cooperativas son organizaciones voluntarias y abiertas para todas aquellas personas dispuestas a utilizar sus servicios y dispuestas a aceptar las responsabilidades que conlleva la membresía sin discriminación de género, raza, clase social, posición política o religiosa.</p>
+										<h5 class="text-primary arrow-txt"><strong>1. Adhesión voluntaria y abierta</strong></h5>
+										<p>Las cooperativas son organizaciones voluntarias y abiertas para quienes estén dispuestos a utilizar sus servicios y aceptar las responsabilidades que conlleva ser socio, sin importar su  género, raza, clase social, posición política o religiosa.</p>
 									
-										<h5><strong>2. Gobierno democrático</strong></h5>
-										<p>Las cooperativas son organizaciones democráticas controladas por sus socios, quienes participan activamente en la definición de las políticas y en la toma de decisiones. Los hombres y las mujeres elegidos para representar a su cooperativa responden ante los socios.</p>
-										<p>En las cooperativas de base, los socios tienen igual derecho de voto (uno socio, un voto), mientras que en las de otros niveles también se organizan con procedimientos democráticos.</p>
+										<h5 class="text-primary arrow-txt"><strong>2. Gobierno democrático</strong></h5>
+										<p>Al ser organizaciones democráticas, las cooperativas son controladas por sus socios, quienes participan en la toma de decisiones; los hombres y las mujeres elegidos para representarlas, rinden cuentas ante sus consocios.</p>
 
-										<h5><strong>3. Participación económica</strong></h5>
-										<p>Los socios contribuyen de manera equitativa y controlan democráticamente el capital de la cooperativa. Por lo menos una parte de ese capital es propiedad común de la cooperativa; usualmente reciben una compensación limitada, si es que la hay, sobre el capital suscrito como condición de membresía.</p>
-										<p>Los socios asignan excedentes para cualquiera de los siguientes propósitos: El desarrollo de la cooperativa mediante la posible creación de reservas, de las cuales al menos una parte debe ser indivisible; los beneficios para los socios en proporción a sus transacciones con la cooperativa y el apoyo a otras actividades según lo apruebe la membresía.</p>
+										<h5 class="text-primary arrow-txt"><strong>3. Participación económica</strong></h5>
+										<p>Los socios muestran su compromiso al contribuir económicamente de manera equitativa, al menos una parte de ese capital es propiedad común de la cooperativa y sus socios; también deben hacer una aportación para la creación de reservas, con las cuales se realizan diversas acciones como el desarrollo de la organización, los beneficios de los socios y el apoyo a otras actividades.</p>
 									</div>
 									<div class="col-12 col-md-6">
-										<h5><strong>4. Autonomía e independencia</strong></h5>
-										<p>Las cooperativas son organizaciones autónomas de ayuda mutua, controladas por sus socios. Si entran en acuerdos con otras organizaciones (incluyendo gobiernos) o tienen capital de fuentes externas, lo realizan en términos que aseguren el control democrático por parte de sus socios y mantengan la autonomía de la cooperativa.</p>
+										<h5 class="text-primary arrow-txt"><strong>4. Autonomía e independencia</strong></h5>
+										<p>Las cooperativas son organizaciones autónomas de ayuda mutua y controladas por sus socios. Cuando éstas sostienen acuerdos con otras organizaciones, entidades de gobierno, o tienen capital de fuentes externas, lo realizan cuidando que se mantenga la autonomía de la misma.</p>
 
-										<h5><strong>5. Educación, capacitación e información</strong></h5>
-										<p>Las cooperativas brindan educación y entrenamiento a sus socios, dirigentes electos, gerentes y colaboradores, de tal forma que contribuyan eficazmente al desarrollo de sus cooperativas.</p>
-										<p>Las cooperativas informan al público en general, particularmente a jóvenes y creadores de opinión, acerca de la naturaleza y beneficios del cooperativismo.</p>
+										<h5 class="text-primary arrow-txt"><strong>5. Educación, capacitación e información</strong></h5>
+										<p>Las cooperativas brindan educación y entrenamiento a sus socios, dirigentes electos, gerentes y colaboradores, de tal forma que contribuyan eficazmente a su desarrollo particular y en conjunto; además, informan al público en general sobre la naturaleza y beneficios del movimiento cooperativo.</p>
 
-										<h5><strong>6. Cooperación entre cooperativas</strong></h5>
-										<p>Las cooperativas sirven a sus socios más eficazmente y fortalecen el movimiento cooperativo, trabajando de manera conjunta por medio de estructuras locales, nacionales, regionales e internacionales.</p>
+										<h5 class="text-primary arrow-txt"><strong>6. Cooperación entre cooperativas</strong></h5>
+										<p>Las cooperativas practican la ayuda mutua entre organizaciones locales, nacionales, regionales e internacionales; dándose la oportunidad de fortalecer el movimiento y servir a sus socios más eficazmente.</p>
 
-										<h5><strong>7. Compromiso con la comunidad</strong></h5>
-										<p>La cooperativa trabaja para el desarrollo sostenible de su comunidad por medio de políticas aceptadas por sus socios.</p>
+										<h5 class="text-primary arrow-txt"><strong>7. Compromiso con la comunidad</strong></h5>
+										<p>Trabajar para el desarrollo sostenible de su comunidad por medio de políticas aceptadas por sus socios, es una característica fundamental de todas las cooperativas.</p>
 									</div>
 								</div>
 							</div>
 							
-							<div class="tab-pane fade bw-5 border-primary rounded  bg-grey0 p-4" id="pills-organismos" role="tabpanel" aria-labelledby="pills-organismos-tab">
-								<div class="p-5 bg-white bw-1 border-grey1 mx-0 mb-0">
+							<div class="tab-pane fade bw-5 border-grey0 rounded p-4" id="pills-organismos" role="tabpanel" aria-labelledby="pills-organismos-tab">
+								<div class="p-5 bg-white mx-0 mb-0">
 									<div class="row border-bottom mb-3">
 										<div class="col-12 col-md-2">
 											<img width=80 src="assets/img/secciones/logos-organismos/1.png">
+											<br>
+											<a href="https://www.ica.coop/es" class="btn btn-sm btn-primary font-weight-semibold mb-3" target="_blank">Saber más</a>
 										</div>
 										<div class="col-12 col-md-10">
 											<h5><strong>Alianza Cooperativa Internacional [ACI]:</strong></h5>
-											<p>Organización no gubernamental independiente que reúne, representa y sirve a organizaciones cooperativas en todo el mundo. <a href="https://www.ica.coop/es"> https://www.ica.coop/es</a></p>
+											<p>Organización no gubernamental independiente, fundada en 1895, su labor principal es unir, representar y servir a organizaciones cooperativas en todo el mundo.</p>
 										</div>
 									</div>
 
 									<div class="row border-bottom mb-3">
 										<div class="col-12 col-md-2">
-											<img src="assets/img/secciones/logos-organismos/2.png">
+											<img src="assets/img/secciones/logos-organismos/1WOCCU.png" class="img-fluid mb-3">
+											<a href="http://www.woccu.org" class="btn btn-sm btn-primary font-weight-semibold mb-3" target="_blank">Saber más</a>
 										</div>
 										<div class="col-12 col-md-10">
 											<h5><strong>Consejo Mundial de Cooperativas de Ahorro y Crédito [WOCCU]:</strong></h5>
-											<p>Ayuda a sus miembros y posibles miembros a organizar, expandir, mejorar e integrar las cooperativas de ahorro y crédito, e instituciones relacionadas como instrumentos eficaces para el desarrollo económico y social de la población. La visión de WOCCU es “cooperativas de ahorro y crédito de calidad para todos”.<a href="http://www.woccu.org"> http://www.woccu.org</a><br><br></p>
+											<p>Organización que tiene como visión ampliar la inclusión financiera en todo el mundo, a través de la comunidad global de las cooperativas de ahorro y crédito, ayudando a sus miembros y posibles miembros en su orden, expansión, mejora e integración.</p>
 										</div>
 									</div>
 
 									<div class="row border-bottom mb-3">
 										<div class="col-12 col-md-2">
-											<img src="assets/img/secciones/logos-organismos/3.png">
+											<img src="assets/img/secciones/logos-organismos/3.png" class="img-fluid mb-3">
+											<a href="https://www.iru.de" class="btn btn-sm btn-primary font-weight-semibold mb-3" target="_blank">Saber más</a>
 										</div>
 										<div class="col-12 col-md-10">
 											<h5><strong>La Unión Internacional Raiffeisen [IRU]:</strong></h5>
-											<p>Unión universal voluntaria de organizaciones cooperativas nacionales, cuya labor se basa en las ideas y en principios de Federico Guillermo Raiffeisen- autoayuda, autorresponsabilidad, autoadministración. La IRU se fundó en 1968 como asociación registrada en Neuwied/Rhin, con ocasión del 150 aniversario del nacimiento de Federico Guillermo Raiffeisen; hoy en día tiene 61 miembros de 36 países.<a href="https://www.iru.de"> https://www.iru.de</a></p>
+											<p>Asociación universal voluntaria mundial de organizaciones cooperativas nacionales, cuya labor se basa en las ideas y en principios de Federico Guillermo Raiffeisen: autoayuda, autorresponsabilidad y autoadministración. Fundada en 1968, hoy en día tiene 52 miembros de 33 países.</p>
 										</div>
 									</div>
 
 									<div class="row border-bottom mb-3">
 										<div class="col-12 col-md-2">
 											<img src="assets/img/secciones/logos-organismos/4.png">
+											<a href="http://www.integradoracentral.coop" class="btn btn-sm btn-primary font-weight-semibold mb-3" target="_blank">Saber más</a>
 										</div>
 										<div class="col-12 col-md-10">
 											<h5><strong>Federación Integradora Central de Cooperativas de Ahorro y Préstamo:</strong></h5>
-											<p>La federación tiene como objeto social promover y fomentar la integración cooperativa y la representación conjunta de las Sociedades Cooperativas de ahorro y Préstamo afiliadas a la misma, de conformidad en lo preescrito en la ley. Es un organismo de integración y representación que fortalece y consolida a sus cooperativas afiliadas, respetando su identidad para que impulsen el desarrollo integral de sus socios.<a href="http://www.integradoracentral.coop"> http://www.integradoracentral.coop</a></p>
+											<p>Organismo que integra a sociedades cooperativas de ahorro y préstamo, con la finalidad de representarlas, defenderlas y promoverlas ante organismos nacionales e internacionales, propiciando el fortalecimiento del sector cooperativo.</p>
 										</div>
 									</div>
 
 									<div class="row mb-0">
 										<div class="col-12 col-md-2">
 											<img src="assets/img/secciones/logos-organismos/5.png">
+											<a href="http://www.concamex.coop/es-mx" class="btn btn-sm btn-primary font-weight-semibold mb-3" target="_blank">Saber más</a>
 										</div>
 										<div class="col-12 col-md-10">
 											<h5><strong>Confederación de Cooperativas de Ahorro y Préstamo de México (CONCAMEX):</strong></h5>
-											<p>Integra, representa e impulsa una cultura cooperativa y el desarrollo sustentable del sector.<a href="http://www.concamex.coop/es-mx"> http://www.concamex.coop/es-mx</a></p>
+											<p>Órgano de consulta y colaboración del estado para el diseño, difusión y ejecución de las políticas, programas e instrumentos para el fomento, consolidación y desarrollo de las sociedades cooperativas de ahorro y préstamo y sus federaciones.</p>
 										</div>
 									</div>
 								</div>
@@ -248,7 +236,7 @@
 
 				<div class="row">
 					<div class="col-md-10 offset-md-1">
-						<p class="h3 py-5 text-center w-100 font-weight-semibold">¿QUÉ ES UNA COOPERATIVA?</p>
+						<h2 class="display-3 text-center text-primary font-weight-semibold mb-3">¿QUÉ SON LAS COOPERATIVAS?</h2>
 					</div>
 					<div class="col-12">
 						<div id="gallery-conocenos">
