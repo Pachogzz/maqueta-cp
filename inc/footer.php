@@ -48,7 +48,7 @@
 		</section>
 
 		<!-- jQiuery -->
-		<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+		<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
 		<script src="assets/js/jquery.waypoints.min.js"></script>
 		<!-- Bootstrap -->
 		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
@@ -69,5 +69,10 @@
 		<script src="assets/js/timeline.js"></script>
 		<!-- Custom JS -->
 		<script src="assets/js/site.js"></script>
+		<!-- <script src="conexion/js/jquery-3.1.1.min.js"></script> -->
+		<!-- Maps Google -->
+		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCiLXdNlZzFjV8DV-Rj16QWiN37zx2nbLo&callback=initMap" async defer></script>
+		<script type="text/javascript" src="assets/js/maps-config.js"></script>
+		<script type="text/javascript" src="assets/js/select-drop.js"></script>
 	</body>
 </html>

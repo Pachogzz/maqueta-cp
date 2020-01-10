@@ -1,6 +1,6 @@
 <?php include('inc/header.php'); ?>
 
-		<!-- <section class="after-flange header-title-inner bg-gradient-orange"> -->
+		<!-- <section class="after-flange header-title-inner bg-gradient-green"> -->
 		<section class="after-flange header-title-inner" style="background-image: url('assets/img/secciones/header-bg-orange.jpeg');background-position: center; background-size: cover; background-repeat: no-repeat;">
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
