@@ -10,7 +10,7 @@
 			</div>
 		</section> <!-- /. Page Title -->
 
-		<?php include('inc/navs/inner-nav-page-quiero-ser-socio.php') ?>
+		<?php include('inc/navs/inner-nav-page-socio-menor.php') ?>
 
 		<section class="featured-module-home py-5">
 			<div class="container">
@@ -24,33 +24,6 @@
 
 		<section class=" page content pb-5">
 			<div class="container">
-
-				<!-- <div class="row bg-grey0 m-0 pl-0 pt-0 pr-3 pb-3">
-					<div class="col-12 col-md-4 pl-0">
-						<div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-							<a class="nav-link h4 p-md-3 br-30 br-tl-0 br-bl-0 active" id="v-pills-home-tab" data-toggle="pill" href="#v-pills-home" role="tab" aria-controls="v-pills-home" aria-selected="true">Requisitos</a>
-							<a class="nav-link h4 p-md-3 br-30 br-tl-0 br-bl-0" id="v-pills-profile-tab" data-toggle="pill" href="#v-pills-profile" role="tab" aria-controls="v-pills-profile" aria-selected="false">Documentacióm</a>
-						</div>
-					</div>
-					<div class="col-12 col-md-8">
-						<div class="tab-content py-5" id="v-pills-tabContent">
-							<div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
-								<ul class="list-unstyled">
-									<li>- Ser menor de 18 años y no estar legalmente emancipado (casado).</li>
-									<li>- El padre o tutor deberá tramitar personalmente el ingreso del menor en su sucursal de adscripción.</li>
-									<li>- Deberá llenar una solicitud de ingreso de menores, la cual le será proporcionada por nuestro personal de sucursal, quien además le orientará sobre el proceso de llenado.</li>
-									<li>- Deberá cubrir el monto mínimo de $20.00 para la apertura de la Cuentamiga</li>
-								</ul>
-
-							</div>
-							<div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab numquam accusamus explicabo deserunt. Dolore dignissimos sunt maiores quos quis similique sint non eos, assumenda. Iure dolore maxime, odit labore fugit!</p>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus odio voluptatem, dicta vero est officia nesciunt repellendus! Recusandae dolorum, officiis, fugit consectetur nisi illo dignissimos veniam optio accusantium delectus vero voluptas perspiciatis commodi consequuntur perferendis ad laborum inventore, quia eum.</p>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus animi, in saepe. Alias, quae assumenda beatae! Voluptate dolore perspiciatis vel, similique? Aperiam facilis laboriosam deleniti id sequi, quod quasi fuga tempore labore voluptatum nemo ullam minus ducimus laborum explicabo a asperiores debitis dolorem facere quis iusto assumenda, voluptates similique commodi.</p>
-							</div>
-						</div>
-					</div>
-				</div> -->
 
 				<div class="row mb-5">
 					<div class="col-12 col-md-6">
@@ -149,9 +122,9 @@
 								<img src="assets/img/secciones/menor-de-edad/cpm-banner-generaccion.jpg" class="img-fluid">
 								<h3 class="my-4 font-weight-semibold text-primary arrow-txt position-relative pl-3">ETAPAS</h3>
 								<div class="row">
-									<div class="col-12">
+									<div class="col-12 col-md-6 mb-5">
 										<h5 class="font-weight-semibold">SUCURSAL</h5>
-										<ul class="p-5 border border-grey1 bg-white">
+										<ul class="p-5 border border-grey1 bg-white h-100">
 											<li>Del 15 de Mayo al 28 de Julio del 2019</li>
 											<li>Talleres Diversidad y Sinergia
 												<ul>
@@ -163,9 +136,10 @@
 												</ul>
 											</li>
 										</ul>
-
+									</div>
+									<div class="col-12 col-md-6 mb-5">
 										<h5 class="font-weight-semibold">PLAZA</h5>
-										<ul class="p-5 border border-grey1 bg-white">
+										<ul class="p-5 border border-grey1 bg-white h-100">
 											<li>Del 15 de julio al 28 de agosto de 2019</li>
 											<li>Talleres
 												<ul>
@@ -176,20 +150,22 @@
 											</li>
 											<li>¡Gánate tu pase a la etapa Nacional! Descubre con tu Educador Cooperativo cómo puedes ganarte un lugar</li>
 										</ul>
-
+									</div>
+									<div class="col-12 col-md-6 mb-5">
 										<h5 class="font-weight-semibold">ENCUENTRO NACIONAL</h5>
-										<ul class="p-5 border border-grey1 bg-white">
+										<ul class="p-5 border border-grey1 bg-white h-100">
 											<li>Del 24 al 26 de Octubre de 2019*</li>
 											<li>Las actividades serán ¡SORPRESA!</li>
 											<p><strong>MUY IMPORTANTE:</strong> Para llegar al Encuentro Nacional, es necesario que pases el proceso de selección de las dos primeras etapas.<br>
 											<span>* La fecha puede variar previo aviso</span></p>
 										</ul>
-
+									</div>
+									<div class="col-12 col-md-6 mb-5">
 										<h5 class="font-weight-semibold">INSTRUCCIONES PARA INSCRIBIRTE</h5>
-										<ul class="p-5 border border-grey1 bg-white">
-											<li>PASO 1: Dar clic abajo en “¡Inscríbete ya!”</li>
-											<li>PASO 2: Una vez en el portal, elige la categoría Ahorrador Menor de Edad, seguido de tu estado, ciudad y sucursal. </li>
-											<li>PASO 3: Elige el taller Generacción #Joven, lee los requisitos CUIDADOSAMENTE y si cumples cada uno de ellos, no esperes más e <a href="https://www.cpm.coop/educacion/" target="_blank">¡INSCRÍBETE!</a> que el cupo es limitado.</li>
+										<ul class="p-5 border border-grey1 bg-white h-100">
+											<li><strong>PASO 1:</strong> Dar clic abajo en “¡Inscríbete ya!”</li>
+											<li><strong>PASO 2:</strong> Una vez en el portal, elige la categoría Ahorrador Menor de Edad, seguido de tu estado, ciudad y sucursal. </li>
+											<li><strong>PASO 3:</strong> Elige el taller Generacción #Joven, lee los requisitos CUIDADOSAMENTE y si cumples cada uno de ellos, no esperes más e <a href="https://www.cpm.coop/educacion/" target="_blank">¡INSCRÍBETE!</a> que el cupo es limitado.</li>
 										</ul>
 									</div>
 								</div>
@@ -198,6 +174,26 @@
 					</div>
 				</div>
 
+				<div class="row mb-5">
+					<div class="col-12">
+						<p class="h2 font-weight-bold text-center mb-md-4">¡Síguenos en nuestra comunidad!</p>
+					</div>
+					<div class="col-12 col-md-3">
+						<div class="h-100 w-100 rounded bg-facebook">
+							<a href="https://www.facebook.com/GeneraccionCPM/" target="_blank" class="h-100 w-100 text-white d-flex align-items-center text-center"><i class="fab fa-facebook-f m-auto rem-10"></i></a>
+						</div>
+					</div>
+					<div class="col-12 col-md-3">
+						<div class="h-100 w-100 rounded bg-gradient-ig">
+							<a href="https://www.instagram.com/generaccioncpm/" target="_blank" class="h-100 w-100 text-white d-flex align-items-center text-center"><i class="fab fa-instagram m-auto rem-10"></i></a>
+						</div>
+					</div>
+					<div class="col-12 col-md-6">
+						<div class="embed-responsive embed-responsive-16by9">
+						  <iframe class="embed-responsive-item" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FGeneraccionCPM%2Fvideos%2F2559644714268195%2F&show_text=0&width=560" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+						</div>
+					</div>
+				</div>
 			</div>
 
 <//?php include('inc/quote-and-banner.php') ?>

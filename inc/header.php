@@ -73,11 +73,11 @@
 							</li>
 							<li class="nav-item">
 								<a href="#" class="nav-link">Blog</a>
-							</li>
+							</li> -->
 							<li class="nav-item">
-								<a href="#" class="nav-link"><i class="fa fa-map-marker-alt"></i></a>
+								<a href="ubica-tu-sucursal.php" class="nav-link"><i class="fa fa-map-marker-alt"></i></a>
 							</li>
-							<li class="nav-item">
+							<!-- <li class="nav-item">
 								<a href="#" class="nav-link"><i class="fa fa-search"></i></a>
 							</li> -->
 							<li class="nav-item dropdown menu-area">
