@@ -74,7 +74,7 @@
 									<div class="card-body bg-grey0 p-4">
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li><strong>Requisitos</strong>
-												<p><a href="#">Ser socio </a>de Caja Popular Mexicana.</p>
+												<p><a href="ser-socio.php">Ser socio </a>de Caja Popular Mexicana.</p>
 												<p>Monto mínimo de apertura: $200.00</p>
 												<p>Plazos de contratación: mínimo 6 meses, máximo 12 meses.</p>
 											</li>
@@ -170,7 +170,7 @@
 										<td>5.34%</td>
 										<td>1.83%</td>
 										<td>Enero</td>
-										<td>02/01/2020 al<br>08/01/2020</td>
+										<td>09/01/2020 al<br>15/01/2020</td>
 									</tr>
 									<tr>
 										<th scope="row">2</th>
@@ -182,7 +182,7 @@
 										<td>5.66%</td>
 										<td>2.14%</td>
 										<td>Enero</td>
-										<td>02/01/2020 al<br>08/01/2020</td>
+										<td>09/01/2020 al<br>15/01/2020</td>
 									</tr>
 									<tr>
 										<th scope="row">3</th>
@@ -194,7 +194,7 @@
 										<td>5.99%</td>
 										<td>2.46%</td>
 										<td>Enero</td>
-										<td>02/01/2020 al<br>08/01/2020</td>
+										<td>09/01/2020 al<br>15/01/2020</td>
 									</tr>
 									<tr>
 										<th scope="row">4</th>
@@ -206,7 +206,7 @@
 										<td>6.31%</td>
 										<td>2.77%</td>
 										<td>Enero</td>
-										<td>02/01/2020 al<br>08/01/2020</td>
+										<td>09/01/2020 al<br>15/01/2020</td>
 									</tr>
 									<tr>
 										<th scope="row">5</th>
@@ -218,7 +218,7 @@
 										<td>6.64%</td>
 										<td>3.08%</td>
 										<td>Enero</td>
-										<td>02/01/2020 al<br>08/01/2020</td>
+										<td>09/01/2020 al<br>15/01/2020</td>
 									</tr>
 									<tr>
 										<th scope="row">6</th>
@@ -230,7 +230,7 @@
 										<td>6.95%</td>
 										<td>3.39%</td>
 										<td>Enero</td>
-										<td>02/01/2020 al<br>08/01/2020</td>
+										<td>09/01/2020 al<br>15/01/2020</td>
 									</tr>
 									<tr>
 										<th scope="row">7</th>
@@ -242,7 +242,7 @@
 										<td>7.27%</td>
 										<td>3.69%</td>
 										<td>Enero</td>
-										<td>02/01/2020 al<br>08/01/2020</td>
+										<td>09/01/2020 al<br>15/01/2020</td>
 									</tr>
 								</tbody>
 							</table>

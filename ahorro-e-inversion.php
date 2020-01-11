@@ -29,7 +29,7 @@
 					<div class="landing-grid-box col-12 col-md-4">
 						<a href="rendicuenta.php" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
-							<i class="far fa-question-circle fa-4x bg-primary text-white rounded-circle"></i>
+							<i class="fas fa-hand-holding-usd fa-4x bg-primary text-white rounded-circle"></i>
 							<!-- <img src="assets/img/icons/icon-bills.png" class="bg-primary p-3 rounded-circle" width="120" height="120" alt=""> -->
 							<h3>Rendicuenta</h3>
 							<p>Quiero sacarle más "jugo" a mi dinero.</p>
@@ -39,7 +39,7 @@
 					<div class="landing-grid-box col-12 col-md-4">
 						<a href="mi-alcancia.php" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
-							<i class="far fa-question-circle fa-4x bg-primary text-white rounded-circle"></i>
+							<i class="fas fa-money-bill-wave fa-4x bg-primary text-white rounded-circle"></i>
 							<!-- <img src="assets/img/icons/icon-clock.png" class="bg-primary p-3 rounded-circle" width="120" height="120" alt=""> -->
 							<h3>Mi Alcancía</h3>
 							<p>Quiero ahorrar por que tengo un proyecto.</p>
@@ -49,7 +49,7 @@
 					<div class="landing-grid-box col-12 col-md-4">
 						<a href="mi-alcancia-junior.php" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
-							<i class="far fa-question-circle fa-4x bg-primary text-white rounded-circle"></i>
+							<i class="fas fa-piggy-bank fa-4x bg-primary text-white rounded-circle"></i>
 							<!-- <img src="assets/img/icons/icon-clock.png" class="bg-primary p-3 rounded-circle" width="120" height="120" alt=""> -->
 							<h3>Mi Alcancía Jr.</h3>
 							<p>Soy menor, quiero formarme el ábito del ahorro.</p>
@@ -61,7 +61,7 @@
 					<div class="landing-grid-box col-12 col-md-4 mb-0">
 						<a href="servicuenta.php" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
-							<i class="far fa-question-circle fa-4x bg-primary text-white rounded-circle"></i>
+							<i class="fas fa-file-invoice-dollar fa-4x bg-primary text-white rounded-circle"></i>
 							<!-- <img src="assets/img/icons/icon-group-people.png" class="bg-primary p-3 rounded-circle" width="120" height="120" alt=""> -->
 							<h3>Servicuenta</h3>
 							<p>Quiero disponibilidad en mi dinero.</p>
@@ -71,7 +71,7 @@
 					<div class="landing-grid-box col-12 col-md-4 mb-0">
 						<a href="cuenta-mexicana.php" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
-							<i class="far fa-question-circle fa-4x bg-primary text-white rounded-circle"></i>
+							<i class="fas fa-credit-card fa-4x bg-primary text-white rounded-circle"></i>
 							<!-- <img src="assets/img/icons/icon-car.png" class="bg-primary p-3 rounded-circle" width="120" height="120" alt=""> -->
 							<h3>Cuenta Mexicana</h3>
 							<p>Quiero formar mi patrimonio y tener acceso al crédito.</p>
@@ -81,7 +81,7 @@
 					<div class="landing-grid-box col-12 col-md-4 mb-0">
 						<a href="cuentamiga.php" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
-							<i class="far fa-question-circle fa-4x bg-primary text-white rounded-circle"></i>
+							<i class="far fa-credit-card fa-4x bg-primary text-white rounded-circle"></i>
 							<!-- <img src="assets/img/icons/icon-car.png" class="bg-primary p-3 rounded-circle" width="120" height="120" alt=""> -->
 							<h3>Cuentamiga</h3>
 							<p>Soy menor, quiero formarme el hábito del ahorro.</p>

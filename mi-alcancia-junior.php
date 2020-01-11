@@ -78,7 +78,7 @@
 												<p>Ser menor de 18 años.</p>
 												<p>Monto de apertura: $100.00</p>
 												<p>Cumplir con los requisitos de Ahorradores Menores de edad de Caja Popular Mexicana.</p>
-												<p>Tener padre o tutor que<a href="#">sea socio </a>de Caja Popular Mexicana.</p>
+												<p>Tener padre o tutor que<a href="ser-socio.php">sea socio </a>de Caja Popular Mexicana.</p>
 												<p>El ahorro mínimo para la cuenta es de $100.00 con depósitos mínimos de $25.00</p>
 												<p>Designar un beneficiario pudiendo ser el mismo padre o tutor.</p>
 											</li>
@@ -175,7 +175,7 @@
 										<td>4.53%</td>
 										<td>1.04%</td>
 										<td>Enero</td>
-										<td>02/01/2020 al<br>08/01/2020</td>
+										<td>09/01/2020 al<br>15/01/2020</td>
 									</tr>
 									<tr>
 										<th scope="row">2</th>
@@ -187,7 +187,7 @@
 										<td>4.80%</td>
 										<td>1.30%</td>
 										<td>Enero</td>
-										<td>02/01/2020 al<br>08/01/2020</td>
+										<td>09/01/2020 al<br>15/01/2020</td>
 									</tr>
 									<tr>
 										<th scope="row">3</th>
@@ -199,7 +199,7 @@
 										<td>5.08%</td>
 										<td>1.58%</td>
 										<td>Enero</td>
-										<td>02/01/2020 al<br>08/01/2020</td>
+										<td>09/01/2020 al<br>15/01/2020</td>
 									</tr>
 									<tr>
 										<th scope="row">4</th>
@@ -211,7 +211,7 @@
 										<td>5.35%</td>
 										<td>1.84%</td>
 										<td>Enero</td>
-										<td>02/01/2020 al<br>08/01/2020</td>
+										<td>09/01/2020 al<br>15/01/2020</td>
 									</tr>
 									<tr>
 										<th scope="row">5</th>
@@ -223,7 +223,7 @@
 										<td>5.63%</td>
 										<td>2.11%</td>
 										<td>Enero</td>
-										<td>02/01/2020 al<br>08/01/2020</td>
+										<td>09/01/2020 al<br>15/01/2020</td>
 									</tr>
 									<tr>
 										<th scope="row">6</th>
@@ -235,7 +235,7 @@
 										<td>5.90%</td>
 										<td>2.37%</td>
 										<td>Enero</td>
-										<td>02/01/2020 al<br>08/01/2020</td>
+										<td>09/01/2020 al<br>15/01/2020</td>
 									</tr>
 									<tr>
 										<th scope="row">7</th>
@@ -247,7 +247,7 @@
 										<td>6.17%</td>
 										<td>2.63%</td>
 										<td>Enero</td>
-										<td>02/01/2020 al<br>08/01/2020</td>
+										<td>09/01/2020 al<br>15/01/2020</td>
 									</tr>
 								</tbody>
 							</table>

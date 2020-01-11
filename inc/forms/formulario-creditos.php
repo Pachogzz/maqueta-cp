@@ -49,7 +49,7 @@
 		<div class="form-check">
 			<input class="form-check-input" type="checkbox" id="avisoDePrivacidad" required>
 			<label class="form-check-label" for="avisoDePrivacidad">
-				<a href="#" target="_blank">Consulta nuestro aviso de privacidad</a>
+				<a href="aviso-de-privacidad.php" target="_blank">Consulta nuestro aviso de privacidad</a>
 			</label>
 		</div>
 	</div>

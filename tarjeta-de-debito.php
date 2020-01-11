@@ -93,7 +93,7 @@
 										<h4>Tarjeta de Débito</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li><strong>Requisitos</strong>
-												<p><a href="#">Ser socio </a>de Caja Popular Mexicana.</p>
+												<p><a href="ser-socio.php">Ser socio </a>de Caja Popular Mexicana.</p>
 												<p>Cubrir la cuota anual de $60.00 pesos más IVA al momento de la contratación.</p>
 											</li>
 										</ul>

@@ -16,7 +16,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-12 text-center">
-						<img src="assets/img/secciones/creditos/CPM_Vacaciones_banner_1891x426px.jpg" alt="" class="img-fluid mb-5">
+						<img src="assets/img/secciones/creditos/CPM_automotriz_banner_1891x426px.jpg" alt="" class="img-fluid mb-5">
 					</div>
 				</div> <!-- ./ End Row -->
 				<div class="row">
@@ -147,7 +147,7 @@
 										<h4>Gastos de contratación</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li>Cuando exista una garantía prendaria o hipotecaria así como de seguro que lo cubra, los costos dependen del valor de la garantía.</li>
-											<li>Consulta los costos y comisiones de nuestros productos dando <a href="#">clic aquí</a>.</li>
+											<li>Consulta los costos y comisiones de nuestros productos dando <a href="consulta-los-costos-y-comisiones-de-nuestros-productos.php">clic aquí</a>.</li>
 										</ul>
 										<h4>Recomendaciones</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">

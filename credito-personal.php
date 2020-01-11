@@ -88,7 +88,7 @@
 								<div id="collapseFourt" class="collapse" aria-labelledby="headingFourt" data-parent="#accordionCICPM">
 									<div class="card-body bg-grey0 p-4">
 										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Consulta los beneficios que tenemos para ti <a href="#">aquí</a></li>
+											<li>Consulta los beneficios que tenemos para ti <a href="ser-socio.php">aquí</a></li>
 											<li>Crea historial crediticio.</li>
 											<li>El ahorro depositado como garantía líquida en Cuenta Mexicana continúa generando intereses.</li>
 											<li>Sin comisiones.</li>
@@ -171,7 +171,7 @@
 											<li>Si eres socio cumplido* disfruta de tu crédito personal preferencial y tus beneficios con tasas de interés mucho más atractivas.</li>
 											<li>Montos desde <strong>$1,000 pesos.</strong></li>
 											<li>Con tan sólo el 10% de monto mínimo de ahorro y sin comisión por apertura.</li>
-											<li>Checa las características de un socio Cumplido dando clic <a href="#">aquí</a></li><br>
+											<li>Checa las características de un socio Cumplido dando clic <a href="como-ser-socio-cumplidor.php"><strong>aquí</strong></a></li><br>
 											<p><Strong>Características:</Strong></p>
 											<li>Tasa de interés ordinaria anual fija del 17.55% antes de impuestos</li>
 											<li>Los pagos son mensuales y puedes realizar pagos anticipados sin penalización en todas nuestras sucursales.</li>

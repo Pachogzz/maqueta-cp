@@ -61,7 +61,7 @@
 					<div class="landing-grid-box col-12 col-md-4 mb-0">
 						<a href="credito-productivo-cpm.php" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
-							<i class="fas file-invoice-dollar fa-4x bg-primary text-white rounded-circle"></i>
+							<i class="fas fa-file-invoice-dollar fa-4x bg-primary text-white rounded-circle"></i>
 							<!-- <img src="assets/img/icons/icon-group-people.png" class="bg-primary p-3 rounded-circle" width="120" height="120" alt=""> -->
 							<h3>Crédito <br>Productivo CPM</h3>
 							<p>Adquiere tu crédito para financiar tus actividades comerciales y productivas.</p>

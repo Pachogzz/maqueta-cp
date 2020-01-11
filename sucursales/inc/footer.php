@@ -7,7 +7,7 @@
 						<h2>800 7100 800</h2>
 						<h5>o escríbenos a </h5>
 						<h2><a href="mailto:contacto@cpm.coop">contacto@cpm.coop</a></h2>
-						<a href="#"><img src="assets/img/buro-g-logo.jpg" alt="" class="img-fluid"></a>
+						<a href="https://www.buro.gob.mx/" target="_blank"><img src="assets/img/buro-g-logo.jpg" alt="" class="img-fluid"></a>
 						<a href="http://www.aciamericas.coop/" target="_blank"><img src="assets/img/coop-g-logo.jpg" alt="" class="img-fluid"></a>
 						<a href="http://www.woccu.org/" target="_blank"><img src="assets/img/cm-g-logo.jpg" alt="" class="img-fluid"></a>
 						<a href="http://concamex.coop/es-mx/" target="_blank"><img src="assets/img/concamex-g-logo.jpg" alt="" class="img-fluid"></a>
@@ -30,13 +30,13 @@
 				<div class="row">
 					<div class="col-12 mb-2 text-center">
 						<ul class="nav justify-content-center">
-							<a class="nav-link p-0 mr-1 text-light" href="#"><small>Consulta los costos y comisiones de nuestros productos |</small></a>
+							<a class="nav-link p-0 mr-1 text-light" href="consulta-los-costos-y-comisiones-de-nuestros-productos.php"><small>Consulta los costos y comisiones de nuestros productos |</small></a>
 							<a class="nav-link p-0 mr-1 text-light" href="politicas-de-uso.php"><small>Políticas de uso |</small></a>
 							<a class="nav-link p-0 mr-1 text-light" href="#"><small>Mapa del sitio |</small></a>
 							<a class="nav-link p-0 mr-1 text-light" href="aviso-de-privacidad.php"><small>Aviso de privacidad |</small></a>
 							<a class="nav-link p-0 mr-1 text-light" href="#"><small>Despacho de Cobranza |</small></a>
 							<a class="nav-link p-0 mr-1 text-light" href="aviso-de-privacidad-credito-y-cobranza.php"><small>Aviso de privacidad crédito y cobranza |</small></a>
-							<a class="nav-link p-0 mr-1 text-light" href="#"><small>Términos de uso para redes sociales |</small></a>
+							<a class="nav-link p-0 mr-1 text-light" href="terminos-de-uso-para-redes-sociales.php"><small>Términos de uso para redes sociales |</small></a>
 							<a class="nav-link p-0 mr-1 text-light" href="aviso-de-privacidad-en-redes-sociales.php"><small>Aviso de privacidad en redes sociales |</small></a>
 							<a class="nav-link p-0 mr-1 text-light" href="terminos-y-condiciones-sei.php"><small>Terminos y condiciones para el servicio electrónico por Internet</small></a>
 						</ul>

@@ -29,7 +29,7 @@
 							<!-- <h2 class="d-inline-block border-primary text-primary font-weight-bolder bw-3 py-2 px-3 mb-3">DESCRIPCIÓN</h2> -->
 							<img width="" src="assets/img/secciones/logos-ahorro/servicuenta.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Es un depósito de dinero a la vista que te permite manejar cómodamente tu dinero realizando disposiciones inmediatas; puedes realizar depósitos y retiros sin restricción alguna, sin cobro de comisión por saldo promedio, retiros o depósitos.</p>
-							<p class="lead">Consulta los <span class="font-weight-bold text-primary">costos y comisiones de nuestro producto <a href="#">aquí </a></span></p>
+							<p class="lead">Consulta los <span class="font-weight-bold text-primary">costos y comisiones de nuestro producto <a href="consulta-los-costos-y-comisiones-de-nuestros-productos.php"><strong>aquí</strong></a></span></p>
 							<p class="lead">Por ejemplo, <span class="font-weight-bold text-primary">Consulta el contrato universal <a href="assets/img/secciones/ahorro/FR-1008-Contrato-Universal.pdf" target="blank">aquí</a></span></p>
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
@@ -74,7 +74,7 @@
 									<div class="card-body bg-grey0 p-4">
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li><strong>Requisitos</strong>
-												<p><a href="#">Ser socio </a>de Caja Popular Mexicana.</p>
+												<p><a href="ser-socio.php">Ser socio </a>de Caja Popular Mexicana.</p>
 											</li>
 											<li><strong>Documentos generales</strong>
 												<p>Identificación oficial y de la sociedad</p>

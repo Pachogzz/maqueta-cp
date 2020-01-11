@@ -89,7 +89,7 @@
 									<div class="card-body bg-grey0 p-4">
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li>Permite no deshacerse de sus ahorros y patrimonio.</li>
-											<li>Consulta los beneficios que tenemos para ti <a href="#">aquí</a></li>
+											<li>Consulta los beneficios que tenemos para ti <a href="ser-socio.php">aquí</a></li>
 											<li>Crea historial crediticio.</li>
 											<li>El ahorro depositado como garantía líquida en Cuenta Mexicana o la Rendicuenta en garantía, continúa generando intereses.</li>
 											<li>No requiere de reciprocidad.</li>

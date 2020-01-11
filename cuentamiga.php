@@ -29,7 +29,7 @@
 							<!-- <h2 class="d-inline-block border-primary text-primary font-weight-bolder bw-3 py-2 px-3 mb-3">DESCRIPCIÓN</h2> -->
 							<img width="" src="assets/img/secciones/logos-ahorro/cuentamiga.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Cuentamiga, es una cuenta de ahorro diseñada para niños y jóvenes menores de 18 años, que quieran iniciar el hábito del ahorro; da la posibilidad de que, cuando seas mayor de edad, puedas ingresar como socio y hacer uso de nuestros diferentes servicios.</p>
-							<p class="lead">Consulta los <span class="font-weight-bold text-primary">costos y comisiones de nuestro producto <a href="#">aquí </a></span></p>
+							<p class="lead">Consulta los <span class="font-weight-bold text-primary">costos y comisiones de nuestro producto <a href="consulta-los-costos-y-comisiones-de-nuestros-productos.php">aquí </a></span></p>
 							<p class="lead">Por ejemplo, <span class="font-weight-bold text-primary">Consulta el contrato universal <a href="assets/img/secciones/ahorro/FR-1008-Contrato-Universal.pdf" target="blank">aquí</a></span></p>
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
@@ -74,7 +74,7 @@
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li><strong>Requisitos</strong>
 												<li>Cumplir con los requisitos de Ahorradores Menores de edad de Caja Popular Mexicana.</li>
-												<li>Tener padre o tutor que <a href="#">sea socio> de Caja Popular Mexicana.</a></li>
+												<li>Tener padre o tutor que <a href="ser-socio.php">sea socio</a>> de Caja Popular Mexicana.</a></li>
 												<li>Monto de apertura $20.00</li>
 											<br>
 											<li><strong>Documentos generales</strong>
@@ -124,7 +124,7 @@
 							<div class="col-12 mt-5">
 								<!-- Nota Legal -->
 								<div class="bg-grey0 p-5">
-									<p class="display-12">Vigencia del 02 al 08 de Enero del 2020</p>
+									<p class="display-12">Vigencia del 09 al 15 de Enero del 2020</p>
 									<p class="display-12">Fecha de cálculo Enero 2020</p>
 									<p class="display-12"><strong>* GAT NOMINAL</strong> antes de impuestos. Para fines informativos y de comparación.</p>
 									<p class="display-12"><strong>**GAT REAL</strong> antes de impuestos. Para fines informativos y de comparación. La GAT REAL es el rendimiento que obtendría después de descontar la inflación estimada Para fines informativos y de comparación exclusivamente.</p>
@@ -152,14 +152,14 @@
 								<tbody>
 									<tr>
 										<th scope="row">1</th>
-										<td>$ 100.00 A $ 25,000.00</td>
+										<td>$ 20.00 A $ 25,000.00</td>
 										<td>3.79%</td>
 										<td>3.86%</td>
 										<td>0.39%</td>
 									</tr>
 									<tr>
 										<th scope="row">2</th>
-										<td>$ 25,000.01 A $ 50,000.00</td>
+										<td>$ 25,001.00 A $ 50,000.00</td>
 										<td>3.90%</td>
 										<td>3.97%</td>
 										<td>0.50%</td>

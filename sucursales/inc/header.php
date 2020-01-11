@@ -92,8 +92,8 @@
 													<a href="conocenos.php" class="sub-drop nav-link dropdown-toggle" data-toggle="dropdown">Conoce a Caja Popular Mexicana</a>
 													<ul class="nav flex-column dropdown-menu">
 														<li class="nav-item"><a href="conocenos.php" class="nav-link">Filosofía</a></li>
-														<li class="nav-item"><a href="#" class="nav-link">Línea de tiempo</a></li>
-														<li class="nav-item"><a href="#" class="nav-link">Solidéz Empresarial</a></li>
+														<li class="nav-item"><a href="linea-de-tiempo.php" class="nav-link">Línea de tiempo</a></li>
+														<li class="nav-item"><a href="solidez-empresarial.php" class="nav-link">Solidéz Empresarial</a></li>
 													</ul>
 												</li>
 												<li class="nav-item"><a href="#" class="nav-link">Conoce nuestra solidez empresarial</a></li>
