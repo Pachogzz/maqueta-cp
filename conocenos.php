@@ -89,22 +89,34 @@
 					<div class="col-12">
 						<ul class="nav nav-pills nav-justified icon-tabs" id="pills-tab" role="tablist">
 							<li class="nav-item">
-								<a class="nav-link h4 p-3 p-md-3 active" id="pills-mision-tab" data-toggle="pill" href="#pills-mision" role="tab" aria-controls="pills-mision" aria-selected="true"><i class="fas fa-bullseye fa-3x mb-3"></i><br>Misión</a>
+								<a class="nav-link h4 p-3 p-md-3 active" id="pills-mision-tab" data-toggle="pill" href="#pills-mision" role="tab" aria-controls="pills-mision" aria-selected="true">
+									<i class="fas fa-bullseye fa-3x mb-3"></i><br>Misión
+								</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link h4 p-3 p-md-3" id="pills-vision-tab" data-toggle="pill" href="#pills-vision" role="tab" aria-controls="pills-vision" aria-selected="false"><i class="far fa-eye fa-3x mb-3"></i><br>Visión</a>
+								<a class="nav-link h4 p-3 p-md-3" id="pills-vision-tab" data-toggle="pill" href="#pills-vision" role="tab" aria-controls="pills-vision" aria-selected="false">
+									<i class="far fa-eye fa-3x mb-3"></i><br>Visión
+								</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link h4 p-3 p-md-3" id="pills-propvalor-tab" data-toggle="pill" href="#pills-propvalor" role="tab" aria-controls="pills-propvalor" aria-selected="false"><i class="far fa-handshake fa-3x mb-3"></i><br>Propuesta de valor</a>
+								<a class="nav-link h4 p-3 p-md-3" id="pills-propvalor-tab" data-toggle="pill" href="#pills-propvalor" role="tab" aria-controls="pills-propvalor" aria-selected="false">
+									<i class="far fa-handshake fa-3x mb-3"></i><br>Propuesta de valor
+								</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link h4 p-3 p-md-3" id="pills-valores-tab" data-toggle="pill" href="#pills-valores" role="tab" aria-controls="pills-valores" aria-selected="false"><i class="fas fa-hand-holding fa-3x mb-3"></i><br>Valores</a>
+								<a class="nav-link h4 p-3 p-md-3" id="pills-valores-tab" data-toggle="pill" href="#pills-valores" role="tab" aria-controls="pills-valores" aria-selected="false">
+									<i class="fas fa-hand-holding fa-3x mb-3"></i><br>Valores
+								</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link h4 p-3 p-md-3" id="pills-principios-tab" data-toggle="pill" href="#pills-principios" role="tab" aria-controls="pills-principios" aria-selected="false"><i class="fas fa-cogs fa-3x mb-3"></i><br>Principios</a>
+								<a class="nav-link h4 p-3 p-md-3" id="pills-principios-tab" data-toggle="pill" href="#pills-principios" role="tab" aria-controls="pills-principios" aria-selected="false">
+									<i class="fas fa-cogs fa-3x mb-3"></i><br>Principios
+								</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link h4 p-3 p-md-3" id="pills-organismos-tab" data-toggle="pill" href="#pills-organismos" role="tab" aria-controls="pills-organismos" aria-selected="false"><i class="fas fa-project-diagram fa-3x mb-3"></i><br>Organismos de Integración</a>
+								<a class="nav-link h4 p-3 p-md-3" id="pills-organismos-tab" data-toggle="pill" href="#pills-organismos" role="tab" aria-controls="pills-organismos" aria-selected="false">
+									<i class="fas fa-project-diagram fa-3x mb-3"></i><br>Organismos de Integración
+								</a>
 							</li>
 						</ul>
 					
@@ -245,55 +257,55 @@
 									<div>
 										<img src="assets/img/secciones/conocenos-galeria/1.jpg" alt="" class="img-fluid">
 									</div>
-									<div class="bg-primary px-4 py-3 text-white"><p><span class="text-yellow font-weight-bolder">La Organización de las Naciones Unidas </span>ha reconocido la importancia de las cooperativas como asociaciones y empresas por medio de las cuales los ciudadanos pueden mejorar eficazmente su vida y al mismo tiempo contribuir al progreso económico, social, cultural y político de la comunidad y la nación. Se ha reconocido también al movimiento cooperativista como una parte interesada, distinta e importante, en los asuntos nacionales y en los internacionales.</p></div>
+									<div class="bg-primary px-4 py-3 text-white"><p class="display-18">La <strong class="text-yellow">Organización de las Naciones Unidas</strong> ha reconocido la importancia de las cooperativas como asociaciones que favorecen el mejoramiento de la calidad de vida de sus socios, además de contribuir al <strong class="text-yellow">progreso económico, social, cultural y político de la sociedad</strong>.</p></div>
 								</div>
 								<div class="tns-item" id="gallery-item1" tabindex="-1">
 									<div>
 										<img src="assets/img/secciones/conocenos-galeria/2.jpg" alt="" class="img-fluid">
 									</div>
-									<div class="bg-primary px-4 py-3 text-white"><p><span class="text-yellow font-weight-bolder">El movimiento cooperativista es democrático</span>, localmente autónomo pero integrado internacionalmente y una forma de organización de asociaciones y empresas por la cual los ciudadanos cuentan con la autoayuda y su propia responsabilidad para alcanzar objetivos no sólo económicos sino también sociales y ambientales, como la superación de la pobreza, la obtención de empleo productivo y el fomento de la integración social.</p></div>
+									<div class="bg-primary px-4 py-3 text-white"><p class="display-18">El movimiento cooperativista es democrático, localmente autónomo pero integrado internacionalmente; tiene la bondad de que los socios asumen la responsabilidad para alcanzar sus <strong class="text-yellow">objetivos económicos, sociales y ambientales</strong>, logrando así un desarrollo integral.</p></div>
 								</div>
 								<div class="tns-item" id="gallery-item2" tabindex="-1">
 									<div>
 										<img src="assets/img/secciones/conocenos-galeria/3.jpg" alt="" class="img-fluid">
 									</div>
-									<div class="bg-primary px-4 py-3 text-white"><p><span class="text-yellow font-weight-bolder">En México las Sociedades Cooperativas de Ahorro y Préstamo (SOCAP)</span> forman parte del sistema financiero con carácter de integrantes del sector social de la economía sin ánimo especulativo y reconociendo que no son intermediarios financieros con fines de lucro.</p></div>
+									<div class="bg-primary px-4 py-3 text-white"><p class="display-18">En México las Sociedades Cooperativas de Ahorro y Préstamo (SOCAP) forman parte del <strong class="text-yellow">sistema financiero regulado</strong>, sin ánimo especulativo y reconociendo que no son intermediarios financieros con fines de lucro.</p></div>
 								</div>
 								<div class="tns-item" id="gallery-item3" tabindex="-1">
 									<div>
 										<img src="assets/img/secciones/conocenos-galeria/4.jpg" alt="" class="img-fluid">
 									</div>
-									<div class="bg-primary px-4 py-3 text-white"><p><span class="text-yellow font-weight-bolder">La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros (CONDUSEF) en su documento Panorama Nacional de las Sociedades Cooperativas de Ahorro y Préstamo (SOCAP)</span> indica que el sector cooperativo está llamado a ser, a través de la oferta de productos financieros de calidad para la población de menores recursos, UN PILAR para lograr una inclusión financiera con sentido social, además las SOCAPS:</p></div>
+									<div class="bg-primary px-4 py-3 text-white"><p class="display-18">La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros (CONDUSEF) en su documento Panorama Nacional de las Sociedades Cooperativas de Ahorro y Préstamo, indica que <strong class="text-yello">el sector cooperativo es un pilar importante para lograr una inclusión financiera</strong> con sentido social, además las SOCAPS:</p></div>
 								</div>
 								<div class="tns-item" id="gallery-item4" tabindex="-1">
 									<div>
 										<img src="assets/img/secciones/conocenos-galeria/5.jpg" alt="" class="img-fluid">
 									</div>
-									<div class="bg-primary px-4 py-3 text-white"><p><span class="text-yellow font-weight-bolder">1.</span> Trabajan con valores de APOYO MUTUO Y MEJORA en las condiciones económicas de sus socios.</p></div>
+									<div class="bg-primary px-4 py-3 text-white"><p class="display-18">1. Trabajan con valores de <strong class="text-yellow">ayuda mutua y mejora</strong> en las condiciones económicas de sus socios.</p></div>
 								</div>
 								<div class="tns-item" id="gallery-item5" tabindex="-1">
 									<div>
 										<img src="assets/img/secciones/conocenos-galeria/6.jpg" alt="" class="img-fluid">
 									</div>
-									<div class="bg-primary px-4 py-3 text-white"><p><span class="text-yellow font-weight-bolder">2.</span> Promueven la INCLUSIÓN FINANCIERA CON SENTIDO SOCIAL en zonas en donde otras instituciones financieras no llegan.</p></div>
+									<div class="bg-primary px-4 py-3 text-white"><p class="display-18">2. Promueven la <strong class="text-yellow">inclusión financiera</strong> con sentido social en zonas geográficas en donde otras instituciones no llegan.</p></div>
 								</div>
 								<div class="tns-item" id="gallery-item6" tabindex="-1">
 									<div>
 										<img src="assets/img/secciones/conocenos-galeria/7.jpg" alt="" class="img-fluid">
 									</div>
-									<div class="bg-primary px-4 py-3 text-white"><p><span class="text-yellow font-weight-bolder">3.</span> Los productos que ofertan son diseñados de acuerdo a las NECESIDADES DE SUS SOCIOS.</p></div>
+									<div class="bg-primary px-4 py-3 text-white"><p class="display-18">3. Ofertan productos y servicios diseñados de acuerdo a las <strong class="text-yellow">necesidades de sus socios.</strong></p></div>
 								</div>
 								<div class="tns-item" id="gallery-item7" tabindex="-1">
 									<div>
 										<img src="assets/img/secciones/conocenos-galeria/8.jpg" alt="" class="img-fluid">
 									</div>
-									<div class="bg-primary px-4 py-3 text-white"><p><span class="text-yellow font-weight-bolder">4.</span> Los costos y tasas que ofrecen SON COMPETITIVOS en comparación con los ofertados por otras instituciones.</p></div>
+									<div class="bg-primary px-4 py-3 text-white"><p class="display-18">4. Brindan costos y tasas <strong class="text-yellow">competitivas</strong>, en comparación con los ofertados por otras instituciones.</p></div>
 								</div>
 								<div class="tns-item" id="gallery-item8" tabindex="-1">
 									<div>
 										<img src="assets/img/secciones/conocenos-galeria/9.jpg" alt="" class="img-fluid">
 									</div>
-									<div class="bg-primary px-4 py-3 text-white"><p><span class="text-yellow font-weight-bolder">5.</span>  Impulsan el DESARROLLO ECONÓMICO EN LAS LOCALIDADES donde operan, al ofrecer créditos para fines productivos y con los excedentes de operación.</p></div>
+									<div class="bg-primary px-4 py-3 text-white"><p class="display-18">5. Impulsan el <strong class="text-yellow">desarrollo económico</strong> en las localidades donde operan al ofrecer créditos para fines productivos.</p></div>
 								</div>
 							</div>
 							<div class="gallery-tools">

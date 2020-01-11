@@ -49,9 +49,9 @@
 							<div class="form-group">
 								<select class="form-control" id="filterSelector">
 									<option value="seleccione">- Seleccione una guía -</option>
-									<option value="0">Guía de uso general</option>
+									<option value="0">Guía de uos</option>
 									<option value="1">Guía primer ingreso</option>
-									<option value="2">Guía de transacciones</option>
+									<option value="2">Guía de transferencias</option>
 									<option value="3">Guía de consulta y eliminación de transferencias programadas</option>
 									<option value="4">Guía de transferencias a cuentas de otros socios</option>
 									<option value="5">Guía de administración de dispositivo</option>
@@ -77,7 +77,7 @@
 				    <div class="card h-100 guides-grid-block">
 				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
 				      <div class="card-body">
-				        <h4 class="card-title mb-3 font-weight-bolder">Guía de uso general</h4>
+				        <h4 class="card-title mb-3 font-weight-bolder">Guía de uos</h4>
 				      </div>
 				      <div class="card-footer">
 						<div class="row">
@@ -87,7 +87,7 @@
 								  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
 								    <div class="modal-content">
 								      <div class="modal-header">
-								      	<h5 class="modal-title" id="modaltitle1">Guía de uso general</h5>
+								      	<h5 class="modal-title" id="modaltitle1">Guía de uos</h5>
 								        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 								          <span aria-hidden="true">&times;</span>
 								        </button>
@@ -143,7 +143,7 @@
 				    <div class="card h-100 guides-grid-block">
 				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
 				      <div class="card-body">
-				        <h4 class="card-title mb-3 font-weight-bolder">Guía de transacciones</h4>
+				        <h4 class="card-title mb-3 font-weight-bolder">Guía de transferencias</h4>
 				      </div>
 				      <div class="card-footer">
 						<div class="row">
@@ -153,7 +153,7 @@
 								  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
 								    <div class="modal-content">
 								      <div class="modal-header">
-								      	<h5 class="modal-title" id="modaltitle3">Guía de transacciones</h5>
+								      	<h5 class="modal-title" id="modaltitle3">Guía de transferencias</h5>
 								        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 								          <span aria-hidden="true">&times;</span>
 								        </button>

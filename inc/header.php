@@ -63,7 +63,7 @@
 					<div class="collapse navbar-collapse" id="navbar">
 						<ul id="main-nav" class="navbar-nav ml-auto">
 							<li class="nav-item">
-								<a href="https://www.cpmenlinea.cpm.coop/" class="nav-link" target="_blank">Acceso CPM en Línea</a>
+								<a href="https://www.cpmenlinea.cpm.coop/" class="nav-link btn btn-outline-light py-1" target="_blank">Acceso CPM en Línea</a>
 							</li>
 							<!-- <li class="nav-item">
 								<a href="#" class="nav-link">Asambleas</a>
@@ -75,13 +75,13 @@
 								<a href="#" class="nav-link">Blog</a>
 							</li> -->
 							<li class="nav-item">
-								<a href="ubica-tu-sucursal.php" class="nav-link"><i class="fa fa-map-marker-alt"></i></a>
+								<a href="ubica-tu-sucursal.php" class="nav-link btn btn-outline-light py-1 ml-1"><i class="fa fa-map-marker-alt"></i></a>
 							</li>
 							<!-- <li class="nav-item">
 								<a href="#" class="nav-link"><i class="fa fa-search"></i></a>
 							</li> -->
 							<li class="nav-item dropdown menu-area">
-								<a class="nav-link dropdown-toggle" id="mega-one" href="" alt="Menú principal" title="Menú principal" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								<a class="nav-link dropdown-toggle btn btn-outline-light py-1 ml-1" id="mega-one" href="" alt="Menú principal" title="Menú principal" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 									<i class="fa fa-bars"></i>
 								</a>
 								
@@ -94,9 +94,9 @@
 												<li class="nav-item">
 													<a href="conocenos.php" class="nav-link">Somos Caja Popular Mexicana</a>
 												</li>
-												<li class="nav-item">
+												<!-- <li class="nav-item">
 													<a href="talento-cpm.php" class="nav-link">Talento CPM</a>
-												</li>
+												</li> -->
 											</ul>
 										</div>
 										<div class="col-12 col-lg-4">
@@ -105,7 +105,7 @@
 												<li class="nav-item"><a href="ser-socio.php" class="nav-link">Socio</a></li>
 												<li class="nav-item"><a href="soy-menor-de-edad.php" class="nav-link">Ahorrador menor de edad</a></li>
 												<li class="nav-item"><a href="servicio-electronico-en-linea.php" class="nav-link">Servicio Electrónico por Internet</a></li>
-												<li class="nav-item"><a href="" class="nav-link">Corresponsalias</a></li>
+												<li class="nav-item"><a href="corresponsalias.php" class="nav-link">Corresponsalias</a></li>
 												<li class="nav-item"><a href="necesitas-credito.php" class="nav-link">Créditos</a></li>
 												<li class="nav-item"><a href="ahorro-e-inversion.php" class="nav-link">Ahorro e inversión</a></li>
 												<li class="nav-item"><a href="tarjeta-de-debito.php" class="nav-link">Tarjetas de Débito CPM y JR</a></li>

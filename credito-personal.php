@@ -1,10 +1,10 @@
 <?php include 'inc/header.php';?>
 
-		<section class="after-flange header-title-inner">
+		<section class="after-flange header-title-inner bg-gradient-green">
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 bg-primary d-inline-block px-lg-5 py-lg-3 br-30 text-white font-weight-semibold">Crédito Personal Plus CPM</h1>
+						<h1 class="display-4 bg-primary d-inline-block px-lg-5 py-lg-3 br-30 text-white font-weight-semibold">Crédito Personal</h1>
 					</div>
 				</div>
 			</div>

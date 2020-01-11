@@ -17,8 +17,7 @@
 				<div class="row">
 					<div class="col-md-10 offset-md-1">
 						<p class="h3 text-center w-100 font-weight-bold">Tasas de rendimiento</p>
-						<p class="h4 text-center w-100 font-weight-medium">Caja Popular Mexicana, S.C. de A.P. de R.L. de C.V
-Tasas brutas de interés aplicables a pagarés con rendimiento liquidable al vencimiento del 02 al 08 de Enero del 2020.</p>
+						<p class="h4 text-center w-100 font-weight-medium">Caja Popular Mexicana, S.C. de A.P. de R.L. de C.V <br>Tasas brutas de interés aplicables a pagarés con rendimiento liquidable al vencimiento del 02 al 08 de Enero del 2020.</p>
 					</div>
 				</div>
 			</div>

@@ -11,7 +11,7 @@
 							<video autoplay loop muted class="video-bg container-fluid px-0" id="video-bg">
 								<source 
 									class="d-block w-100"
-									src="https://content.jwplatform.com/videos/AtRa5wKE-Lexig6CZ.mp4" 
+									src="https://content.jwplatform.com/videos/bdE18yrZ-Lexig6CZ.mp4" 
 									type="video/mp4" 
 									alt="Bienvenido a Caja Popular Mexicana">
 							</video>

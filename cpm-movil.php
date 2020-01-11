@@ -17,8 +17,8 @@
 				<div class="row mb-5">
 					<div class="col">
 						<blockquote class="blockquote p-5 border border-light bw-5 rounded border-grey1 text-center">
-							<p class="mb-0 lead font-weight-normal">Descarga la aplicación CPM móvil y realiza operaciones desde tu celular.</p>
-							<p class="mb-0 lead text-primary font-weight-bolder mb-3">Disponible para IOS y Android.</p>
+							<p class="mb-0 lead font-weight-normal">Descarga la aplicación CPM Móvil desde tu tienda de aplicaciones.</p>
+							<p class="mb-0 lead text-primary font-weight-bolder mb-3">Disponible para IOS y Android</p>
 							<div class="row">
 								<div class="col-sm-3 offset-sm-3 text-center">
 									<a href="https://apps.apple.com/mx/app/cpm-movil/id1395963629" target="_blank">
@@ -31,7 +31,7 @@
 									</a>
 								</div>
 							</div>
-							<p class="mt-3 mb-0 lead font-weight-normal">Consulta los términos y condiciones de nuestro servicio Electrónico por Internet dando <a href="terminos-y-condiciones-sei.php" target="_blank">clic aquí</a>.</p>
+							<p class="mt-3 mb-0 lead font-weight-normal">Consulta los términos y condiciones de nuestro servicio Electrónico por Internet dando <a href="terminos-y-condiciones-sei.php" target="_blank"><strong>clic aquí</strong></a>.</p>
 						</blockquote>
 					</div>
 				</div> <!-- ./ Main info block -->
@@ -61,8 +61,8 @@
 									<option value="seleccione">- Seleccione una guía -</option>
 									<option value="0">Guía de uso general</option>
 									<option value="1">Guía de primer ingreso</option>
-									<option value="2">Guía de transacciones</option>
-									<option value="3">Guía de consulta y eliminación de cuentas programada</option>
+									<option value="2">Guía de transferencias</option>
+									<option value="3">Guía de consulta y eliminación de transferencias programadas</option>
 									<option value="4">Guía de transferencias a cuentas de otros socios</option>
 									<option value="5">Guía de administración de dispositivo</option>
 									<option value="6">Guía de consulta de saldos</option>
@@ -150,7 +150,7 @@
 				    <div class="card h-100 guides-grid-block">
 				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
 				      <div class="card-body">
-				        <h4 class="card-title mb-3 font-weight-bolder">Guía de transacciones</h4>
+				        <h4 class="card-title mb-3 font-weight-bolder">Guía de transferencias</h4>
 				      </div>
 				      <div class="card-footer">
 						<div class="row">
@@ -160,7 +160,7 @@
 								  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
 								    <div class="modal-content">
 								      <div class="modal-header">
-								      	<h5 class="modal-title" id="modaltitle3">Guía de transacciones</h5>
+								      	<h5 class="modal-title" id="modaltitle3">Guía de transferencias</h5>
 								        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 								          <span aria-hidden="true">&times;</span>
 								        </button>
@@ -183,7 +183,7 @@
 				    <div class="card h-100 guides-grid-block">
 				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
 				      <div class="card-body">
-				        <h4 class="card-title mb-3 font-weight-bolder">Guía de consulta y eliminación de cuentas programada</h4>
+				        <h4 class="card-title mb-3 font-weight-bolder">Guía de consulta y eliminación de transferencias programadas</h4>
 				      </div>
 				      <div class="card-footer">
 						<div class="row">
@@ -193,7 +193,7 @@
 								  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
 								    <div class="modal-content">
 								      <div class="modal-header">
-								      	<h5 class="modal-title" id="modaltitle4">Guía de consulta y eliminación de cuentas programada</h5>
+								      	<h5 class="modal-title" id="modaltitle4">Guía de consulta y eliminación de transferencias programadas</h5>
 								        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 								          <span aria-hidden="true">&times;</span>
 								        </button>

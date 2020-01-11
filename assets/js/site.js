@@ -23,4 +23,10 @@ $(document).ready(function(){
 			$('.guides-grid #' + $(this).val()).show();
 		});
 	});
+
+	$(function() {
+		$('.counter-val').rCounter({
+			duration: 55
+		});
+	});
 });

@@ -22,7 +22,7 @@
 			</div>
 		</section> <!-- /. Main Tag Line -->
 
-		<section class=" page content pb-5">
+		<section class=" page content">
 			<div class="container">
 
 				<div class="row mb-5">
@@ -195,6 +195,7 @@
 					</div>
 				</div>
 			</div>
+		</section>
 
 <//?php include('inc/quote-and-banner.php') ?>
 

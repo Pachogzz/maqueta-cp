@@ -1,7 +1,6 @@
 <?php include('inc/header.php'); ?>
 
 		<section class="after-flange header-title-inner bg-gradient-green">
-		<!-- <section class="after-flange header-title-inner" style="background-image: url('assets/img/secciones/cpm-servicio-en-linea.jpg'), url('assets/img/secciones/cpm-servicio-en-linea-bg.jpg'); background-position: bottom right, center; background-size: auto 100%; background-repeat: no-repeat, repeat-x;"> -->
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
@@ -18,11 +17,7 @@
 				<div class="row">
 					<div class="col-md-10 offset-md-1 text-center mb-5">
 						<p class="h3 w-100 font-weight-bolder mb-md-4">TU CAJA YA ES MÓVIL</p>
-						<p class="h3 w-100 font-weight-semibold mb-md-4">¡Bienvenido! Aquí encontrarás toda la información necesaria para que comiences a tener #MásTiempoEnTusManos con nuestro Servicio Electrónico por Internet.</p>
-						<!-- <div class="embed-responsive embed-responsive-16by9 mb-md-5">
-							<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ol-nCqEA1zc?rel=0" allowfullscreen></iframe>
-						</div> -->
-						<!-- <p class="h2 font-weight-bold mb-md-4"><span class="text-purple">Donde sea</span> + <span class="text-purple">Fácil</span> + <span class="text-purple">Seguro</span></p> -->
+						<p class="h3 w-100 font-weight-semibold mb-md-4">¡Ponemos #MásTiempoEnTusManos! Disfruta de tus actividades y a los tuyos, usa nuestras plataformas CPM en Línea y CPM Móvil para realizar tus operaciones donde sea, de forma fácil y segura.</p>
 					</div>
 				</div>
 				<div class="row">
@@ -42,7 +37,7 @@
 							<div class="landing-grid-box-info rounded bw-5 border-purple text-center h-100">
 								<img src="assets/img/icons/icon_CPMMovil.png" class="bg-purple rounded-circle" width="120" height="120" alt="">
 								<h3>CPM Móvil</h3>
-								<p>Realiza trodas tus operaciones desde tu celular. Conoce nuestra aplicadción y ten más tiempo en tus manos.</p>
+								<p>Realiza tus operaciones desde tu dispositivo móvil y disfruta de más tiempo en tus manos.</p>
 							</div>
 						</a>
 					</div>
@@ -50,8 +45,8 @@
 						<a href="cpm-en-linea.php" class="h-100">
 							<div class="landing-grid-box-info rounded bw-5 border-purple text-center h-100">
 								<img src="assets/img/icons/icon_CPMenLinea.png" class="bg-purple rounded-circle" width="120" height="120" alt="">
-								<h3>CPM en línea</h3>
-								<p>Satisface cualquier necesidad de consumo o actividad lícita, excepto finalidades productivas y comerciales.</p>
+								<h3>CPM en Línea</h3>
+								<p>Realiza tus operaciones desde tu navegador web favorito, es fácil y seguro.</p>
 							</div>
 						</a>
 					</div>
@@ -62,9 +57,8 @@
 						<a href="operaciones-disponibles-sei.php" class="h-100">
 							<div class="landing-grid-box-info rounded bw-5 border-grey0 text-center h-100">
 								<i class="fas fa-clipboard-list fa-4x bg-primary text-white rounded-circle"></i>
-								<!-- <img src="assets/img/icons/icon-book.png" class="bg-grey0 rounded-circle" width="120" height="120" alt=""> -->
 								<h3>Operaciones disponibles</h3>
-								<p>Aprende a usar CPM móvil consultando nuestra guías de uso en línea o descargándolas en tu computadora.</p>
+								<p>Consulta todo lo que puedes realizar en CPM Móvil y CPM en Línea</p>
 							</div>
 						</a>
 					</div>
@@ -73,7 +67,7 @@
 							<div class="landing-grid-box-info rounded bw-5 border-grey0 text-center h-100">
 								<i class="far fa-question-circle fa-4x bg-primary text-white rounded-circle"></i>
 								<h3>Preguntas <br>frecuentes</h3>
-								<p>CPM en línea consultando nuestra guías en línea o descargándolas en tu computadora.</p>	
+								<p>Resuelve tus dudas con un solo clic</p>	
 							</div>
 						</a>
 					</div>
@@ -82,7 +76,7 @@
 							<div class="landing-grid-box-info rounded bw-5 border-grey0 text-center h-100">
 								<i class="fas fa-cog fa-4x bg-primary text-white rounded-circle"></i>
 								<h3>Consideraciones técnicas</h3>
-								<p>Aprende a usar CPM móvil y CPM en línea consultando nuestra guías en línea o descargándolas en tu computadora.</p>
+								<p>Conoce lo que necesitas para una mejor experiencia de nuestro Servicio Electrónico por Internet</p>
 							</div>
 						</a>
 					</div>
@@ -92,7 +86,7 @@
 					<div class="landing-grid-box col-12 mb-0">
 						<div class="landing-grid-box-info rounded bw-5 border-grey0 text-center py-5">
 							<h3 class="">No olvides revisar estos consejos de seguridad que tenemos para tí</h3>
-							<a href="consejo-de-seguridad-sei.php" class="btn btn-lg bg-blue1 text-white">Por tu seguridad</a>
+							<a href="consejo-de-seguridad-sei.php" class="btn btn-lg bg-blue3 text-white">Por tu seguridad</a>
 						</div>
 					</div>
 				</div>

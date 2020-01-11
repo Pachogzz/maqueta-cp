@@ -32,6 +32,7 @@ Tags: October CMS, Laravel, SASS, JS, PHP, MySQL, CSS
 ========================= */
 *{ font-family: 'Montserrat', sans-serif; }
 p{ font-size: 16px; }
+p a{ font-weight: bold; }
 /* Extra Color */
 	.bg-tertiary{ background-color: #09871a; }
 	.bg-quaternary{ background-color: #77bf4d; }
@@ -42,6 +43,7 @@ p{ font-size: 16px; }
 	.bg-blue{ background-color: #5eb4e5; }
 	.bg-blue1{ background-color: #2795C2; }
 	.bg-blue2{ background-color: #025785; }
+	.bg-blue3{ background-color: #2d3799; }
 	.bg-orange{ background-color: #f59e35; }
 	.bg-red{ background-color: #ed6868; }
 	.text-tertiary{ color: #09871a; }
@@ -53,6 +55,7 @@ p{ font-size: 16px; }
 	.text-blue{ color: #5eb4e5; }
 	.text-blue1{ color: #2795C2 }
 	.text-blue2{ color: #025785 }
+	.text-blue3{ color: #2d3799; }
 	.text-orange{ color: #f59e35; }
 	.text-red{ color: #ed6868; }
 	.bg-grey0{ background-color: #f1f1f1 !important; }
@@ -78,6 +81,7 @@ p{ font-size: 16px; }
 	.border-blue{ border-color: #5eb4e5 !important; }
 	.border-blue1{ border-color: #2795C2 !important; }
 	.border-blue2{ border-color: #025785 !important; }	
+	.border-blue3{ border-color: #2d3799 !important; }	
 	.border-orange{ border-color: #f59e35 !important; }
 	.border-red{ border-color: #ed6868 !important; }
 	.border-grey0{ border-color: #f1f1f1 !important; }
@@ -135,14 +139,14 @@ p{ font-size: 16px; }
 /* Fonts */
 	.font-weight-semibold{ font-weight: 600 !important; }
 	.display-5{ font-size: 3.4rem; line-height: 3.6rem; }
-	.display-12{ font-size: 12px; }
-	.display-14{ font-size: 14px; }
-	.display-16{ font-size: 16px; }
-	.display-18{ font-size: 18px; }
-	.display-20{ font-size: 20px; }
-	.display-22{ font-size: 22px; }
-	.display-24{ font-size: 24px; }
-	.rem-10{ font-size: 10rem; }
+	.display-12{ font-size: 12px !important; }
+	.display-14{ font-size: 14px !important; }
+	.display-16{ font-size: 16px !important; }
+	.display-18{ font-size: 18px !important; }
+	.display-20{ font-size: 20px !important; }
+	.display-22{ font-size: 22px !important; }
+	.display-24{ font-size: 24px !important; }
+	.rem-10{ font-size: 10rem !important; }
 /* Border width */
 	.bw-1{ border-width: 1px !important; border-style: solid; }
 	.bw-2{ border-width: 2px !important; border-style: solid; }
@@ -361,6 +365,9 @@ header .main-logo{
 	position: relative;
 	display: none;
 }
+#main-nav a.btn:hover{
+	color: #09871a;
+}
 
 
 /* =========================
@@ -475,7 +482,15 @@ header .main-logo{
 		13. ACCORDION
 ========================= */
 .accordion-cpm .card-header{ padding: 0; }
-.accordion-cpm .card-header h2 button{ width: 100%; text-align: left; font-weight: 600; border-bottom: 2px solid #09871a; border-radius: 0 !important; padding: 20px 20px 20px 50px; }
+.accordion-cpm .card-header h2 button{ 
+	width: 100%; 
+	text-align: left; 
+	font-weight: 600; 
+	border-bottom: 2px solid #09871a; 
+	border-radius: 0 !important; 
+	padding: 20px 20px 20px 50px; 
+	font-weight: bold; 
+}
 .accordion-cpm .card-header h2 button:before{
 	font-family: "Font Awesome 5 Pro";
 	font-weight: 900;
@@ -634,6 +649,9 @@ header .main-logo{
 	background-color: #fafafa;
 	min-height: 180px;
 	margin-bottom: 30px;
+}
+.icon-tabs.normal .nav-link{
+	min-height: 130px;
 }
 .icon-tabs .nav-link i{}
 .icon-tabs .nav-link i:before{}

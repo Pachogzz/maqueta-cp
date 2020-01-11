@@ -37,8 +37,9 @@
 							<a class="nav-link p-0 mr-1 text-light" href="aviso-de-privacidad.php"><small>Aviso de privacidad |</small></a>
 							<a class="nav-link p-0 mr-1 text-light" href="#"><small>Despacho de Cobranza |</small></a>
 							<a class="nav-link p-0 mr-1 text-light" href="aviso-de-privacidad-credito-y-cobranza.php"><small>Aviso de privacidad crédito y cobranza |</small></a>
-							<a class="nav-link p-0 mr-1 text-light" href="#"><small>Términos de uso para redes sociales |</small></a>
+							<a class="nav-link p-0 mr-1 text-light" href="terminos-de-uso-para-redes-sociales.php"><small>Términos de uso para redes sociales |</small></a>
 							<a class="nav-link p-0 mr-1 text-light" href="aviso-de-privacidad-en-redes-sociales.php"><small>Aviso de privacidad en redes sociales |</small></a>
+							<a class="nav-link p-0 mr-1 text-light" href="buro-de-entidades-financieras.php"><small>Buró de Entidades Financieras |</small></a>
 							<a class="nav-link p-0 mr-1 text-light" href="terminos-y-condiciones-sei.php"><small>Terminos y condiciones para el servicio electrónico por Internet</small></a>
 						</ul>
 					</div>

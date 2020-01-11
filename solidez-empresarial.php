@@ -28,13 +28,13 @@
 					<div class="col-12 col-md-6 mb-3 mb-md-5">
 						<blockquote class="blockquote p-5 border border-light bw-5 rounded border-grey1 text-center h-100">
 							<h3 class="font-weight-bold text-primary">Confianza</h3>
-							<p class="mb-0 lead font-weight-normal">Gracias a la confianza de los socios, la cooperativa muestra un sólido crecimiento financiero y económico, lo que permite su desarrollo y oferta de productos y servicios competitivos.</p>
+							<p class="mb-0 lead font-weight-normal">Gracias a la confianza de nuestros socios, hemos mostrado un sólido crecimiento financiero y económico, lo que nos permite desarrollar servicios financieros competitivos, personalizados, oportunos y accesibles.</p>
 						</blockquote>
 					</div>
 					<div class="col-12 col-md-6 mb-3 mb-md-5">
 						<blockquote class="blockquote p-5 border border-light bw-5 rounded border-grey1 text-center h-100">
-							<h3 class="font-weight-bold text-primary">Transparencia y Responsabilidad</h3>
-							<p class="mb-0 lead font-weight-normal">En Caja Popular Mexicana operamos conforme a los valores de la transparencia y responsabilidad, por ello, es de conocimiento de la autoridad y de los asociados el estado financiero que guarda la cooperativa.</p>
+							<h3 class="font-weight-bold text-primary">Transparencia y responsabilidad</h3>
+							<p class="mb-0 lead font-weight-normal">Operamos conforme a los valores de la transparencia y responsabilidad, por ello, es de conocimiento de la autoridad y de nuestros socios el estado financiero que guarda nuestra cooperativa.</p>
 						</blockquote>
 					</div>
 				</div> <!-- ./ Main entrance text -->
@@ -88,7 +88,7 @@
 					</div>
 				</div>
 
-				<script type="text/javascript">
+				<!-- <script type="text/javascript">
 					$(document).ready(function(){
 						$(function() {
 							$('.counter-val').rCounter({
@@ -96,7 +96,7 @@
 							});
 						});
 					});
-				</script>
+				</script> -->
 
 				<div class="row">
 					<div class="col-12">

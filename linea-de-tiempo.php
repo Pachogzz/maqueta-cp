@@ -12,13 +12,13 @@
       </div>
     </section> <!-- /. Page Title -->
 
-    <?php include('inc/navs/inner-nav-page-quiero-ser-socio.php') ?>
+    <?php include('inc/navs/inner-nav-page-conocenos.php') ?>
 
     <section class="featured-module-home py-5">
       <div class="container">
         <div class="row">
           <div class="col-md-8 offset-md-2">
-            <p class="h3 text-center w-100 font-weight-semibold">Conoce más sobre la historia <br>de Caja Popular Mexicana</p>
+            <h2 class="display-3 text-center text-primary font-weight-semibold mb-3">Conoce más sobre nuestra historia</h2>
           </div>
         </div>
       </div>
@@ -103,7 +103,7 @@
             <div class="timeline-img"></div>
       <div class="timeline-content timeline-card js--fadeInLeft">
 
-        <div class="timeline-img-header" style="background-image: url('assets/img/timeline/socios.jpg');background-position: center;background-size: width auto 100%;background-repeat: no-repeat;">
+        <div class="timeline-img-header" style="background-image: url('assets/img/timeline/sociosgeneral.jpg');background-position: center;background-size: width auto 100%;background-repeat: no-repeat;">
         </div>
         <div class="date">1991</div>
         <p>Se reconoce la existencia de las Cajas Populares y son integradas al Sistema Financiero Mexicano a partir del 27 de diciembre, creando una nueva figura jurídica denominada Sociedad de Ahorro y Préstamo. Comienza un proceso para registrar en esta ley a todas las cajas populares que cumplieran con ella.<br><br></p>
@@ -126,7 +126,7 @@
             <div class="timeline-img"></div>
       <div class="timeline-content timeline-card js--fadeInLeft">
 
-        <div class="timeline-img-header" style="background-image: url('assets/img/timeline/sociosgeneral.jpg');background-position: center;background-size: width auto 100%;background-repeat: no-repeat;">
+        <div class="timeline-img-header" style="background-image: url('assets/img/timeline/socios.jpg');background-position: center;background-size: width auto 100%;background-repeat: no-repeat;">
         </div>
         <div class="date">2001</div>
         <p>El 04 de junio, el Gobierno Federal emite la Ley de Ahorro y Crédito Popular [LACP], la cual regirá a las Cajas Populares con la figura jurídica de Sociedades Cooperativas de Ahorro y Crédito.<br><br></p>
@@ -184,7 +184,7 @@
       <div class="timeline-img"></div>
 
       <div class="timeline-content timeline-card js--fadeInRight">
-        <div class="timeline-img-header" style="background-image: url('assets/img/timeline/sucursal.jpg');background-position: bottom;background-size: width 100%;background-repeat: no-repeat;">
+        <div class="timeline-img-header" style="background-image: url('assets/img/timeline/2017-socios-acremex.jpg');background-position: bottom;background-size: width 100%;background-repeat: no-repeat;">
         </div>
         <div class="date">2017</div>
         <p>Caja Popular Mexicana entra al rescate de los socios de Acremex, vivenciando nuevamente el sexto principio cooperativo, “cooperación entre cooperativas”<br><br></p>  

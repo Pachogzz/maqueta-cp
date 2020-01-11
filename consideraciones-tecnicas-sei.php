@@ -17,7 +17,7 @@
 				<div class="row mb-5">
 					<div class="col">
 						<blockquote class="blockquote p-5 border border-light bw-5 rounded border-grey1 text-center">
-							<p class="mb-0 h3 font-weight-normal">Conoce las consideraciones y requsitos técnicos para nuestras plataformas</p>
+							<p class="mb-0 h3 font-weight-normal">Conoce lo que necesitas para una mejor experiencia de nuestro Servicio Electrónico por Internet</p>
 						</blockquote>
 					</div>
 				</div> <!-- ./ Main info block -->
@@ -37,32 +37,5 @@
 
 			</div>
 		</section> <!-- ./ Page content -->
-
-		<!-- <section class="inner-nav-page secondary py-5 bg-white">
-			<div class="container">
-				<div class="row text-center">
-					<div class="col-12 col-lg p-0 mr-lg-n5 mb-2 mb-lg-0  z-index-4">
-						<a href="#" class="btn bg-tertiary rounded-pill btn-lg btn-block w-100 py-3 px-0 text-white">
-							Operaciones por plataforma
-						</a>
-					</div>
-					<div class="col-12 col-lg p-0 mr-lg-n5 mb-2 mb-lg-0  z-index-3">
-						<a href="#" class="btn bg-primary rounded-pill btn-lg btn-block w-100 py-3 px-0 text-white br-tl-0 br-bl-0">
-							Requisitos Técnicos
-						</a>
-					</div>
-					<div class="col-12 col-lg p-0 mr-lg-n5 mb-2 mb-lg-0  z-index-2">
-						<a href="#" class="btn bg-quaternary rounded-pill btn-lg btn-block w-100 py-3 px-0 text-white br-tl-0 br-bl-0">
-							Preguntas Frecuentes
-						</a>
-					</div>
-					<div class="col-12 col-lg p-0 mb-2 mb-lg-0 ">
-						<a href="#" class="btn bg-quinary rounded-pill btn-lg btn-block w-100 py-3 px-0 text-white br-tl-0 br-bl-0">
-							Disponibilidad del servicio
-						</a>
-					</div>
-				</div>
-			</div>
-		</section> --> <!-- /. Inner Nav Home -->
 
 <?php include('inc/footer.php'); ?>
