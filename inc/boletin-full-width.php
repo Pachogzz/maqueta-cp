@@ -1,8 +1,8 @@
-		<section id="suscription-module" class="py-5">
+		<section id="suscription-module" class="py-3 py-lg-5">
 			<div class="container">
 				<div class="row">
-					<div class="col-12 col-lg-10 col-xl-10 offset-lg-1">
-						<div class="row mx-lg-1 px-3 py-5 p-md-5 p-lg-5 bg-tertiary br-bl-30">
+					<div class="col-12">
+						<div class="row mx-0 mx-lg-3 mb-md-3 mb-lg-0 px-3 py-5 bg-tertiary br-bl-30">
 							<div class="col-md-6 col-lg-5">
 								<h3 class="text-white font-weight-semibold">¡Mantente informado!</h3>
 								<h6 class="text-white">Boletín electrónico</h6>

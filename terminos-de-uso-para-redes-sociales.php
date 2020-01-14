@@ -4,7 +4,7 @@
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 bg-primary d-inline-block px-lg-5 py-lg-3 br-30 text-white font-weight-semibold">Términos de uso para redes sociales </h1>
+						<h1 class="display-4 br-30">Términos de uso para redes sociales </h1>
 					</div>
 				</div>
 			</div>

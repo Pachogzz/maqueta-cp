@@ -25,6 +25,9 @@ Tags: October CMS, Laravel, SASS, JS, PHP, MySQL, CSS
 	14. LANDING GRID
 	15. GUIDE GRID
 	16. TABS
+	17. TABS and ACCORDIONS
+	18. MAPS
+	19. MODALS
  */
 
 /* =========================
@@ -139,13 +142,13 @@ p a{ font-weight: bold; }
 /* Fonts */
 	.font-weight-semibold{ font-weight: 600 !important; }
 	.display-5{ font-size: 3.4rem; line-height: 3.6rem; }
-	.display-12{ font-size: 12px !important; }
-	.display-14{ font-size: 14px !important; }
-	.display-16{ font-size: 16px !important; }
-	.display-18{ font-size: 18px !important; }
-	.display-20{ font-size: 20px !important; }
-	.display-22{ font-size: 22px !important; }
-	.display-24{ font-size: 24px !important; }
+	.display-12{ font-size: 12px; }
+	.display-14{ font-size: 14px; }
+	.display-16{ font-size: 16px; }
+	.display-18{ font-size: 18px; }
+	.display-20{ font-size: 20px; }
+	.display-22{ font-size: 22px; }
+	.display-24{ font-size: 24px; }
 	.rem-10{ font-size: 10rem !important; }
 /* Border width */
 	.bw-1{ border-width: 1px !important; border-style: solid; }
@@ -158,6 +161,20 @@ p a{ font-weight: bold; }
 	.bw-8{ border-width: 8px !important; border-style: solid; }
 	.bw-9{ border-width: 9px !important; border-style: solid; }
 	.bw-10{ border-width: 10px !important; border-style: solid; }
+
+/* Border Radius */
+	.br-30{ border-radius: 30px; }
+	.br-tl-30{ border-radius: 30px 0 0 0; }
+	.br-tr-30{ border-radius: 0 30px 0 0; }
+	.br-br-30{ border-radius: 0 0 30px 0; }
+	.br-bl-30{ border-radius: 0 0 0 30px; }
+	.br-ntl-30{ border-radius: 0 30px 30px 30px; }
+	.br-0{ border-radius: 0 !important; }
+	.br-tr-0{ border-top-right-radius: 0 !important; }
+	.br-tl-0{ border-top-left-radius: 0 !important; }
+	.br-br-0{ border-bottom-right-radius: 0 !important; }
+	.br-bl-0{ border-bottom-left-radius: 0 !important; }
+
 /* White Flange */
 	.haz-flange{
 	}
@@ -212,6 +229,8 @@ p a{ font-weight: bold; }
 		transform: translateY(-50%);
 		bottom: inherit;
 		top:50%;
+		color: #fff;
+		text-align: left;
 	}
 /* Social Icons */
 	.social-icons{
@@ -278,7 +297,11 @@ p a{ font-weight: bold; }
 /* =========================
 		1. HEADER
 ========================= */
-header{
+#site-header{
+	margin-bottom: -120px;
+	z-index: 999;
+	position: absolute;
+	width: 100%;
 	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#000000+0,000000+99&0.65+0,0+100 */
 	background: -moz-linear-gradient(top,  rgba(0,0,0,0.65) 0%, rgba(0,0,0,0.01) 99%, rgba(0,0,0,0) 100%); /* FF3.6-15 */
 	background: -webkit-linear-gradient(top,  rgba(0,0,0,0.65) 0%,rgba(0,0,0,0.01) 99%,rgba(0,0,0,0) 100%); /* Chrome10-25,Safari5.1-6 */
@@ -286,16 +309,17 @@ header{
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6000000', endColorstr='#00000000',GradientType=0 ); /* IE6-9 */
 
 }
-header .main-logo{
-	max-width: 100px;
+#site-header .main-logo{
+	width: 100px;
 	height: auto;
 }
-#site-header{
-	margin-bottom: -120px;
-	z-index: 999;
-	position: absolute;
-	width: 100%;
+#site-header-mobile{
+	background-color: #45bf00;
 }
+#menuMobile ul{ padding-top: 1rem; }
+#menuMobile ul li{ padding: .5rem; }
+#menuMobile ul li.title{ background-color: #09871a; color: #fff; font-weight: bold; border: 0; }
+#menuMobile ul li a{ color: #09871a; }
 
 /* =========================
 		2. NAVIGATION
@@ -391,6 +415,13 @@ header .main-logo{
 .inner-nav-page .dropdown-menu a:active{
 	background-color: #09871a;
 }
+.inner-nav-page.in-nav-mobile{ margin-bottom: 30px; }
+.inner-nav-page.in-nav-mobile li{ background-color: #09871a; }
+.inner-nav-page.in-nav-mobile li a{ color: #fff; }
+.inner-nav-page.in-nav-mobile li .dropdown-menu{
+	width: 100%;
+	transform: translate3d(0px, 50px, 0px) !important;
+}
 
 /* ========================================
 		4.0. GENERAL SLIDER STYLES
@@ -456,6 +487,7 @@ header .main-logo{
 .header-title-inner .bg-video-title video{ height: 450px; }
 .header-title-inner .has-video-bg{ position: relative; }
 .header-title-inner div[class*="col"]{ text-align: center; }
+.header-title-inner h1{ display: inline-block; padding: 30px; background-color: #45bf00; color: #fff; padding: 10px 20px; font-weight: 600; }
 
 	/* Titles */
 	.main-tag-line{}
@@ -743,6 +775,22 @@ header .main-logo{
         text-overflow: ellipsis;
     }
 
+/* =========================
+	19. MODALS
+========================= */
+.modal-backdrop.fade.show:after {
+    content: "";
+    background-image: url('https://thumbs.gfycat.com/BitterEarnestBeardeddragon-small.gif');
+    background-repeat: no-repeat;
+    background-size: 100px;
+    height: 100px; 
+    width: 100px;
+    display: block;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+}
 
 /*
 	Extra small devices (portrait phones, less than 576px)
@@ -752,7 +800,7 @@ header .main-logo{
 /* Extra Small devices (portrait phones, 300px and up) */
 @media (min-width: 300px) {
 	html::before{
-		/*content: "UND";
+		content: "XS";
 		display: block;
 		position: fixed;
 		background-color: yellow;
@@ -761,39 +809,51 @@ header .main-logo{
 		bottom: 0;
 		left: 0;
 		padding: 10px;
-		z-index: 999;*/
+		z-index: 999;
 	}
-	.container{}
-	header .main-logo{ max-width: 70px; }
+	#site-header-mobile .main-logo{
+		max-height: 40px;
+	}
+	#menuMobile.show{
+		width: 100%;
+	}
 	.header-title-inner{ height: 250px; }
+	.header-title-inner h1{ font-size: 28px; line-height: 32px; }
 	.after-flange::after{
 		height: 30px;
 	}
-	.display-1{
-		font-size: 4.4rem;
-		line-height: 4.8rem;
+
+	.styled-carousel.with-caption .carousel-caption{
+		position: relative;
+		transform: none;
+		left: 0;
+		text-align: center;
 	}
-	.display-2{
-		font-size: 3.8rem;
-		line-height: 4.2rem;
+	.carousel-control-prev, .carousel-control-next{
+		z-index: 9;
 	}
-	.display-3{
-		font-size: 3rem;
-		line-height: 3.4rem;
+	.featured-module-home,
+	#suscription-module .row [class*="col"]:first-child{
+		text-align: center;
 	}
-	.display-4{
-		font-size: 2.2rem;
-		line-height: 2.6rem;
-	}
-	.display-5{
-		font-size: 1.4rem;
-		line-height: 1.8rem;
-	}
+
+	.display-1{ font-size: 4rem; line-height: 4.4rem; }
+	.display-2{ font-size: 3.4rem; line-height: 3.8rem; }
+	.display-3{ font-size: 2.6rem; line-height: 3rem; }
+	.display-4{ font-size: 1.8rem; line-height: 2.2rem; }
+	.display-5{ font-size: 1.4rem; line-height: 1.8rem; }
+	.display-12{ font-size: 12px !important; }
+	.display-14{ font-size: 14px !important; }
+	.display-16{ font-size: 16px !important; }
+	.display-18{ font-size: 18px !important; }
+	.display-20{ font-size: 20px !important; }
+	.display-22{ font-size: 22px !important; }
+	.display-24{ font-size: 24px !important; }
 }
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
 	html::before{
-		/*content: "XS";
+		content: "SM";
 		display: block;
 		position: fixed;
 		background-color: yellow;
@@ -802,34 +862,49 @@ header .main-logo{
 		bottom: 0;
 		left: 0;
 		padding: 10px;
-		z-index: 999;*/
+		z-index: 999;
 	}
-	.container{}
-	header .main-logo{ max-width: 70px; }
+	.has-label::before{
+		left: -20px;
+		width: 30px;
+		height: 15px;
+	}
+	#site-header-mobile .main-logo{
+		max-height: 40px;
+	}
 	.header-title-inner{ height: 250px; }
+	.header-title-inner h1{ font-size: 30px; line-height: 34px; }
 	.after-flange::after{
 		height: 40px;
 	}
-	.display-1{
-		font-size: 4.6rem;
-		line-height: 5rem;
+
+	.styled-carousel.with-caption .carousel-caption{
+		position: relative;
+		transform: none;
+		left: 0;
+		text-align: center;
 	}
-	.display-2{
-		font-size: 4rem;
-		line-height: 4.4rem;
+	.carousel-control-prev, .carousel-control-next{
+		z-index: 9;
 	}
-	.display-3{
-		font-size: 3.2rem;
-		line-height: 3.6rem;
+	
+	.featured-module-home,
+	#suscription-module .row [class*="col"]:first-child{
+		text-align: center;
 	}
-	.display-4{
-		font-size: 2.4rem;
-		line-height: 2.8rem;
-	}
-	.display-5{
-		font-size: 1.6rem;
-		line-height: 2rem;
-	}
+
+	.display-1{ font-size: 4.2rem; line-height: 4.6rem; }
+	.display-2{ font-size: 3.6rem; line-height: 4rem; }
+	.display-3{ font-size: 2.8rem; line-height: 3.2rem; }
+	.display-4{ font-size: 2rem; line-height: 2.4rem; }
+	.display-5{ font-size: 1.2rem; line-height: 1.6rem; }
+	.display-12{ font-size: 12px; }
+	.display-14{ font-size: 14px; }
+	.display-16{ font-size: 16px; }
+	.display-18{ font-size: 18px; }
+	.display-20{ font-size: 20px; }
+	.display-22{ font-size: 22px; }
+	.display-24{ font-size: 24px; }
 }
 @media (max-width: 576px){
 	.after-flange::after{
@@ -838,15 +913,15 @@ header .main-logo{
 	.social-icons{
 		text-align: center !important;
 	}
-	[class*="br-"]{
+	/*[class*="br-"]{
 		border-radius: 0;
-	}
+	}*/
 }
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
 	html::before{
-		/*content: "SM";
+		content: "MD";
 		display: block;
 		position: fixed;
 		background-color: yellow;
@@ -855,41 +930,40 @@ header .main-logo{
 		bottom: 0;
 		left: 0;
 		padding: 10px;
-		z-index: 999;*/
+		z-index: 999;
 	}
-	.container{}
-	header .main-logo{ max-width: 100px; }
+	.has-label::before{
+		left: -40px;
+		width: 80px;
+		height: 25px;
+	}
+	#site-header-mobile .main-logo{
+		max-height: 40px;
+	}
 	.header-title-inner{ height: 350px; }
+	.header-title-inner h1{ font-size: 36px; line-height: 40px; }
 	.after-flange::after{
 		height: 60px;
 	}
 	/* Display Responsive Fix */
-		.display-1{
-			font-size: 5rem;
-			line-height: 5.2rem;
-		}
-		.display-2{
-			font-size: 4.4rem;
-			line-height: 4.8rem;
-		}
-		.display-3{
-			font-size: 3.6rem;
-			line-height: 4rem;
-		}
-		.display-4{
-			font-size: 2.8rem;
-			line-height: 3.2rem;
-		}
-		.display-5{
-			font-size: 2rem;
-			line-height: 2.2rem;
-		}
+		.display-1{ font-size: 5rem; line-height: 5.2rem; }
+		.display-2{ font-size: 4.4rem; line-height: 4.8rem; }
+		.display-3{ font-size: 3.6rem; line-height: 4rem; }
+		.display-4{ font-size: 2.8rem; line-height: 3.2rem; }
+		.display-5{ font-size: 2rem; line-height: 2.2rem; }
+		.display-12{ font-size: 12px; }
+		.display-14{ font-size: 14px; }
+		.display-16{ font-size: 16px; }
+		.display-18{ font-size: 18px; }
+		.display-20{ font-size: 20px; }
+		.display-22{ font-size: 22px; }
+		.display-24{ font-size: 24px; }
 }
 
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) {
 	html::before{
-		/*content: "MD";
+		content: "LG";
 		display: block;
 		position: fixed;
 		background-color: yellow;
@@ -898,54 +972,39 @@ header .main-logo{
 		bottom: 0;
 		left: 0;
 		padding: 10px;
-		z-index: 999;*/
+		z-index: 999;
+	}
+	.has-label::before{
+		left: -40px;
+		width: 80px;
+		height: 25px;
 	}
 	.container{}
 	header .main-logo{ max-width: 100px; }
 	.header-title-inner{ height: 350px; }
-	/*.header-title-inner .has-video-bg{ left: 12%; }*/
+	.header-title-inner h1{ font-size: 42px; line-height: 46px; }
 	.after-flange::after{
 		height: 70px;
 	}
 	/* Display Responsive Fix */
-		.display-1{
-			font-size: 5.4rem;
-			line-height: 5.6rem;
-		}
-		.display-2{
-			font-size: 4.8rem;
-			line-height: 5rem;
-		}
-		.display-3{
-			font-size: 4rem;
-			line-height: 4.2rem;
-		}
-		.display-4{
-			font-size: 3.2rem;
-			line-height: 3.4rem;
-		}
-		.display-5{
-			font-size: 2.4rem;
-			line-height: 2.6rem;
-		}
-	/* Border Radius */
-		.br-30{ border-radius: 30px; }
-		.br-tl-30{ border-radius: 30px 0 0 0; }
-		.br-tr-30{ border-radius: 0 30px 0 0; }
-		.br-br-30{ border-radius: 0 0 30px 0; }
-		.br-bl-30{ border-radius: 0 0 0 30px; }
-		.br-ntl-30{ border-radius: 0 30px 30px 30px; }
-		.br-0{ border-radius: 0 !important; }
-		.br-tr-0{ border-top-right-radius: 0 !important; }
-		.br-tl-0{ border-top-left-radius: 0 !important; }
-		.br-br-0{ border-bottom-right-radius: 0 !important; }
-		.br-bl-0{ border-bottom-left-radius: 0 !important; }
+		.display-1{ font-size: 5.4rem; line-height: 5.6rem; }
+		.display-2{ font-size: 4.8rem; line-height: 5rem; }
+		.display-3{ font-size: 4rem; line-height: 4.2rem; }
+		.display-4{ font-size: 3.2rem; line-height: 3.4rem; }
+		.display-5{ font-size: 2.4rem; line-height: 2.6rem; }
+		.display-12{ font-size: 12px; }
+		.display-14{ font-size: 14px; }
+		.display-16{ font-size: 16px; }
+		.display-18{ font-size: 18px; }
+		.display-20{ font-size: 20px; }
+		.display-22{ font-size: 22px; }
+		.display-24{ font-size: 24px; }
 }
 
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
 	html::before{
-		/*content: "LG";
+		content: "XL";
 		display: block;
 		position: fixed;
 		background-color: yellow;
@@ -954,7 +1013,12 @@ header .main-logo{
 		bottom: 0;
 		left: 0;
 		padding: 10px;
-		z-index: 999;*/
+		z-index: 999;
+	}
+	.has-label::before{
+		left: -40px;
+		width: 80px;
+		height: 25px;
 	}
 	.row-eq-height{
 		display: -webkit-box;
@@ -972,22 +1036,10 @@ header .main-logo{
 	}
 	header .main-logo{ max-width: 100px; }
 	.header-title-inner{ height: 350px; }
-	/*.header-title-inner .has-video-bg{ left: 12%; }*/
+	.header-title-inner h1{ font-size: 48px; line-height: 52px; }
 	.after-flange::after{
 		height: 80px;
 	}
-	/* Border Radius */
-		.br-30{ border-radius: 30px !important; }
-		.br-tl-30{ border-radius: 30px 0 0 0 !important; }
-		.br-tr-30{ border-radius: 0 30px 0 0 !important; }
-		.br-br-30{ border-radius: 0 0 30px 0 !important; }
-		.br-bl-30{ border-radius: 0 0 0 30px !important; }
-		.br-ntl-30{ border-radius: 0 30px 30px 30px !important; }
-		.br-0{ border-radius: 0 !important; }
-		.br-tr-0{ border-top-right-radius: 0 !important; }
-		.br-tl-0{ border-top-left-radius: 0 !important; }
-		.br-br-0{ border-bottom-right-radius: 0 !important; }
-		.br-bl-0{ border-bottom-left-radius: 0 !important; }
 	/* White circle and line */
 		.white-circle-n-line{
 			position: relative;
@@ -999,7 +1051,7 @@ header .main-logo{
 			display: block;
 			top: 0;
 			left: 0;
-			background-color: rgba(255,0,0,.2)
+			/*background-color: rgba(255,0,0,.2)*/
 		}
 		.white-circle-n-line::before{
 			height: 100%;

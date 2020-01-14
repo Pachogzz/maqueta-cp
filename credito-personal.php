@@ -4,7 +4,7 @@
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 bg-primary d-inline-block px-lg-5 py-lg-3 br-30 text-white font-weight-semibold">Crédito Personal</h1>
+						<h1 class="display-4 br-30">Crédito Personal</h1>
 					</div>
 				</div>
 			</div>
@@ -306,29 +306,16 @@
 							<h2 class="d-inline-block border-primary text-primary font-weight-bolder bw-3 py-2 px-3 mb-3">OBJETIVO</h2>
 							<p class="lead">Informar a los usuarios sobre los requisitos, beneficios, tasas y consideraciones que deben tomar en cuenta para contratar un crédito personal.</p>
 						</div>
-						<!--  -->
-						<div class="bg-grey0 p-5 mb-5">
-							<p class="">Con la finalidad de atender sus aclaraciones, consultas y reclamaciones relacionadas con las operaciones y servicios que realice con nosotros Caja Popular Mexicana pone a su disposición la Unidad Especializada de Atención a Usuarios (UNE), con domicilio en <strong>Calle Ignacio Altamirano No. 407, Colonia San Juan de Dios, C.P. 37004, en la ciudad de León, Gto.</strong>, así como un número telefónico gratuito <strong>01 800 276 86 37</strong> y <strong>01 477 7 88 80 00 extensión 8142</strong> y correo electrónico <strong>une@cpm.coop</strong>.</p>
-							<p class="">Situaciones que NO pueden ser atendidas por la UNE</p>
-							<ul class="">
-								<li>Solicitudes de reestructura o convenios de pago de créditos.</li>
-								<li>Asuntos relacionados con solicitudes de crédito.</li>
-								<li>Aquellas que se encuentren en trámite ante la CONDUSEF o en proceso Judicial.</li>
-							</ul>
-							<p class=""><strong>Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros (CONDUSEF)</strong>, al teléfono <strong>01800 999 80 80</strong> y en el D.F. al <strong>55 5340 0999</strong>, página de internet <strong>www.condusef.gob.mx</strong> y al correo electrónico <strong>asesoria@condusef.gob.mx</strong></p>
+						<!-- Formulario Dudas -->
+						<div class="bg-grey0 p-5 my-5">
+							<h3 class="font-weight-bolder">¿Dudas sobre nuestro Crédito Personal?</h3>
+							<hr>
+							<?php include('inc/forms/formulario-creditos.php') ?> <!-- ./ Formulario gral de sección -->
 						</div>
+						<!-- Formulario Dudas -->
 					</div>
 				</div>
-				<div class="row">
-					<div class="col-12 col-md-6">
-						<div class="bg-quinary text-white mb-3 p-4">
-							<p class="p-4 mb-0 bw-4 rounded border-white">Los recursos depositados en esta cuenta están protegidos por el <strong>Fondo de Protección</strong> a que se refiere el <strong>Título Cuarto de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo</strong>, hasta por <strong>25,000 Unidades de Inversión</strong>, de acuerdo a las disposiciones que establezcan el <strong>Comité Técnico y Comité de Protección al Ahorro Cooperativo del Fideicomiso</strong> que lo administra.</p>
-						</div>
-					</div>
-					<div class="col-12 col-md-6">
-						<img src="https://via.placeholder.com/600x275.jpg/ccc/333?text=Banner+3" alt="Banner Placeholder" class="img-fluid">
-					</div>
-				</div>
+			<?php include('inc/une-recursos.php'); ?>
 			</div>
 		</section>
 

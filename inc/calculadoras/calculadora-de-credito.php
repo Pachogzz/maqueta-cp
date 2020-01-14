@@ -1,4 +1,4 @@
-<a href="#" class="btn btn-primary btn-lg btn-block rounded-pill w-100 w-lg-75 mx-auto p-3" data-toggle="modal" data-target="#exampleModalCenter">
+<a href="#" class="btn btn-primary btn-lg btn-block rounded-pill w-100 w-lg-75 mx-auto p-3 mb-3" data-toggle="modal" data-target="#exampleModalCenter">
 	Calcular mi crédito <i class="fas fa-calculator"></i>
 </a>
 <!-- Modal -->

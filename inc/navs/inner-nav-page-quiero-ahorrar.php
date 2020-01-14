@@ -1,4 +1,4 @@
-		<section class="inner-nav-page pb-5 bg-white">
+		<section class="inner-nav-page pb-3 pb-lg-5 bg-white">
 			<div class="container">
 				<div class="row text-center">
 					<div class="col-12 col-lg z-index-1">

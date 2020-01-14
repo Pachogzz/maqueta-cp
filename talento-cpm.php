@@ -4,7 +4,7 @@
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 bg-primary d-inline-block px-lg-5 py-lg-3 br-30 text-white font-weight-semibold">Tus acciones dejan huella</h1>
+						<h1 class="display-4 br-30">Tus acciones dejan huella</h1>
 					</div>
 				</div>
 			</div>
@@ -29,14 +29,14 @@
 					</div>
 				</div> <!-- ./ Job Module Title -->
 
-				<div class="row mb-5 styled-carousel">
+				<div class="row mb-5 styled-carousel with-caption">
 					<div class="col-12">
 						<div class="talento-slider">
 							<div id="talentoSlider" class="carousel slide" data-ride="carousel">
 								<div class="carousel-inner">
 									<div class="carousel-item active">
 										<img src="assets/img/secciones/talento/1-5R.jpg" class="d-block w-100" alt="...">
-										<div class="carousel-caption d-none d-md-block p-5 py-md-2 p-lg-5 bg-primary text-white text-left br-ntl-30 col-6 col-lg-4 my-auto">
+										<div class="carousel-caption p-3 p-lg-5 bg-primary br-ntl-30 col-12 col-md-4 my-auto">
 											<h3 class="font-weight-semibold"><strong>Con más de 65 años de experiencia, nos comprometemos con el bienestar social.</strong></h3>
 											<!-- <h5 class="text-yellow"><strong>Bolsa de trabajo</strong></h5> -->
 											<!-- <p>Da clic aquí y conoce por qué Caja Popular Mexicana es una <strong>#SúperEmpresa</strong></p> -->
@@ -45,7 +45,7 @@
 									</div>
 									<div class="carousel-item">
 										<img src="assets/img/secciones/talento/2-5R.jpg" class="d-block w-100" alt="...">
-										<div class="carousel-caption d-none d-md-block p-5 py-md-2 p-lg-5 bg-primary text-white text-left br-ntl-30 col-6 col-lg-4 my-auto">
+										<div class="carousel-caption p-3 p-lg-5 bg-primary br-ntl-30 col-12 col-md-4 my-auto">
 											<h3 class="font-weight-semibold"><strong>Impulsamos el aprendizaje y formación de nuestros colaboradores, procurando su desarrollo.</strong></h3>
 											<!-- <h5 class="text-yellow"><strong>Blog Cooperando Ando</strong></h5> -->
 											<!-- <p>Olvídate de los sermones y acércate a la verdad, <strong>NO</strong> te hablaremos bonito, pero <strong>SÍ</strong> sincero, ¿te atreves?</p> -->
@@ -54,7 +54,7 @@
 									</div>
 									<div class="carousel-item">
 										<img src="assets/img/secciones/talento/3-5R.jpg" class="d-block w-100" alt="...">
-										<div class="carousel-caption d-none d-md-block p-5 py-md-2 p-lg-5 bg-primary text-white text-left br-ntl-30 col-6 col-lg-4 my-auto">
+										<div class="carousel-caption p-3 p-lg-5 bg-primary br-ntl-30 col-12 col-md-4 my-auto">
 											<h3 class="font-weight-semibold"><strong>Nos esforzamos por brindar un servicio de calidad, generando experiencias positivas a nuestros colaboradores.</strong></h3>
 											<!-- <h5 class="text-yellow"><strong>Bolsa de trabajo</strong></h5> -->
 											<!-- <p>Da clic aquí y conoce por qué Caja Popular Mexicana es una <strong>#SúperEmpresa</strong></p> -->
@@ -63,7 +63,7 @@
 									</div>
 									<div class="carousel-item">
 										<img src="assets/img/secciones/talento/4-5R.jpg" class="d-block w-100" alt="...">
-										<div class="carousel-caption d-none d-md-block p-5 py-md-2 p-lg-5 bg-primary text-white text-left br-ntl-30 col-6 col-lg-4 my-auto">
+										<div class="carousel-caption p-3 p-lg-5 bg-primary br-ntl-30 col-12 col-md-4 my-auto">
 											<h3 class="font-weight-semibold"><strong>Vivimos un ambiente de colaboración y compañerismo, brindando espacios de convivencia que refuerzan nuestras relaciones interpersonales.</strong></h3>
 											<!-- <h5 class="text-yellow"><strong>Bolsa de trabajo</strong></h5> -->
 											<!-- <p>Da clic aquí y conoce por qué Caja Popular Mexicana es una <strong>#SúperEmpresa</strong></p> -->
@@ -72,7 +72,7 @@
 									</div>
 									<div class="carousel-item">
 										<img src="assets/img/secciones/talento/5-5R.jpg" class="d-block w-100" alt="...">
-										<div class="carousel-caption d-none d-md-block p-5 py-md-2 p-lg-5 bg-primary text-white text-left br-ntl-30 col-6 col-lg-4 my-auto">
+										<div class="carousel-caption p-3 p-lg-5 bg-primary br-ntl-30 col-12 col-md-4 my-auto">
 											<h3 class="font-weight-semibold"><strong>¡Somos una Súper Empresa!</strong></h3>
 											<!-- <h5 class="text-yellow"><strong>Bolsa de trabajo</strong></h5> -->
 											<!-- <p>Da clic aquí y conoce por qué Caja Popular Mexicana es una <strong>#SúperEmpresa</strong></p> -->
@@ -224,14 +224,14 @@
 					</div>
 				</section> <!-- /. Job Board Module -->
 
-				<div class="row mb-5 styled-carousel">
+				<div class="row mb-5 styled-carousel with-caption">
 					<div class="col-12">
 						<div class="talento-slider">
 							<div id="talentoSlider" class="carousel slide" data-ride="carousel">
 								<div class="carousel-inner">
 									<div class="carousel-item active">
 										<img src="assets/img/secciones/talento/IN.jpg" class="d-block w-100" alt="Síguenos en LinkedIn para más información de nuestras vacantes.">
-										<div class="carousel-caption d-none d-md-block p-5 py-md-2 p-lg-5 bg-primary text-white text-left br-ntl-30 col-6 col-lg-4 my-auto">
+										<div class="carousel-caption p-3 p-lg-5 bg-primary br-ntl-30 col-12 col-md-4 my-auto">
 											<h3 class="font-weight-semibold"><strong>¡No olvides seguirnos en LinkedIn!</strong></h3>
 											<h5 class="text-yellow"><strong>Tips, vacantes, noticias y mucho más encontrarás en nuestra comunidad, no esperes más y forma parte de Caja Popular Mexicana.</strong></h5>
 											<!-- <p>Da clic aquí y conoce por qué Caja Popular Mexicana es una <strong>#SúperEmpresa</strong></p> -->
@@ -309,14 +309,14 @@
 							<div class="p-5 bw-5 border-grey1 rounded tab-pane fade" id="tabTwo" role="tabpanel" aria-labelledby="tab-two">
 								<p class="display-18"><strong>En Caja Popular Mexicana buscamos gente que le apasione servir, que brinde un trato amable hacia las necesidades de nuestros socios, que sean atentos y empáticos con los demás; personas con ganas de aprender y que se esfuerzan por conseguir sus objetivos.</strong></p>
 
-								<div class="row mb-5 styled-carousel">
+								<div class="row mb-5 styled-carousel with-caption">
 									<div class="col-12 col-md-10 offset-md-1">
 										<div class="talento-slider">
 											<div id="testimonialSlider" class="carousel slide" data-ride="carousel">
 												<div class="carousel-inner">
 													<div class="carousel-item active">
 														<img src="assets/img/secciones/talento/sergio.jpg" class="d-block w-100">
-														<div class="carousel-caption d-none d-md-block p-5 py-md-2 p-lg-5 bg-primary text-white text-left br-ntl-30 col-6 col-lg-4 my-auto">
+														<div class="carousel-caption p-3 p-lg-5 bg-primary br-ntl-30 col-12 col-md-4 my-auto">
 															<h3 class="font-weight-semibold"><strong>Sergio</strong></h3>
 															<h5 class="text-yellow"><strong>Orgulloso de pertenecer a esta gran sociedad que nos da la oportunidad de crecer personal y profesionalmente.</strong></h5>
 														</div>
@@ -324,7 +324,7 @@
 												
 													<div class="carousel-item">
 														<img src="assets/img/secciones/talento/lili.jpg" class="d-block w-100">
-														<div class="carousel-caption d-none d-md-block p-5 py-md-2 p-lg-5 bg-primary text-white text-left br-ntl-30 col-6 col-lg-4 my-auto">
+														<div class="carousel-caption p-3 p-lg-5 bg-primary br-ntl-30 col-12 col-md-4 my-auto">
 															<h3 class="font-weight-semibold"><strong>Liliana</strong></h3>
 															<h5 class="text-yellow"><strong>Estoy orgullosa y agradecida de ser parte de Caja Popular Mexicana.</strong></h5>
 														</div>
@@ -332,7 +332,7 @@
 												
 													<div class="carousel-item">
 														<img src="assets/img/secciones/talento/juan-manuel.jpg" class="d-block w-100">
-														<div class="carousel-caption d-none d-md-block p-5 py-md-2 p-lg-5 bg-primary text-white text-left br-ntl-30 col-6 col-lg-4 my-auto">
+														<div class="carousel-caption p-3 p-lg-5 bg-primary br-ntl-30 col-12 col-md-4 my-auto">
 															<h3 class="font-weight-semibold"><strong>Juan Manuel</strong></h3>
 															<h5 class="text-yellow"><strong>Ser parte de Caja Popular Mexicana es la mejor experiencia, ya que es una institución comprometida con la sociedad.</strong></h5>
 														</div>
@@ -340,7 +340,7 @@
 												
 													<div class="carousel-item">
 														<img src="assets/img/secciones/talento/marisol.jpg" class="d-block w-100">
-														<div class="carousel-caption d-none d-md-block p-5 py-md-2 p-lg-5 bg-primary text-white text-left br-ntl-30 col-6 col-lg-4 my-auto">
+														<div class="carousel-caption p-3 p-lg-5 bg-primary br-ntl-30 col-12 col-md-4 my-auto">
 															<h3 class="font-weight-semibold"><strong>Marisol</strong></h3>
 															<h5 class="text-yellow"><strong>Estoy orgullosa de ser Caja Popular Mexicana porque avanza de acuerdo a las necesidades de sus colaboradores y socios.</strong></h5>
 														</div>

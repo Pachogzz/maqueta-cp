@@ -4,7 +4,7 @@
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 bg-primary d-inline-block px-lg-5 py-lg-3 br-30 text-white font-weight-semibold">¿Necesitas crédito?</h1>
+						<h1 class="display-4 br-30">¿Necesitas crédito?</h1>
 					</div>
 				</div>
 			</div>
@@ -58,7 +58,7 @@
 					</div> <!-- ./ Inmediato -->
 				</div>
 				<div class="row row-eq-height">
-					<div class="landing-grid-box col-12 col-md-4 mb-0">
+					<div class="landing-grid-box col-12 col-md-4">
 						<a href="credito-productivo-cpm.php" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
 							<i class="fas fa-file-invoice-dollar fa-4x bg-primary text-white rounded-circle"></i>
@@ -68,7 +68,7 @@
 						</div>
 						</a>
 					</div> <!-- ./ Productivo -->
-					<div class="landing-grid-box col-12 col-md-4 mb-0">
+					<div class="landing-grid-box col-12 col-md-4">
 						<a href="credito-automotriz-cpm.php" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
 							<i class="fas fa-car-side fa-4x bg-primary text-white rounded-circle"></i>
@@ -78,7 +78,7 @@
 						</div>
 						</a>
 					</div> <!-- ./ Automotríz -->
-					<div class="landing-grid-box col-12 col-md-4 mb-0">
+					<div class="landing-grid-box col-12 col-md-4">
 						<a href="credito-hipotecario-cpm.php" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
 							<i class="fas fa-home fa-4x bg-primary text-white rounded-circle"></i>

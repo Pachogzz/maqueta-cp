@@ -4,7 +4,7 @@
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 bg-primary d-inline-block px-lg-5 py-lg-3 br-30 text-white font-weight-semibold">Crédito Automotriz CPM</h1>
+						<h1 class="display-4 br-30">Crédito Automotriz CPM</h1>
 					</div>
 				</div>
 			</div>
@@ -41,12 +41,8 @@
 								<li>En la contratación del producto, el plan de pagos se establece de manera mensual</li>
 							</ul>
 						</div>
+						<!-- Nota Legal -->
 						<?php include('inc/calculadoras/calculadora-de-credito.php') ?> <!-- ./ calculadora de credito -->
-						<div class="bg-grey0 p-5 my-5">
-							<h3 class="font-weight-bolder">¿Dudas sobre nuestro Crédito Automotriz CPM?</h3>
-							<hr>
-							<?php include('inc/forms/formulario-creditos.php') ?> <!-- ./ Formulario gral de sección -->
-						</div>
 					</div>
 					<div class="col-12 col-md-6">
 						<!-- MENU -->
@@ -159,26 +155,16 @@
 							</div>
 						</div>
 						<!-- MENU -->
-						<!-- Nota Legal -->
-						<!-- Cuadro de Recursos -->
-						<div class="bg-quinary text-white my-5 p-4">
-							<p class="p-4 mb-0 bw-4 rounded border-white">Los recursos depositados en esta cuenta están protegidos por el <strong>Fondo de Protección</strong> a que se refiere el <strong>Título Cuarto de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo</strong>, hasta por <strong>25,000 Unidades de Inversión</strong>, de acuerdo a las disposiciones que establezcan el <strong>Comité Técnico y Comité de Protección al Ahorro Cooperativo del Fideicomiso</strong> que lo administra.</p>
+						<!-- Formulario Dudas -->
+						<div class="bg-grey0 p-5 my-5">
+							<h3 class="font-weight-bolder">¿Dudas sobre nuestro Crédito Automotriz CPM?</h3>
+							<hr>
+							<?php include('inc/forms/formulario-creditos.php') ?> <!-- ./ Formulario gral de sección -->
 						</div>
-						<!-- Cuadro de Recursos -->
-						<!-- Cuadro UNE -->
-						<div class="bg-grey0 p-5">
-							<p class="display-12">Con la finalidad de atender sus aclaraciones, consultas y reclamaciones relacionadas con las operaciones y servicios que realice con nosotros, Caja Popular Mexicana pone a su disposición la <strong>Unidad Especializada de Atención a Usuarios (UNE)</strong>, con domicilio en <strong>Calle Ignacio Altamirano No. 407, Colonia San Juan de Dios, C.P. 37004, en la ciudad de León, Gto.</strong>, así como un número telefónico gratuito <strong>800 276 86 37 y 477 7 88 80 00 extensión 8142</strong> y correo electrónico une@cpm.coop.</p>
-							<p class="display-12">Situaciones que NO pueden ser atendidas por la UNE</p>
-							<ul class="display-12">
-								<li>Solicitudes de reestructura o convenios de pago de créditos.</li>
-								<li>Asuntos relacionados con solicitudes de crédito.</li>
-								<li>Aquellas que se encuentren en trámite ante la CONDUSEF o en proceso Judicial.</li>
-							</ul>
-							<p class="display-12"><strong>Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros (CONDUSEF)</strong>, al teléfono <strong>800 999 8080</strong> y en el D.F. al <strong>55 5340 0999</strong>, página de internet <strong>www.condusef.gob.mx</strong> y al correo electrónico <strong>asesoria@condusef.gob.mx</strong>.</p>
-						</div>
-						<!-- Cuadro UNE -->
+						<!-- Formulario Dudas -->
 					</div>
 				</div> <!-- ./ End Row -->
+			<?php include('inc/une-recursos.php'); ?>
 			</div>
 		</section>
 
