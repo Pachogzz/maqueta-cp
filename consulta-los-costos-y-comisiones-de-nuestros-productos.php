@@ -16,88 +16,1222 @@
 			<div class="container">
 				<div class="row mb-5">
 					<div class="col-12 col-md-12">
-						<h1 class="d-inline-block px-lg-5 py-lg-3 br-30 text-black font-weight-semibold">Ahorro</h1>
-						<div class="accordion accordion-cpm" id="accordionCICPM">
+						<h1 class="d-inline-block px-lg-5 py-lg-3 br-30 text-black font-weight-semibold">Crédito</h1>
+						<div class="accordion accordion-cpm" id="accordionCCNP1">
+							<!-- Créditos Personales -->
 							<div class="card">
 								<div class="card-header" id="headingOne">
 									<h2 class="mb-0">
-										<button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-											Beneficios
+										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+											Créditos Personales
 										</button>
 									</h2>
 								</div>
 
-								<div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionCICPM">
+								<div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionCCNP1">
 									<div class="card-body bg-grey0 p-4">
-										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Tasa fija de rendimiento de $1,500 en adelante 0.50% antes de impuestos.</li>
-											<li>Puedes realizar depósitos en efectivo de forma ilimitada a tu cuenta en cualquiera de nuestras sucursales.</li>
-											<li>Podrás realizar retiros diarios acumulados en Cajeros Automáticos hasta por $8,000.00.</li>
-											<li>Compra de tiempo aire para telefonía celular a través de nuestra comunidad de cajeros automáticos a nivel nacional sin costo y de forma ilimitada.</li>
-											<li>Con la Tarjeta de Débito CPM podrás realizar compras en puntos de venta, cash-back (retiro en efectivo) en tiendas departamentales participantes.</li>
-										</ul>
+											<h4>Crédito Personal CPM</h4>
+											<table class="table table-responsive-md table-bordered p-5 bg-white">
+												<thead>
+													<tr class="bg-primary">
+													
+													<th scope="col"><span class="text-white">Nombre comercial del producto</span></th>
+													<th scope="col"><span class="text-white">Concepto</span></th>
+													<th scope="col"><span class="text-white">Monto</span></th>
+													<th scope="col"><span class="text-white">Periodicidad</span></th>
+													<th scope="col"><span class="text-white">Tasas de intereses<br>anual variable antes de<br>impuestos</span></th>
+													<th scope="col"><span class="text-white">*CAT promedio</th>
+													<th scope="col"><span class="text-white">Fecha<br>de<br>cálculo</span></th>
+													</tr>
+												</thead>
+												<tbody>
+													<tr>
+												<td>Crédito personal CPM</td>
+												<td>No aplica<br>comisión</td>
+												<td>0.00</td>
+												<td>No aplica</td>
+												<td>Min.: 15.15% hasta un Mx: 25.71%</td>
+												<td>35.8 sin IVA%</td>
+												<td>30/06/2019</td>
+													</tr>
+												</tbody>
+											</table>
+											<p><strong>*CAT</strong> es el costo anual total del financiamiento expresado en términos porcentuales anuales que, para fines informativos y de comparación, incorpora la totalidad de los costos y gastos inherentes a los créditos.</p>
+											<p>El préstamo otorgado es en moneda nacional. Disponible en todas nuestras sucursales a nivel nacional.</p>
+											<p>[i] <strong>Tasa por rangos:</strong> tasas determinadas en base a la siguiente tabla; en las que se consideren conceptos como aportación excedente, garantía líquida, capital en riesgo y la relación proporcional entre estos.</p>
+											<table class="table table-responsive-md table-bordered w-50">
+												<thead class="bg-grey2 text-white">
+													<tr>
+														<th colspan="2"><strong>Monto que excede la garantía liquida</strong></th>
+														<th colspan="4"><strong>Número de veces**</strong></th>
+													</tr>
+													<tr>
+														<th scope="col"><strong>Desde</strong></th>
+														<th scope="col"><strong>Hasta</strong></th>
+														<th scope="col"><strong>2</strong></th>
+														<th scope="col"><strong>3</strong></th>
+														<th scope="col"><strong>4</strong></th>
+														<th scope="col"><strong>más de 4</strong></th>
+													</tr>
+												</thead>
+												<tbody class="w-75">
+													<tr>
+														<td scope="row" colspan="2">Sobre Haberes 1%</td>
+														<td></td>
+														<td></td>
+														<td></td>
+														<td></td>
+													</tr>
+													<tr>
+														<td scope="row">$0.01</td>
+														<td>$10,000.00</td>
+														<td>15.15%</td>
+														<td>17.91%</td>
+														<td>20.67%</td>
+														<td>23.43%</td>
+													</tr>
+													<tr>
+														<td scope="row">$10,000.01</td>
+														<td>$25,000.00</td>
+														<td>17.07%</td>
+														<td>19.59%</td>
+														<td>22.23%</td>
+														<td>24.15%</td>
+													</tr>
+													<tr>
+														<td scope="row">$25,000.01</td>
+														<td>$50,000.00</td>
+														<td>18.99%</td>
+														<td>21.15%</td>
+														<td>23.31%</td>
+														<td>24.75%</td>
+													</tr>
+													<tr>
+														<td scope="row">$50,000.01</td>
+														<td>$100,000.00</td>
+														<td>20.91%</td>
+														<td>22.83%</td>
+														<td>24.27%</td>
+														<td>25.23%</td>
+													</tr>
+													<tr>
+														<td scope="row">$100,000.01</td>
+														<td>En adelante</td>
+														<td>22.59%</td>
+														<td>24.15%</td>
+														<td>25.11%</td>
+														<td>25.71%</td>
+													</tr>
+												</tbody>
+											</table>
+											<p><strong>** Número</strong> de veces se refiere a: el número de veces prestado sobre el monto de garantía líquida.</p>
+											
+											<hr>
+
+											<h4>Crédito Personal Preferencial CPM</h4>
+											<table class="table table-responsive-md table-bordered p-5 bg-white">
+												<thead>
+													<tr class="bg-primary">
+													
+													<th scope="col"><span class="text-white">Nombre comercial del producto</span></th>
+													<th scope="col"><span class="text-white">Concepto</span></th>
+													<th scope="col"><span class="text-white">Monto</span></th>
+													<th scope="col"><span class="text-white">Periodicidad</span></th>
+													<th scope="col"><span class="text-white">Tasas de intereses<br>anual fija antes de<br>impuestos</span></th>
+													<th scope="col"><span class="text-white">*CAT promedio</th>
+													<th scope="col"><span class="text-white">Fecha<br>de<br>cálculo</span></th>
+													</tr>
+												</thead>
+												<tbody>
+													<tr>
+														<td scope="row">Crédito Personal Preferencial CPM</td>
+														<td>No aplica<br>comisión</td>
+														<td>0.00</td>
+														<td>No aplica</td>
+														<td>17.55%</td>
+														<td>23.5% sin IVA%</td>
+														<td>30/06/2019</td>
+													</tr>
+												</tbody>
+											</table>
+											<p><strong>CAT</strong> es el costo anual total del financiamiento expresado en términos porcentuales anuales que, para fines informativos y de comparación, incorpora la totalidad de los costos y gastos inherentes a los créditos.</p>
+											<p>El préstamo otorgado es en moneda nacional. Disponible en todas nuestras sucursales a nivel nacional.<br><br></p>
+											
+											<hr>
+
+											<h4>Crédito Personal Plus CPM</h4>
+											<table class="table table-responsive-md table-bordered p-5 bg-white">
+												<thead>
+													<tr class="bg-primary">
+													
+													<th scope="col"><span class="text-white">Nombre comercial del producto</span></th>
+													<th scope="col"><span class="text-white">Concepto</span></th>
+													<th scope="col"><span class="text-white">Monto</span></th>
+													<th scope="col"><span class="text-white">Periodicidad</span></th>
+													<th scope="col"><span class="text-white">Tasas de intereses<br>anual variable antes de<br>impuestos</span></th>
+													<th scope="col"><span class="text-white">*CAT promedio</th>
+													<th scope="col"><span class="text-white">Fecha<br>de<br>cálculo</span></th>
+													</tr>
+												</thead>
+												<tbody>
+													<tr>
+												<td>Crédito personal Plus CPM</td>
+												<td>No aplica<br>comisión</td>
+												<td>0.00</td>
+												<td>No aplica</td>
+												<td><strong>Min.: 12.00% hasta un Mx: 33.00%</strong><br> *La tasa se asignara de acuerdo al perfil crediticio del Socio.</td>
+												<td><strong>31.5% sin IVA%</strong></td>
+												<td>30/06/2019</td>
+													</tr>
+												</tbody>
+											</table>
+											<p><strong>*CAT</strong> es el costo anual total del financiamiento expresado en términos porcentuales anuales que, para fines informativos y de comparación, incorpora la totalidad de los costos y gastos inherentes a los créditos.</p>
+											<p>El préstamo otorgado es en moneda nacional. Disponible en todas nuestras sucursales a nivel nacional.</p>
 									</div>
 								</div>
 							</div>
+							<!-- Créditos Personales -->
+							
+							<!-- Credinámico -->
 							<div class="card">
 								<div class="card-header" id="headingTwo">
 									<h2 class="mb-0">
 										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-											Requisitos y generales
+											Crédinámico
 										</button>
 									</h2>
 								</div>
-								<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionCICPM">
+								<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionCCNP1">
 									<div class="card-body bg-grey0 p-4">
-										<h4>Requisitos</h4>
-										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>
-												<p><a href="ser-socio.php">Ser socio </a>de Caja Popular Mexicana.</p>
-												<p>Que el socio contratante labore en empresas que estén en colaboración con Caja Popular Mexicana para recibir el servicio de dispersión de nómina</p>
-											</li>
-										</ul>
-										<h4>Generalidades</h4>
-										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>
-												<p>Se te entregará tu Tarjeta de Débito CPM sin costo.</p>
-												<p>No requiere de saldo mínimo para manejar la cuenta.</p>
-												<p>Al término de la vigencia de la tarjeta será emitida nuevamente sin costo y será entregada en tu sucursal.</p>
-												<p>Es importante cambiar tu NIP por cuestiones de seguridad y será sin costo en los cajeros automáticos.</p>
-												<p>Centro de Atención a socios las 24 horas del día 800 277 7273.</p>
-											</li>
-										</ul>
+										<h4>Credinámico</h4>
+										<table class="table p-5 bg-white bw-1 border-grey1">
+											<thead>
+												<tr class="bg-primary">
+													<th scope="col"><span class="text-white">Nombre comercial <br>del producto</span></th>
+													<th scope="col"><span class="text-white">Concepto</span></th>
+													<th scope="col"><span class="text-white">Monto</span></th>
+													<th scope="col"><span class="text-white">Periodicidad</span></th>
+													<th scope="col"><span class="text-white">Tasas de intereses<br>anual fija antes de<br>impuestos</span></th>
+													<th scope="col"><span class="text-white">*CAT promedio</th>
+													<th scope="col"><span class="text-white">Fecha<br>de<br>cálculo</span></th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td scope="row">Credinámico</td>
+													<td>No aplica<br>comisión</td>
+													<td>0.00</td>
+													<td>No aplica</td>
+													<td><strong>Min.: 12.00% hasta un Máx: 33.00%</strong><br>*La tasa se asignará de acuerdo al perfil crediticio del socio.</td>
+													<td><strong>25.1% sin IVA</strong></td>
+													<td>30/06/2019</td>
+												</tr>
+											</tbody>
+										</table>
+										<p><strong>*CAT</strong> es el costo anual total del financiamiento expresado en términos porcentuales anuales que, para fines informativos y de comparación, incorpora la totalidad de los costos y gastos inherentes a los créditos.</p>
+										<p>El préstamo otorgado es en moneda nacional. Disponible en todas nuestras sucursales a nivel nacional.</p>
 									</div>
 								</div>
 							</div>
+							<!-- Credinámico -->
+							
+							<!-- Crédito Inmediato CPM -->
 							<div class="card">
 								<div class="card-header" id="headingThree">
 									<h2 class="mb-0">
-										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFourt" aria-expanded="false" aria-controls="collapseFourt">
-											Costos y comisiones
+										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+											Crédito Inmediato CPM
 										</button>
 									</h2>
 								</div>
-								<div id="collapseFourt" class="collapse" aria-labelledby="headingThree" data-parent="#accordionCICPM">
+								<div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionCCNP1">
 									<div class="card-body bg-grey0 p-4">
-										<h4>Costos y comisiones</h4>
-										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Sin comisiones</li>
-											<li>Producto en moneda nacional</li>
-											<li>Consultas y/o retiros en cajeros automáticos RED se cobrará la comisión que corresponda al Banco operador del Cajero o al sistema RED</li>
-											<li>Consultas y/o retiros en cajeros automáticos internacionales se cobrará la comisión que corresponda al Banco operador del Cajero o al sistema RED</li>
-											<li>Cambio de NIP por extravío u olvido tendrá un costo de $50.00+IVA.</li>
-											<li>Aclaraciones improcedentes de transacciones realizadas en cajeros automáticos propios, cajeros automáticos RED o en cajeros automáticos en el extranjero, el costo será de $155.00 + IVA por evento, si la aclaración procede, Caja Popular Mexicana absorberá el costo administrativo.</li>
-										</ul>
+										<h4>Crédito Inmediato CPM</h4>
+										<table class="table table-responsive-md table-bordered p-5 bg-white">
+											<thead class="bg-primary text-white">
+												<tr>
+													<th scope="col">Nombre comercial del producto</th>
+													<th scope="col">Concepto</th>
+													<th scope="col">Monto</th>
+													<th scope="col">Periodicidad</th>
+													<th scope="col"><strong>Tasas de intereses anual fija antes de impuestos</strong></th>
+													<th scope="col"><strong>*CAT PROMEDIO</strong></th>
+													<th scope="col">Fecha de cálculo</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td scope="row">Crédito Inmediato CPM</td>
+													<td>No aplica comisión</td>
+													<td>0.00</td>
+													<td>No aplica</td>
+													<td><strong>12.24%<p></p></strong></td>
+													<td><strong>73856570763370100000000000.0% sin IVA</strong></td>
+													<td>30/06/19</td>
+												</tr>
+											</tbody>
+										</table>
+										<p><strong>*CAT </strong>es el costo anual total del financiamiento expresado en términos porcentuales anuales que, para fines informativos y de comparación, incorpora la totalidad de los costos y gastos inherentes a los créditos.</p>
+										<p> El préstamo otorgado es en moneda nacional. Disponible en todas nuestras sucursales a nivel nacional.</p>
 									</div>
 								</div>
 							</div>
+							<!-- Crédito Inmediato CPM -->
+
+							<!-- Crédito Productivo CPM -->
+							<div class="card">
+								<div class="card-header" id="headingFourt">
+									<h2 class="mb-0">
+										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+											Crédito Productivo CPM
+										</button>
+									</h2>
+								</div>
+								<div id="collapseFour" class="collapse" aria-labelledby="headingThree" data-parent="#accordionCCNP1">
+									<div class="card-body bg-grey0 p-4">
+										<h4>Crédito Productivo CPM</h4>
+										<table class="table table-responsive-md table-bordered p-5 bg-white">
+											<thead class="bg-primary text-white">
+												<tr>
+													<th scope="col">Nombre comercial del producto</th>
+													<th scope="col">Concepto</th>
+													<th scope="col">Monto</th>
+													<th scope="col">Periodicidad</th>
+													<th scope="col"><strong>Tasas de intereses anual fija antes de impuestos</strong></th>
+													<th scope="col"><strong>*CAT PROMEDIO</strong></th>
+													<th scope="col">Fecha de cálculo</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td scope="row">Crédito Productivo CPM</td>
+													<td>No aplica comisión</td>
+													<td>0.00</td>
+													<td>No aplica</td>
+													<td><strong>19.44%<p></p></strong></td>
+													<td><strong>24.2% sin IVA</strong></td>
+													<td>30/06/19</td>
+												</tr>
+											</tbody>
+										</table>
+										<p><strong>*CAT </strong>es el costo anual total del financiamiento expresado en términos porcentuales anuales que, para fines informativos y de comparación, incorpora la totalidad de los costos y gastos inherentes a los créditos.</p>
+										<p>El préstamo otorgado es en moneda nacional. Disponible en todas nuestras sucursales a nivel nacional.</p>
+									</div>
+								</div>
+							</div>
+							<!-- Crédito Productivo CPM -->
+
+							<!-- Crédito Automotríz CPM -->
+							<div class="card">
+								<div class="card-header" id="headingFive">
+									<h2 class="mb-0">
+										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+											Crédito Automotríz CPM
+										</button>
+									</h2>
+								</div>
+								<div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionCCNP1">
+									<div class="card-body bg-grey0 p-4">
+										<h4>Crédito Automotríz CPM</h4>
+										<table class="table table-responsive-md table-bordered p-5 bg-white">
+											<thead class="bg-primary text-white">
+												<tr>
+													<th scope="col">Concepto</th>
+													<th scope="col">Monto</th>
+													<th scope="col">Periodicidad</th>
+													<th scope="col"><strong>Tasas de intereses anual fija antes de impuestos</strong></th>
+													<th scope="col"><strong>*CAT PROMEDIO</strong></th>
+													<th scope="col">Fecha de cálculo</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td scope="row">No aplica comisión</td>
+													<td>0.00</td>
+													<td>No aplica</td>
+													<td><strong>12.84%</strong></td>
+													<td><strong>20.8% sin IVA</strong></td>
+													<td>30/06/19</td>
+												</tr>
+											</tbody>
+										</table>
+										<p><strong>*CAT </strong> es el costo anual total del financiamiento expresado en términos porcentuales anuales que, para fines informativos y de comparación, incorpora la totalidad de los costos y gastos inherentes a los créditos.</p>
+										<p> El préstamo otorgado es en moneda nacional. Disponible en todas nuestras sucursales a nivel nacional.</p>
+									</div>
+								</div>
+							</div>
+							<!-- Crédito Automotríz CPM -->
+
+							<!-- Crédito Hipotecario CPM -->
+							<div class="card">
+								<div class="card-header" id="headingThree">
+									<h2 class="mb-0">
+										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+											Crédito Hipotecario CPM
+										</button>
+									</h2>
+								</div>
+								<div id="collapseSix" class="collapse" aria-labelledby="headingThree" data-parent="#accordionCCNP1">
+									<div class="card-body bg-grey0 p-4">
+										<h4>Crédito Hipotecario CPM</h4>
+
+										<table class="table table-responsive-md table-bordered p-5 bg-white">
+											<thead class="bg-primary text-white">
+												<tr>
+													<th scope="col">Finalidad</th>
+													<th scope="col">Concepto</th>
+													<th scope="col">Monto</th>
+													<th scope="col">Periodicidad</th>
+													<th scope="col"><strong>Tasas de intereses anual fija antes de impuestos</strong></th>
+													<th scope="col"><strong>*CAT PROMEDIO</strong></th>
+													<th scope="col">Fecha de cálculo</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td scope="row">Finalidad de vivienda</td>
+													<td>No aplica comisión</td>
+													<td>0.00</td>
+													<td>No aplica</td>
+													<td><strong>Min.: 10.08% hasta Max: 10.44% [¡¡]<br> </strong></td>
+													<td><strong>12.9% sin IVA</strong></td>
+													<td>30/06/19</td>
+												</tr>
+												<tr>
+													<td scope="row">Finalidad de liquidez</td>
+													<td>No aplica comisión</td>
+													<td>0.00</td>
+													<td>No aplica</td>
+													<td><strong>17.16%<br> </strong></td>
+													<td><strong>24.3% sin IVA</strong></td>
+													<td>30/06/19</td>
+												</tr>
+											</tbody>
+										</table>
+										<p><strong>*CAT </strong>es el costo anual total del financiamiento expresado en términos porcentuales anuales que, para fines informativos y de comparación, incorpora la totalidad de los costos y gastos inherentes a los créditos.</p>
+										<p> El préstamo otorgado es en moneda nacional. Disponible en todas nuestras sucursales a nivel nacional.</p>
+										<p>[¡¡] <strong>Tasa en base al financiamiento:</strong> la tasa se determinará con base a la relación del valor de la vivienda para adquisición o sustitución de hipoteca y el financiamiento; o en su caso al valor de la construcción, remodelación y mejoramiento de la vivienda, dicho porcentaje, se establecerá en función del proyecto de obra.</p>
+										<table class="table table-responsive-md table-bordered w-50">
+											<thead class="bg-grey2 text-white">
+												<tr>
+													<th scope="col"><strong>Financiamiento</strong></th>
+													<th scope="col"><strong>Tasa de interés</strong></th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td scope="row">Mayor al 90% y hasta el 100%</td>
+													<td>10.44% anual</td>
+												</tr>
+												<tr>
+													<td scope="row">Mayor al 80% y hasta el 90%</td>
+													<td>10.32% anual</td>
+												</tr>
+												<tr>
+													<td scope="row">Hasta el 80%</td>
+													<td>10.08% anual</td>
+												</tr>
+											</tbody>
+										</table>
+
+									</div>
+								</div>
+							</div>
+							<!-- Crédito Hipotecario CPM -->
+						</div>
+
+						<h1 class="d-inline-block px-lg-5 py-lg-3 br-30 text-black font-weight-semibold">Ahorro</h1>
+						
+						<div class="accordion accordion-cpm" id="accordionCCNP2">
+							<!-- Cuenta Mexicana -->
+							<div class="card">
+								<div class="card-header" id="headingSeven">
+									<h2 class="mb-0">
+										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="true" aria-controls="collapseSeven">
+											Cuenta Mexicana
+										</button>
+									</h2>
+								</div>
+
+								<div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordionCCNP2">
+									<div class="card-body bg-grey0 p-4">
+									<h4>Cuenta Mexicana</h4>
+									<table class="table table-responsive-md table-bordered p-5 bg-white">
+										<thead class="bg-primary text-white">
+											<tr>
+												<th scope="col">Concepto</th>
+												<th scope="col">Monto</th>
+												<th scope="col">Periodicidad</th>
+												<th scope="col"><strong>Tasas de intereses anual variable antes de impuestos</strong></th>
+												<th scope="col"><strong>*GAT nominal anual antes de impuestos</strong></th>
+												<th scope="col"><strong>**GAT real anual antes de impuestos</strong></th>
+												<th scope="col">Fecha de cálculo</th>
+												<th scope="col">Vigencia</th>
+											</tr>
+										</thead>
+										<tbody>
+											<tr>
+												<td scope="row">No aplica comisión</td>
+												<td>0.00</td>
+												<td>No aplica</td>
+												<td><strong>3.79%</strong></td>
+												<td><strong>3.86%</strong></td>
+												<td><strong>0.39%</strong></td>
+												<td>09/01/2020</td>
+												<td>15/01/2020</td>
+											</tr>
+										</tbody>
+									</table>
+									<p><strong>*GAT nominal anual antes de impuestos:</strong> Para fines informativos y de comparación.</p>
+									<p><strong>** GAT real anual antes de impuestos: </strong>Para fines informativos y de comparación. La GAT real, es el rendimiento que obtendrá después de descontar la inflación estimada; para fines informativos y de comparación exclusivamente.</p>
+									<p>Ahorro en moneda nacional. Disponible en todas nuestras sucursales a nivel nacional.</p>
+									<p><em class="text-primary">Los recursos depositados en estas cuentas están protegidos por el Fondo de Protección a que se refiere el Título Cuarto de la Ley para Regular las Actividads de las Sociedades Cooperativas de Ahorro y Préstamo, hasta por 25,000 Unidades de Inversión por socio ahorrador de Caja Popular Mexicana, de acuerdo a las disposiciones que establezcan el Comité Técnico y Comité de Protección al Ahorro Cooperativo del Fideicomiso que lo administra.</em></p>
+									</div>
+								</div>
+							</div>
+							<!-- Cuenta Mexicana -->
+
+							<!-- Mi Alcancía CPM -->
+							<div class="card">
+								<div class="card-header" id="headingEight">
+									<h2 class="mb-0">
+										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+											Mi Alcancía CPM
+										</button>
+									</h2>
+								</div>
+								<div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordionCCNP2">
+									<div class="card-body bg-grey0 p-4">
+										<h4>Mi Alcancía CPM</h4>
+										<table class="table table-responsive-md table-bordered p-5 bg-white">
+											<thead class="bg-primary text-white">
+												<tr>
+													<th scope="col">Tiempo</th>
+													<th scope="col">Concepto</th>
+													<th scope="col">Monto</th>
+													<th scope="col">Periodicidad</th>
+													<th scope="col"><strong>Tasas de intereses anual variable antes de impuestos</strong></th>
+													<th scope="col"><strong>*GAT nominal anual antes de impuestos</strong></th>
+													<th scope="col"><strong>**GAT real anual antes de impuestos</strong></th>
+													<th scope="col">Fecha de cálculo</th>
+													<th scope="col">Vigencia</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td scope="row">180 días</td>
+													<td>No aplica comisión</td>
+													<td>0.00</td>
+													<td>No aplica</td>
+													<td><strong>5.25%</strong></td>
+													<td><strong>5.34%</strong></td>
+													<td><strong>1.83%</strong></td>
+													<td>09/01/2020</td>
+													<td>15/01/2020</td>
+												</tr>
+												<tr>
+													<td scope="row">210 días</td>
+													<td>No aplica comisión</td>
+													<td>0.00</td>
+													<td>No aplica</td>
+													<td><strong>5.57%</strong></td>
+													<td><strong>5.66%</strong></td>
+													<td><strong>2.14%</strong></td>
+													<td>09/01/2020</td>
+													<td>15/01/2020</td>
+												</tr>
+												<tr>
+													<td scope="row">240 días</td>
+													<td>No aplica comisión</td>
+													<td>0.00</td>
+													<td>No aplica</td>
+													<td><strong>5.90%</strong></td>
+													<td><strong>5.99%</strong></td>
+													<td><strong>2.46%</strong></td>
+													<td>09/01/2020</td>
+													<td>15/01/2020</td>
+												</tr>
+												<tr>
+													<td scope="row">270 días</td>
+													<td>No aplica comisión</td>
+													<td>0.00</td>
+													<td>No aplica</td>
+													<td><strong>6.22%</strong></td>
+													<td><strong>6.31%</strong></td>
+													<td><strong>2.77%</strong></td>
+													<td>09/01/2020</td>
+													<td>15/01/2020</td>
+												</tr>
+												<tr>
+													<td scope="row">300 días</td>
+													<td>No aplica comisión</td>
+													<td>0.00</td>
+													<td>No aplica</td>
+													<td><strong>6.55%</strong></td>
+													<td><strong>6.64%</strong></td>
+													<td><strong>3.08%</strong></td>
+													<td>09/01/2020</td>
+													<td>15/01/2020</td>
+												</tr>
+												<tr>
+													<td scope="row">330 días</td>
+													<td>No aplica comisión</td>
+													<td>0.00</td>
+													<td>No aplica</td>
+													<td><strong>6.87%</strong></td>
+													<td><strong>6.95%</strong></td>
+													<td><strong>3.39%</strong></td>
+													<td>09/01/2020</td>
+													<td>15/01/2020</td>
+												</tr>
+												<tr>
+													<td scope="row">360 días</td>
+													<td>No aplica comisión</td>
+													<td>0.00</td>
+													<td>No aplica</td>
+													<td><strong>7.19%</strong></td>
+													<td><strong>7.27%</strong></td>
+													<td><strong>3.69%</strong></td>
+													<td>09/01/2020</td>
+													<td>15/01/2020</td>
+												</tr>
+											</tbody>
+										</table>
+										<p><strong>*GAT nominal anual antes de impuestos:</strong> Para fines informativos y de comparación.</p>
+										<p><strong>** GAT real anual antes de impuestos: </strong>Para fines informativos y de comparación. La GAT real, es el rendimiento que obtendrá después de descontar la inflación estimada; para fines informativos y de comparación exclusivamente.</p>
+										<p>Ahorro en moneda nacional. Disponible en todas nuestras sucursales a nivel nacional.</p>
+										<p><em class="text-primary">Los recursos depositados en estas cuentas están protegidos por el Fondo de Protección a que se refiere el Título Cuarto de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, hasta por 25,000 Unidades de Inversión por socio ahorrador de Caja Popular Mexicana, de acuerdo a las disposiciones que establezcan el Comité Técnico y Comité de Protección al Ahorro Cooperativo del Fideicomiso que lo administra.</em></p>
+									</div>
+								</div>
+							</div>
+							<!-- Mi Alcancía CPM -->
+
+							<!-- Servicuenta -->
+							<div class="card">
+								<div class="card-header" id="headingNine">
+									<h2 class="mb-0">
+										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+											Servicuenta
+										</button>
+									</h2>
+								</div>
+								<div id="collapseNine" class="collapse" aria-labelledby="headingNine" data-parent="#accordionCCNP2">
+									<div class="card-body bg-grey0 p-4">
+										<h4>Servicuenta</h4>
+
+										<table class="table table-responsive-md table-bordered p-5 bg-white">
+											<thead class="bg-primary text-white">
+												<tr>
+													<th scope="col">Concepto</th>
+													<th scope="col">Monto</th>
+													<th scope="col">Periodicidad</th>
+													<th scope="col"><strong>Tasas de intereses anual variable antes de impuestos</strong></th>
+													<th scope="col"><strong>*GAT nominal anual antes de impuestos</strong></th>
+													<th scope="col"><strong>**GAT real anual antes de impuestos</strong></th>
+													<th scope="col">Fecha de cálculo</th>
+													<th scope="col">Vigencia</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td scope="row">No aplica comisión por apertura de la cuenta.</td>
+													<td>0.00</td>
+													<td>No aplica</td>
+													<td><strong>2.69%</strong></td>
+													<td><strong>2.72%</strong></td>
+													<td><strong>-0.70%</strong></td>
+													<td>09/01/2020</td>
+													<td>15/01/2020</td>
+												</tr>
+												<tr>
+													<td scope="row">Retiros en cajeros automáticos internacionales</td>
+													<td>30.00 + IVA</td>
+													<td>Por evento</td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+												</tr>
+												<tr>
+													<td scope="row">Consulta de saldo en cajeros automáticos internacionales</td>
+													<td>10.00 + IVA</td>
+													<td>Por evento</td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+												</tr>
+												<tr>
+													<td scope="row">Cambio de NIP en cajeros automáticos internacionales</td>
+													<td>10.00 + IVA</td>
+													<td>Por evento</td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+												</tr>
+												<tr>
+													<td scope="row">Reposición de Tarjeta por Extravío u olvido de NIP</td>
+													<td>50.00 + IVA</td>
+													<td>Por evento</td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+												</tr>
+												<tr>
+													<td scope="row">Reposición de tarjeta por robo o extravío</td>
+													<td>50.00 + IVA</td>
+													<td>Por evento</td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+												</tr>
+												<tr>
+													<td scope="row">Cuota de Administración</td>
+													<td>60.00 + IVA</td>
+													<td>Anual</td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+												</tr>
+												<tr>
+													<td scope="row">Aclaraciones improcedentes de transacciones realizadas en cajeros automáticos propios</td>
+													<td>155.00 + IVA</td>
+													<td>Por evento</td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+												</tr>
+												<tr>
+													<td scope="row">Aclaraciones improcedentes de transacciones realizadas en cajeros automáticos RED e internacionales</td>
+													<td>155.00 + IVA</td>
+													<td>Por evento</td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+												</tr>
+											</tbody>
+										</table>
+										<p><strong>*GAT nominal anual antes de impuestos:</strong> Para fines informativos y de comparación.</p>
+										<p><strong>** GAT real anual antes de impuestos: </strong>Para fines informativos y de comparación. La GAT real, es el rendimiento que obtendrá después de descontar la inflación estimada; para fines informativos y de comparación exclusivamente.</p>
+										<p>Ahorro en moneda nacional. Disponible en todas nuestras sucursales a nivel nacional.</p>
+										<p><em class="text-primary">Los recursos depositados en estas cuentas están protegidos por el Fondo de Protección a que se refiere el Título Cuarto de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, hasta por 25,000 Unidades de Inversión por socio ahorrador de Caja Popular Mexicana, de acuerdo a las disposiciones que establezcan el Comité Técnico y Comité de Protección al Ahorro Cooperativo del Fideicomiso que lo administra.</em></p>
+
+									</div>
+								</div>
+							</div>
+							<!-- Servicuenta -->
+
+							<!-- Rendicuenta -->
+							<div class="card">
+								<div class="card-header" id="headingTen">
+									<h2 class="mb-0">
+										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+											Rendicuenta
+										</button>
+									</h2>
+								</div>
+								<div id="collapseTen" class="collapse" aria-labelledby="headingTen" data-parent="#accordionCCNP2">
+									<div class="card-body bg-grey0 p-4">
+										<h4>Rendicuenta</h4>
+										<table class="table table-responsive-md table-bordered p-5 bg-white">
+											<thead class="bg-primary text-white">
+												<tr>
+													<th scope="col">Tiempo</th>
+													<th scope="col">Concepto</th>
+													<th scope="col">Monto</th>
+													<th scope="col">Perio- dicidad</th>
+													<th scope="col">Tasas de intereses anual variable antes de impuestos</th>
+													<th scope="col">*GAT nominal anual antes de impuestos</th>
+													<th scope="col">**GAT real anual antes de impuestos</th>
+													<th scope="col">Tasas de intereses anual variable antes de impuestos para pago interés c/30 días</th>
+													<th scope="col">* GAT nominal anual antes de impuestos para pago de interés c/30 días.</th>
+													<th scope="col">** GAT real anual antes de impuestos para pago de interés c/30 días.</th>
+													<th scope="col">Fecha de cálculo y Vigencia</th>
+													<th scope="col">Vigencia</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td scope="row">A 30 días</td>
+													<td>No aplica comisión</td>
+													<td>0.00</td>
+													<td>No aplica</td>
+													<td><strong>3.96%</strong></td>
+													<td><strong>4.03%</strong></td>
+													<td><strong>0.56%</strong></td>
+													<td><strong> </strong></td>
+													<td><strong> </strong></td>
+													<td><strong> </strong></td>
+													<td>09/01/2020 al 15/01/2020</td>
+												</tr>
+												<tr>
+													<td scope="row">A 60 días</td>
+													<td>No aplica comisión</td>
+													<td>0.00</td>
+													<td>No aplica</td>
+													<td><strong>4.17%</strong></td>
+													<td><strong>4.24%</strong></td>
+													<td><strong>0.77%</strong></td>
+													<td><strong> </strong>
+														<p></p>
+													</td>
+													<td><strong> </strong></td>
+													<td><strong> </strong></td>
+													<td>09/01/2020 al 15/01/2020</td>
+												</tr>
+												<tr>
+													<td scope="row">A 90 días</td>
+													<td>No aplica comisión</td>
+													<td>0.00</td>
+													<td>No aplica</td>
+													<td><strong>4.38%</strong></td>
+													<td><strong>4.45%</strong></td>
+													<td><strong>0.97%</strong></td>
+													<td><strong> </strong>
+														<p></p>
+													</td>
+													<td><strong> </strong></td>
+													<td><strong> </strong></td>
+													<td>09/01/2020 al 15/01/2020</td>
+												</tr>
+												<tr>
+													<td scope="row">A 120 días</td>
+													<td>No aplica comisión</td>
+													<td>0.00</td>
+													<td>No aplica</td>
+													<td><strong>4.60%</strong></td>
+													<td><strong>4.67%</strong></td>
+													<td><strong>1.18%</strong></td>
+													<td><strong>4.56%</strong></td>
+													<td><strong>4.63%</strong></td>
+													<td><strong>1.14%</strong></td>
+													<td>09/01/2020 al 15/01/2020</td>
+												</tr>
+												<tr>
+													<td scope="row">A 150 días</td>
+													<td>No aplica comisión</td>
+													<td>0.00</td>
+													<td>No aplica</td>
+													<td><strong>4.82%</strong></td>
+													<td><strong>4.90%</strong></td>
+													<td><strong>1.40%</strong></td>
+													<td><strong>4.77%</strong></td>
+													<td><strong>4.85%</strong></td>
+													<td><strong>1.35%</strong></td>
+													<td>09/01/2020 al 15/01/2020</td>
+												</tr>
+												<tr>
+													<td scope="row">A 180 días</td>
+													<td>No aplica comisión</td>
+													<td>0.00</td>
+													<td>No aplica</td>
+													<td><strong>5.04%</strong></td>
+													<td><strong>5.10%</strong></td>
+													<td><strong>1.60%</strong></td>
+													<td><strong>4.97%</strong></td>
+													<td><strong>5.03%</strong></td>
+													<td><strong>1.53%</strong></td>
+													<td>09/01/2020 al 15/01/2020</td>
+												</tr>
+												<tr>
+													<td scope="row">A 360 días</td>
+													<td>No aplica comisión</td>
+													<td>0.00</td>
+													<td>No aplica</td>
+													<td><strong>6.39%</strong></td>
+													<td><strong>6.39%</strong></td>
+													<td><strong>2.84%</strong></td>
+													<td><strong>6.24%</strong></td>
+													<td><strong>6.42%</strong></td>
+													<td><strong>2.87%</strong></td>
+													<td>09/01/2020 al 15/01/2020</td>
+												</tr>
+											</tbody>
+										</table>
+										<p><strong>*GAT nominal anual antes de impuestos:</strong> Para fines informativos y de comparación.</p>
+										<p><strong>** GAT real anual antes de impuestos: </strong>Para fines informativos y de comparación. La GAT real, es el rendimiento que obtendrá después de descontar la inflación estimada; para fines informativos y de comparación exclusivamente.</p>
+										<p>Ahorro en moneda nacional. Disponible en todas nuestras sucursales a nivel nacional.</p>
+										<p><em class="text-primary">Los recursos depositados en estas cuentas están protegidos por el Fondo de Protección a que se refiere el Título Cuarto de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, hasta por 25,000 Unidades de Inversión por socio ahorrador de Caja Popular Mexicana, de acuerdo a las disposiciones que establezcan el Comité Técnico y Comité de Protección al Ahorro Cooperativo del Fideicomiso que lo administra.</em></p>
+									</div>
+								</div>
+							</div>
+							<!-- Rendicuenta -->
+
+							<!-- Mi Nómina Mexicana -->
+							<div class="card">
+								<div class="card-header" id="headingEleven">
+									<h2 class="mb-0">
+										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">
+											Mi Nómina Mexicana
+										</button>
+									</h2>
+								</div>
+								<div id="collapseEleven" class="collapse" aria-labelledby="headingEleven" data-parent="#accordionCCNP2">
+									<div class="card-body bg-grey0 p-4">
+										<h4>Mi Nómina Mexicana</h4>
+										<table class="table table-responsive-md table-bordered p-5 bg-white">
+											<thead class="bg-primary text-white">
+												<tr>
+													<th scope="col">Concepto</th>
+													<th scope="col">Monto</th>
+													<th scope="col">Periodicidad</th>
+													<th scope="col"><strong>Tasas de intereses anual variable antes de impuestos</strong></th>
+													<th scope="col"><strong>*GAT nominal anual antes de impuestos</strong></th>
+													<th scope="col"><strong>**GAT real anual antes de impuestos</strong></th>
+													<th scope="col">Fecha de cálculo</th>
+													<th scope="col">Vigencia</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td scope="row">Retiros en cajeros automáticos internacionales</td>
+													<td>30.00 + IVA</td>
+													<td>Por evento</td>
+													<td><strong>0.50%</strong></td>
+													<td><strong>0.50%</strong></td>
+													<td><strong>-2.85%</strong></td>
+													<td>09/01/2020</td>
+													<td>15/01/2020</td>
+												</tr>
+												<tr>
+													<td scope="row">Consulta de saldo en cajeros automáticos internacionales</td>
+													<td>10.00 + IVA</td>
+													<td>Por evento</td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+												</tr>
+												<tr>
+													<td scope="row">Cambio de NIP en cajeros automáticos internacionales</td>
+													<td>10.00 + IVA</td>
+													<td>Por evento</td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+												</tr>
+												<tr>
+													<td scope="row">Reposición de Tarjeta por Extravío u olvido de NIP</td>
+													<td>50.00 + IVA</td>
+													<td>Por evento</td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+												</tr>
+												<tr>
+													<td scope="row">Reposición de tarjeta por robo o extravío</td>
+													<td>50.00 + IVA</td>
+													<td>Por evento</td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+												</tr>
+												<tr>
+													<td scope="row">Aclaraciones improcedentes de transacciones realizadas en cajeros automáticos propios</td>
+													<td>155.00 + IVA</td>
+													<td>Por evento</td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+												</tr>
+												<tr>
+													<td scope="row">Aclaraciones improcedentes de transacciones realizadas en cajeros automáticos RED e internacionales</td>
+													<td>155.00 + IVA</td>
+													<td>Por evento</td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+												</tr>
+											</tbody>
+										</table>
+										<p><strong>*GAT nominal anual antes de impuestos:</strong> Para fines informativos y de comparación.</p>
+										<p><strong>** GAT real anual antes de impuestos: </strong>Para fines informativos y de comparación. La GAT real, es el rendimiento que obtendrá después de descontar la inflación estimada; para fines informativos y de comparación exclusivamente.</p>
+										<p>Ahorro en moneda nacional. Disponible en todas nuestras sucursales a nivel nacional.</p>
+										<p><em class="text-primary">Los recursos depositados en estas cuentas están protegidos por el Fondo de Protección a que se refiere el Título Cuarto de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, hasta por 25,000 Unidades de Inversión por socio ahorrador de Caja Popular Mexicana, de acuerdo a las disposiciones que establezcan el Comité Técnico y Comité de Protección al Ahorro Cooperativo del Fideicomiso que lo administra.</em></p>
+
+									</div>
+								</div>
+							</div>
+							<!-- Mi Nómina Mexicana -->
+
+							<!-- Cuentamiga -->
+							<div class="card">
+								<div class="card-header" id="headingTwelve">
+									<h2 class="mb-0">
+										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwelve" aria-expanded="false" aria-controls="collapseTwelve">
+											Cuentamiga
+										</button>
+									</h2>
+								</div>
+								<div id="collapseTwelve" class="collapse" aria-labelledby="headingTwelve" data-parent="#accordionCCNP2">
+									<div class="card-body bg-grey0 p-4">
+										<h4>Cuentamiga</h4>
+										<table class="table table-responsive-md table-bordered p-5 bg-white">
+											<thead class="bg-primary text-white">
+												<tr>
+													<th scope="col">Concepto</th>
+													<th scope="col">Monto</th>
+													<th scope="col">Periodicidad</th>
+													<th scope="col"><strong>Tasas de intereses anual variable antes de impuestos</strong></th>
+													<th scope="col"><strong>*GAT nominal anual antes de impuestos</strong></th>
+													<th scope="col"><strong>**GAT real anual antes de impuestos</strong></th>
+													<th scope="col">Fecha de cálculo</th>
+													<th scope="col">Vigencia</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td scope="row">No aplica comisión</td>
+													<td>0.00</td>
+													<td>No aplica</td>
+													<td><strong>3.79%</strong></td>
+													<td><strong>3.86%</strong></td>
+													<td><strong>0.39%</strong></td>
+													<td>09/01/2020</td>
+													<td>15/01/2020</td>
+												</tr>
+												<tr>
+													<td scope="row">Retiros en cajeros automáticos internacionales</td>
+													<td>30.00 + IVA</td>
+													<td>Por evento</td>
+													<td><strong>0.50%</strong></td>
+													<td><strong>0.50%</strong></td>
+													<td><strong>-3.25%</strong></td>
+													<td>09/01/2020</td>
+													<td>15/01/2020</td>
+												</tr>
+												<tr>
+													<td scope="row">Consulta de saldo en cajeros automáticos internacionales</td>
+													<td>10.00 + IVA</td>
+													<td>Por evento</td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+												</tr>
+												<tr>
+													<td scope="row">Cambio de NIP en cajeros automáticos internacionales</td>
+													<td>10.00 + IVA</td>
+													<td>Por evento</td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+												</tr>
+												<tr>
+													<td scope="row">Reposición de Tarjeta por Extravío u olvido de NIP</td>
+													<td>50.00 + IVA</td>
+													<td>Por evento</td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+												</tr>
+												<tr>
+													<td scope="row">Reposición de tarjeta por robo o extravío</td>
+													<td>50.00 + IVA</td>
+													<td>Por evento</td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+												</tr>
+												<tr>
+													<td scope="row">Aclaraciones improcedentes de transacciones realizadas en cajeros automáticos propios</td>
+													<td>155.00 + IVA</td>
+													<td>Por evento</td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+												</tr>
+												<tr>
+													<td scope="row">Aclaraciones improcedentes de transacciones realizadas en cajeros automáticos RED e internacionales</td>
+													<td>155.00 + IVA</td>
+													<td>Por evento</td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+													<td></td>
+												</tr>
+											</tbody>
+										</table>
+										<p><strong>*GAT nominal anual antes de impuestos:</strong> Para fines informativos y de comparación.</p>
+										<p><strong>** GAT real anual antes de impuestos: </strong>Para fines informativos y de comparación. La GAT real, es el rendimiento que obtendrá después de descontar la inflación estimada; para fines informativos y de comparación exclusivamente.</p>
+										<p>Ahorro en moneda nacional. Disponible en todas nuestras sucursales a nivel nacional.</p>
+										<p><em class="text-primary">Los recursos depositados en estas cuentas están protegidos por el Fondo de Protección a que se refiere el Título Cuarto de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, hasta por 25,000 Unidades de Inversión por socio ahorrador de Caja Popular Mexicana, de acuerdo a las disposiciones que establezcan el Comité Técnico y Comité de Protección al Ahorro Cooperativo del Fideicomiso que lo administra.</em></p>
+
+									</div>
+								</div>
+							</div>
+							<!-- Cuentamiga -->
+
+							<!-- Mi Alcancía Jr -->
+							<div class="card">
+								<div class="card-header" id="headingThirteen">
+									<h2 class="mb-0">
+										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThirteen" aria-expanded="false" aria-controls="collapseThirteen">
+											Mi Alcancía Jr
+										</button>
+									</h2>
+								</div>
+								<div id="collapseThirteen" class="collapse" aria-labelledby="headingThirteen" data-parent="#accordionCCNP2">
+									<div class="card-body bg-grey0 p-4">
+										<h4>Mi Alcancía Jr</h4>
+										<table class="table table-responsive-md table-bordered p-5 bg-white">
+											<thead class="bg-primary text-white">
+												<tr>
+													<th scope="col">Tiempo</th>
+													<th scope="col"><strong>Concepto</strong></th>
+													<th scope="col"><strong>Monto</strong></th>
+													<th scope="col"><strong>Periocidad</strong></th>
+													<th scope="col"><strong>Tasas de intereses anual variable antes de impuestos</strong></th>
+													<th scope="col"><strong>*GAT nominal anual antes de impuestos</strong></th>
+													<th scope="col"><strong>**GAT real anual antes de impuestos</strong></th>
+													<th scope="col"><strong>Fecha de cálculo</strong></th>
+													<th scope="col"><strong>Vigencia</strong></th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td scope="row">180 días</td>
+													<td><strong>No aplica comisión</strong></td>
+													<td><strong>0</strong></td>
+													<td><strong>No aplica</strong></td>
+													<td style="text-align: center;"> 4.46%</td>
+													<td style="text-align: center;"> 4.53%</td>
+													<td style="text-align: center;"> 1.04%</td>
+													<td style="text-align: center;">Enero</td>
+													<td>
+														<p style="text-align: center;"> 09/01/2020 al 15/01/2020</p>
+													</td>
+												</tr>
+												<tr>
+													<td scope="row">210 días</td>
+													<td><strong>No aplica comisión</strong></td>
+													<td><strong>0</strong></td>
+													<td><strong>No aplica</strong></td>
+													<td style="text-align: center;"> 4.73%</td>
+													<td style="text-align: center;"> 4.80%</td>
+													<td style="text-align: center;"> 1.30%</td>
+													<td style="text-align: center;">Enero</td>
+													<td>
+														<p style="text-align: center;"> 09/01/2020 al 15/01/2020</p>
+													</td>
+												</tr>
+												<tr>
+													<td scope="row">240 días</td>
+													<td><strong>No aplica comisión</strong></td>
+													<td><strong>0</strong></td>
+													<td><strong>No aplica</strong></td>
+													<td style="text-align: center;"> 5.02%</td>
+													<td style="text-align: center;"> 5.08%</td>
+													<td style="text-align: center;"> 1.58%</td>
+													<td style="text-align: center;">Enero</td>
+													<td>
+														<p style="text-align: center;"> 09/01/2020 al 15/01/2020</p>
+													</td>
+												</tr>
+												<tr>
+													<td scope="row">270 días</td>
+													<td><strong>No aplica comisión</strong></td>
+													<td><strong>0</strong></td>
+													<td><strong>No aplica</strong></td>
+													<td style="text-align: center;"> 5.29%</td>
+													<td style="text-align: center;"> 5.35%</td>
+													<td style="text-align: center;"> 1.84%</td>
+													<td style="text-align: center;">Enero</td>
+													<td>
+														<p style="text-align: center;"> 09/01/2020 al 15/01/2020</p>
+													</td>
+												</tr>
+												<tr>
+													<td scope="row">300 días</td>
+													<td><strong>No aplica comisión</strong></td>
+													<td><strong>0</strong></td>
+													<td><strong>No aplica</strong></td>
+													<td style="text-align: center;"> 5.57%</td>
+													<td style="text-align: center;"> 5.63%</td>
+													<td style="text-align: center;"> 2.11%</td>
+													<td style="text-align: center;">Enero</td>
+													<td>
+														<p style="text-align: center;"> 09/01/2020 al 15/01/2020</p>
+													</td>
+												</tr>
+												<tr>
+													<td scope="row">330 días</td>
+													<td><strong>No aplica comisión</strong></td>
+													<td><strong>0</strong></td>
+													<td><strong>No aplica</strong></td>
+													<td style="text-align: center;"> 5.84%</td>
+													<td style="text-align: center;"> 5.90%</td>
+													<td style="text-align: center;"> 2.37%</td>
+													<td style="text-align: center;">Enero</td>
+													<td>
+														<p style="text-align: center;"> 09/01/2020 al 15/01/2020</p>
+													</td>
+												</tr>
+												<tr>
+													<td scope="row">360 días</td>
+													<td><strong>No aplica comisión</strong></td>
+													<td><strong>0</strong></td>
+													<td><strong>No aplica</strong></td>
+													<td style="text-align: center;"> 6.11%</td>
+													<td style="text-align: center;"> 6.17%</td>
+													<td style="text-align: center;"> 2.63%</td>
+													<td style="text-align: center;">Enero</td>
+													<td>
+														<p style="text-align: center;"> 09/01/2020 al 15/01/2020</p>
+													</td>
+												</tr>
+											</tbody>
+										</table>
+										<p><strong>*GAT nominal anual antes de impuestos:</strong> Para fines informativos y de comparación.</p>
+										<p><strong>** GAT real anual antes de impuestos: </strong>Para fines informativos y de comparación. La GAT real, es el rendimiento que obtendrá después de descontar la inflación estimada; para fines informativos y de comparación exclusivamente.</p>
+										<p>Ahorro en moneda nacional. Disponible en todas nuestras sucursales a nivel nacional.</p>
+										<p><em class="text-primary">Los recursos depositados en estas cuentas están protegidos por el Fondo de Protección a que se refiere el Título Cuarto de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, hasta por 25,000 Unidades de Inversión por socio ahorrador de Caja Popular Mexicana, de acuerdo a las disposiciones que establezcan el Comité Técnico y Comité de Protección al Ahorro Cooperativo del Fideicomiso que lo administra.</em></p>
+
+									</div>
+								</div>
+							</div>
+							<!-- Mi Alcancía Jr -->
 						</div>
 						<!-- MENU -->
 					</div>
 				</div>
 				<?php include('inc/une-recursos.php'); ?>
 			</div>
-
 		</section>
 
 <?php include('inc/boletin-and-banner.php') ?> <!-- ./ Boletín y banner -->

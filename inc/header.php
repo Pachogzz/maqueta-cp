@@ -7,23 +7,24 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 		<!-- SEO Tags -->
-		<meta name="description" content="..." />
-		<meta name="author" content="Nombre del autor" />
-		<meta name="copyright" content="Propietario del copyright" />
+		<meta name="description" content="Es una cooperativa de ahorro y préstamo con más 60 años de experiencia que contribuye a mejorar la calidad de vida de sus socios, educando en la cultura del ahorro, en la práctica de la ayuda mutua y el uso responsable del crédito por medio de sus diferentes productos de ahorro, crédito e inversión." />
+		<meta name="author" content="Diego Carranza, Pacho Gonzalez" />
+		<meta name="copyright" content="Caja Popular Mexicana 2020" />
 		<meta name="robots" content="noindex, nofollow" />
+		<link rel="canonical" href="https://www.cpm.coop/" />
 		<!-- Open Graph Protocol -->
-		<meta property="og:type" content="article" />
-		<meta property="og:title" content="TITLE OF YOUR POST OR PAGE" />
-		<meta property="og:description" content="DESCRIPTION OF PAGE CONTENT" />
-		<meta property="og:image" content="LINK TO THE IMAGE FILE" />
-		<meta property="og:url" content="PERMALINK" />
-		<meta property="og:site_name" content="SITE NAME" />
+		<meta property="og:type" content="website" />
+		<meta property="og:title" content="Caja Popular Mexicana" />
+		<meta property="og:description" content="Es una cooperativa de ahorro y préstamo con más 60 años de experiencia que contribuye a mejorar la calidad de vida de sus socios, educando en la cultura del ahorro, en la práctica de la ayuda mutua y el uso responsable del crédito por medio de sus diferentes productos de ahorro, crédito e inversión." />
+		<meta property="og:image" content="assets/img/cpm-logo.png" />
+		<meta property="og:url" content="https://www.cpm.coop/" />
+		<meta property="og:site_name" content="Caja Popular Mexicana" />
 		<!-- Twitter Cards -->
-		<meta name="twitter:title" content="TITLE OF POST OR PAGE" />
-		<meta name="twitter:description" content="DESCRIPTION OF PAGE CONTENT" />
-		<meta name="twitter:image" content="LINK TO IMAGE" />
-		<meta name="twitter:site" content="@USERNAME" />
-		<meta name="twitter:creator" content="@USERNAME" />
+		<meta name="twitter:title" content="Caja Popular Mexicana" />
+		<meta name="twitter:description" content="Es una cooperativa de ahorro y préstamo con más 60 años de experiencia que contribuye a mejorar la calidad de vida de sus socios, educando en la cultura del ahorro, en la práctica de la ayuda mutua y el uso responsable del crédito por medio de sus diferentes productos de ahorro, crédito e inversión." />
+		<meta name="twitter:image" content="assets/img/cpm-logo.png" />
+		<meta name="twitter:site" content="@CajaMexicana" />
+		<meta name="twitter:creator" content="@CajaMexicana" />
 
 		<!-- Favicon -->
 		<link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicon/apple-touch-icon.png">
@@ -75,7 +76,7 @@
 								<a href="#" class="nav-link">Blog</a>
 							</li> -->
 							<li class="nav-item">
-								<a href="ubica-tu-sucursal.php" class="nav-link btn btn-outline-light py-1 ml-1"><i class="fa fa-map-marker-alt"></i></a>
+								<a href="ubica-tu-sucursal.php" class="nav-link btn btn-outline-light py-1 ml-1" alt="Ubica tu sucursal" title="Ubica tu sucursal"><i class="fa fa-map-marker-alt"></i></a>
 							</li>
 							<!-- <li class="nav-item">
 								<a href="#" class="nav-link"><i class="fa fa-search"></i></a>
@@ -94,9 +95,9 @@
 												<li class="nav-item">
 													<a href="conocenos.php" class="nav-link">Somos Caja Popular Mexicana</a>
 												</li>
-												<!-- <li class="nav-item">
+												<li class="nav-item">
 													<a href="talento-cpm.php" class="nav-link">Talento CPM</a>
-												</li> -->
+												</li>
 											</ul>
 										</div>
 										<div class="col-12 col-lg-4">
