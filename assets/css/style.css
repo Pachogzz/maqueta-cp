@@ -505,6 +505,19 @@ p a{ font-weight: bold; }
 /* =========================
 		11. FOOTER
 ========================= */
+#copyright .nav .nav-link {
+	color: #fff;
+}
+#copyright .nav .nav-link small{
+	color: #fff;
+	border-right: 1px solid #fff;
+	padding: 0 10px;
+	font-weight: 500;
+}
+#copyright .nav .nav-link:last-child small{
+	border-right: none;
+}
+
 
 /* =========================
 		12. COPYRIGHT
@@ -815,6 +828,24 @@ p a{ font-weight: bold; }
         text-indent: 0.01px;
         text-overflow: ellipsis;
     }
+
+/* =========================
+	19. MODALS
+========================= */
+.modal-backdrop.fade.show:after {
+    content: "";
+    background-image: url('https://thumbs.gfycat.com/BitterEarnestBeardeddragon-small.gif');
+    background-repeat: no-repeat;
+    background-size: 100px;
+    height: 100px; 
+    width: 100px;
+    display: block;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+}
+
 /*
 	Extra small devices (portrait phones, less than 576px)
 	No media query for `xs` since this is the default in Bootstrap
@@ -872,6 +903,11 @@ p a{ font-weight: bold; }
 	.display-20{ font-size: 20px !important; }
 	.display-22{ font-size: 22px !important; }
 	.display-24{ font-size: 24px !important; }
+	/*Copyright*/
+		#copyright .nav .nav-link,
+		#copyright .nav .nav-link small{
+			display: block;
+		}
 }
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
@@ -928,6 +964,17 @@ p a{ font-weight: bold; }
 	.display-20{ font-size: 20px; }
 	.display-22{ font-size: 22px; }
 	.display-24{ font-size: 24px; }
+	/*Copyright*/
+		#copyright .nav .nav-link,
+		#copyright .nav .nav-link small{
+			display: block;
+			border-right: none;
+			width: 100%;
+		}
+		#copyright .nav .nav-link{
+			border-bottom: 1px solid rgba(255,255,255,.1);
+			margin-bottom: 2px;
+		}
 }
 @media (max-width: 576px){
 	.after-flange::after{
@@ -936,9 +983,9 @@ p a{ font-weight: bold; }
 	.social-icons{
 		text-align: center !important;
 	}
-	/*[class*="br-"]{
+	[class*="br-"]{
 		border-radius: 0;
-	}*/
+	}
 }
 
 /* Medium devices (tablets, 768px and up) */
@@ -968,6 +1015,14 @@ p a{ font-weight: bold; }
 	.after-flange::after{
 		height: 60px;
 	}
+	.styled-carousel.with-caption .carousel-caption{
+		position: absolute;
+		transform: translateY(-50%);
+		bottom: inherit;
+		top: 50%;
+		left: 10%;
+		text-align: left;
+	}
 	/* Display Responsive Fix */
 		.display-1{ font-size: 5rem; line-height: 5.2rem; }
 		.display-2{ font-size: 4.4rem; line-height: 4.8rem; }
@@ -981,6 +1036,20 @@ p a{ font-weight: bold; }
 		.display-20{ font-size: 20px; }
 		.display-22{ font-size: 22px; }
 		.display-24{ font-size: 24px; }
+	/*Copyright*/
+		#copyright .nav .nav-link,
+		#copyright .nav .nav-link small{
+			display: inline-block;
+			border-right: none;
+			width: auto;
+		}
+		#copyright .nav .nav-link{
+			border-bottom: none;
+			padding: 0;
+		}
+		#copyright .nav .nav-link small{
+			border-right: 1px solid #fff;
+		}
 }
 
 /* Large devices (desktops, 992px and up) */
@@ -1009,12 +1078,19 @@ p a{ font-weight: bold; }
 	.after-flange::after{
 		height: 70px;
 	}
+	.styled-carousel.with-caption .carousel-caption{
+		position: absolute;		
+		transform: translateY(-50%);
+		bottom: inherit;
+		top: 50%;
+		text-align: left;
+	}
 	/* Display Responsive Fix */
 		.display-1{ font-size: 5.4rem; line-height: 5.6rem; }
 		.display-2{ font-size: 4.8rem; line-height: 5rem; }
 		.display-3{ font-size: 4rem; line-height: 4.2rem; }
 		.display-4{ font-size: 3.2rem; line-height: 3.4rem; }
-		.display-5{ font-size: 2.4rem; line-height: 2.6rem; }
+		.display-5{ font-size: 2rem; line-height: 2.4rem; }
 		.display-12{ font-size: 12px; }
 		.display-14{ font-size: 14px; }
 		.display-16{ font-size: 16px; }
@@ -1022,6 +1098,11 @@ p a{ font-weight: bold; }
 		.display-20{ font-size: 20px; }
 		.display-22{ font-size: 22px; }
 		.display-24{ font-size: 24px; }
+	/*Copyright*/
+		/*#copyright .nav .nav-link,
+		#copyright .nav .nav-link small{
+			display: inline-block;
+		}*/
 }
 
 /* Extra large devices (large desktops, 1200px and up) */
@@ -1063,6 +1144,14 @@ p a{ font-weight: bold; }
 	.after-flange::after{
 		height: 80px;
 	}
+	.styled-carousel.with-caption .carousel-caption{
+		position: absolute;
+		transform: translateY(-50%);
+		bottom: inherit;
+		top: 50%;
+		left: 10%;
+		text-align: left;
+	}
 	/* White circle and line */
 		.white-circle-n-line{
 			position: relative;
@@ -1091,4 +1180,11 @@ p a{ font-weight: bold; }
 			margin-top: -1px;
 			left: -65px;
 		}
+
+	/*Copyright*/
+		/*#copyright .nav .nav-link,
+		#copyright .nav .nav-link small{
+			display: inline-block;
+		}*/
+
 }
