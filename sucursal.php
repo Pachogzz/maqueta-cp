@@ -4,7 +4,7 @@
 	$query = "SELECT id_estado, estado FROM t_estado ORDER BY estado";
 	$resultado=$mysqli->query($query);
 ?>
-<div class="row date-map"> 
+<div class="row date-map" id="data-gmaps"> 
   <div class="col-12 col-md-12">
     <form>
         <div class="form-row align-items-center">
