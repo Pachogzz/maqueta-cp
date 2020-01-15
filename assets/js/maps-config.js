@@ -9,21 +9,26 @@
         var inpluz = $('#customControlAutosizing4').prop("checked");
         var inprem = $('#customControlAutosizing5').prop("checked");*/
         var inpcaj = $('#customControlAutosizing6').prop("checked");
-        window.location = "https://hitdigital.mx/maps/demo/ubica-tu-sucursal.php?estado=" + inpest + "&idmun=" + inpmun + "&municipio=" + inpmun2 + "&sab=" + inpsab + "&dom=" + inpdom + "&caj=" + inpcaj;
+        window.location = "https://hitdigital.mx/maps/demo/ubica-tu-sucursal.php?estado=" + inpest + "&idmun=" + inpmun + "&municipio=" + inpmun2 + "&sab=" + inpsab + "&dom=" + inpdom + "&caj=" + inpcaj + "#data-gmaps";
     });
+
     function autocompleteMun() {
-					
-					$('#cbx_localidad').find('option').remove().end().append('<option value="whatever"></option>').val('whatever');
-					
-					$("#cbx_estado option:selected").each(function () {
-						id_estado = $(this).val();
-						$.post("conexion/includes/getMunicipio.php", { id_estado: id_estado }, function(data){
-							$("#cbx_municipio").html(data);
-						});            
-					});
-				}
-			setTimeout(function(){ autocompleteMun(); }, 1000);	
-			setTimeout(function(){ $("#cbx_municipio option[value='" + $('#idmun').val() + "']").prop('selected', true); }, 2000);	
+        $('#cbx_localidad').find('option').remove().end().append('<option value="whatever"></option>').val('whatever');
+        $("#cbx_estado option:selected").each(function() {
+            id_estado = $(this).val();
+            $.post("conexion/includes/getMunicipio.php", {
+                id_estado: id_estado
+            }, function(data) {
+                $("#cbx_municipio").html(data);
+            });
+        });
+    }
+    setTimeout(function() {
+        autocompleteMun();
+    }, 1000);
+    setTimeout(function() {
+        $("#cbx_municipio option[value='" + $('#idmun').val() + "']").prop('selected', true);
+    }, 2000);
     /*Cierre funcion botton filtro*/
     /*Funcionalidad datos GET*/
     $("#cbx_estado option[value='" + $('#hestado').val() + "']").prop('selected', true);
@@ -63,9 +68,7 @@
     }
     /*Cierre colocar mapa*/
     /*Funcion traer datos json*/
-    
     window.eqfeed_callback = function(results) {
-        
         /*Datos de filtrado*/
         var inpest = $("#cbx_estado option:selected").text();
         var inpmun = $("#cbx_municipio option:selected").text();
@@ -260,7 +263,7 @@
                         //contenido de la infowindow
                         var content = '<div id="content" style="width: auto; height: 80px;">' + marker.title + '<hr/>' + marker.direccion + '</div>';
                         /*metodo para desplegar la infowindow cuando se haga clic en el marcador*/
-                        google.maps.event.addListener(marker, 'click', function(marker, content, infowindow) {             
+                        /*google.maps.event.addListener(marker, 'click', function(marker, content, infowindow) {             
                             infowindow.setContent(content); //asignar el contenido al globo
                             infowindow.open(map, marker); //mostrarlo                      
                           }(marker, content, infowindow));
@@ -273,7 +276,6 @@
                                 map.setZoom(16);
                             };
                         }(marker, content, infowindow));
-
                         /* infowindow.open(map, marker);  */
                         /*Mapeo Final*/
                     }
@@ -281,31 +283,16 @@
             }
         }
     } /*Cierre funcion traer datos json*/
-    
-
-    
-                /*Aqui estaba la funcion clic*/
-                    $('body').on("click",".datos-maker",function() {
-                         //alert("Funcion clic inicio ");
-                   var  loc=  $(this).attr("target");//Localizacion extraida del boton
-                    loc=loc.replace("(","").replace(")","");
-                    loc=loc.split(',');
-                    var newlat=1 *loc[0];
-                    var newlng=1 *loc[1];
-                    /*alert("latitud: "+newlat+" Longitud: "+newlng);*/
-                     map.setZoom(16);
-						map.setCenter({
-							lat: newlat,
-							lng: newlng
-						  
-						});
-    						/* map = new google.maps.Map(document.getElementById('map'), {
-                zoom: 5,
-                center: new google.maps.LatLng(newlat, newlng),
-                mapTypeId: 'roadmap'
-            });
-            var script = document.createElement('script');
-            script.src = 'https://hitdigital.mx/maps/demo/data/mapa.js';
-            document.getElementsByTagName('head')[0].appendChild(script);*/
-						
-                        });
+    /*Aqui estaba la funcion clic*/
+    $('body').on("click", ".datos-maker", function() {
+        var loc = $(this).attr("target"); //Localizacion extraida del boton
+        loc = loc.replace("(", "").replace(")", "");
+        loc = loc.split(',');
+        var newlat = 1 * loc[0];
+        var newlng = 1 * loc[1];
+        map.setZoom(16);
+        map.setCenter({
+            lat: newlat,
+            lng: newlng
+        });
+    });
