@@ -11,7 +11,8 @@
 	
 	while($rowM = $resultadoM->fetch_assoc())
 	{
-		$html.= "<option value='".$rowM['id_municipio']."'>".$rowM['municipio']."</option>";
+	  $municipio = strtoupper($rowM['municipio']);
+		$html.= "<option value='".$rowM['id_municipio']."'>". $municipio."</option>";
 	}
 	
 	echo $html;

@@ -735,6 +735,47 @@ p a{ font-weight: bold; }
 /* =========================
 	18. MAPS
 ========================= */
+.maps-st{
+  border-top: 2px solid #09871a;  
+}
+.maps-data-scroll {
+  margin: 0;
+  overflow: hidden;
+  height:100%;
+}
+  #maps-scroll {
+    position: absolute;
+    top: 0px;
+    bottom: 0;
+    left: 20px;
+    width: 103%;
+    overflow-y: scroll; 
+  }
+@media (min-width: 768px){
+  #maps-scroll {
+    position: absolute;
+    top: 0px;
+    bottom: 0;
+    left: 20px;
+    width: 103%;
+    overflow-y: scroll; 
+    overflow-x:hidden;
+  }
+}
+
+.text-maps-title{
+   color:#09871a;
+   padding-top:10px;
+}
+.table thead th{
+  vertical-align: bottom;
+  border-bottom: 2px solid #ddf0d0;
+}
+.table th, .table td{
+  padding: 0.30rem;
+  vertical-align: top;
+  border-top: 1px solid #ddf0d0;  
+}
 #map {
     height: 500px;
     width: 100%;
@@ -774,24 +815,6 @@ p a{ font-weight: bold; }
         text-indent: 0.01px;
         text-overflow: ellipsis;
     }
-
-/* =========================
-	19. MODALS
-========================= */
-.modal-backdrop.fade.show:after {
-    content: "";
-    background-image: url('https://thumbs.gfycat.com/BitterEarnestBeardeddragon-small.gif');
-    background-repeat: no-repeat;
-    background-size: 100px;
-    height: 100px; 
-    width: 100px;
-    display: block;
-    position: absolute;
-    transform: translate(-50%, -50%);
-    top: 50%;
-    left: 50%;
-}
-
 /*
 	Extra small devices (portrait phones, less than 576px)
 	No media query for `xs` since this is the default in Bootstrap
