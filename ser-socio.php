@@ -4,7 +4,7 @@
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 br-30">Beneficios de ser socio</h1>
+						<h1 class="display-4 br-30">Requisitos para ser socio</h1>
 					</div>
 				</div>
 			</div>
