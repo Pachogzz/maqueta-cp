@@ -10,7 +10,7 @@
 			</div>
 		</section> <!-- /. Page Title -->
 
-		<?php include('inc/navs/inner-nav-page-quiero-ahorrar.php') ?>
+		<?php include('inc/navs/inner_nav_page-quiero-ahorrar.php') ?>
 
 		<section class="featured-module-home py-5 mb-5">
 			<div class="container">
@@ -58,7 +58,7 @@
 					</div> <!-- ./ Inmediato -->
 				</div>
 				<div class="row row-eq-height">
-					<div class="landing-grid-box col-12 col-md-4 mb-0">
+					<div class="landing-grid-box col-12 col-md-4">
 						<a href="servicuenta.php" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
 							<i class="fas fa-file-invoice-dollar fa-4x bg-primary text-white rounded-circle"></i>
@@ -68,7 +68,7 @@
 						</div>
 						</a>
 					</div> <!-- ./ Productivo -->
-					<div class="landing-grid-box col-12 col-md-4 mb-0">
+					<div class="landing-grid-box col-12 col-md-4">
 						<a href="cuenta-mexicana.php" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
 							<i class="fas fa-credit-card fa-4x bg-primary text-white rounded-circle"></i>
@@ -78,7 +78,7 @@
 						</div>
 						</a>
 					</div> <!-- ./ Automotríz -->
-					<div class="landing-grid-box col-12 col-md-4 mb-0">
+					<div class="landing-grid-box col-12 col-md-4">
 						<a href="cuentamiga.php" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
 							<i class="far fa-credit-card fa-4x bg-primary text-white rounded-circle"></i>

@@ -4,24 +4,24 @@
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 br-30">CPM en línea</h1>
+						<h1 class="display-4 br-30">CPM en Línea</h1>
 					</div>
 				</div>
 			</div>
 		</section> <!-- /. Page Title -->
 
-		<?php include('inc/navs/inner-nav-page-cpm-en-linea.php') ?>
+		<?php include('inc/navs/inner_nav_page-cpm-en-linea.php') ?>
 
 		<section class="page-content">
 			<div class="container">
 				<div class="row mb-5">
 					<div class="col">
 						<blockquote class="blockquote p-5 border border-light bw-5 rounded border-grey1 text-center">
-							<p class="mb-0 lead font-weight-normal">Comineza a usar CPM en línea y comienza a tener más tiempo en tus manos</p>
+							<p class="mb-0 lead font-weight-normal">Comineza a usar CPM en Línea y comienza a tener más tiempo en tus manos</p>
 							<p class="mb-0 lead text-primary font-weight-bolder mb-3">
 								<a class="display-24" href="https://www.cpmenlinea.cpm.coop/" target="_blank">www.cpmenlinea.cpm.coop</a>
 							</p>
-							<p class="mt-3 mb-0 lead font-weight-normal">Consulta los términos y condiciones de nuestro servicio Electrónico por Internet dando <a href="terminos-y-condiciones-sei.php" target="_blank">clic aquí</a>.</p>
+							<p class="mt-3 mb-0 lead font-weight-normal">Recuerda usar el mismo usuario y contraseña para acceder a <strong>CPM Móvil</strong> <br>Consulta los términos y condiciones de nuestro servicio Electrónico por Internet dando <a href="terminos-y-condiciones-sei.php" target="_blank">clic aquí</a>.</p>
 						</blockquote>
 					</div>
 				</div> <!-- ./ Main info block -->
@@ -49,7 +49,7 @@
 							<div class="form-group">
 								<select class="form-control" id="filterSelector">
 									<option value="seleccione">- Seleccione una guía -</option>
-									<option value="0">Guía de uos</option>
+									<option value="0">Guía de uso</option>
 									<option value="1">Guía primer ingreso</option>
 									<option value="2">Guía de transferencias</option>
 									<option value="3">Guía de consulta y eliminación de transferencias programadas</option>
@@ -77,7 +77,7 @@
 				    <div class="card h-100 guides-grid-block">
 				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
 				      <div class="card-body">
-				        <h4 class="card-title mb-3 font-weight-bolder">Guía de uos</h4>
+				        <h4 class="card-title mb-3 font-weight-bolder">Guía de uso</h4>
 				      </div>
 				      <div class="card-footer">
 						<div class="row">
@@ -87,7 +87,7 @@
 								  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
 								    <div class="modal-content">
 								      <div class="modal-header">
-								      	<h5 class="modal-title" id="modaltitle1">Guía de uos</h5>
+								      	<h5 class="modal-title" id="modaltitle1">Guía de uso</h5>
 								        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 								          <span aria-hidden="true">&times;</span>
 								        </button>

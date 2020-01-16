@@ -10,7 +10,7 @@
 			</div>
 		</section> <!-- /. Page Title -->
 
-		<?php include('inc/navs/inner-nav-page-conocenos.php') ?>
+		<?php include('inc/navs/inner_nav_page-conocenos.php') ?>
 
 		<section class="featured-module-home py-5">
 			<div class="container">
@@ -24,66 +24,6 @@
 
 		<section class="page-content">
 			<div class="container">
-
-				<!-- <div class="container-fluid mb-5">
-					<ul id="tabs" class="nav nav-tabs to-accordion" role="tablist">
-						<li class="nav-item">
-							<a id="tab-A" href="#pane-A" class="nav-link active" data-toggle="tab" role="tab">–A–</a>
-						</li>
-						<li class="nav-item">
-							<a id="tab-B" href="#pane-B" class="nav-link" data-toggle="tab" role="tab">–B–</a>
-						</li>
-						<li class="nav-item">
-							<a id="tab-C" href="#pane-C" class="nav-link" data-toggle="tab" role="tab">–C–</a>
-						</li>
-					</ul>
-					<div id="content" class="tab-content to-accordion" role="tablist">
-						<div id="pane-A" class="card tab-pane fade show active" role="tabpanel" aria-labelledby="tab-A">
-							<div class="card-header" role="tab" id="heading-A">
-								<h5 class="mb-0">
-									<a data-toggle="collapse" href="#collapse-A" aria-expanded="true" aria-controls="collapse-A">
-										Collapsible Group Item A
-									</a>
-								</h5>
-							</div>
-							<div id="collapse-A" class="collapse show" data-parent="#content" role="tabpanel" aria-labelledby="heading-A">
-								<div class="card-body">
-									[Tab content A]
-								</div>
-							</div>
-						</div>
-
-						<div id="pane-B" class="card tab-pane fade" role="tabpanel" aria-labelledby="tab-B">
-							<div class="card-header" role="tab" id="heading-B">
-								<h5 class="mb-0">
-									<a class="collapsed" data-toggle="collapse" href="#collapse-B" aria-expanded="false" aria-controls="collapse-B">
-										Collapsible Group Item B
-									</a>
-								</h5>
-							</div>
-							<div id="collapse-B" class="collapse" data-parent="#content" role="tabpanel" aria-labelledby="heading-B">
-								<div class="card-body">
-									[Tab content B]
-								</div>
-							</div>
-						</div>
-
-						<div id="pane-C" class="card tab-pane fade" role="tabpanel" aria-labelledby="tab-C">
-							<div class="card-header" role="tab" id="heading-C">
-								<h5 class="mb-0">
-									<a class="collapsed" data-toggle="collapse" href="#collapse-C" aria-expanded="false" aria-controls="collapse-C">
-										Collapsible Group Item C
-									</a>
-								</h5>
-							</div>
-							<div id="collapse-C" class="collapse" role="tabpanel" data-parent="#content" aria-labelledby="heading-C">
-								<div class="card-body">
-									[Tab content C]
-								</div>
-							</div>
-						</div>
-					</div>
-				</div> -->
 
 				<div class="row mb-5">
 					<div class="col-12">
@@ -126,7 +66,7 @@
 							</div>
 
 							<div class="tab-pane fade bw-5 border-primary rounded  bg-grey0 p-4" id="pills-vision" role="tabpanel" aria-labelledby="pills-vision-tab">
-								<p class="p-5 bg-white bw-1 border-grey1 mb-0 display-18 text-center">Consolidar nuestro liderazgo como cooperativa de ahorro y préstamo mediante soluciones financieras competitivas, personalizadas, accesibles y oportunas, que dinamicen la economía de nuestros socios y las comunidades en las que operamos.</p>
+								<p class="p-5 bg-white bw-1 border-grey1 mb-0 display-18 text-center">Consolidar nuestro liderazgo como cooperativa de ahorro y préstamo mediante <strong>soluciones financieras competitivas, personalizadas, accesibles y oportunas</strong>, que dinamicen la economía de nuestros socios y las comunidades en las que operamos.</p>
 							</div>
 							
 							<div class="tab-pane fade bw-5 border-primary rounded  bg-grey0 p-4" id="pills-propvalor" role="tabpanel" aria-labelledby="pills-propvalor-tab">
@@ -248,7 +188,7 @@
 
 				<div class="row">
 					<div class="col-md-10 offset-md-1">
-						<h2 class="display-3 text-center text-primary font-weight-semibold mb-3">¿QUÉ SON LAS COOPERATIVAS?</h2>
+						<h2 class="display-3 text-center text-primary font-weight-semibold mb-3">¿QUé son las cooperativas?</h2>
 					</div>
 					<div class="col-12">
 						<div id="gallery-conocenos">
@@ -275,7 +215,7 @@
 									<div>
 										<img src="assets/img/secciones/conocenos-galeria/4.jpg" alt="" class="img-fluid">
 									</div>
-									<div class="bg-primary px-4 py-3 text-white"><p class="display-18">La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros (CONDUSEF) en su documento Panorama Nacional de las Sociedades Cooperativas de Ahorro y Préstamo, indica que <strong class="text-yello">el sector cooperativo es un pilar importante para lograr una inclusión financiera</strong> con sentido social, además las SOCAPS:</p></div>
+									<div class="bg-primary px-4 py-3 text-white"><p class="display-18">La Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros (CONDUSEF) en su documento Panorama Nacional de las Sociedades Cooperativas de Ahorro y Préstamo, indica que <strong class="text-yellow">el sector cooperativo es un pilar importante para lograr una inclusión financiera</strong> con sentido social, además las SOCAPS:</p></div>
 								</div>
 								<div class="tns-item" id="gallery-item4" tabindex="-1">
 									<div>

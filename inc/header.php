@@ -95,9 +95,9 @@
 												<li class="nav-item">
 													<a href="conocenos.php" class="nav-link">Somos Caja Popular Mexicana</a>
 												</li>
-												<li class="nav-item">
+												<!-- <li class="nav-item">
 													<a href="talento-cpm.php" class="nav-link">Talento CPM</a>
-												</li>
+												</li> -->
 											</ul>
 										</div>
 										<div class="col-12 col-lg-4">
@@ -110,7 +110,7 @@
 												<li class="nav-item"><a href="necesitas-credito.php" class="nav-link">Créditos</a></li>
 												<li class="nav-item"><a href="ahorro-e-inversion.php" class="nav-link">Ahorro e inversión</a></li>
 												<li class="nav-item"><a href="tarjeta-de-debito.php" class="nav-link">Tarjetas de Débito CPM y JR</a></li>
-												<li class="nav-item"><a href="puntos-verdes.php" class="nav-link">Puntos Verdes</a></li>
+												<li class="nav-item"><a href="http://www.puntosverdes.mx/" target="_blank" class="nav-link">Puntos Verdes</a></li>
 												<!-- <li class="nav-item"><a href="#" class="nav-link">Remesas</a></li> -->
 												<li class="nav-item"><a href="mi-nomina-mexicana.php" class="nav-link">Mi Nómina Mexicana</a></li>
 												<li class="nav-item"><a href="necesitas-un-seguro.php" class="nav-link">Seguros</a></li>
@@ -160,7 +160,7 @@
 				<div class="row">
 					<div class="col-6">
 						<a class="navbar-brand p-0 m-0" href="index.php">
-							<img class="main-logo" src="assets/img/cpm-logo-horizontal_white.png" alt="Logotipo - Caja Popular Mexicana">
+							<img class="main-logo" src="assets/img/cpm-logo.png" alt="Logotipo - Caja Popular Mexicana">
 						</a>
 					</div>
 					<div class="col-6">
@@ -178,7 +178,7 @@
 								
 								<li class="list-group-item title">Conócenos</li>
 								<li class="list-group-item"><a href="conocenos.php">Somos Caja Popular Mexicana</a></li>
-								<li class="list-group-item"><a href="talento-cpm.php">Talento CPM</a></li>
+								<!-- <li class="list-group-item"><a href="talento-cpm.php">Talento CPM</a></li> -->
 								
 								<li class="list-group-item title">Queremos servirte</li>
 								<li class="list-group-item"><a href="ser-socio.php">Socio</a></li>

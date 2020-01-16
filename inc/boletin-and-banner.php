@@ -1,7 +1,7 @@
 		<section id="suscription-module" class="py-3 py-lg-5">
 			<div class="container">
 				<div class="row">
-					<div class="col-12 col-lg-8">
+					<div class="col-12 col-lg-8 mb-3 mb-md-0">
 						<div class="row mx-0 mx-lg-3 mb-md-3 mb-lg-0 px-3 py-5 bg-tertiary br-bl-30">
 							<div class="col-md-6 col-lg-5">
 								<h3 class="text-white font-weight-semibold">¡Mantente informado!</h3>
@@ -42,8 +42,10 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-12 col-lg-4 p-0 px-md-3">
-						<img src="assets/img/secciones/beneficios-box-banner.jpg" alt="Banner Placeholder" class="img-fluid d-block mx-md-auto">
+					<div class="col-12 col-lg-4">
+						<a href="ubica-tu-sucursal.php">
+							<img src="assets/img/secciones/beneficios-box-banner.jpg" alt="Banner Placeholder" class="img-fluid d-block mx-md-auto">
+						</a>
 					</div>
 				</div>
 			</div>

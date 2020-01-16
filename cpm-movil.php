@@ -10,7 +10,7 @@
 			</div>
 		</section> <!-- /. Page Title -->
 
-		<?php include('inc/navs/inner-nav-page-cpm-en-linea.php') ?>
+		<?php include('inc/navs/inner_nav_page-cpm-en-linea.php') ?>
 
 		<section class="page-content">
 			<div class="container">
@@ -31,7 +31,7 @@
 									</a>
 								</div>
 							</div>
-							<p class="mt-3 mb-0 lead font-weight-normal">Consulta los términos y condiciones de nuestro servicio Electrónico por Internet dando <a href="terminos-y-condiciones-sei.php" target="_blank"><strong>clic aquí</strong></a>.</p>
+							<p class="mt-3 mb-0 lead font-weight-normal">Recuerda usar el mismo usuario y contraseña para acceder a <strong>CPM en Línea</strong> <br>Consulta los términos y condiciones de nuestro servicio Electrónico por Internet dando <a href="terminos-y-condiciones-sei.php" target="_blank"><strong>clic aquí</strong></a>.</p>
 						</blockquote>
 					</div>
 				</div> <!-- ./ Main info block -->

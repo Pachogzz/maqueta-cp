@@ -10,13 +10,13 @@
 			</div>
 		</section> <!-- /. Page Title -->
 
-		<?php include('inc/navs/inner-nav-page-quiero-credito.php') ?> <!-- ./ Menú entre seccion -->
+		<?php include('inc/navs/inner_nav_page-quiero-credito.php') ?> <!-- ./ Menú entre seccion -->
 
 		<section class="page-content">
 			<div class="container">
 				<div class="row">
 					<div class="col-12 text-center">
-						<img src="assets/img/secciones/creditos/CPM_automotriz_banner_1891x426px.jpg" alt="" class="img-fluid mb-5">
+						<img src="assets/img/secciones/creditos/automotriz.jpg" alt="" class="img-fluid mb-5">
 					</div>
 				</div> <!-- ./ End Row -->
 				<div class="row">

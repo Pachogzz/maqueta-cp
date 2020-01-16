@@ -10,14 +10,14 @@
 			</div>
 		</section> <!-- /. Page Title -->
 
-		<?php include('inc/navs/inner-nav-page-cpm-en-linea.php') ?>
+		<?php include('inc/navs/inner_nav_page-cpm-en-linea.php') ?>
 
 		<section class="page-content">
 			<div class="container">
 				<div class="row mb-5">
 					<div class="col">
 						<blockquote class="blockquote p-5 border border-light bw-5 rounded border-grey1 text-center">
-							<p class="mb-0 h3 font-weight-normal">Consulta todo lo que puedes realizar en CPM Móvil y CPM en Línea</p>
+							<p class="mb-0 h3 font-weight-normal">Consulta todo lo que puedes realizar en <strong>CPM Móvil</strong> y <strong>CPM en Línea</strong></p>
 						</blockquote>
 					</div>
 				</div> <!-- ./ Main info block -->

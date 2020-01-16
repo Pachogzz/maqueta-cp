@@ -1,6 +1,6 @@
 <?php include('inc/header.php'); ?>
 
-		<section class="after-flange header-title-inner">
+		<section class="after-flange header-title-inner bg-gradient-green">
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
@@ -10,7 +10,7 @@
 			</div>
 		</section> <!-- /. Page Title -->
 
-		<?php include('inc/navs/inner-nav-page-quiero-credito.php') ?>
+		<?php include('inc/navs/inner_nav_page-quiero-credito.php') ?>
 
 		<section class="page-content">
 			<div class="container">

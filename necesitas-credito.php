@@ -10,7 +10,7 @@
 			</div>
 		</section> <!-- /. Page Title -->
 
-		<?php include('inc/navs/inner-nav-page-quiero-credito.php') ?>
+		<?php include('inc/navs/inner_nav_page-quiero-credito.php') ?>
 
 		<section class="featured-module-home py-5 mb-5">
 			<div class="container">
@@ -89,9 +89,10 @@
 						</a>
 					</div> <!-- ./ Hipotecario -->
 				</div>
+			
+			<?php include('inc/une-recursos.php') ?>
 			</div>
 		</section>
 
-<?php include('inc/double-info-and-banner.php') ?>
 
 <?php include('inc/footer.php'); ?>

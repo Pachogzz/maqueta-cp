@@ -10,7 +10,7 @@
 			</div>
 		</section> <!-- /. Page Title -->
 
-		<//?php include('inc/navs/inner-nav-page-quiero-credito.php') ?> <!-- ./ Menú entre seccion -->
+		<//?php include('inc/navs/inner_nav_page-quiero-credito.php') ?> <!-- ./ Menú entre seccion -->
 
 		<section class="page-content">
 			<div class="container">

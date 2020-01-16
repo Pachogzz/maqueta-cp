@@ -10,7 +10,7 @@
 			</div>
 		</section> <!-- /. Page Title -->
 
-		<?php include('inc/navs/inner-nav-page-talento.php') ?>
+		<?php include('inc/navs/inner_nav_page-talento.php') ?>
 
 		<section class="page-content">
 			<div class="container">

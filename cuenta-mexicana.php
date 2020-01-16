@@ -10,7 +10,7 @@
 			</div>
 		</section> <!-- /. Page Title -->
 
-		<?php include('inc/navs/inner-nav-page-quiero-ahorrar.php') ?>
+		<?php include('inc/navs/inner_nav_page-quiero-ahorrar.php') ?>
 
 		<section class="page-content">
 			<div class="container">
@@ -19,7 +19,7 @@
 						<!-- <div class="embed-responsive embed-responsive-16by9 mb-md-5">
 							<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/FY6AMOfUyMk?rel=0" allowfullscreen></iframe>
 						</div> -->
-						<img src="assets/img/secciones/ahorro/banner-cuenta-mexicana.jpg" alt="" class="img-fluid mb-5">
+						<img src="assets/img/secciones/ahorro/cuenta_mexicana.jpg" alt="" class="img-fluid mb-5">
 					</div> <!-- ./ Video o imágen principal -->
 				</div> <!-- ./ End Row -->
 				<div class="row">

@@ -10,7 +10,7 @@
 			</div>
 		</section> <!-- /. Page Title -->
 
-		<?php include('inc/navs/inner-nav-page-prybe.php') ?>
+		<?php include('inc/navs/inner_nav_page-prybe.php') ?>
 
 		<section class="featured-module-home py-5 mb-5">
 			<div class="container">
@@ -26,7 +26,7 @@
 		<section class="landing-grid">
 			<div class="container">
 				<div class="row row-eq-height">
-					<div class="landing-grid-box col-12 col-md-6 mb-1">
+					<div class="landing-grid-box col-12 col-md-6 mb-5 mb-md-1">
 						<a href="miseguro-prybe.php" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
 							<i class="fas fa-hands fa-4x bg-primary text-white rounded-circle"></i>
@@ -35,7 +35,7 @@
 						</div>
 						</a>
 					</div> <!-- ./ MiSeguro -->
-					<div class="landing-grid-box col-12 col-md-6 mb-1">
+					<div class="landing-grid-box col-12 col-md-6 mb-0 mb-md-1 mt-5 mt-md-0">
 						<a href="miautoseguri-prybe.php" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
 							<i class="fas fa-car fa-4x bg-primary text-white rounded-circle"></i>
@@ -45,9 +45,9 @@
 						</a>
 					</div> <!-- ./ MiAutoSeguro -->
 				</div>
+			<?php include('inc/une-recursos.php') ?>
 			</div>
 		</section>
 
-<?php include('inc/double-info-and-banner.php') ?>
 
 <?php include('inc/footer.php'); ?>

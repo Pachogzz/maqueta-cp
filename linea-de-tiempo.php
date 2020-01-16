@@ -12,7 +12,7 @@
       </div>
     </section> <!-- /. Page Title -->
 
-    <?php include('inc/navs/inner-nav-page-conocenos.php') ?>
+    <?php include('inc/navs/inner_nav_page-conocenos.php') ?>
 
     <section class="featured-module-home py-5">
       <div class="container">

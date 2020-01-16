@@ -11,7 +11,7 @@
 			</div>
 		</section> <!-- /. Page Title -->
 
-		<?php include('inc/navs/inner-nav-page-ubica-sucursal.php') ?>
+		<?php include('inc/navs/inner_nav_page-ubica-sucursal.php') ?>
 
 		<section class="page-content">
 			<div class="container">

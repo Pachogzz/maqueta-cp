@@ -10,7 +10,7 @@
 			</div>
 		</section> <!-- /. Page Title -->
 
-		<?php include('inc/navs/inner-nav-page-quiero-ser-socio.php') ?>
+		<?php include('inc/navs/inner_nav_page-quiero-ser-socio.php') ?>
 
 		<section class="pb-5">
 			<div class="container">

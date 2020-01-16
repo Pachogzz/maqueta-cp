@@ -1,6 +1,6 @@
 <?php include('inc/header.php'); ?>
 
-		<section class="after-flange header-title-inner" style="background-image: url('assets/img/secciones/cpm-privacidad-redes-wide.jpg');background-position: center right;background-size: auto 100%;background-repeat: no-repeat;">
+		<section class="after-flange header-title-inner bg-gradient-green">
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
@@ -10,7 +10,7 @@
 			</div>
 		</section> <!-- /. Page Title -->
 
-		<?php include('inc/navs/inner-nav-page-quiero-ser-socio.php') ?>
+		<?php include('inc/navs/inner_nav_page-quiero-ser-socio.php') ?>
 
 		<section class="pb-5">
 			<div class="container">

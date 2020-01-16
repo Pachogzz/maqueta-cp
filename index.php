@@ -32,7 +32,7 @@
 				<div class="row">
 					<div class="col-md-12 mb-3 mb-lg-5">
 						<h2 class="display-3 text-center text-primary font-weight-semibold mb-3">¡Ya estamos más cerca de ti!</h2>
-						<p class="display-5 mb-5 text-center">Conoce nuestro Servicio Electrónico por Internet, tus operaciones son + fáciles + mas seguras y ¡donde sea!</p>
+						<p class="display-5 mb-5 text-center">Conoce nuestro Servicio Electrónico por Internet, tus operaciones son + fáciles + seguras y ¡donde sea!</p>
 
 						<div class="row">
 							<div class="col-md-6 col-lg-7 offset-lg-1 mr-lg-n5 has-label">

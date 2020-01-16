@@ -1,23 +1,23 @@
 <?php include('inc/header.php'); ?>
 
-		<section class="after-flange header-title-inner">
+		<section class="after-flange header-title-inner bg-gradient-green">
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 br-30">Términos y condiciones SEI</h1>
+						<h1 class="display-4 br-30">Términos y condiciones para el Servicio Electrónico por Internet</h1>
 					</div>
 				</div>
 			</div>
 		</section> <!-- /. Page Title -->
 
-		<?php include('inc/navs/inner-nav-page-cpm-en-linea.php') ?>
+		<?php include('inc/navs/inner_nav_page-cpm-en-linea.php') ?>
 
 		<section class="pb-5">
 			<div class="container">
 
 				<div class="row">
 					<div class="col-12 col-md-6 offset-md-3 text-center">
-						<h3 class="title-medium font-weight-bold mb-4">Terminos y condiciones para el servicio electrónico por Internet</h3>
+						<h3 class="title-medium font-weight-bold mb-4">Terminos y condiciones para el Servicio Electrónico por Internet</h3>
 					</div>	
 				
 					<div class="col-10 offset-1 p-5 bg-grey0 text-left">

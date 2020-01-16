@@ -10,7 +10,7 @@
 			</div>
 		</section> <!-- /. Page Title -->
 
-		<?php include('inc/navs/inner-nav-page-socio-menor.php') ?>
+		<?php include('inc/navs/inner_nav_page-socio-menor.php') ?>
 
 		<section class="featured-module-home py-5">
 			<div class="container">

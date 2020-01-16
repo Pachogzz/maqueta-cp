@@ -10,7 +10,7 @@
 			</div>
 		</section> <!-- /. Page Title -->
 
-		<?php include('inc/navs/inner-nav-page-cpm-en-linea.php') ?>
+		<?php include('inc/navs/inner_nav_page-legales.php') ?>
 
 		<section class="pb-5">
 			<div class="container">
