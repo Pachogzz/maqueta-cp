@@ -19,8 +19,10 @@
                 <input type="hidden" id="hluz" value="<?php echo $_GET['luz'];?>"> 
                 <input type="hidden" id="hrem" value="<?php echo $_GET['rem'];?>"> -->
                 <input type="hidden" id="hcaj" value="<?php echo $_GET['caj'];?>"> 
+                <input type="hidden" id="hcajdis" value="<?php echo $_GET['cajdis'];?>"> 
+                <input type="hidden" id="hcajrec" value="<?php echo $_GET['cajrec'];?>"> 
 <select name="cbx_estado" id="cbx_estado">
-				<option value="0">Seleccionar Estado</option>
+				<option value="0">Seleccionar estado</option>
 				<?php while($row = $resultado->fetch_assoc()) { ?>
 					<option value="<?php echo $row['id_estado']; ?>"><?php echo strtoupper($row['estado']); ?></option>
 				<?php } ?>
@@ -84,11 +86,29 @@
                     </input>
                 </div>
             </div>-->
-            <div class="col-auto my-1">
+            <!--<div class="col-auto my-1">
                 <div class="custom-control custom-checkbox mr-sm-2 form-group">
                     <input class="custom-control-input" id="customControlAutosizing6" valude="6" type="checkbox">
                         <label class="custom-control-label" for="customControlAutosizing6">
                             Cajeros
+                        </label>
+                    </input>
+                </div>
+            </div>-->
+            <div class="col-auto my-1">
+                <div class="custom-control custom-checkbox mr-sm-2 form-group">
+                    <input class="custom-control-input" id="customControlAutosizing7" valude="7" type="checkbox">
+                        <label class="custom-control-label" for="customControlAutosizing7">
+                            Cajeros dispensadores
+                        </label>
+                    </input>
+                </div>
+            </div>
+            <div class="col-auto my-1">
+                <div class="custom-control custom-checkbox mr-sm-2 form-group">
+                    <input class="custom-control-input" id="customControlAutosizing8" valude="8" type="checkbox">
+                        <label class="custom-control-label" for="customControlAutosizing8">
+                            Cajeros receptores
                         </label>
                     </input>
                 </div>
