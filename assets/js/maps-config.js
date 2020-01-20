@@ -119,9 +119,9 @@
             var info2 = results.features[i].properties.texto2;
             var info3 = results.features[i].properties.texto3;
             var banner3 = results.features[i].properties.imagen3;
-            var linkbanner = results.features[i].properties.ver_mas1;
-            var linkbanner2 = results.features[i].properties.ver_mas2; 
-            var linkbanner3 = results.features[i].properties.ver_mas3;
+            var link1 = results.features[i].properties.ver_mas1;
+            var link2 = results.features[i].properties.ver_mas2; 
+            var link3 = results.features[i].properties.ver_mas3;
             
             
             /*Cierre de variables 1 y 2*/
@@ -236,7 +236,7 @@
             var title = estado + ' ' + sucursal;
             var localizacion = '(' + latitud + ',' + longitud + ')';
             var existe = false;
-            var seleccion = 0;
+            var seleccion = 0;            
             /*Contador carousel*/
             var ccarousel = sucursal + 'cpm';
             /*Cierre contador carousel*/
@@ -249,6 +249,11 @@
                     } else {
                         seleccion++;
                     }
+            if(i === 0) {
+              template = '<div class="carousel-item active">';
+            } else {
+              template = '<div class="carousel-item">';
+            }
                     if (inpdom) {
                         if (horariodm.length > 2) {
                             existe = true;
@@ -295,8 +300,8 @@
                         existe = true;
                     }
                     if (existe) {
-                        var datainfo = "<div class='col-12 col-md-12'><div class='card w-100 rounded-0' style='margin-bottom: 15px;'><div class='card-header py-2 px-3'><h5 class='card-title mb-0 data-info'>*sucursal*</h5></div><div class='card-body py-2 px-3'><p class='card-text data-info'><strong>Direcci&oacute;n:</strong>  *direccion*</p></div><ul class='list-group list-group-flush'><li class='list-group-item py-2 px-3 data-info'><strong>Telefono: </strong> (*lada*) *tel*</li><li class='list-group-item py-2 px-3 data-info'><strong>Horarios: </strong>*horariolv*<br>*horariosb*<br>*horariodm*</li><li class='list-group-item py-2 px-3 data-info'><strong>Servicios: </strong> *servicios*.</li></ul><div class='card-body py-2 px-3 data-info'><div id='carouselExampleControls' class='carousel slide' data-ride='carousel'><div class='carousel-inner'><div class='carousel-item active *sucursal* data-info'><img class='d-block w-100'  src='*banner*' alt='' id='slide-uno'><p class='data-info'>*info1*</p></div><div class='carousel-item *sucursal* data-info'><img class='d-block w-100' src='*banner2*' alt='' id='slide-dos'><p class='data-info'>*info2*</p></div><div class='carousel-item *sucursal* data-info'><img class='d-block w-100' src='*banner3*' alt='' id='slide-tres'><p class='data-info'>*info3*</p></div></div><a class='carousel-control-prev' href='#carouselExampleControls' role='button' data-slide='prev'></a><a class='carousel-control-next' href='#carouselExampleControls' role='button' data-slide='next'></a></div></div><div class='card-body py-2 px-3'><p class='card-text data-info'><strong>Direcci&oacute;n Asamblea:</strong>  *dasamblea*</p></div><div class='card-body py-2 px-3'><p class='card-text data-info'><strong>Fecha:</strong>  *fasamblea*</p></div><div class='card-body py-2 px-3'><p class='card-text data-info'><strong>Hora:</strong>  *hasamblea*</p></div><div class='card-body py-2 px-3'><input type='button' class='btn btn-primary btn-sm datos-maker' value='Ver en mapa' target='*localizacion*'></div></div>";
-                        var datainsert = datainfo.replace('*sucursal*', sucursal).replace('*direccion*', direccion).replace('*banner*', banner).replace('*banner2*', banner2).replace('*horariolv*', horariolv).replace('*horariosb*', horariosb).replace('*horariodm*', horariodm).replace('*info1*', info1).replace('*info2*', info2).replace('*info3*', info3).replace('*banner3*', banner3).replace('*tel*', uniontel).replace('*lada*', lada).replace('*servicios*', unionser).replace('*localizacion*', localizacion).replace('*dasamblea*', dasamblea).replace('*fasamblea*', fasamblea).replace('*hasamblea*', hasamblea).replace('*linkbanner*', linkbanner).replace('*linkbanner2*', linkbanner2).replace('*linkbanner3*', linkbanner3);
+                        var datainfo = "<div class='col-12 col-md-12'><div class='card w-100 rounded-0' style='margin-bottom: 15px;'><div class='card-header py-2 px-3'><h5 class='card-title mb-0 data-info'>*sucursal*</h5></div><div class='card-body py-2 px-3'><p class='card-text data-info'><strong>Direcci&oacute;n:</strong>  *direccion*</p></div><ul class='list-group list-group-flush'><li class='list-group-item py-2 px-3 data-info'><strong>Telefono: </strong> (*lada*) *tel*</li><li class='list-group-item py-2 px-3 data-info'><strong>Horarios: </strong>*horariolv*<br>*horariosb*<br>*horariodm*</li><li class='list-group-item py-2 px-3 data-info'><strong>Servicios: </strong> *servicios*.</li></ul><div class='card-body py-2 px-3 data-info'><div id='carouselExampleControls' class='carousel slide' data-ride='carousel'><div class='carousel-inner'><div class='carousel-item active *sucursal* data-info'><img class='d-block w-100'  src='*banner*' alt='' id='slide-uno'><p class='data-info'>*info1*</p><a href='*link1*' target='_blank'><input type='button' class='btn btn-primary btn-sm datos-maker' value='Ver m&aacute;s'></a></div><div class='carousel-item *sucursal* data-info'><img class='d-block w-100' src='*banner2*' alt='' id='slide-dos'><p class='data-info'>*info2*</p><a href='*link2*' target='_blank'><input type='button' class='btn btn-primary btn-sm datos-maker' value='Ver m&aacute;s'></a></div><div class='carousel-item *sucursal* data-info'><img class='d-block w-100' src='*banner3*' alt='' id='slide-tres'><p class='data-info'>*info3*</p><a href='*link3*' target='_blank'><input type='button' class='btn btn-primary btn-sm datos-maker' value='Ver m&aacute;s'></a></div></div><a class='carousel-control-prev' href='#carouselExampleControls' role='button' data-slide='prev'></a><a class='carousel-control-next' href='#carouselExampleControls' role='button' data-slide='next'></a></div></div><div class='card-body py-2 px-3'><p class='card-text data-info'><strong>Direcci&oacute;n Asamblea:</strong>  *dasamblea*</p></div><div class='card-body py-2 px-3'><p class='card-text data-info'><strong>Fecha:</strong>  *fasamblea*</p></div><div class='card-body py-2 px-3'><p class='card-text data-info'><strong>Hora:</strong>  *hasamblea*</p></div><div class='card-body py-2 px-3'><input type='button' class='btn btn-primary btn-sm datos-maker' value='Ver en mapa' target='*localizacion*'></div></div>";
+                        var datainsert = datainfo.replace('*sucursal*', sucursal).replace('*direccion*', direccion).replace('*banner*', banner).replace('*banner2*', banner2).replace('*horariolv*', horariolv).replace('*horariosb*', horariosb).replace('*horariodm*', horariodm).replace('*info1*', info1).replace('*info2*', info2).replace('*info3*', info3).replace('*banner3*', banner3).replace('*tel*', uniontel).replace('*lada*', lada).replace('*servicios*', unionser).replace('*localizacion*', localizacion).replace('*dasamblea*', dasamblea).replace('*fasamblea*', fasamblea).replace('*hasamblea*', hasamblea).replace('*link1*', link1).replace('*link2*', link2).replace('*link3*', link3);
                         $("#data-mapf").append(datainsert);
                         /*Mapeo Inicio*/
                         var latLng = new google.maps.LatLng(coords[1], coords[0]);
