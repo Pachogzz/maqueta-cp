@@ -8,8 +8,10 @@
         /*var inptel = $('#customControlAutosizing3').prop("checked");
         var inpluz = $('#customControlAutosizing4').prop("checked");
         var inprem = $('#customControlAutosizing5').prop("checked");*/
-        var inpcaj = $('#customControlAutosizing6').prop("checked");
-        window.location = "https://hitdigital.mx/maps/demo/ubica-tu-sucursal.php?estado=" + inpest + "&idmun=" + inpmun + "&municipio=" + inpmun2 + "&sab=" + inpsab + "&dom=" + inpdom + "&caj=" + inpcaj + "#data-gmaps";
+        /*var inpcaj = $('#customControlAutosizing6').prop("checked");*/
+        var inpcajdis = $('#customControlAutosizing7').prop("checked");
+        var inpcajrec = $('#customControlAutosizing8').prop("checked");        
+        window.location = "https://hitdigital.mx/maps/demo/ubica-tu-sucursal.php?estado=" + inpest + "&idmun=" + inpmun + "&municipio=" + inpmun2 + "&sab=" + inpsab + "&dom=" + inpdom + "&cajdis=" + inpcajdis + "&cajrec=" + inpcajrec + "#data-gmaps";
     });
 
     function autocompleteMun() {
@@ -49,8 +51,14 @@
     if ($('#hrem').val() == "true") {
         $('#customControlAutosizing5').prop("checked", true);
     }*/
-    if ($('#hcaj').val() == "true") {
+    /*if ($('#hcaj').val() == "true") {
         $('#customControlAutosizing6').prop("checked", true);
+    }*/
+    if ($('#hcajdis').val() == "true") {
+        $('#customControlAutosizing7').prop("checked", true);
+    }
+    if ($('#hcajrec').val() == "true") {
+        $('#customControlAutosizing8').prop("checked", true);
     }
     /*Cierre funcionalidad datos GET*/
     /*Funcion colocar mapa*/
@@ -77,7 +85,9 @@
         /*var inptel = $('#customControlAutosizing3').prop("checked");
         var inpluz = $('#customControlAutosizing4').prop("checked");
         var inprem = $('#customControlAutosizing5').prop("checked");*/
-        var inpcaj = $('#customControlAutosizing6').prop("checked");
+        /*var inpcaj = $('#customControlAutosizing6').prop("checked");*/
+        var inpcajdis = $('#customControlAutosizing7').prop("checked");
+        var inpcajrec = $('#customControlAutosizing8').prop("checked");
         /*Cierre de datos de filtrado*/
         for (var i = 0; i < results.features.length; i++) {
             /*Variables generales, ubicaciones, etc*/
@@ -94,22 +104,37 @@
             /*Cierre de variables generales*/
             /*Variables de servicios*/
             var lada = results.features[i].properties.lada;
-            var luz = results.features[i].properties.seriviciosluz;
-            var telefonia = results.features[i].properties.serviciosteleono;
-            var remesas = results.features[i].properties.serviciosremesas;
+            var luz = results.features[i].properties.servicios_luz;
+            var telefonia = results.features[i].properties.servicios_teleono;
+            var remesas = results.features[i].properties.servicios_remesas;
+            var agua = results.features[i].properties.servicios_agua;
             var cajero = results.features[i].properties.cajero;
+            var cdisp = results.features[i].properties.cajero_dispensador;
+            var crecep = results.features[i].properties.cajero_receptor;
             /*Cierre de variable de servicios*/
             /*Variables banners 1 y 2*/
             var banner = results.features[i].properties.imagen1;
             var info1 = results.features[i].properties.texto1;
             var banner2 = results.features[i].properties.imagen2;
             var info2 = results.features[i].properties.texto2;
+            var info3 = results.features[i].properties.texto3;
+            var banner3 = results.features[i].properties.imagen3;
+            var linkbanner = results.features[i].properties.ver_mas1;
+            var linkbanner2 = results.features[i].properties.ver_mas2; 
+            var linkbanner3 = results.features[i].properties.ver_mas3;
+            
+            
             /*Cierre de variables 1 y 2*/
-            /*Variables de horarios*/
-            var horariolv = results.features[i].properties.horariolv;
-            var horariosb = results.features[i].properties.horariosb;
-            var horariodm = results.features[i].properties.horariodm;
+            /*Variables de horarios*/  
+            var horariolv = results.features[i].properties.horario_lv;
+            var horariosb = results.features[i].properties.horario_sb;
+            var horariodm = results.features[i].properties.horario_dm;
             /*cierre de variables de horarios*/
+            /*Datos asamblea*/
+            var dasamblea = results.features[i].properties.direccion_asamblea;
+            var fasamblea = results.features[i].properties.fecha_asamblea;
+            var hasamblea = results.features[i].properties.hora_asamblea;
+            /*Cierre de datos asamblea*/
             /*Validacion de campos*/
             /*Union de servicios*/
             var unionser = "";
@@ -121,6 +146,15 @@
                     unionser = luz;
                 } else {
                     unionser += ', ' + luz;
+                }
+            }
+            if (agua === undefined) {
+                agua = '';
+            } else {
+                if (unionser == "") {
+                    unionser = agua;
+                } else {
+                    unionser += ', ' + agua;
                 }
             }
             if (telefonia === undefined) {
@@ -176,11 +210,17 @@
             if (banner2 === undefined) {
                 banner2 = '';
             } else {}
+            if (banner3 === undefined) {
+                banner3 = '';
+            } else {}
             if (info1 === undefined) {
                 info1 = '';
             } else {}
             if (info2 === undefined) {
                 info2 = '';
+            } else {}
+            if (info3 === undefined) {
+                info3 = '';
             } else {}
             /*Cierre de telefonos concatenados*/
             if (cajero === undefined) {
@@ -189,6 +229,8 @@
             if (cajero === undefined) {
                 cajero = '';
             } else {}
+
+            /*Cierre validacion datos banner */ 
             /*Cierre de validacion de campos*/
             var direccionfinal = direccion + '<br>' + colonia;
             var title = estado + ' ' + sucursal;
@@ -201,12 +243,16 @@
             if (inpest == estado.toUpperCase()) {
                 if (inpmun == municipio.toUpperCase()) {
                     if (inpsab) {
-                        existe = true;
+                        if (horariosb.length > 2) {
+                            existe = true;
+                        }
                     } else {
                         seleccion++;
                     }
                     if (inpdom) {
-                        existe = true;
+                        if (horariodm.length > 2) {
+                            existe = true;
+                        }
                     } else {
                         seleccion++;
                     }
@@ -231,19 +277,26 @@
                      } else {
                          seleccion++;
                      }*/
-                    if (inpcaj) {
-                        if (cajero.length > 2) {
+                    if (inpcajrec) {
+                        if (crecep == "SI") {
                             existe = true;
                         }
                     } else {
                         seleccion++;
                     }
-                    if (seleccion == 3) {
+                    if (inpcajdis) {
+                        if (cdisp == "SI") {
+                            existe = true;
+                        }
+                    } else {
+                        seleccion++;
+                    }
+                    if (seleccion == 4) {
                         existe = true;
                     }
                     if (existe) {
-                        var datainfo = "<div class='col-12 col-md-12'><div class='card w-100 rounded-0' style='margin-bottom: 15px;'><div class='card-header py-2 px-3'><h5 class='card-title mb-0 data-info'>*sucursal*</h5></div><div class='card-body py-2 px-3'><p class='card-text data-info'><strong>Direcci&oacute;n:</strong>  *direccion*</p></div><ul class='list-group list-group-flush'><li class='list-group-item py-2 px-3 data-info'><strong>Telefono: </strong> (*lada*) *tel*</li><li class='list-group-item py-2 px-3 data-info'><strong>Horarios: </strong>*horariolv*<br>*horariosb*<br>*horariodm*</li><li class='list-group-item py-2 px-3 data-info'><strong>Servicios: </strong> *servicios*</li></ul><div class='card-body py-2 px-3 data-info'><div id='carouselExampleControls' class='carousel slide' data-ride='carousel'><div class='carousel-inner'><div class='carousel-item active *sucursal* data-info'><img class='d-block w-100' src='*banner*' alt=''><strong>Informaci&oacute;n: </strong><p class='data-info'>*info1*</p></div><div class='carousel-item *sucursal* data-info'><img class='d-block w-100' src='*banner2*' alt=''><strong>Informaci&oacute;n: </strong><p class='data-info'>*info2*</p></div></div><a class='carousel-control-prev' href='#carouselExampleControls' role='button' data-slide='prev'><span class='carousel-control-prev-icon' aria-hidden='true'></span><span class='sr-only'>Previous</span></a><a class='carousel-control-next' href='#carouselExampleControls' role='button' data-slide='next'><span class='carousel-control-next-icon' aria-hidden='true'></span><span class='sr-only'>Next</span></a></div></div><div class='card-body py-2 px-3'><input type='button' class='btn btn-primary btn-sm datos-maker' value='Ver en mapa' target='*localizacion*'></div></div>";
-                        var datainsert = datainfo.replace('*sucursal*', sucursal).replace('*direccion*', direccion).replace('*banner*', banner).replace('*banner2*', banner2).replace('*horariolv*', horariolv).replace('*horariosb*', horariosb).replace('*horariodm*', horariodm).replace('*info1*', info1).replace('*info2*', info2).replace('*tel*', uniontel).replace('*lada*', lada).replace('*servicios*', unionser).replace('*localizacion*', localizacion);
+                        var datainfo = "<div class='col-12 col-md-12'><div class='card w-100 rounded-0' style='margin-bottom: 15px;'><div class='card-header py-2 px-3'><h5 class='card-title mb-0 data-info'>*sucursal*</h5></div><div class='card-body py-2 px-3'><p class='card-text data-info'><strong>Direcci&oacute;n:</strong>  *direccion*</p></div><ul class='list-group list-group-flush'><li class='list-group-item py-2 px-3 data-info'><strong>Telefono: </strong> (*lada*) *tel*</li><li class='list-group-item py-2 px-3 data-info'><strong>Horarios: </strong>*horariolv*<br>*horariosb*<br>*horariodm*</li><li class='list-group-item py-2 px-3 data-info'><strong>Servicios: </strong> *servicios*.</li></ul><div class='card-body py-2 px-3 data-info'><div id='carouselExampleControls' class='carousel slide' data-ride='carousel'><div class='carousel-inner'><div class='carousel-item active *sucursal* data-info'><img class='d-block w-100'  src='*banner*' alt='' id='slide-uno'><p class='data-info'>*info1*</p></div><div class='carousel-item *sucursal* data-info'><img class='d-block w-100' src='*banner2*' alt='' id='slide-dos'><p class='data-info'>*info2*</p></div><div class='carousel-item *sucursal* data-info'><img class='d-block w-100' src='*banner3*' alt='' id='slide-tres'><p class='data-info'>*info3*</p></div></div><a class='carousel-control-prev' href='#carouselExampleControls' role='button' data-slide='prev'></a><a class='carousel-control-next' href='#carouselExampleControls' role='button' data-slide='next'></a></div></div><div class='card-body py-2 px-3'><p class='card-text data-info'><strong>Direcci&oacute;n Asamblea:</strong>  *dasamblea*</p></div><div class='card-body py-2 px-3'><p class='card-text data-info'><strong>Fecha:</strong>  *fasamblea*</p></div><div class='card-body py-2 px-3'><p class='card-text data-info'><strong>Hora:</strong>  *hasamblea*</p></div><div class='card-body py-2 px-3'><input type='button' class='btn btn-primary btn-sm datos-maker' value='Ver en mapa' target='*localizacion*'></div></div>";
+                        var datainsert = datainfo.replace('*sucursal*', sucursal).replace('*direccion*', direccion).replace('*banner*', banner).replace('*banner2*', banner2).replace('*horariolv*', horariolv).replace('*horariosb*', horariosb).replace('*horariodm*', horariodm).replace('*info1*', info1).replace('*info2*', info2).replace('*info3*', info3).replace('*banner3*', banner3).replace('*tel*', uniontel).replace('*lada*', lada).replace('*servicios*', unionser).replace('*localizacion*', localizacion).replace('*dasamblea*', dasamblea).replace('*fasamblea*', fasamblea).replace('*hasamblea*', hasamblea).replace('*linkbanner*', linkbanner).replace('*linkbanner2*', linkbanner2).replace('*linkbanner3*', linkbanner3);
                         $("#data-mapf").append(datainsert);
                         /*Mapeo Inicio*/
                         var latLng = new google.maps.LatLng(coords[1], coords[0]);
