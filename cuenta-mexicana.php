@@ -30,28 +30,9 @@
 							<img width="" src="assets/img/secciones/logos-ahorro/cuenta-mexicana.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Es una cuenta de ahorro ordinario que te ayuda a obtener un préstamo en Caja Popular Mexicana, pues el saldo forma parte de las garantías requeridas.</p>
 							<p class="lead">Consulta los <span class="font-weight-bold text-primary">costos y comisiones de nuestro producto <a href="consulta-los-costos-y-comisiones-de-nuestros-productos.php">aquí </a></span></p>
-							<p class="lead">Por ejemplo, <span class="font-weight-bold text-primary">Consulta el contrato universal <a href="assets/img/secciones/ahorro/FR-1008-Contrato-Universal.pdf" target="blank">aquí</a></span></p>
+							<p class="lead"><span class="font-weight-bold text-primary">Consulta el contrato universal <a href="assets/img/secciones/ahorro/FR-1008-Contrato-Universal.pdf" target="blank">aquí</a></span></p>
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
-						<!--  -->
-						<!-- <div class="bg-grey0 p-5 mb-5">
-							<p class="display-12"><strong>Costo Anual Total Promedio de 31.5% sin IVA</strong>. Para fines informativos y de comparación exclusivamente. Fecha de cálculo 30 de Junio de 2019.</p>
-							<p class="display-12">*Cálculo para el <strong>Crédito Personal Plus CPM</strong> por la cantidad de <strong>$15,000.00 a un plazo de 12 meses con un monto mínimo de ahorro de $1,500.00</strong>.</p>
-							<ul class="display-12">
-								<li>Tabulador para fines informativos, no representa una contratación.</li>
-								<li>Incluye interés e IVA.</li>
-								<li>Sujeto a aprobación de crédito.</li>
-								<li>Préstamo otorgado en moneda nacional.</li>
-								<li>Disponible en todas nuestras sucursales a nivel nacional.</li>
-								<li>La tasa de interés se asignará de acuerdo al historial crediticio interno y externo a Caja Popular Mexicana que presente el socio.</li>
-								<li>En la contratación del producto, el plan de pagos se establece de manera mensual.</li>
-							</ul>
-						</div> -->
-						<!-- Cuadro de Recursos -->
-						<div class="bg-quinary text-white mb-5 p-4">
-							<p class="p-4 mb-0 bw-4 rounded border-white">Los recursos depositados en esta cuenta están protegidos por el <strong>Fondo de Protección</strong> a que se refiere el <strong>Título Cuarto de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo</strong>, hasta por <strong>25,000 Unidades de Inversión</strong>, de acuerdo a las disposiciones que establezcan el <strong>Comité Técnico y Comité de Protección al Ahorro Cooperativo del Fideicomiso</strong> que lo administra.</p>
-						</div>
-						<!-- Cuadro de Recursos -->
 					</div>
 					<div class="col-12 col-md-6">
 						<!-- MENU -->
@@ -90,7 +71,7 @@
 									<div class="card-body bg-grey0 p-4">
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li><strong>Requisitos</strong>
-												<p><a href="ser-socio">Ser socio </a>de Caja Popular Mexicana.</p>
+												<p><a href="ser-socio.php">Ser socio </a>de Caja Popular Mexicana.</p>
 											</li>
 											<li><strong>Documentos generales</strong>
 												<p>Identificación oficial y de la sociedad</p>
@@ -126,23 +107,9 @@
 						<!-- MENU -->
 						<div class="row">
 							<div class="col-12 mt-5">
-								<!-- Cuadro UNE -->
-								<div class="bg-grey0 p-5">
-									<p class="display-12">Con la finalidad de atender sus aclaraciones, consultas y reclamaciones relacionadas con las operaciones y servicios que realice con nosotros, Caja Popular Mexicana pone a su disposición la <strong>Unidad Especializada de Atención a Usuarios (UNE)</strong>, con domicilio en <strong>Calle Ignacio Altamirano No. 407, Colonia San Juan de Dios, C.P. 37004, en la ciudad de León, Gto.</strong>, así como un número telefónico gratuito <strong>800 276 86 37 y 477 7 88 80 00 extensión 8142</strong> y correo electrónico une@cpm.coop.</p>
-									<p class="display-12">Situaciones que NO pueden ser atendidas por la UNE</p>
-									<ul class="display-12">
-										<li>Solicitudes de reestructura o convenios de pago de créditos.</li>
-										<li>Asuntos relacionados con solicitudes de crédito.</li>
-										<li>Aquellas que se encuentren en trámite ante la CONDUSEF o en proceso Judicial.</li>
-									</ul>
-									<p class="display-12"><strong>Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros (CONDUSEF)</strong>, al teléfono <strong>800 999 8080</strong> y en el D.F. al <strong>55 5340 0999</strong>, página de internet <strong>www.condusef.gob.mx</strong> y al correo electrónico <strong>asesoria@condusef.gob.mx</strong>.</p>
-								</div>
-								<!-- Cuadro UNE -->
-							</div>
-							<div class="col-12 mt-5">
 								<!-- Nota Legal -->
 								<div class="bg-grey0 p-5">
-									<p class="display-12">Vigencia del 09 al 15 de Enero del 2020</p>
+									<p class="display-12"><strong>Vigencia del 09 al 15 de Enero del 2020</strong></p>
 									<p class="display-12">Fecha de cálculo Enero 2020</p>
 									<p class="display-12"><strong>* GAT NOMINAL</strong> antes de impuestos. Para fines informativos y de comparación.</p>
 									<p class="display-12"><strong>**GAT REAL</strong> antes de impuestos. Para fines informativos y de comparación. La GAT REAL es el rendimiento que obtendría después de descontar la inflación estimada Para fines informativos y de comparación exclusivamente.</p>
@@ -152,7 +119,6 @@
 						</div>
 					</div>
 				</div>
-
 				<div class="row">
 					<div class="col-12">
 						<!-- Nota Legal Tabla -->
@@ -160,12 +126,12 @@
 							<table class="table">
 								<thead>
 									<tr class="bg-primary">
-									<th scope="col"><span class="text-white">#</span></th>
-									<th scope="col"><span class="text-white">Rango</span></th>
-									<th scope="col"><span class="text-white">Tasa de interés anual <br>fija antes de impuestos</span></th>
-									<th scope="col"><span class="text-white">GAT nominal* <br>antes de impuestos</span></th>
-									<th scope="col"><span class="text-white">GAT real** antes <br>de impuestos</span></th>
-								</tr>
+										<th scope="col"><span class="text-white">#</span></th>
+										<th scope="col"><span class="text-white">Rango</span></th>
+										<th scope="col"><span class="text-white">Tasa de interés anual <br>fija antes de impuestos</span></th>
+										<th scope="col"><span class="text-white">GAT nominal* <br>antes de impuestos</span></th>
+										<th scope="col"><span class="text-white">GAT real** antes <br>de impuestos</span></th>
+									</tr>
 								</thead>
 								<tbody>
 									<tr>
@@ -196,7 +162,8 @@
 					</div>
 				</div>
 				
-
+			<?php include('inc/une-recursos.php'); ?>
+			</div>
 		</section>
 
 <?php include('inc/boletin-and-banner.php') ?> <!-- ./ Boletín y banner -->

@@ -3,29 +3,29 @@
 				<div class="row text-center">
 					<div class="col-12 col-lg z-index-1">
 						<a href="#" class="btn btn-primary btn-lg btn-block rounded-pill w-100 w-lg-75 mx-auto p-3 mb-2 mb-lg-0 active">
-							Queremos servirte <i class="fa fa-chevron-circle-right"></i>
+							<span class="my-lg-2 d-inline-block">Legales <i class="fa fa-chevron-circle-right"></i></span>
 						</a>
 					</div>
 					<div class="col-12 col-lg p-0 pl-md-0 pl-lg-3 mb-2 mb-lg-0 white-circle-n-line">
-						<a href="ser-socio.php" class="btn bg-tertiary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
-							Socio
+						<a href="politicas-de-uso.php" class="btn bg-tertiary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
+							Términos y <br>políticas de uso
 						</a>
 					</div>
 					<div class="col-12 col-lg p-0 mb-2 mb-lg-0 ">
-						<a href="necesitas-credito.php" class="btn bg-primary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
-							Crédito 
+						<a href="terminos-de-uso-para-redes-sociales.php" class="btn bg-primary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
+							Términos de uso de <br>redes sociales
 						</a>
 					</div>
 					<div class="dropdown col-12 col-lg p-0 mb-2 mb-lg-0 ">
-						<a href="ahorro-e-inversion.php" class="btn bg-quaternary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
-							Ahorro
+						<a href="terminos-y-condiciones-sei.php" class="btn bg-quaternary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
+							Términos para el <br>Servicio Electrónico por Internet
 						</a>
 					</div>
-					<div class="dropdown col-12 col-lg p-0 mb-2 mb-lg-0 ">
+					<!-- <div class="dropdown col-12 col-lg p-0 mb-2 mb-lg-0 ">
 						<a href="ubica-tu-sucursal.php" class="btn bg-quinary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
 							Ubica tu sucursal
 						</a>
-					</div>
+					</div> -->
 				</div>
 			</div>
 		</section> <!-- /. Inner Nav Home quiero crédito Desktop -->
@@ -36,14 +36,14 @@
 					<div class="col-12">
 						<div class="dropdown">
 							<a class="btn btn-primary rounded-pill text-white w-100 float-right" data-toggle="collapse" href="#innerMenuMobile" role="button" aria-expanded="false" aria-controls="innerMenuMobile">
-								Queremos servirte <i class="fa fa-chevron-circle-down"></i>
+								Legales <i class="fa fa-chevron-circle-down"></i>
 							</a>
 						</div>
 						<div class="collapse w-100" id="innerMenuMobile">
 							<ul class="list-group w-100 pt-3">
-								<li class="list-group-item"><a href="ser-socip.php">Socio</a></li>
-								<li class="list-group-item"><a href="necesitas-credito.php">Crédito</a></li>
-								<li class="list-group-item"><a href="ahorro-e-inversion.php">Ahorro</a></li>
+								<li class="list-group-item"><a href="politicas-de-uso.php">Términos y políticas de uso</a></li>
+								<li class="list-group-item"><a href="terminos-de-uso-para-redes-sociales.php">Términos de uso de redes sociales</a></li>
+								<li class="list-group-item"><a href="terminos-y-condiciones-sei.php">Términos y condiciones para el Servicio Electrónico por Internet</a></li>
 							</ul>
 						</div> <!-- ./ Menu Mobile Collapsable -->
 					</div>

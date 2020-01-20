@@ -1,5 +1,5 @@
 		<div class="row mt-4 mt-md-5 mb-4 mb-md-5">
-			<div class="col-12 col-lg-9 mb-3 mb-md-0">
+			<div class="col-12 col-lg-9 mb-3 mb-lg-0">
 				<div class="bg-grey0 p-4 p-md-5 h-100">
 					<p class="display-12">Con la finalidad de atender sus aclaraciones, consultas y reclamaciones relacionadas con las operaciones y servicios que realice con nosotros Caja Popular Mexicana pone a su disposición la Unidad Especializada de Atención a Usuarios (UNE), con domicilio en <strong>Calle Ignacio Altamirano No. 407, Colonia San Juan de Dios, C.P. 37004, en la ciudad de León, Gto.</strong>, así como un número telefónico gratuito <strong>01 800 276 86 37</strong> y <strong>01 477 7 88 80 00 extensión 8142</strong> y correo electrónico <strong>une@cpm.coop</strong>.</p>
 					<p class="display-12">Situaciones que NO pueden ser atendidas por la UNE</p>

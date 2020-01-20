@@ -31,7 +31,7 @@
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 						<!-- Nota Legal -->
 						<div class="bg-grey0 p-5 mb-5">
-							<p class="display-12"><strong>Costo Anual Total Promedio a 12.9% sin IVA</strong>. para finalidades de vivienda | <strong>24.3% </strong> para finalidades de liquidez. Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 30 de Junio de 2019.</strong></p>
+							<p class="display-12"><strong>Costo Anual Total Promedio a 12.9% sin IVA</strong>. para finalidades de vivienda | <strong>24.3% </strong> para finalidades de liquidez. Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 31 de Diciembre de 2019.</strong></p>
 							<p class="display-12">*Cálculo para el <strong>Crédito Personal Plus CPM</strong> por la cantidad de <strong>$15,000.00 a un plazo de 12 meses con un monto mínimo de ahorro de $1,500.00</strong>.</p>
 							<ul class="display-12">
 								<li>Sujeto a aprobación de crédito.</li>
@@ -71,9 +71,6 @@
 							</table>
 					    </div>
 						<!-- Nota Legal -->
-
-						<?php include('inc/calculadoras/calculadora-de-credito.php') ?> <!-- ./ calculadora de credito -->
-
 					</div>
 					<div class="col-12 col-md-6">
 						<!-- MENU -->
@@ -120,8 +117,8 @@
 										    </ul>
 											<h4></h4>
 										    <ul class="p-5 bg-white bw-1 border-grey1">
-											<li><strong>CAT Promedio Creédito Personal Plus CPM</strong>
-												<p><strong>Costo Anual Total Promedio de 12.9% sin IVA para finalidades de vivienda | 24.3% para finalidades de liquidez. </strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 30 de Junio de 2019.</strong></p>
+											<li><strong>CAT Promedio Crédito Hipotecario CPM</strong>
+												<p><strong>Costo Anual Total Promedio de 12.9% sin IVA para finalidades de vivienda | 24.3% para finalidades de liquidez. </strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 31 de Diciembre de 2019.</strong></p>
 											</li>
 										</ul>
 									</div>

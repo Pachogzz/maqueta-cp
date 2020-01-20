@@ -25,7 +25,7 @@
 				<div class="row mb-5">
 					<div class="col-12 col-md-10 offset-md-1 text-center">
 						<img src="assets/img/icons/icon_CPMenLinea.png" class="bg-purple rounded-circle mb-3" width="120" height="120">
-						<h3 class="font-weight-semibold">CPM en Lína</h3>
+						<h3 class="font-weight-semibold">CPM en Línea</h3>
 						<img src="assets/img/secciones/en-linea/consideraciones-tecnicas-cpm-en-linea.jpg" class="img-fluid" width="900">
 						<hr class="mb-5">
 						<img src="assets/img/icons/icon_CPMMovil.png" class="bg-purple rounded-circle mb-3" width="120" height="120">

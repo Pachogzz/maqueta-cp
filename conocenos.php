@@ -188,7 +188,7 @@
 
 				<div class="row">
 					<div class="col-md-10 offset-md-1">
-						<h2 class="display-3 text-center text-primary font-weight-semibold mb-3">¿QUé son las cooperativas?</h2>
+						<h2 class="display-3 text-center text-primary font-weight-semibold mb-3">¿Qué son las cooperativas?</h2>
 					</div>
 					<div class="col-12">
 						<div id="gallery-conocenos">

@@ -26,13 +26,13 @@
 							<!-- <h2 class="d-inline-block border-primary text-primary font-weight-bolder bw-3 py-2 px-3 mb-3">DESCRIPCIÓN</h2> -->
 							<img width="" src="assets/img/secciones/logos-credito/credito-inmediato.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Obtén un crédito inmediato, de igual o menor monto a tu ahorro, con una tasa accesible</p>
-							<p class="lead my-3 font-weight-bold text-primary">Montos desde $1,000.00 Hasta $30,000,000.00</p>
+							<p class="lead my-3 font-weight-bold text-primary">Montos desde $1,000.00 hasta $30,000,000.00</p>
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 						<!-- Nota Legal -->
 						<div class="bg-grey0 p-5 mb-5">
-							<p class="display-12"><strong>Costo Anual Total Promedio de 73856570763370100000000000.0% sin IVA</strong>. Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 30 de Junio de 2019.</strong></p>
-							<p class="display-12">*Cálculo para el <strong>Crédito Personal Plus CPM</strong> por la cantidad de <strong>$15,000.00 a un plazo de 12 meses con un monto mínimo de ahorro de $1,500.00</strong>.</p>
+							<p class="display-12"><strong>Costo Anual Total Promedio de 32496813783425200000000000000000000000.0% sin IVA</strong>. Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 31 de Diciembre de 2019.</strong></p>
+							<p class="display-12">*Cálculo para el <strong>Crédito Inmediato CPM</strong> por la cantidad de <strong>$15,000.00 a un plazo de 12 meses con un monto mínimo de ahorro de $1,500.00</strong>.</p>
 							<ul class="display-12">
 								<li>Sujeto a aprobación de crédito.</li>
 								<li>Préstamo otorgado en moneda nacional.</li>
@@ -85,8 +85,8 @@
 											<li><strong>Tasa de Interés</strong>
 												<p>Tasa de interés ordinaria anual fija del 12.24 antes de impuestos.</p>
 											</li>
-											<li><strong>CAT Promedio Creédito Personal Plus CPM</strong>
-												<p><strong>Costo Anual Total Promedio de 73856570763370100000000000.0% sin IVA</strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 30 de Junio de 2019.</strong></p>
+											<li><strong>CAT Promedio Crédito Inmediato CPM</strong>
+												<p><strong>Costo Anual Total Promedio de 32496813783425200000000000000000000000.0% sin IVA</strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 31 de Diciembre de 2019.</strong></p>
 											</li>
 										</ul>
 									</div>

@@ -21,7 +21,8 @@
 							<p class="mb-0 lead text-primary font-weight-bolder mb-3">
 								<a class="display-24" href="https://www.cpmenlinea.cpm.coop/" target="_blank">www.cpmenlinea.cpm.coop</a>
 							</p>
-							<p class="mt-3 mb-0 lead font-weight-normal">Recuerda usar el mismo usuario y contraseña para acceder a <strong>CPM Móvil</strong> <br>Consulta los términos y condiciones de nuestro servicio Electrónico por Internet dando <a href="terminos-y-condiciones-sei.php" target="_blank">clic aquí</a>.</p>
+							<p class="mt-3 mb-2 lead font-weight-normal">Recuerda usar el mismo usuario y contraseña para acceder a <strong>CPM Móvil</strong></p>
+							<p><small>Consulta los términos y condiciones de nuestro servicio Electrónico por Internet dando <a href="terminos-y-condiciones-sei.php" target="_blank">clic aquí</a>.</small></p>
 						</blockquote>
 					</div>
 				</div> <!-- ./ Main info block -->

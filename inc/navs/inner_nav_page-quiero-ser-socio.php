@@ -7,18 +7,23 @@
 						</a>
 					</div>
 					<div class="col-12 col-lg p-0 pl-md-0 pl-lg-3 mb-2 mb-lg-0 white-circle-n-line">
-						<a href="ser-socio.php" class="btn bg-tertiary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
-							Ser socio
+						<a href="soy-menor-de-edad.php" class="btn bg-tertiary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
+							Soy menor de edad
 						</a>
 					</div>
 					<div class="col-12 col-lg p-0 mb-2 mb-lg-0 ">
-						<a href="soy-menor-de-edad.php" class="btn bg-primary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
-							Ahorrador menor de edad
+						<a href="ubica-tu-sucursal.php" class="btn bg-primary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
+							Ubica tu sucursal
 						</a>
 					</div>
 					<div class="col-12 col-lg p-0 mb-2 mb-lg-0 ">
-						<a href="como-ser-socio-cumplidor.php" class="btn bg-quaternary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
-							Ser socio cumplido
+						<a href="necesitas-credito.php" class="btn bg-quaternary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
+							Crédito
+						</a>
+					</div>
+					<div class="col-12 col-lg p-0 mb-2 mb-lg-0 ">
+						<a href="ahorro-e-inversion.php" class="btn bg-quinary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
+							Ahorro
 						</a>
 					</div>
 				</div>
@@ -36,9 +41,10 @@
 						</div>
 						<div class="collapse w-100" id="innerMenuMobile">
 							<ul class="list-group w-100 pt-3">
-								<li class="list-group-item"><a href="ser-socio.php">Ser socio</a></li>
-								<li class="list-group-item"><a href="soy-menor-de-edad.php">Ahorrador menor de edad</a></li>
-								<li class="list-group-item"><a href="como-ser-socio-cumplidor.php">Ser socio cumplido</a></li>
+								<li class="list-group-item"><a href="soy-menor-de-edad.php">Soy menor de edad</a></li>
+								<li class="list-group-item"><a href="ubica-tu-sucursal.php">Ubica tu sucursal</a></li>
+								<li class="list-group-item"><a href="necesitas-credito.php">Crédito</a></li>
+								<li class="list-group-item"><a href="ahorro-e-inversion.php">Ahorro</a></li>
 							</ul>
 						</div> <!-- ./ Menu Mobile Collapsable -->
 					</div>

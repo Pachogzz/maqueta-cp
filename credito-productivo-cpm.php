@@ -27,13 +27,13 @@
 							<img width="" src="assets/img/secciones/logos-credito/credito-productivo.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Adquiere tu crédito para financiar tus actividades comerciales y productivas</p>
 							<p class="lead my-3 font-weight-bold text-primary">Montos desde $1,000.00 Hasta $18,078,600.00</p>
-							<p class="lead">Por ejemplo, <span class="font-weight-bold text-primary">solicita $15,000 pesos a 12 meses y pagas ¡$409 semanales*!</span></p>
+							<!-- <p class="lead">Por ejemplo, <span class="font-weight-bold text-primary">solicita $15,000 pesos a 12 meses y pagas ¡$409 semanales*!</span></p> -->
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 						<!-- Nota Legal -->
 						<div class="bg-grey0 p-5 mb-5">
-							<p class="display-12"><strong>Costo Anual Total Promedio de 24.2% sin IVA</strong>. Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 30 de Junio de 2019.</strong></p>
-							<p class="display-12">*Cálculo para el <strong>Crédito Personal Plus CPM</strong> por la cantidad de <strong>$15,000.00 a un plazo de 12 meses con un monto mínimo de ahorro de $1,500.00</strong>.</p>
+							<p class="display-12"><strong>Costo Anual Total Promedio de 25.5% sin IVA</strong>. Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 31 de Diciembre de 2019.</strong></p>
+							<p class="display-12">*Cálculo para el <strong>Crédito Productivo CPM</strong> por la cantidad de <strong>$15,000.00 a un plazo de 12 meses con un monto mínimo de ahorro de $1,500.00</strong>.</p>
 							<ul class="display-12">
 								<li>Sujeto a aprobación de crédito.</li>
 								<li>Préstamo otorgado en moneda nacional.</li>
@@ -87,8 +87,8 @@
 											<li><strong>Tasa de Interés</strong>
 												<p>Tasa de interés ordinaria anual fija desde del 24.2% antes de impuestos. La tasa se asignará de acuerdo al perfil crediticio del socio.</p>
 											</li>
-											<li><strong>CAT Promedio Creédito Personal Plus CPM</strong>
-												<p><strong>Costo Anual Total Promedio de 24.2% sin IVA.</strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 30 de Junio de 2019.</strong></p>
+											<li><strong>CAT Promedio Crédito Productivo CPM</strong>
+												<p><strong>Costo Anual Total Promedio de 25.5% sin IVA.</strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 31 de Diciembre de 2019.</strong></p>
 											</li>
 										</ul>
 									</div>

@@ -35,7 +35,7 @@
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 						<!-- Nota Legal -->
 						<div class="bg-grey0 p-5 mb-5">
-							<p class="display-12"><strong>Costo Anual Total Promedio de 31.5% sin IVA</strong>. Para fines informativos y de comparación exclusivamente. Fecha de cálculo 30 de Junio de 2019.</p>
+							<p class="display-12"><strong>Costo Anual Total Promedio de 31.6% sin IVA</strong>. Para fines informativos y de comparación exclusivamente. Fecha de cálculo 31 de Diciembre de 2019.</p>
 							<p class="display-12">*Cálculo para el <strong>Crédito Personal Plus CPM</strong> por la cantidad de <strong>$15,000.00 a un plazo de 12 meses con un monto mínimo de ahorro de $1,500.00</strong>.</p>
 							<ul class="display-12">
 								<li>Tabulador para fines informativos, no representa una contratación.</li>
@@ -66,7 +66,7 @@
 										<h4>Monto</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li>Desde $1,000.00</li>
-											<li>Hasta 3,000,000 UDIS (Al 31 de enero de 2019, importe $18,742,785] UDIS [Unidad de inversión que se actualiza mensualmente para su conversión en moneda nacional].</li>
+											<li>Hasta 3,000,000 (Al 31 de enero de 2019, importe $18,742,785) UDIS (Unidad de inversión que se actualiza mensualmente para su conversión en moneda nacional).</li>
 										</ul>
 										<h4>Plazo</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
@@ -93,8 +93,8 @@
 											<li><strong>Tasa de Interés</strong>
 												<p>Tasa de interés ordinaria anual fija desde un 12.00% hasta un 33.0% antes de impuestos. La tasa se asignará de acuerdo al perfil crediticio del socio.</p>
 											</li>
-											<li><strong>CAT Promedio Creédito Personal Plus CPM</strong>
-												<p>Costo Anual Total Promedio de 31.5% sin IVA. Para fines informativos y de comparación exclusivamente. Fecha de cálculo 30 de Junio de 2019.</p>
+											<li><strong>CAT Promedio Crédito Personal Plus CPM</strong>
+												<p><strong>Costo Anual Total Promedio de 31.6% sin IVA.</strong> Para fines informativos y de comparación exclusivamente. Fecha de cálculo 31 de Diciembre de 2019.</p>
 											</li>
 										</ul>
 									</div>

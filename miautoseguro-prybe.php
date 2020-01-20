@@ -19,7 +19,7 @@
 						<!-- <div class="embed-responsive embed-responsive-16by9 mb-md-5">
 							<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/FY6AMOfUyMk?rel=0" allowfullscreen></iframe>
 						</div> -->
-						<img src="" alt="" class="img-fluid mb-5">
+						<!-- <img src="" alt="" class="img-fluid mb-5"> -->
 					</div> <!-- ./ Video o imágen principal -->
 				</div> <!-- ./ End Row -->
 				<div class="row">
@@ -29,41 +29,10 @@
 							<!-- <h2 class="d-inline-block border-primary text-primary font-weight-bolder bw-3 py-2 px-3 mb-3">DESCRIPCIÓN</h2> -->
 							<img width="" src="" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Protege tu auto y contrata al crédito o al contado. Contrata MiAutoSeguro con CPM por medio de la plataforma web de PRYBE (Protecciones y beneficios S.C.), para más información da clic <a href="https://prybe.coop/">aquí </a></p>
-							<p class="lead">Consulta los <span class="font-weight-bold text-primary">costos y comisiones de nuestro producto <a href="consulta-los-costos-y-comisiones-de-nuestros-productos"></span>aquí </a></p>
-							<p class="lead">Por ejemplo, <span class="font-weight-bold text-primary">Consulta el contrato universal <a href="assets/img/secciones/ahorro/FR-1008-Contrato-Universal.pdf" target="blank"></span>aquí</a></p>
+							<!-- <p class="lead">Consulta los <span class="font-weight-bold text-primary">costos y comisiones de nuestro producto <a href="consulta-los-costos-y-comisiones-de-nuestros-productos"></span>aquí </a></p>
+							<p class="lead">Por ejemplo, <span class="font-weight-bold text-primary">Consulta el contrato universal <a href="assets/img/secciones/ahorro/FR-1008-Contrato-Universal.pdf" target="blank"></span>aquí</a></p> -->
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
-						<!--  -->
-						<!-- <div class="bg-grey0 p-5 mb-5">
-							<p class="display-12"><strong>Costo Anual Total Promedio de 31.5% sin IVA</strong>. Para fines informativos y de comparación exclusivamente. Fecha de cálculo 30 de Junio de 2019.</p>
-							<p class="display-12">*Cálculo para el <strong>Crédito Personal Plus CPM</strong> por la cantidad de <strong>$15,000.00 a un plazo de 12 meses con un monto mínimo de ahorro de $1,500.00</strong>.</p>
-							<ul class="display-12">
-								<li>Tabulador para fines informativos, no representa una contratación.</li>
-								<li>Incluye interés e IVA.</li>
-								<li>Sujeto a aprobación de crédito.</li>
-								<li>Préstamo otorgado en moneda nacional.</li>
-								<li>Disponible en todas nuestras sucursales a nivel nacional.</li>
-								<li>La tasa de interés se asignará de acuerdo al historial crediticio interno y externo a Caja Popular Mexicana que presente el socio.</li>
-								<li>En la contratación del producto, el plan de pagos se establece de manera mensual.</li>
-							</ul>
-						</div> -->
-						<!-- Cuadro de Recursos -->
-						<!-- <div class="bg-quinary text-white mb-5 p-4">
-							<p class="p-4 mb-0 bw-4 rounded border-white">Los recursos depositados en esta cuenta están protegidos por el <strong>Fondo de Protección</strong> a que se refiere el <strong>Título Cuarto de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo</strong>, hasta por <strong>25,000 Unidades de Inversión</strong>, de acuerdo a las disposiciones que establezcan el <strong>Comité Técnico y Comité de Protección al Ahorro Cooperativo del Fideicomiso</strong> que lo administra.</p>
-						</div> -->
-						<!-- Cuadro de Recursos -->
-								<!-- Cuadro UNE -->
-								<!-- <div class="bg-grey0 p-5">
-									<p class="display-12">Con la finalidad de atender sus aclaraciones, consultas y reclamaciones relacionadas con las operaciones y servicios que realice con nosotros, Caja Popular Mexicana pone a su disposición la <strong>Unidad Especializada de Atención a Usuarios (UNE)</strong>, con domicilio en <strong>Calle Ignacio Altamirano No. 407, Colonia San Juan de Dios, C.P. 37004, en la ciudad de León, Gto.</strong>, así como un número telefónico gratuito <strong>800 276 86 37 y 477 7 88 80 00 extensión 8142</strong> y correo electrónico une@cpm.coop.</p>
-									<p class="display-12">Situaciones que NO pueden ser atendidas por la UNE</p>
-									<ul class="display-12">
-										<li>Solicitudes de reestructura o convenios de pago de créditos.</li>
-										<li>Asuntos relacionados con solicitudes de crédito.</li>
-										<li>Aquellas que se encuentren en trámite ante la CONDUSEF o en proceso Judicial.</li>
-									</ul>
-									<p class="display-12"><strong>Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros (CONDUSEF)</strong>, al teléfono <strong>800 999 8080</strong> y en el D.F. al <strong>55 5340 0999</strong>, página de internet <strong>www.condusef.gob.mx</strong> y al correo electrónico <strong>asesoria@condusef.gob.mx</strong>.</p>
-								</div> -->
-								<!-- Cuadro UNE -->
 					</div>
 					<div class="col-12 col-md-6">
 						<!-- MENU -->
@@ -134,13 +103,8 @@
 					</div>
 				</div>
 
-				<div class="row">
-					<div class="col-12">
-						
-					</div>
-				</div>
-				
-
+			<?php include('inc/une-recursos.php'); ?>
+			</div>
 		</section>
 
 <?php include('inc/boletin-and-banner.php') ?> <!-- ./ Boletín y banner -->

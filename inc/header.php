@@ -103,10 +103,10 @@
 										<div class="col-12 col-lg-4">
 											<h6 class="font-weight-semibold text-white bg-primary text-center py-2 px-3 br-30">Queremos Servirte</h6>
 											<ul class="nav flex-column">
-												<li class="nav-item"><a href="ser-socio.php" class="nav-link">Socio</a></li>
+												<li class="nav-item"><a href="ser-socio.php" class="nav-link">Ser socio</a></li>
 												<li class="nav-item"><a href="soy-menor-de-edad.php" class="nav-link">Ahorrador menor de edad</a></li>
 												<li class="nav-item"><a href="servicio-electronico-en-linea.php" class="nav-link">Servicio Electrónico por Internet</a></li>
-												<li class="nav-item"><a href="corresponsalias.php" class="nav-link">Corresponsalias</a></li>
+												<li class="nav-item"><a href="corresponsalias.php" class="nav-link">Corresponsalías</a></li>
 												<li class="nav-item"><a href="necesitas-credito.php" class="nav-link">Créditos</a></li>
 												<li class="nav-item"><a href="ahorro-e-inversion.php" class="nav-link">Ahorro e inversión</a></li>
 												<li class="nav-item"><a href="tarjeta-de-debito.php" class="nav-link">Tarjetas de Débito CPM y JR</a></li>
@@ -181,7 +181,7 @@
 								<!-- <li class="list-group-item"><a href="talento-cpm.php">Talento CPM</a></li> -->
 								
 								<li class="list-group-item title">Queremos servirte</li>
-								<li class="list-group-item"><a href="ser-socio.php">Socio</a></li>
+								<li class="list-group-item"><a href="ser-socio.php">Ser socio</a></li>
 								<li class="list-group-item"><a href="soy-menor-de-edad.php">Ahorrador menor de edad</a></li>
 								<li class="list-group-item"><a href="servicio-electronico-en-linea.php">Servicio Electrónico por Internet</a></li>
 								<li class="list-group-item"><a href="corresponsalias.php">Corresponsalias</a></li>

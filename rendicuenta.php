@@ -29,15 +29,10 @@
 							<!-- <h2 class="d-inline-block border-primary text-primary font-weight-bolder bw-3 py-2 px-3 mb-3">DESCRIPCIÓN</h2> -->
 							<img width="" src="assets/img/secciones/logos-ahorro/rendicuenta.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Sácale “jugo” a tu dinero, Rendicuenta es un instrumento de inversión a plazos fijos con atractivos rendimientos. Es el momento de hacer rendir tus ahorros.</p>
-							<p class="lead">Consulta los <span class="font-weight-bold text-primary">Consulta los costos y comisiones de nuestro producto <a href="costos-y-comisiones-de-nuestro-producto.php">aquí </a></span></p>
-							<p class="lead">Por ejemplo, <span class="font-weight-bold text-primary">Consulta el contrato universal <a href="assets/img/secciones/ahorro/FR-1008-Contrato-Universal.pdf" target="blank">aquí</a></span></p>
+							<p class="lead">Consulta los <span class="font-weight-bold text-primary">Consulta los costos y comisiones de nuestro producto <a href="consulta-los-costos-y-comisiones-de-nuestros-productos.php">aquí </a></span></p>
+							<p class="lead"><span class="font-weight-bold text-primary">Consulta el contrato universal <a href="assets/img/secciones/ahorro/FR-1008-Contrato-Universal.pdf" target="blank">aquí</a></span></p>
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
-						<!-- Cuadro de Recursos -->
-						<div class="bg-quinary text-white mb-5 p-4">
-							<p class="p-4 mb-0 bw-4 rounded border-white">Los recursos depositados en esta cuenta están protegidos por el <strong>Fondo de Protección</strong> a que se refiere el <strong>Título Cuarto de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo</strong>, hasta por <strong>25,000 Unidades de Inversión</strong>, de acuerdo a las disposiciones que establezcan el <strong>Comité Técnico y Comité de Protección al Ahorro Cooperativo del Fideicomiso</strong> que lo administra.</p>
-						</div>
-						<!-- Cuadro de Recursos -->
 					</div>
 					<div class="col-12 col-md-6">
 						<!-- MENU -->
@@ -118,23 +113,9 @@
 						<!-- MENU -->
 						<div class="row">
 							<div class="col-12 mt-5">
-								<!-- Cuadro UNE -->
-								<div class="bg-grey0 p-5">
-									<p class="display-12">Con la finalidad de atender sus aclaraciones, consultas y reclamaciones relacionadas con las operaciones y servicios que realice con nosotros, Caja Popular Mexicana pone a su disposición la <strong>Unidad Especializada de Atención a Usuarios (UNE)</strong>, con domicilio en <strong>Calle Ignacio Altamirano No. 407, Colonia San Juan de Dios, C.P. 37004, en la ciudad de León, Gto.</strong>, así como un número telefónico gratuito <strong>800 276 86 37 y 477 7 88 80 00 extensión 8142</strong> y correo electrónico une@cpm.coop.</p>
-									<p class="display-12">Situaciones que NO pueden ser atendidas por la UNE</p>
-									<ul class="display-12">
-										<li>Solicitudes de reestructura o convenios de pago de créditos.</li>
-										<li>Asuntos relacionados con solicitudes de crédito.</li>
-										<li>Aquellas que se encuentren en trámite ante la CONDUSEF o en proceso Judicial.</li>
-									</ul>
-									<p class="display-12"><strong>Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros (CONDUSEF)</strong>, al teléfono <strong>800 999 8080</strong> y en el D.F. al <strong>55 5340 0999</strong>, página de internet <strong>www.condusef.gob.mx</strong> y al correo electrónico <strong>asesoria@condusef.gob.mx</strong>.</p>
-								</div>
-								<!-- Cuadro UNE -->
-							</div>
-							<div class="col-12 mt-5">
 								<!-- Nota Legal -->
 								<div class="bg-grey0 p-5">
-									<p class="display-12">Vigencia del 09 al 15 de Enero del 2020</p>
+									<p class="display-12"><strong>Vigencia del 09 al 15 de Enero del 2020</strong></p>
 									<p class="display-12">Fecha de cálculo Enero 2020</p>
 									<p class="display-12"><strong>* GAT NOMINAL</strong> antes de impuestos. Para fines informativos y de comparación.</p>
 									<p class="display-12"><strong>**GAT REAL</strong> antes de impuestos. Para fines informativos y de comparación. La GAT REAL es el rendimiento que obtendría después de descontar la inflación estimada Para fines informativos y de comparación exclusivamente.</p>
@@ -144,7 +125,6 @@
 						</div>
 					</div>
 				</div>
-
 				<div class="row">
 					<div class="col-12">
 
@@ -179,13 +159,13 @@
 									<table class="table">
 										<thead>
 											<tr class="bg-primary">
-											<th scope="col"><span class="text-white">#</span></th>
-											<th scope="col"><span class="text-white">De</span></th>
-											<th scope="col"><span class="text-white">A</span></th>
-											<th scope="col"><span class="text-white">Tasa anual</span></th>
-											<th scope="col"><span class="text-white">GAT nominal* <br>antes de impuestos</span></th>
-											<th scope="col"><span class="text-white">GAT real** antes <br>de impuestos</span></th>
-										</tr>
+												<th scope="col"><span class="text-white">#</span></th>
+												<th scope="col"><span class="text-white">De</span></th>
+												<th scope="col"><span class="text-white">A</span></th>
+												<th scope="col"><span class="text-white">Tasa anual</span></th>
+												<th scope="col"><span class="text-white">GAT nominal* <br>antes de impuestos</span></th>
+												<th scope="col"><span class="text-white">GAT real** antes <br>de impuestos</span></th>
+											</tr>
 										</thead>
 										<tbody>
 											<tr>
@@ -245,7 +225,6 @@
 												<td>0.1.47%</td>
 											</tr>
 										</tbody>
-										</tbody>
 									</table>
 								</div>
 							</div>
@@ -256,13 +235,13 @@
 									<table class="table">
 										<thead>
 											<tr class="bg-primary">
-											<th scope="col"><span class="text-white">#</span></th>
-											<th scope="col"><span class="text-white">De</span></th>
-											<th scope="col"><span class="text-white">A</span></th>
-											<th scope="col"><span class="text-white">Tasa anual</span></th>
-											<th scope="col"><span class="text-white">GAT nominal* <br>antes de impuestos</span></th>
-											<th scope="col"><span class="text-white">GAT real** antes <br>de impuestos</span></th>
-										</tr>
+												<th scope="col"><span class="text-white">#</span></th>
+												<th scope="col"><span class="text-white">De</span></th>
+												<th scope="col"><span class="text-white">A</span></th>
+												<th scope="col"><span class="text-white">Tasa anual</span></th>
+												<th scope="col"><span class="text-white">GAT nominal* <br>antes de impuestos</span></th>
+												<th scope="col"><span class="text-white">GAT real** antes <br>de impuestos</span></th>
+											</tr>
 										</thead>
 										<tbody>
 											<tr>
@@ -322,7 +301,6 @@
 												<td>1.68%</td>
 											</tr>
 										</tbody>
-										</tbody>
 									</table>
 								</div>
 							</div>
@@ -333,13 +311,13 @@
 									<table class="table">
 										<thead>
 											<tr class="bg-primary">
-											<th scope="col"><span class="text-white">#</span></th>
-											<th scope="col"><span class="text-white">De</span></th>
-											<th scope="col"><span class="text-white">A</span></th>
-											<th scope="col"><span class="text-white">Tasa anual</span></th>
-											<th scope="col"><span class="text-white">GAT nominal* <br>antes de impuestos</span></th>
-											<th scope="col"><span class="text-white">GAT real** antes <br>de impuestos</span></th>
-										</tr>
+												<th scope="col"><span class="text-white">#</span></th>
+												<th scope="col"><span class="text-white">De</span></th>
+												<th scope="col"><span class="text-white">A</span></th>
+												<th scope="col"><span class="text-white">Tasa anual</span></th>
+												<th scope="col"><span class="text-white">GAT nominal* <br>antes de impuestos</span></th>
+												<th scope="col"><span class="text-white">GAT real** antes <br>de impuestos</span></th>
+											</tr>
 										</thead>
 										<tbody>
 											<tr>
@@ -399,7 +377,6 @@
 												<td>1.89%</td>
 											</tr>
 										</tbody>
-										</tbody>
 									</table>
 								</div>
 							</div>
@@ -410,16 +387,16 @@
 									<table class="table">
 										<thead>
 											<tr class="bg-primary">
-											<th scope="col"><span class="text-white">#</span></th>
-											<th scope="col"><span class="text-white">De</span></th>
-											<th scope="col"><span class="text-white">A</span></th>
-											<th scope="col"><span class="text-white">Tasa anual</span></th>
-											<th scope="col"><span class="text-white">GAT <br>nominal*<br>antes de<br>impuestos</span></th>
-											<th scope="col"><span class="text-white">GAT <br>real**<br>antes de<br>impuestos</span></th>
-											<th scope="col"><span class="text-white">Tasas de intereses anual <br>variable antes de<br>impuestos para pago<br>de interés c/30 días</span></th>
-											<th scope="col"><span class="text-white">* GAT nominal anual<br>antes de impuestos<br>para pago de interés<br>c/30 días</span></th>
-											<th scope="col"><span class="text-white">** GAT real anual<br>antes de impuestos<br>para pago de interés<br>c/30 días</span></th>
-										</tr>
+												<th scope="col"><span class="text-white">#</span></th>
+												<th scope="col"><span class="text-white">De</span></th>
+												<th scope="col"><span class="text-white">A</span></th>
+												<th scope="col"><span class="text-white">Tasa anual</span></th>
+												<th scope="col"><span class="text-white">GAT <br>nominal*<br>antes de<br>impuestos</span></th>
+												<th scope="col"><span class="text-white">GAT <br>real**<br>antes de<br>impuestos</span></th>
+												<th scope="col"><span class="text-white">Tasas de intereses anual <br>variable antes de<br>impuestos para pago<br>de interés c/30 días</span></th>
+												<th scope="col"><span class="text-white">* GAT nominal anual<br>antes de impuestos<br>para pago de interés<br>c/30 días</span></th>
+												<th scope="col"><span class="text-white">** GAT real anual<br>antes de impuestos<br>para pago de interés<br>c/30 días</span></th>
+											</tr>
 										</thead>
 										<tbody>
 											<tr>
@@ -499,7 +476,6 @@
 												<td>2.06%</td>
 											</tr>
 										</tbody>
-										</tbody>
 									</table>
 								</div>
 							</div>
@@ -510,16 +486,16 @@
 									<table class="table">
 										<thead>
 											<tr class="bg-primary">
-											<th scope="col"><span class="text-white">#</span></th>
-											<th scope="col"><span class="text-white">De</span></th>
-											<th scope="col"><span class="text-white">A</span></th>
-											<th scope="col"><span class="text-white">Tasa anual</span></th>
-											<th scope="col"><span class="text-white">GAT <br>nominal*<br>antes de<br>impuestos</span></th>
-											<th scope="col"><span class="text-white">GAT <br>real**<br>antes de<br>impuestos</span></th>
-											<th scope="col"><span class="text-white">Tasas de intereses anual <br>variable antes de<br>impuestos para pago<br>de interés c/30 días</span></th>
-											<th scope="col"><span class="text-white">* GAT nominal anual<br>antes de impuestos<br>para pago de interés<br>c/30 días</span></th>
-											<th scope="col"><span class="text-white">** GAT real anual<br>antes de impuestos<br>para pago de interés<br>c/30 días</span></th>
-										</tr>
+												<th scope="col"><span class="text-white">#</span></th>
+												<th scope="col"><span class="text-white">De</span></th>
+												<th scope="col"><span class="text-white">A</span></th>
+												<th scope="col"><span class="text-white">Tasa anual</span></th>
+												<th scope="col"><span class="text-white">GAT <br>nominal*<br>antes de<br>impuestos</span></th>
+												<th scope="col"><span class="text-white">GAT <br>real**<br>antes de<br>impuestos</span></th>
+												<th scope="col"><span class="text-white">Tasas de intereses anual <br>variable antes de<br>impuestos para pago<br>de interés c/30 días</span></th>
+												<th scope="col"><span class="text-white">* GAT nominal anual<br>antes de impuestos<br>para pago de interés<br>c/30 días</span></th>
+												<th scope="col"><span class="text-white">** GAT real anual<br>antes de impuestos<br>para pago de interés<br>c/30 días</span></th>
+											</tr>
 										</thead>
 										<tbody>
 											<tr>
@@ -599,7 +575,6 @@
 												<td>2.27%</td>
 											</tr>
 										</tbody>
-										</tbody>
 									</table>
 								</div>
 							</div>
@@ -610,16 +585,16 @@
 									<table class="table">
 										<thead>
 											<tr class="bg-primary">
-											<th scope="col"><span class="text-white">#</span></th>
-											<th scope="col"><span class="text-white">De</span></th>
-											<th scope="col"><span class="text-white">A</span></th>
-											<th scope="col"><span class="text-white">Tasa anual</span></th>
-											<th scope="col"><span class="text-white">GAT <br>nominal*<br>antes de<br>impuestos</span></th>
-											<th scope="col"><span class="text-white">GAT <br>real**<br>antes de<br>impuestos</span></th>
-											<th scope="col"><span class="text-white">Tasas de intereses anual <br>variable antes de<br>impuestos para pago<br>de interés c/30 días</span></th>
-											<th scope="col"><span class="text-white">* GAT nominal anual<br>antes de impuestos<br>para pago de interés<br>c/30 días</span></th>
-											<th scope="col"><span class="text-white">** GAT real anual<br>antes de impuestos<br>para pago de interés<br>c/30 días</span></th>
-										</tr>
+												<th scope="col"><span class="text-white">#</span></th>
+												<th scope="col"><span class="text-white">De</span></th>
+												<th scope="col"><span class="text-white">A</span></th>
+												<th scope="col"><span class="text-white">Tasa anual</span></th>
+												<th scope="col"><span class="text-white">GAT <br>nominal*<br>antes de<br>impuestos</span></th>
+												<th scope="col"><span class="text-white">GAT <br>real**<br>antes de<br>impuestos</span></th>
+												<th scope="col"><span class="text-white">Tasas de intereses anual <br>variable antes de<br>impuestos para pago<br>de interés c/30 días</span></th>
+												<th scope="col"><span class="text-white">* GAT nominal anual<br>antes de impuestos<br>para pago de interés<br>c/30 días</span></th>
+												<th scope="col"><span class="text-white">** GAT real anual<br>antes de impuestos<br>para pago de interés<br>c/30 días</span></th>
+											</tr>
 										</thead>
 										<tbody>
 											<tr>
@@ -699,7 +674,6 @@
 												<td>2.44%</td>
 											</tr>
 										</tbody>
-										</tbody>
 									</table>
 								</div>
 							</div>
@@ -710,16 +684,16 @@
 									<table class="table">
 										<thead>
 											<tr class="bg-primary">
-											<th scope="col"><span class="text-white">#</span></th>
-											<th scope="col"><span class="text-white">De</span></th>
-											<th scope="col"><span class="text-white">A</span></th>
-											<th scope="col"><span class="text-white">Tasa anual</span></th>
-											<th scope="col"><span class="text-white">GAT <br>nominal*<br>antes de<br>impuestos</span></th>
-											<th scope="col"><span class="text-white">GAT <br>real**<br>antes de<br>impuestos</span></th>
-											<th scope="col"><span class="text-white">Tasas de intereses anual <br>variable antes de<br>impuestos para pago<br>de interés c/30 días</span></th>
-											<th scope="col"><span class="text-white">* GAT nominal anual<br>antes de impuestos<br>para pago de interés<br>c/30 días</span></th>
-											<th scope="col"><span class="text-white">** GAT real anual<br>antes de impuestos<br>para pago de interés<br>c/30 días</span></th>
-										</tr>
+												<th scope="col"><span class="text-white">#</span></th>
+												<th scope="col"><span class="text-white">De</span></th>
+												<th scope="col"><span class="text-white">A</span></th>
+												<th scope="col"><span class="text-white">Tasa anual</span></th>
+												<th scope="col"><span class="text-white">GAT <br>nominal*<br>antes de<br>impuestos</span></th>
+												<th scope="col"><span class="text-white">GAT <br>real**<br>antes de<br>impuestos</span></th>
+												<th scope="col"><span class="text-white">Tasas de intereses anual <br>variable antes de<br>impuestos para pago<br>de interés c/30 días</span></th>
+												<th scope="col"><span class="text-white">* GAT nominal anual<br>antes de impuestos<br>para pago de interés<br>c/30 días</span></th>
+												<th scope="col"><span class="text-white">** GAT real anual<br>antes de impuestos<br>para pago de interés<br>c/30 días</span></th>
+											</tr>
 										</thead>
 										<tbody>
 											<tr>
@@ -799,7 +773,6 @@
 												<td>3.86%</td>
 											</tr>	
 										</tbody>
-										</tbody>
 									</table>
 								</div>
 							</div>
@@ -807,8 +780,9 @@
 
 					</div>
 				</div>
-				
 
+			<?php include('inc/une-recursos.php'); ?>
+			</div>
 		</section>
 
 <?php include('inc/boletin-and-banner.php') ?> <!-- ./ Boletín y banner -->

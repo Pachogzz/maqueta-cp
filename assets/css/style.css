@@ -562,8 +562,10 @@ p a{ font-weight: bold; }
 .accordion-cpm .card-body{}
 .tab-content .tab-pane ul,
 .accordion-cpm .card-body ul{ list-style: none; }
+ul.has-arrow li,
 .tab-content .tab-pane ul li,
 .accordion-cpm .card-body ul li{ position: relative; display: block; margin-bottom: 10px; }
+ul.has-arrow li:before,
 .tab-content .tab-pane ul li:before,
 .accordion-cpm .card-body ul li:before{
 	font-family: "Font Awesome 5 Pro";
@@ -1018,6 +1020,7 @@ p a{ font-weight: bold; }
 		left: 10%;
 		text-align: left;
 	}
+	
 	/* Display Responsive Fix */
 		.display-1{ font-size: 5rem; line-height: 5.2rem; }
 		.display-2{ font-size: 4.4rem; line-height: 4.8rem; }

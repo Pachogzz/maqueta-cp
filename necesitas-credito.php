@@ -16,8 +16,8 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-8 offset-md-2">
-						<p class="h3 text-center w-100 font-weight-semibold mb-md-4">CONOCE LA VARIEDAD DE PRODUCTOS DE CRÉDITO QUE TE OFRECEMOS</p>
-						<p class="h4 text-center w-100 font-weight-semibold">Informar a los usuarios sobre los diversos préstamos que tenemos a su disposición.</p>
+						<p class="h3 text-center w-100 font-weight-semibold mb-md-4">Conoce la variedad de productos de crédito que tenemos a tu disposición</p>
+						<!-- <p class="h4 text-center w-100 font-weight-semibold">Informar a los usuarios sobre los diversos préstamos que tenemos a su disposición.</p> -->
 					</div>
 				</div>
 			</div>
@@ -26,17 +26,17 @@
 		<section class="landing-grid">
 			<div class="container">
 				<div class="row row-eq-height">
-					<div class="landing-grid-box col-12 col-md-4">
+					<div class="landing-grid-box col-12 col-lg-4">
 						<a href="credito-personal-plus-cpm.php" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
 							<i class="far fa-money-bill-alt fa-4x bg-primary text-white rounded-circle"></i>
 							<!-- <img src="assets/img/icons/icon-bills.png" class="bg-primary p-3 rounded-circle" width="120" height="120" alt=""> -->
-							<h3>Crédito <br>Personal Plus</h3>
+							<h3>Crédito <br>Personal Plus CPM</h3>
 							<p>Satisface cualquier necesidad de consumo o actividad lícita, excepto finalidades productivas y comerciales.</p>
 						</div>
 						</a>
 					</div> <!-- ./ Personal Plus -->
-					<div class="landing-grid-box col-12 col-md-4">
+					<div class="landing-grid-box col-12 col-lg-4">
 						<a href="credito-credinamico-cpm.php" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
 							<i class="fas fa-sync-alt fa-4x bg-primary text-white rounded-circle"></i>
@@ -46,7 +46,7 @@
 						</div>
 						</a>
 					</div> <!-- ./ Credinamico -->
-					<div class="landing-grid-box col-12 col-md-4">
+					<div class="landing-grid-box col-12 col-lg-4">
 						<a href="credito-inmediato-cpm.php" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
 							<i class="far fa-clock fa-4x bg-primary text-white rounded-circle"></i>
@@ -58,7 +58,7 @@
 					</div> <!-- ./ Inmediato -->
 				</div>
 				<div class="row row-eq-height">
-					<div class="landing-grid-box col-12 col-md-4">
+					<div class="landing-grid-box col-12 col-lg-4">
 						<a href="credito-productivo-cpm.php" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
 							<i class="fas fa-file-invoice-dollar fa-4x bg-primary text-white rounded-circle"></i>
@@ -68,7 +68,7 @@
 						</div>
 						</a>
 					</div> <!-- ./ Productivo -->
-					<div class="landing-grid-box col-12 col-md-4">
+					<div class="landing-grid-box col-12 col-lg-4">
 						<a href="credito-automotriz-cpm.php" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
 							<i class="fas fa-car-side fa-4x bg-primary text-white rounded-circle"></i>
@@ -78,7 +78,7 @@
 						</div>
 						</a>
 					</div> <!-- ./ Automotríz -->
-					<div class="landing-grid-box col-12 col-md-4">
+					<div class="landing-grid-box col-12 col-lg-4 mb-md-5 mb-lg-auto">
 						<a href="credito-hipotecario-cpm.php" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
 							<i class="fas fa-home fa-4x bg-primary text-white rounded-circle"></i>

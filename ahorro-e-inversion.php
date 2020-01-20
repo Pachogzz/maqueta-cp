@@ -16,7 +16,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-8 offset-md-2">
-						<p class="h3 text-center w-100 font-weight-semibold mb-md-4">CONOCE LA VARIEDAD DE PRODUCTOS DE AHORRO E INVERSIÓN QUE TE OFRECEMOS</p>
+						<p class="h3 text-center w-100 font-weight-semibold mb-md-4">Conoce la variedad de productos de ahorro e inversión que tenemos para ti.</p>
 						<!-- <p class="h4 text-center w-100 font-weight-semibold">Informar a los usuarios sobre los diversos préstamos que tenemos a su disposición.</p> -->
 					</div>
 				</div>
@@ -35,7 +35,7 @@
 							<p>Quiero sacarle más "jugo" a mi dinero.</p>
 						</div>
 						</a>
-					</div> <!-- ./ Personal Plus -->
+					</div> <!-- ./ Rendicuenta -->
 					<div class="landing-grid-box col-12 col-md-4">
 						<a href="mi-alcancia.php" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
@@ -45,7 +45,7 @@
 							<p>Quiero ahorrar por que tengo un proyecto.</p>
 						</div>
 						</a>
-					</div> <!-- ./ Credinamico -->
+					</div> <!-- ./ Mi alcancía -->
 					<div class="landing-grid-box col-12 col-md-4">
 						<a href="mi-alcancia-junior.php" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
@@ -55,19 +55,9 @@
 							<p>Soy menor, quiero formarme el ábito del ahorro.</p>
 						</div>
 						</a>
-					</div> <!-- ./ Inmediato -->
+					</div> <!-- ./ Mi alcancía jr -->
 				</div>
 				<div class="row row-eq-height">
-					<div class="landing-grid-box col-12 col-md-4">
-						<a href="servicuenta.php" class="h-100">
-						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
-							<i class="fas fa-file-invoice-dollar fa-4x bg-primary text-white rounded-circle"></i>
-							<!-- <img src="assets/img/icons/icon-group-people.png" class="bg-primary p-3 rounded-circle" width="120" height="120" alt=""> -->
-							<h3>Servicuenta</h3>
-							<p>Quiero disponibilidad en mi dinero.</p>
-						</div>
-						</a>
-					</div> <!-- ./ Productivo -->
 					<div class="landing-grid-box col-12 col-md-4">
 						<a href="cuenta-mexicana.php" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
@@ -77,7 +67,17 @@
 							<p>Quiero formar mi patrimonio y tener acceso al crédito.</p>
 						</div>
 						</a>
-					</div> <!-- ./ Automotríz -->
+					</div> <!-- ./ Cuenta Mexicana -->
+					<div class="landing-grid-box col-12 col-md-4">
+						<a href="servicuenta.php" class="h-100">
+						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
+							<i class="fas fa-file-invoice-dollar fa-4x bg-primary text-white rounded-circle"></i>
+							<!-- <img src="assets/img/icons/icon-group-people.png" class="bg-primary p-3 rounded-circle" width="120" height="120" alt=""> -->
+							<h3>Servicuenta</h3>
+							<p>Quiero disponibilidad en mi dinero.</p>
+						</div>
+						</a>
+					</div> <!-- ./ Servicuenta -->
 					<div class="landing-grid-box col-12 col-md-4">
 						<a href="cuentamiga.php" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
@@ -87,7 +87,7 @@
 							<p>Soy menor, quiero formarme el hábito del ahorro.</p>
 						</div>
 						</a>
-					</div> <!-- ./ Hipotecario -->
+					</div> <!-- ./ Cuentamiga -->
 				</div>
 			</div>
 		</section>

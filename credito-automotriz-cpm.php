@@ -26,13 +26,14 @@
 							<!-- <h2 class="d-inline-block border-primary text-primary font-weight-bolder bw-3 py-2 px-3 mb-3">DESCRIPCIÓN</h2> -->
 							<img width="" src="assets/img/secciones/logos-credito/credito-automotriz.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Adquiere el automóvil que tú quieras ya sea nuevo o seminuevo de agencia para uso personal o productivo ¡Te financiamos hasta el 100% del valor del vehículo!</p>
-							<p class="lead my-3 font-weight-bold text-primary">Montos desde $36,157.00 Hasta $903,930.00 </p>
+							<p class="lead my-3 font-weight-bold text-primary">Montos desde $36,157.00 hasta $903,930.00 </p>
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
+						<?php include('inc/calculadoras/calculadora-de-credito.php') ?> <!-- ./ calculadora de credito -->
 						<!-- Nota Legal -->
 						<div class="bg-grey0 p-5 mb-5">
-							<p class="display-12"><strong>Costo Anual Total Promedio de 28.8% sin IVA</strong>. Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 30 de Junio de 2019.</strong></p>
-							<p class="display-12">*Cálculo para el <strong>Crédito Personal Plus CPM</strong> por la cantidad de <strong>$15,000.00 a un plazo de 12 meses con un monto mínimo de ahorro de $1,500.00</strong>.</p>
+							<p class="display-12"><strong>Costo Anual Total Promedio de 20.3% sin IVA</strong>. Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 31 de Diciembre de 2019.</strong></p>
+							<p class="display-12">*Cálculo para el <strong>Crédito Automotríz CPM</strong> por la cantidad de <strong>$15,000.00 a un plazo de 12 meses con un monto mínimo de ahorro de $1,500.00</strong>.</p>
 							<ul class="display-12">
 								<li>Sujeto a aprobación de crédito.</li>
 								<li>Préstamo otorgado en moneda nacional.</li>
@@ -42,7 +43,6 @@
 							</ul>
 						</div>
 						<!-- Nota Legal -->
-						<?php include('inc/calculadoras/calculadora-de-credito.php') ?> <!-- ./ calculadora de credito -->
 					</div>
 					<div class="col-12 col-md-6">
 						<!-- MENU -->
@@ -86,8 +86,8 @@
 											<li><strong>Tasa de Interés</strong>
 												<p>Tasa de interés ordinaria anual fija desde un 12.84% hasta un 33.0% antes de impuestos. La tasa se asignará de acuerdo al perfil crediticio del socio.</p>
 											</li>
-											<li><strong>CAT Promedio Creédito Personal Plus CPM</strong>
-												<p><strong>Costo Anual Total Promedio de 20.8% sin IVA.</strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 30 de Junio de 2019.</strong></p>
+											<li><strong>CAT Promedio Crédito Automotríz CPM</strong>
+												<p><strong>Costo Anual Total Promedio de 20.8% sin IVA.</strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 31 de Diciembre de 2019.</strong></p>
 											</li>
 										</ul>
 									</div>

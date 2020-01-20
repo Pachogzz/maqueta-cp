@@ -1,16 +1,16 @@
-<form action="entregar-informacion.php" method="POST">
+<form id="productFormCreditos" action="inc/forms/entregar-mailercaptcha.php" method="POST">
 	<div class="form-row">
 		<div class="form-group col-12">
 			<label for="nombreCompleto">Nombre completo</label>
-			<input type="text" class="form-control" id="nombreCompleto" required="">
+			<input type="text" class="form-control" id="nombreCompleto" name="nombreCompleto" required="">
 		</div>
 		<div class="form-group col-md-6">
 			<label for="correoelectronico">Correo</label>
-			<input type="email" class="form-control" id="correoelectronico" required="">
+			<input type="email" class="form-control" id="correoelectronico" name="correoelectronico" required="">
 		</div>
 		<div class="form-group col-md-6">
 			<label for="telefonoDeContacto">Teléfono</label>
-			<input type="text" class="form-control" id="telefonoDeContacto" required="">
+			<input type="text" class="form-control" id="telefonoDeContacto" name="telefonoDeContacto" required="">
 		</div>
 	</div>
 	<div class="form-group">
@@ -19,12 +19,12 @@
 			<div class="input-group-prepend">
 				<div class="input-group-text"><i class="fas fa-dollar-sign"></i></div>
 			</div>
-			<input type="number" class="form-control" id="montoaSolicitar" required="">
+			<input type="number" class="form-control" id="montoaSolicitar" name="montoaSolicitar" required="">
 		</div>
 	</div>
 	<div class="form-group">
 		<label for="finalidad">Finalidad</label>
-		<input type="text" class="form-control" id="finalidad" required="">
+		<input type="text" class="form-control" id="finalidad" name="finalidad" required="">
 	</div>
 	<div class="form-group">
 		<label for="numerodeSocio">Numero de socio</label>
@@ -32,7 +32,7 @@
 			<div class="input-group-prepend">
 				<div class="input-group-text"><i class="fas fa-user"></i></div>
 			</div>
-			<input type="number" class="form-control" id="numerodeSocio">
+			<input type="number" class="form-control" id="numerodeSocio" name="numerodeSocio">
 		</div>
 	</div>
 	<div class="form-row">
@@ -47,7 +47,7 @@
 	</div>
 	<div class="form-group">
 		<div class="form-check">
-			<input class="form-check-input" type="checkbox" id="avisoDePrivacidad" required>
+			<input class="form-check-input" type="checkbox" id="avisoDePrivacidad" name="avisoDePrivacidad" required>
 			<label class="form-check-label" for="avisoDePrivacidad">
 				<a href="aviso-de-privacidad.php" target="_blank">Consulta nuestro aviso de privacidad</a>
 			</label>

@@ -3,7 +3,7 @@
 				<div class="row text-center">
 					<div class="col-12 col-lg z-index-1">
 						<a href="#" class="btn btn-primary btn-lg btn-block rounded-pill w-100 w-lg-75 mx-auto p-3 mb-2 mb-lg-0 active">
-							Queremos servirte <br>socio <i class="fa fa-chevron-circle-right"></i>
+							Avisos <br>legalers <i class="fa fa-chevron-circle-right"></i>
 						</a>
 					</div>
 					<div class="col-12 col-lg p-0 pl-md-0 pl-lg-3 mb-2 mb-lg-0 white-circle-n-line">
@@ -36,7 +36,7 @@
 					<div class="col-12">
 						<div class="dropdown">
 							<a class="btn btn-primary rounded-pill text-white w-100 float-right" data-toggle="collapse" href="#innerMenuMobile" role="button" aria-expanded="false" aria-controls="innerMenuMobile">
-								Queremos servirte <i class="fa fa-chevron-circle-down"></i>
+								Avisos legales <i class="fa fa-chevron-circle-down"></i>
 							</a>
 						</div>
 						<div class="collapse w-100" id="innerMenuMobile">

@@ -23,147 +23,17 @@
 								<div class="card-header" id="headingOne">
 									<h2 class="mb-0">
 										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-											Créditos Personales
+											Créditos Personal Plus CPM
 										</button>
 									</h2>
 								</div>
 
 								<div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionCCNP1">
 									<div class="card-body bg-grey0 p-4">
-											<h4>Crédito Personal CPM</h4>
-											<table class="table table-responsive-md table-bordered p-5 bg-white">
-												<thead>
-													<tr class="bg-primary">
-													
-													<th scope="col"><span class="text-white">Nombre comercial del producto</span></th>
-													<th scope="col"><span class="text-white">Concepto</span></th>
-													<th scope="col"><span class="text-white">Monto</span></th>
-													<th scope="col"><span class="text-white">Periodicidad</span></th>
-													<th scope="col"><span class="text-white">Tasas de intereses<br>anual variable antes de<br>impuestos</span></th>
-													<th scope="col"><span class="text-white">*CAT promedio</th>
-													<th scope="col"><span class="text-white">Fecha<br>de<br>cálculo</span></th>
-													</tr>
-												</thead>
-												<tbody>
-													<tr>
-												<td>Crédito personal CPM</td>
-												<td>No aplica<br>comisión</td>
-												<td>0.00</td>
-												<td>No aplica</td>
-												<td>Min.: 15.15% hasta un Mx: 25.71%</td>
-												<td>35.8 sin IVA%</td>
-												<td>30/06/2019</td>
-													</tr>
-												</tbody>
-											</table>
-											<p><strong>*CAT</strong> es el costo anual total del financiamiento expresado en términos porcentuales anuales que, para fines informativos y de comparación, incorpora la totalidad de los costos y gastos inherentes a los créditos.</p>
-											<p>El préstamo otorgado es en moneda nacional. Disponible en todas nuestras sucursales a nivel nacional.</p>
-											<p>[i] <strong>Tasa por rangos:</strong> tasas determinadas en base a la siguiente tabla; en las que se consideren conceptos como aportación excedente, garantía líquida, capital en riesgo y la relación proporcional entre estos.</p>
-											<table class="table table-responsive-md table-bordered w-50">
-												<thead class="bg-grey2 text-white">
-													<tr>
-														<th colspan="2"><strong>Monto que excede la garantía liquida</strong></th>
-														<th colspan="4"><strong>Número de veces**</strong></th>
-													</tr>
-													<tr>
-														<th scope="col"><strong>Desde</strong></th>
-														<th scope="col"><strong>Hasta</strong></th>
-														<th scope="col"><strong>2</strong></th>
-														<th scope="col"><strong>3</strong></th>
-														<th scope="col"><strong>4</strong></th>
-														<th scope="col"><strong>más de 4</strong></th>
-													</tr>
-												</thead>
-												<tbody class="w-75">
-													<tr>
-														<td scope="row" colspan="2">Sobre Haberes 1%</td>
-														<td></td>
-														<td></td>
-														<td></td>
-														<td></td>
-													</tr>
-													<tr>
-														<td scope="row">$0.01</td>
-														<td>$10,000.00</td>
-														<td>15.15%</td>
-														<td>17.91%</td>
-														<td>20.67%</td>
-														<td>23.43%</td>
-													</tr>
-													<tr>
-														<td scope="row">$10,000.01</td>
-														<td>$25,000.00</td>
-														<td>17.07%</td>
-														<td>19.59%</td>
-														<td>22.23%</td>
-														<td>24.15%</td>
-													</tr>
-													<tr>
-														<td scope="row">$25,000.01</td>
-														<td>$50,000.00</td>
-														<td>18.99%</td>
-														<td>21.15%</td>
-														<td>23.31%</td>
-														<td>24.75%</td>
-													</tr>
-													<tr>
-														<td scope="row">$50,000.01</td>
-														<td>$100,000.00</td>
-														<td>20.91%</td>
-														<td>22.83%</td>
-														<td>24.27%</td>
-														<td>25.23%</td>
-													</tr>
-													<tr>
-														<td scope="row">$100,000.01</td>
-														<td>En adelante</td>
-														<td>22.59%</td>
-														<td>24.15%</td>
-														<td>25.11%</td>
-														<td>25.71%</td>
-													</tr>
-												</tbody>
-											</table>
-											<p><strong>** Número</strong> de veces se refiere a: el número de veces prestado sobre el monto de garantía líquida.</p>
-											
-											<hr>
-
-											<h4>Crédito Personal Preferencial CPM</h4>
-											<table class="table table-responsive-md table-bordered p-5 bg-white">
-												<thead>
-													<tr class="bg-primary">
-													
-													<th scope="col"><span class="text-white">Nombre comercial del producto</span></th>
-													<th scope="col"><span class="text-white">Concepto</span></th>
-													<th scope="col"><span class="text-white">Monto</span></th>
-													<th scope="col"><span class="text-white">Periodicidad</span></th>
-													<th scope="col"><span class="text-white">Tasas de intereses<br>anual fija antes de<br>impuestos</span></th>
-													<th scope="col"><span class="text-white">*CAT promedio</th>
-													<th scope="col"><span class="text-white">Fecha<br>de<br>cálculo</span></th>
-													</tr>
-												</thead>
-												<tbody>
-													<tr>
-														<td scope="row">Crédito Personal Preferencial CPM</td>
-														<td>No aplica<br>comisión</td>
-														<td>0.00</td>
-														<td>No aplica</td>
-														<td>17.55%</td>
-														<td>23.5% sin IVA%</td>
-														<td>30/06/2019</td>
-													</tr>
-												</tbody>
-											</table>
-											<p><strong>CAT</strong> es el costo anual total del financiamiento expresado en términos porcentuales anuales que, para fines informativos y de comparación, incorpora la totalidad de los costos y gastos inherentes a los créditos.</p>
-											<p>El préstamo otorgado es en moneda nacional. Disponible en todas nuestras sucursales a nivel nacional.<br><br></p>
-											
-											<hr>
-
 											<h4>Crédito Personal Plus CPM</h4>
 											<table class="table table-responsive-md table-bordered p-5 bg-white">
 												<thead>
 													<tr class="bg-primary">
-													
 													<th scope="col"><span class="text-white">Nombre comercial del producto</span></th>
 													<th scope="col"><span class="text-white">Concepto</span></th>
 													<th scope="col"><span class="text-white">Monto</span></th>
@@ -485,7 +355,7 @@
 									<p><strong>*GAT nominal anual antes de impuestos:</strong> Para fines informativos y de comparación.</p>
 									<p><strong>** GAT real anual antes de impuestos: </strong>Para fines informativos y de comparación. La GAT real, es el rendimiento que obtendrá después de descontar la inflación estimada; para fines informativos y de comparación exclusivamente.</p>
 									<p>Ahorro en moneda nacional. Disponible en todas nuestras sucursales a nivel nacional.</p>
-									<p><em class="text-primary">Los recursos depositados en estas cuentas están protegidos por el Fondo de Protección a que se refiere el Título Cuarto de la Ley para Regular las Actividads de las Sociedades Cooperativas de Ahorro y Préstamo, hasta por 25,000 Unidades de Inversión por socio ahorrador de Caja Popular Mexicana, de acuerdo a las disposiciones que establezcan el Comité Técnico y Comité de Protección al Ahorro Cooperativo del Fideicomiso que lo administra.</em></p>
+									<p><em><strong>Los recursos depositados en estas cuentas están protegidos por el Fondo de Protección a que se refiere el Título Cuarto de la Ley para Regular las Actividads de las Sociedades Cooperativas de Ahorro y Préstamo, hasta por 25,000 Unidades de Inversión por socio ahorrador de Caja Popular Mexicana, de acuerdo a las disposiciones que establezcan el Comité Técnico y Comité de Protección al Ahorro Cooperativo del Fideicomiso que lo administra.</strong></em></p>
 									</div>
 								</div>
 							</div>
@@ -600,7 +470,7 @@
 										<p><strong>*GAT nominal anual antes de impuestos:</strong> Para fines informativos y de comparación.</p>
 										<p><strong>** GAT real anual antes de impuestos: </strong>Para fines informativos y de comparación. La GAT real, es el rendimiento que obtendrá después de descontar la inflación estimada; para fines informativos y de comparación exclusivamente.</p>
 										<p>Ahorro en moneda nacional. Disponible en todas nuestras sucursales a nivel nacional.</p>
-										<p><em class="text-primary">Los recursos depositados en estas cuentas están protegidos por el Fondo de Protección a que se refiere el Título Cuarto de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, hasta por 25,000 Unidades de Inversión por socio ahorrador de Caja Popular Mexicana, de acuerdo a las disposiciones que establezcan el Comité Técnico y Comité de Protección al Ahorro Cooperativo del Fideicomiso que lo administra.</em></p>
+										<p><em><strong>Los recursos depositados en estas cuentas están protegidos por el Fondo de Protección a que se refiere el Título Cuarto de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, hasta por 25,000 Unidades de Inversión por socio ahorrador de Caja Popular Mexicana, de acuerdo a las disposiciones que establezcan el Comité Técnico y Comité de Protección al Ahorro Cooperativo del Fideicomiso que lo administra.</strong></em></p>
 									</div>
 								</div>
 							</div>
@@ -728,7 +598,7 @@
 										<p><strong>*GAT nominal anual antes de impuestos:</strong> Para fines informativos y de comparación.</p>
 										<p><strong>** GAT real anual antes de impuestos: </strong>Para fines informativos y de comparación. La GAT real, es el rendimiento que obtendrá después de descontar la inflación estimada; para fines informativos y de comparación exclusivamente.</p>
 										<p>Ahorro en moneda nacional. Disponible en todas nuestras sucursales a nivel nacional.</p>
-										<p><em class="text-primary">Los recursos depositados en estas cuentas están protegidos por el Fondo de Protección a que se refiere el Título Cuarto de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, hasta por 25,000 Unidades de Inversión por socio ahorrador de Caja Popular Mexicana, de acuerdo a las disposiciones que establezcan el Comité Técnico y Comité de Protección al Ahorro Cooperativo del Fideicomiso que lo administra.</em></p>
+										<p><em><strong>Los recursos depositados en estas cuentas están protegidos por el Fondo de Protección a que se refiere el Título Cuarto de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, hasta por 25,000 Unidades de Inversión por socio ahorrador de Caja Popular Mexicana, de acuerdo a las disposiciones que establezcan el Comité Técnico y Comité de Protección al Ahorro Cooperativo del Fideicomiso que lo administra.</strong></em></p>
 
 									</div>
 								</div>
@@ -865,7 +735,7 @@
 										<p><strong>*GAT nominal anual antes de impuestos:</strong> Para fines informativos y de comparación.</p>
 										<p><strong>** GAT real anual antes de impuestos: </strong>Para fines informativos y de comparación. La GAT real, es el rendimiento que obtendrá después de descontar la inflación estimada; para fines informativos y de comparación exclusivamente.</p>
 										<p>Ahorro en moneda nacional. Disponible en todas nuestras sucursales a nivel nacional.</p>
-										<p><em class="text-primary">Los recursos depositados en estas cuentas están protegidos por el Fondo de Protección a que se refiere el Título Cuarto de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, hasta por 25,000 Unidades de Inversión por socio ahorrador de Caja Popular Mexicana, de acuerdo a las disposiciones que establezcan el Comité Técnico y Comité de Protección al Ahorro Cooperativo del Fideicomiso que lo administra.</em></p>
+										<p><em><strong>Los recursos depositados en estas cuentas están protegidos por el Fondo de Protección a que se refiere el Título Cuarto de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, hasta por 25,000 Unidades de Inversión por socio ahorrador de Caja Popular Mexicana, de acuerdo a las disposiciones que establezcan el Comité Técnico y Comité de Protección al Ahorro Cooperativo del Fideicomiso que lo administra.</strong></em></p>
 									</div>
 								</div>
 							</div>
@@ -972,7 +842,7 @@
 										<p><strong>*GAT nominal anual antes de impuestos:</strong> Para fines informativos y de comparación.</p>
 										<p><strong>** GAT real anual antes de impuestos: </strong>Para fines informativos y de comparación. La GAT real, es el rendimiento que obtendrá después de descontar la inflación estimada; para fines informativos y de comparación exclusivamente.</p>
 										<p>Ahorro en moneda nacional. Disponible en todas nuestras sucursales a nivel nacional.</p>
-										<p><em class="text-primary">Los recursos depositados en estas cuentas están protegidos por el Fondo de Protección a que se refiere el Título Cuarto de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, hasta por 25,000 Unidades de Inversión por socio ahorrador de Caja Popular Mexicana, de acuerdo a las disposiciones que establezcan el Comité Técnico y Comité de Protección al Ahorro Cooperativo del Fideicomiso que lo administra.</em></p>
+										<p><em><strong>Los recursos depositados en estas cuentas están protegidos por el Fondo de Protección a que se refiere el Título Cuarto de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, hasta por 25,000 Unidades de Inversión por socio ahorrador de Caja Popular Mexicana, de acuerdo a las disposiciones que establezcan el Comité Técnico y Comité de Protección al Ahorro Cooperativo del Fideicomiso que lo administra.</strong></em></p>
 
 									</div>
 								</div>
@@ -1090,7 +960,7 @@
 										<p><strong>*GAT nominal anual antes de impuestos:</strong> Para fines informativos y de comparación.</p>
 										<p><strong>** GAT real anual antes de impuestos: </strong>Para fines informativos y de comparación. La GAT real, es el rendimiento que obtendrá después de descontar la inflación estimada; para fines informativos y de comparación exclusivamente.</p>
 										<p>Ahorro en moneda nacional. Disponible en todas nuestras sucursales a nivel nacional.</p>
-										<p><em class="text-primary">Los recursos depositados en estas cuentas están protegidos por el Fondo de Protección a que se refiere el Título Cuarto de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, hasta por 25,000 Unidades de Inversión por socio ahorrador de Caja Popular Mexicana, de acuerdo a las disposiciones que establezcan el Comité Técnico y Comité de Protección al Ahorro Cooperativo del Fideicomiso que lo administra.</em></p>
+										<p><em><strong>Los recursos depositados en estas cuentas están protegidos por el Fondo de Protección a que se refiere el Título Cuarto de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, hasta por 25,000 Unidades de Inversión por socio ahorrador de Caja Popular Mexicana, de acuerdo a las disposiciones que establezcan el Comité Técnico y Comité de Protección al Ahorro Cooperativo del Fideicomiso que lo administra.</strong></em></p>
 
 									</div>
 								</div>
@@ -1220,7 +1090,7 @@
 										<p><strong>*GAT nominal anual antes de impuestos:</strong> Para fines informativos y de comparación.</p>
 										<p><strong>** GAT real anual antes de impuestos: </strong>Para fines informativos y de comparación. La GAT real, es el rendimiento que obtendrá después de descontar la inflación estimada; para fines informativos y de comparación exclusivamente.</p>
 										<p>Ahorro en moneda nacional. Disponible en todas nuestras sucursales a nivel nacional.</p>
-										<p><em class="text-primary">Los recursos depositados en estas cuentas están protegidos por el Fondo de Protección a que se refiere el Título Cuarto de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, hasta por 25,000 Unidades de Inversión por socio ahorrador de Caja Popular Mexicana, de acuerdo a las disposiciones que establezcan el Comité Técnico y Comité de Protección al Ahorro Cooperativo del Fideicomiso que lo administra.</em></p>
+										<p><em><strong>Los recursos depositados en estas cuentas están protegidos por el Fondo de Protección a que se refiere el Título Cuarto de la Ley para Regular las Actividades de las Sociedades Cooperativas de Ahorro y Préstamo, hasta por 25,000 Unidades de Inversión por socio ahorrador de Caja Popular Mexicana, de acuerdo a las disposiciones que establezcan el Comité Técnico y Comité de Protección al Ahorro Cooperativo del Fideicomiso que lo administra.</strong></em></p>
 
 									</div>
 								</div>
