@@ -2861,13 +2861,8 @@ eqfeed_callback(
         "imagen2": "assets/img/secciones/sucursales/banners/digital-sucu.jpg",
         "texto2": "Usa nuestras plataformas CPM en Línea y CPM Móvil para realizar tus operaciones",
         "ver_mas2": "servicio-electronico-en-linea.php",
-<<<<<<< HEAD
         "imagen3": "assets/img/secciones/sucursales/banners/BANNER-SUCU2.jpg",
         "texto3": "No olvides acudir a tu Asamblea ¡Unidos lo hacemos posible!",
-=======
-        "imagen3": "https://www.cpm.coop/wp-content/uploads/2019/07/Banner-Web-Corresponsal%C3%ADas_1500x941-px-Principal-900x563.jpg",
-        "texto3": "Texto para banner 2 en cuadro de prueba",
->>>>>>> 66bfafde6c105be1665d18b859e843f43de5e0ac
         "ver_mas3": "ubica-tu-sucursal.php",
         "direccion_asamblea": "Plaza Sámano S/N, Parácuaro, C.P. 38730, ACAMBARO, Gto.",
         "fecha_asamblea": "2/7/2020",
@@ -2913,13 +2908,8 @@ eqfeed_callback(
         "imagen2": "assets/img/secciones/sucursales/banners/digital-sucu.jpg",
         "texto2": "Usa nuestras plataformas CPM en Línea y CPM Móvil para realizar tus operaciones",
         "ver_mas2": "servicio-electronico-en-linea.php",
-<<<<<<< HEAD
         "imagen3": "assets/img/secciones/sucursales/banners/BANNER-SUCU2.jpg",
         "texto3": "No olvides acudir a tu Asamblea ¡Unidos lo hacemos posible!",
-=======
-        "imagen3": "https://www.cpm.coop/wp-content/uploads/2019/07/Banner-Web-Corresponsal%C3%ADas_1500x941-px-Principal-900x563.jpg",
-        "texto3": "Texto para banner 2 en cuadro de prueba",
->>>>>>> 66bfafde6c105be1665d18b859e843f43de5e0ac
         "ver_mas3": "ubica-tu-sucursal.php",
         "direccion_asamblea": "Empalme Escobedo, C.P. 38210, Comonfort, Gto.",
         "fecha_asamblea": "2/23/2020",
@@ -2965,13 +2955,8 @@ eqfeed_callback(
         "imagen2": "assets/img/secciones/sucursales/banners/digital-sucu.jpg",
         "texto2": "Usa nuestras plataformas CPM en Línea y CPM Móvil para realizar tus operaciones",
         "ver_mas2": "servicio-electronico-en-linea.php",
-<<<<<<< HEAD
         "imagen3": "assets/img/secciones/sucursales/banners/BANNER-SUCU2.jpg",
         "texto3": "No olvides acudir a tu Asamblea ¡Unidos lo hacemos posible!",
-=======
-        "imagen3": "https://www.cpm.coop/wp-content/uploads/2019/07/Banner-Web-Corresponsal%C3%ADas_1500x941-px-Principal-900x563.jpg",
-        "texto3": "Texto para banner 2 en cuadro de prueba",
->>>>>>> 66bfafde6c105be1665d18b859e843f43de5e0ac
         "ver_mas3": "ubica-tu-sucursal.php",
         "direccion_asamblea": "Justo Sierra # 514, Roque, C.P. 38110, Celaya, Gto.",
         "fecha_asamblea": "2/16/2020",
@@ -3017,13 +3002,8 @@ eqfeed_callback(
         "imagen2": "assets/img/secciones/sucursales/banners/digital-sucu.jpg",
         "texto2": "Usa nuestras plataformas CPM en Línea y CPM Móvil para realizar tus operaciones",
         "ver_mas2": "servicio-electronico-en-linea.php",
-<<<<<<< HEAD
         "imagen3": "assets/img/secciones/sucursales/banners/BANNER-SUCU2.jpg",
         "texto3": "No olvides acudir a tu Asamblea ¡Unidos lo hacemos posible!",
-=======
-        "imagen3": "https://www.cpm.coop/wp-content/uploads/2019/07/Banner-Web-Corresponsal%C3%ADas_1500x941-px-Principal-900x563.jpg",
-        "texto3": "Texto para banner 2 en cuadro de prueba",
->>>>>>> 66bfafde6c105be1665d18b859e843f43de5e0ac
         "ver_mas3": "ubica-tu-sucursal.php",
         "direccion_asamblea": "Manuel Doblado # 1 esq. con Abasolo, Col. Las Fuentes, C.P. 38048, Celaya, Gto.",
         "fecha_asamblea": "2/29/2020",
@@ -3069,13 +3049,8 @@ eqfeed_callback(
         "imagen2": "assets/img/secciones/sucursales/banners/digital-sucu.jpg",
         "texto2": "Usa nuestras plataformas CPM en Línea y CPM Móvil para realizar tus operaciones",
         "ver_mas2": "servicio-electronico-en-linea.php",
-<<<<<<< HEAD
         "imagen3": "assets/img/secciones/sucursales/banners/BANNER-SUCU2.jpg",
         "texto3": "No olvides acudir a tu Asamblea ¡Unidos lo hacemos posible!",
-=======
-        "imagen3": "https://www.cpm.coop/wp-content/uploads/2019/07/Banner-Web-Corresponsal%C3%ADas_1500x941-px-Principal-900x563.jpg",
-        "texto3": "Texto para banner 2 en cuadro de prueba",
->>>>>>> 66bfafde6c105be1665d18b859e843f43de5e0ac
         "ver_mas3": "ubica-tu-sucursal.php",
         "direccion_asamblea": "Eusebio González # 107, Col. Bajío de las Américas, C.P. 38014, Celaya, Gto",
         "fecha_asamblea": "2/9/2020",
@@ -3121,13 +3096,8 @@ eqfeed_callback(
         "imagen2": "assets/img/secciones/sucursales/banners/digital-sucu.jpg",
         "texto2": "Usa nuestras plataformas CPM en Línea y CPM Móvil para realizar tus operaciones",
         "ver_mas2": "servicio-electronico-en-linea.php",
-<<<<<<< HEAD
         "imagen3": "assets/img/secciones/sucursales/banners/BANNER-SUCU2.jpg",
         "texto3": "No olvides acudir a tu Asamblea ¡Unidos lo hacemos posible!",
-=======
-        "imagen3": "https://www.cpm.coop/wp-content/uploads/2019/07/Banner-Web-Corresponsal%C3%ADas_1500x941-px-Principal-900x563.jpg",
-        "texto3": "Texto para banner 2 en cuadro de prueba",
->>>>>>> 66bfafde6c105be1665d18b859e843f43de5e0ac
         "ver_mas3": "ubica-tu-sucursal.php",
         "direccion_asamblea": "Casa Ejidal. Prolongación Aldama No. 314, Zona Centro, Apaseo el Grande, Gto.",
         "fecha_asamblea": "2/1/2020",
@@ -3173,13 +3143,8 @@ eqfeed_callback(
         "imagen2": "assets/img/secciones/sucursales/banners/digital-sucu.jpg",
         "texto2": "Usa nuestras plataformas CPM en Línea y CPM Móvil para realizar tus operaciones",
         "ver_mas2": "servicio-electronico-en-linea.php",
-<<<<<<< HEAD
         "imagen3": "assets/img/secciones/sucursales/banners/BANNER-SUCU2.jpg",
         "texto3": "No olvides acudir a tu Asamblea ¡Unidos lo hacemos posible!",
-=======
-        "imagen3": "https://www.cpm.coop/wp-content/uploads/2019/07/Banner-Web-Corresponsal%C3%ADas_1500x941-px-Principal-900x563.jpg",
-        "texto3": "Texto para banner 2 en cuadro de prueba",
->>>>>>> 66bfafde6c105be1665d18b859e843f43de5e0ac
         "ver_mas3": "ubica-tu-sucursal.php",
         "direccion_asamblea": "Auditorio CASSA. Juárez S/N esq. Manuel Doblado, Col. Centro, Apaseo el Alto, Gto.",
         "fecha_asamblea": "2/15/2020",
@@ -3225,13 +3190,8 @@ eqfeed_callback(
         "imagen2": "assets/img/secciones/sucursales/banners/digital-sucu.jpg",
         "texto2": "Usa nuestras plataformas CPM en Línea y CPM Móvil para realizar tus operaciones",
         "ver_mas2": "servicio-electronico-en-linea.php",
-<<<<<<< HEAD
         "imagen3": "assets/img/secciones/sucursales/banners/BANNER-SUCU2.jpg",
         "texto3": "No olvides acudir a tu Asamblea ¡Unidos lo hacemos posible!",
-=======
-        "imagen3": "https://www.cpm.coop/wp-content/uploads/2019/07/Banner-Web-Corresponsal%C3%ADas_1500x941-px-Principal-900x563.jpg",
-        "texto3": "Texto para banner 2 en cuadro de prueba",
->>>>>>> 66bfafde6c105be1665d18b859e843f43de5e0ac
         "ver_mas3": "ubica-tu-sucursal.php",
         "direccion_asamblea": "Auditorio Sucursal Valle de Señora , Calle Oro # 856 Col. Valle de Señora",
         "fecha_asamblea": "2/29/2020",
@@ -3277,13 +3237,8 @@ eqfeed_callback(
         "imagen2": "assets/img/secciones/sucursales/banners/digital-sucu.jpg",
         "texto2": "Usa nuestras plataformas CPM en Línea y CPM Móvil para realizar tus operaciones",
         "ver_mas2": "servicio-electronico-en-linea.php",
-<<<<<<< HEAD
         "imagen3": "assets/img/secciones/sucursales/banners/BANNER-SUCU2.jpg",
         "texto3": "No olvides acudir a tu Asamblea ¡Unidos lo hacemos posible!",
-=======
-        "imagen3": "https://www.cpm.coop/wp-content/uploads/2019/07/Banner-Web-Corresponsal%C3%ADas_1500x941-px-Principal-900x563.jpg",
-        "texto3": "Texto para banner 2 en cuadro de prueba",
->>>>>>> 66bfafde6c105be1665d18b859e843f43de5e0ac
         "ver_mas3": "ubica-tu-sucursal.php",
         "direccion_asamblea": "Casa de cultura, Pablo Mondragón # 131, Col. Centro, Coroneo, Gto.",
         "fecha_asamblea": "2/1/2020",
@@ -3329,13 +3284,8 @@ eqfeed_callback(
         "imagen2": "assets/img/secciones/sucursales/banners/digital-sucu.jpg",
         "texto2": "Usa nuestras plataformas CPM en Línea y CPM Móvil para realizar tus operaciones",
         "ver_mas2": "servicio-electronico-en-linea.php",
-<<<<<<< HEAD
         "imagen3": "assets/img/secciones/sucursales/banners/BANNER-SUCU2.jpg",
         "texto3": "No olvides acudir a tu Asamblea ¡Unidos lo hacemos posible!",
-=======
-        "imagen3": "https://www.cpm.coop/wp-content/uploads/2019/07/Banner-Web-Corresponsal%C3%ADas_1500x941-px-Principal-900x563.jpg",
-        "texto3": "Texto para banner 2 en cuadro de prueba",
->>>>>>> 66bfafde6c105be1665d18b859e843f43de5e0ac
         "ver_mas3": "ubica-tu-sucursal.php",
         "direccion_asamblea": "Salón Parroquial. 5 de Mayo S/N, Col. Centro, JERECUARO, Gto.",
         "fecha_asamblea": "2/13/2020",
@@ -3381,13 +3331,8 @@ eqfeed_callback(
         "imagen2": "assets/img/secciones/sucursales/banners/digital-sucu.jpg",
         "texto2": "Usa nuestras plataformas CPM en Línea y CPM Móvil para realizar tus operaciones",
         "ver_mas2": "servicio-electronico-en-linea.php",
-<<<<<<< HEAD
         "imagen3": "assets/img/secciones/sucursales/banners/BANNER-SUCU2.jpg",
         "texto3": "No olvides acudir a tu Asamblea ¡Unidos lo hacemos posible!",
-=======
-        "imagen3": "https://www.cpm.coop/wp-content/uploads/2019/07/Banner-Web-Corresponsal%C3%ADas_1500x941-px-Principal-900x563.jpg",
-        "texto3": "Texto para banner 2 en cuadro de prueba",
->>>>>>> 66bfafde6c105be1665d18b859e843f43de5e0ac
         "ver_mas3": "ubica-tu-sucursal.php",
         "direccion_asamblea": "Casa Ejidal. Prolongación Aldama No. 314, Zona Centro, Apaseo el Grande, Gto.",
         "fecha_asamblea": "2/15/2020",
@@ -3433,13 +3378,8 @@ eqfeed_callback(
         "imagen2": "assets/img/secciones/sucursales/banners/digital-sucu.jpg",
         "texto2": "Usa nuestras plataformas CPM en Línea y CPM Móvil para realizar tus operaciones",
         "ver_mas2": "servicio-electronico-en-linea.php",
-<<<<<<< HEAD
         "imagen3": "assets/img/secciones/sucursales/banners/BANNER-SUCU2.jpg",
         "texto3": "No olvides acudir a tu Asamblea ¡Unidos lo hacemos posible!",
-=======
-        "imagen3": "https://www.cpm.coop/wp-content/uploads/2019/07/Banner-Web-Corresponsal%C3%ADas_1500x941-px-Principal-900x563.jpg",
-        "texto3": "Texto para banner 2 en cuadro de prueba",
->>>>>>> 66bfafde6c105be1665d18b859e843f43de5e0ac
         "ver_mas3": "ubica-tu-sucursal.php",
         "direccion_asamblea": "Río Consulado # 9, SAN JOSE AGUA AZUL, Apaseo el Grande, Gto.",
         "fecha_asamblea": "2/22/2020",
@@ -3485,13 +3425,8 @@ eqfeed_callback(
         "imagen2": "assets/img/secciones/sucursales/banners/digital-sucu.jpg",
         "texto2": "Usa nuestras plataformas CPM en Línea y CPM Móvil para realizar tus operaciones",
         "ver_mas2": "servicio-electronico-en-linea.php",
-<<<<<<< HEAD
         "imagen3": "assets/img/secciones/sucursales/banners/BANNER-SUCU2.jpg",
         "texto3": "No olvides acudir a tu Asamblea ¡Unidos lo hacemos posible!",
-=======
-        "imagen3": "https://www.cpm.coop/wp-content/uploads/2019/07/Banner-Web-Corresponsal%C3%ADas_1500x941-px-Principal-900x563.jpg",
-        "texto3": "Texto para banner 2 en cuadro de prueba",
->>>>>>> 66bfafde6c105be1665d18b859e843f43de5e0ac
         "ver_mas3": "ubica-tu-sucursal.php",
         "direccion_asamblea": "Salón Dora, Corregidora # 5, Centro, San Pedro Tenango, Apaseo el Grande, Gto.",
         "fecha_asamblea": "2/8/2020",
@@ -17778,13 +17713,8 @@ eqfeed_callback(
         "imagen2": "assets/img/secciones/sucursales/banners/digital-sucu.jpg",
         "texto2": "Usa nuestras plataformas CPM en Línea y CPM Móvil para realizar tus operaciones",
         "ver_mas2": "servicio-electronico-en-linea.php",
-<<<<<<< HEAD
         "imagen3": "assets/img/secciones/sucursales/banners/BANNER-SUCU2.jpg",
         "texto3": "No olvides acudir a tu Asamblea ¡Unidos lo hacemos posible!",
-=======
-        "imagen3": "http://70.32.66.147/~cpm/assets/img/secciones/creditos/CPM_Vacaciones_banner_1891x426px.jpg",
-        "texto3": "Texto para banner 2 en cuadro de prueba",
->>>>>>> 66bfafde6c105be1665d18b859e843f43de5e0ac
         "ver_mas3": "ubica-tu-sucursal.php",
         "direccion_asamblea": "Hotel Real Alameda, Corregidora Sur # 184-D, Col. Centro Histórico, QUERETARO, Qro.",
         "fecha_asamblea": "2/15/2020",
@@ -17830,13 +17760,8 @@ eqfeed_callback(
         "imagen2": "assets/img/secciones/sucursales/banners/digital-sucu.jpg",
         "texto2": "Usa nuestras plataformas CPM en Línea y CPM Móvil para realizar tus operaciones",
         "ver_mas2": "servicio-electronico-en-linea.php",
-<<<<<<< HEAD
         "imagen3": "assets/img/secciones/sucursales/banners/BANNER-SUCU2.jpg",
         "texto3": "No olvides acudir a tu Asamblea ¡Unidos lo hacemos posible!",
-=======
-        "imagen3": "http://70.32.66.147/~cpm/assets/img/secciones/creditos/CPM_Vacaciones_banner_1891x426px.jpg",
-        "texto3": "Texto para banner 2 en cuadro de prueba",
->>>>>>> 66bfafde6c105be1665d18b859e843f43de5e0ac
         "ver_mas3": "ubica-tu-sucursal.php",
         "direccion_asamblea": "Sala de juntas de sucursal Presidentes. Circuito Moisés Solana # 765-A, Col. Loma Linda, QUERETARO, Qro.",
         "fecha_asamblea": "2/22/2020",
@@ -17882,13 +17807,8 @@ eqfeed_callback(
         "imagen2": "assets/img/secciones/sucursales/banners/digital-sucu.jpg",
         "texto2": "Usa nuestras plataformas CPM en Línea y CPM Móvil para realizar tus operaciones",
         "ver_mas2": "servicio-electronico-en-linea.php",
-<<<<<<< HEAD
         "imagen3": "assets/img/secciones/sucursales/banners/BANNER-SUCU2.jpg",
         "texto3": "No olvides acudir a tu Asamblea ¡Unidos lo hacemos posible!",
-=======
-        "imagen3": "http://70.32.66.147/~cpm/assets/img/secciones/creditos/CPM_Vacaciones_banner_1891x426px.jpg",
-        "texto3": "Texto para banner 2 en cuadro de prueba",
->>>>>>> 66bfafde6c105be1665d18b859e843f43de5e0ac
         "ver_mas3": "ubica-tu-sucursal.php",
         "direccion_asamblea": "Salón el Jardín. Playa Roqueta # 513, Col. Desarrollo San Pablo, QUERETARO, QUERETARO.",
         "fecha_asamblea": "2/14/2020",
@@ -17934,13 +17854,8 @@ eqfeed_callback(
         "imagen2": "assets/img/secciones/sucursales/banners/digital-sucu.jpg",
         "texto2": "Usa nuestras plataformas CPM en Línea y CPM Móvil para realizar tus operaciones",
         "ver_mas2": "servicio-electronico-en-linea.php",
-<<<<<<< HEAD
         "imagen3": "assets/img/secciones/sucursales/banners/BANNER-SUCU2.jpg",
         "texto3": "No olvides acudir a tu Asamblea ¡Unidos lo hacemos posible!",
-=======
-        "imagen3": "http://70.32.66.147/~cpm/assets/img/secciones/creditos/CPM_Vacaciones_banner_1891x426px.jpg",
-        "texto3": "Texto para banner 2 en cuadro de prueba",
->>>>>>> 66bfafde6c105be1665d18b859e843f43de5e0ac
         "ver_mas3": "ubica-tu-sucursal.php",
         "direccion_asamblea": "Salón Hidalgo. Miguel Hidalgo Norte # 56, Col. Centro, Santa Rosa Jauregui, Qro.",
         "fecha_asamblea": "2/15/2020",
@@ -17986,13 +17901,8 @@ eqfeed_callback(
         "imagen2": "assets/img/secciones/sucursales/banners/digital-sucu.jpg",
         "texto2": "Usa nuestras plataformas CPM en Línea y CPM Móvil para realizar tus operaciones",
         "ver_mas2": "servicio-electronico-en-linea.php",
-<<<<<<< HEAD
         "imagen3": "assets/img/secciones/sucursales/banners/BANNER-SUCU2.jpg",
         "texto3": "No olvides acudir a tu Asamblea ¡Unidos lo hacemos posible!",
-=======
-        "imagen3": "http://70.32.66.147/~cpm/assets/img/secciones/creditos/CPM_Vacaciones_banner_1891x426px.jpg",
-        "texto3": "Texto para banner 2 en cuadro de prueba",
->>>>>>> 66bfafde6c105be1665d18b859e843f43de5e0ac
         "ver_mas3": "ubica-tu-sucursal.php",
         "direccion_asamblea": "Auditorio CTM. Bugambilias # 6, Fracc. Jardines de San Juan, San Juan del Río, Qro.",
         "fecha_asamblea": "2/16/2020",
@@ -18038,13 +17948,8 @@ eqfeed_callback(
         "imagen2": "assets/img/secciones/sucursales/banners/digital-sucu.jpg",
         "texto2": "Usa nuestras plataformas CPM en Línea y CPM Móvil para realizar tus operaciones",
         "ver_mas2": "servicio-electronico-en-linea.php",
-<<<<<<< HEAD
         "imagen3": "assets/img/secciones/sucursales/banners/BANNER-SUCU2.jpg",
         "texto3": "No olvides acudir a tu Asamblea ¡Unidos lo hacemos posible!",
-=======
-        "imagen3": "http://70.32.66.147/~cpm/assets/img/secciones/creditos/CPM_Vacaciones_banner_1891x426px.jpg",
-        "texto3": "Texto para banner 2 en cuadro de prueba",
->>>>>>> 66bfafde6c105be1665d18b859e843f43de5e0ac
         "ver_mas3": "ubica-tu-sucursal.php",
         "direccion_asamblea": "Salón Crystal, C.D.C. Carr. San Juan del Río-Ezequiel Montes S/N, Col. Centro, Tequisquiapan, Qro.",
         "fecha_asamblea": "2/16/2020",
@@ -18090,13 +17995,8 @@ eqfeed_callback(
         "imagen2": "assets/img/secciones/sucursales/banners/digital-sucu.jpg",
         "texto2": "Usa nuestras plataformas CPM en Línea y CPM Móvil para realizar tus operaciones",
         "ver_mas2": "servicio-electronico-en-linea.php",
-<<<<<<< HEAD
         "imagen3": "assets/img/secciones/sucursales/banners/BANNER-SUCU2.jpg",
         "texto3": "No olvides acudir a tu Asamblea ¡Unidos lo hacemos posible!",
-=======
-        "imagen3": "http://70.32.66.147/~cpm/assets/img/secciones/creditos/CPM_Vacaciones_banner_1891x426px.jpg",
-        "texto3": "Texto para banner 2 en cuadro de prueba",
->>>>>>> 66bfafde6c105be1665d18b859e843f43de5e0ac
         "ver_mas3": "ubica-tu-sucursal.php",
         "direccion_asamblea": "Auditorio Municipal, Venustiano Carranza S/N, Colón, Qro.",
         "fecha_asamblea": "2/16/2020",
@@ -18142,13 +18042,8 @@ eqfeed_callback(
         "imagen2": "assets/img/secciones/sucursales/banners/digital-sucu.jpg",
         "texto2": "Usa nuestras plataformas CPM en Línea y CPM Móvil para realizar tus operaciones",
         "ver_mas2": "servicio-electronico-en-linea.php",
-<<<<<<< HEAD
         "imagen3": "assets/img/secciones/sucursales/banners/BANNER-SUCU2.jpg",
         "texto3": "No olvides acudir a tu Asamblea ¡Unidos lo hacemos posible!",
-=======
-        "imagen3": "http://70.32.66.147/~cpm/assets/img/secciones/creditos/CPM_Vacaciones_banner_1891x426px.jpg",
-        "texto3": "Texto para banner 2 en cuadro de prueba",
->>>>>>> 66bfafde6c105be1665d18b859e843f43de5e0ac
         "ver_mas3": "ubica-tu-sucursal.php",
         "direccion_asamblea": "Mariano Matamoros #109, 2do Piso, Centro, Ezequiel Montes, Qro.",
         "fecha_asamblea": "2/15/2020",
