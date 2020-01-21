@@ -17,7 +17,7 @@
 						</a>
 					</div>
 					<div class="dropdown col-12 col-lg p-0 mb-2 mb-lg-0 ">
-						<a href="#" class="btn bg-quaternary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white dropdown-toggle" type="button" id="dropdownMenuItem3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Préstamos</a>
+						<a href="#" class="btn bg-quaternary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white dropdown-toggle" type="button" id="dropdownMenuItem3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Créditos</a>
 						<div class="dropdown-menu bg-quaternary" aria-labelledby="dropdownMenuItem3">
 							<a class="dropdown-item" href="credito-personal-plus-cpm.php">
 								<i class="fa fa-chevron-circle-right mr-1"></i> Crédito Personal Plus CPM</a>
@@ -53,7 +53,7 @@
 								<li class="list-group-item"><a href="ser-socip.php">Socio</a></li>
 								<li class="list-group-item"><a href="ubica-tu-sucursal.php">Ubica tu sucursal</a></li>
 								<li class="list-group-item">
-									<a href="#" class="dropdown-toggle" type="button" id="dropdownMenuItem3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Préstamos</a>
+									<a href="#" class="dropdown-toggle" type="button" id="dropdownMenuItem3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Créditos</a>
 									<div class="dropdown-menu bg-quaternary" aria-labelledby="dropdownMenuItem3">
 										<a class="dropdown-item" href="credito-personal-plus-cpm.php">
 											<i class="fa fa-chevron-circle-right mr-1"></i> Crédito Personal Plus CPM</a>

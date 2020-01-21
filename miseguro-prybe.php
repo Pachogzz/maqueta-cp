@@ -27,31 +27,12 @@
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 						<div class="has-label pb-5 pt-0 px-5 position-relative">
 							<!-- <h2 class="d-inline-block border-primary text-primary font-weight-bolder bw-3 py-2 px-3 mb-3">DESCRIPCIÓN</h2> -->
-							<img width="" src="" class="d-block w-100 py-2 px-3 mb-3">
+							<img src="assets/img/secciones/logos-seguros/miseguro.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Porque la tranquilidad de tu familia está en tus manos, seguro de vida de bajo costo el cual asegura sumas de $25,000.00 hasta los $75,000.00 que puedes tramitar en cualquiera de la nuestras sucursales.</a></p>
 							<!-- <p class="lead">Consulta los <span class="font-weight-bold text-primary">costos y comisiones de nuestro producto <a href="consulta-los-costos-y-comisiones-de-nuestros-productos"></span>aquí </a></p>
 							<p class="lead">Por ejemplo, <span class="font-weight-bold text-primary">Consulta el contrato universal <a href="assets/img/secciones/ahorro/FR-1008-Contrato-Universal.pdf" target="blank"></span>aquí</a></p> -->
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
-						<!-- Nota Legal -->
-						<!-- <div class="bg-grey0 p-5">
-							<p class="display-12"><strong>RENOVACIÓN</strong></p>
-							<p class="display-12"><strong>Sólo el 7% de la población en México cuenta con un seguro de vida.</strong></p>
-							<ul class="display-12">
-								<li>Sólo el 7% de la población en México cuenta con un seguro de vida.</li>
-								<li>Apoyar a sus familiares y prever endeudamientos en caso de fallecimiento.</li>
-								<li>Primas de seguro competitivas en el mercado desde $125.00 al año.</li>
-								<li>Renovación rápida y sencilla al momento de cubrir la prima anual.</li>
-								<li>Renueva la seguridad y tranquilidad que te ofrece MiSeguro PRYBE.<br><br></li>
-								<p class="display-12"><strong>Para renovación de seguro:</strong></p>
-								<li>Toda renovación de póliza MiSeguro PRYBE la deberá tramitar el Socio contratante de la misma.</li>
-								<li>El periodo de gracia será de 30 días hábiles a partir de la fecha de vigencia.</li>
-								<li>Contar con una edad máxima de 66 años.</li>
-								<p class="display-12"><br>* Excepción para los socios que hayan renovado desde los 55 años y que no presenten periodos al descubierto, podrán seguir renovando hasta cumplir 80 años.</p>
-								<p class="display-12">Toda renovación de póliza MiSeguro PRYBE se emitirá con las mismas condiciones en la que fue contratada inicialmente.</p>
-							</ul>
-						</div>  -->
-						<!-- Nota Legal -->
 					</div>
 					<div class="col-12 col-md-6">
 						<!-- MENU -->
@@ -142,14 +123,14 @@
 								</div>
 								<div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionCICPM">
 									<div class="card-body bg-grey0 p-4">
-										<h4>Sólo el 7% de la población en México cuenta con un seguro de vida.</h4>
+										<!-- <h4>Sólo el 7% de la población en México cuenta con un seguro de vida.</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li>Sólo el 7% de la población en México cuenta con un seguro de vida.</li>
 											<li>Apoyar a sus familiares y prever endeudamientos en caso de fallecimiento.</li>
 											<li>Primas de seguro competitivas en el mercado desde $125.00 al año.</li>
 											<li>Renovación rápida y sencilla al momento de cubrir la prima anual.</li>
 											<li>Renueva la seguridad y tranquilidad que te ofrece MiSeguro PRYBE.</li>
-										</ul>
+										</ul> -->
 										<h4>Para renovación de seguro:</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li>Toda renovación de póliza MiSeguro PRYBE la deberá tramitar el socio contratante de la misma.</li>

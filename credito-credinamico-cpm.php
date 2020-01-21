@@ -31,7 +31,7 @@
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 						<!-- Nota Legal -->
 						<div class="bg-grey0 p-5 mb-5">
-							<p class="display-12"><strong>Costo Anual Total Promedio de 25.1% sin IVA</strong>. Para fines informativos y de comparación exclusivamente. Fecha de cálculo 31 de Diciembre de 2019.</p>
+							<p class="display-12"><strong>Costo Anual Total Promedio de 25.1% sin IVA</strong>. Para fines informativos y de comparación exclusivamente. Fecha de cálculo <strong>31 de Diciembre de 2019</strong>.</p>
 							<p class="display-12">*Cálculo para el <strong>Crédito Personal Plus CPM</strong> por la cantidad de <strong>$15,000.00 a un plazo de 12 meses con un monto mínimo de ahorro de $1,500.00</strong>.</p>
 							<ul class="display-12">
 								<li>Sujeto a aprobación de crédito.</li>
@@ -84,7 +84,7 @@
 												<p>Tasa de interés ordinaria anual fija desde un 12.00% hasta un 33.0% antes de impuestos. La tasa se asignará de acuerdo al perfil crediticio del socio.</p>
 											</li>
 											<li><strong>CAT Promedio Crédito Credinámico CPM</strong>
-												<p><strong>Costo Anual Total Promedio de 25.1% sin IVA.</strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 31 de Diciembre de 2019.</strong></p>
+												<p><strong>Costo Anual Total Promedio de 25.1% sin IVA.</strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo <strong>31 de Diciembre de 2019</strong>.</strong></p>
 											</li>
 										</ul>
 									</div>

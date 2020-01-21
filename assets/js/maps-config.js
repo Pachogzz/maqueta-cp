@@ -320,15 +320,7 @@
                             content: ''
                         });
                         //contenido de la infowindow
-                        var content = '<div id="content"><h6>' + marker.title + '</h6><p class="mb-0">' + marker.direccion + '</p></div>';
-                        
-                        // metodo para desplegar la infowindow cuando se haga clic en el marcador
-                        // google.maps.event.addListener(marker, 'click', function(marker, content, infowindow) {             
-                        //     infowindow.setContent(content); //asignar el contenido al globo
-                        //     infowindow.open(map, marker); //mostrarlo                      
-                        //   }(marker, content, infowindow));
-                        
-                        // medoto para crear las infowindow independiente una de otra y desplegarlas todas a la vez
+                        var content = '<div id="content" style="width: auto; height: 100px;"><h6>' + marker.title + '</h6><p class="mb-0">' + marker.direccion + '</p></div>';
                         google.maps.event.addListener(marker, 'mouseover', function(marker, content, infowindow) {
                             return function() {
                                 infowindow.setContent(content); //asignar el contenido al globo
@@ -336,7 +328,13 @@
                                 map.setZoom(16);
                             };
                         }(marker, content, infowindow));
-                        /* infowindow.open(map, marker);  
+                                                google.maps.event.addListener(marker, 'click', function(marker, content, infowindow) {
+                            return function() {
+                                infowindow.setContent(content); //asignar el contenido al globo
+                                infowindow.open(map, marker); //mostrarlo
+                            };
+                        }(marker, content, infowindow));
+                        /* infowindow.open(map, marker);  */
                         /*Mapeo Final*/
                     }
                 }
@@ -348,6 +346,7 @@
         var loc = $(this).attr("target"); //Localizacion extraida del boton
         loc = loc.replace("(", "").replace(")", "");
         loc = loc.split(',');
+        $("html, body").delay(1000).animate({scrollTop: $('#map').offset().top }, 1000);
         var newlat = 1 * loc[0];
         var newlng = 1 * loc[1];
         map.setZoom(16);

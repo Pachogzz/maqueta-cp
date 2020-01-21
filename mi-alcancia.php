@@ -110,7 +110,7 @@
 							<div class="col-12 mt-5">
 								<!-- Nota Legal -->
 								<div class="bg-grey0 p-5">
-									<p class="display-12"><strong>Vigencia del 09 al 15 de Enero del 2020</strong></p>
+									<p class="display-12"><strong>Vigencia del 16 al 22 de Enero del 2020</strong></p>
 									<p class="display-12">Fecha de cálculo Enero 2020</p>
 									<p class="display-12"><strong>* GAT NOMINAL</strong> antes de impuestos. Para fines informativos y de comparación.</p>
 									<p class="display-12"><strong>**GAT REAL</strong> antes de impuestos. Para fines informativos y de comparación. La GAT REAL es el rendimiento que obtendría después de descontar la inflación estimada Para fines informativos y de comparación exclusivamente.</p>
@@ -127,7 +127,6 @@
 							<table class="table">
 								<thead>
 									<tr class="bg-primary">
-										<th scope="col"><span class="text-white">#</span></th>
 										<th scope="col"><span class="text-white">Tiempo</span></th>
 										<th scope="col"><span class="text-white">Concepto</span></th>
 										<th scope="col"><span class="text-white">Monto</span></th>
@@ -141,8 +140,7 @@
 								</thead>
 								<tbody>
 									<tr>
-										<th scope="row">1</th>
-										<td>180 días</td>
+										<td scope="row">180 días</td>
 										<td>No aplica<br>comisión</td>
 										<td>0</td>
 										<td>No aplica</td>
@@ -153,8 +151,7 @@
 										<td>09/01/2020 al<br>15/01/2020</td>
 									</tr>
 									<tr>
-										<th scope="row">2</th>
-										<td>210 días</td>
+										<td scope="row">210 días</td>
 										<td>No aplica<br>comisión</td>
 										<td>0</td>
 										<td>No aplica</td>
@@ -165,8 +162,7 @@
 										<td>09/01/2020 al<br>15/01/2020</td>
 									</tr>
 									<tr>
-										<th scope="row">3</th>
-										<td>240 días</td>
+										<td scope="row">240 días</td>
 										<td>No aplica<br>comisión</td>
 										<td>0</td>
 										<td>No aplica</td>
@@ -177,8 +173,7 @@
 										<td>09/01/2020 al<br>15/01/2020</td>
 									</tr>
 									<tr>
-										<th scope="row">4</th>
-										<td>270 días</td>
+										<td scope="row">270 días</td>
 										<td>No aplica<br>comisión</td>
 										<td>0</td>
 										<td>No aplica</td>
@@ -189,8 +184,7 @@
 										<td>09/01/2020 al<br>15/01/2020</td>
 									</tr>
 									<tr>
-										<th scope="row">5</th>
-										<td>300 días</td>
+										<td scope="row">300 días</td>
 										<td>No aplica<br>comisión</td>
 										<td>0</td>
 										<td>No aplica</td>
@@ -201,8 +195,7 @@
 										<td>09/01/2020 al<br>15/01/2020</td>
 									</tr>
 									<tr>
-										<th scope="row">6</th>
-										<td>330 días</td>
+										<td scope="row">330 días</td>
 										<td>No aplica<br>comisión</td>
 										<td>0</td>
 										<td>No aplica</td>
@@ -213,8 +206,7 @@
 										<td>09/01/2020 al<br>15/01/2020</td>
 									</tr>
 									<tr>
-										<th scope="row">7</th>
-										<td>360 días</td>
+										<td scope="row">360 días</td>
 										<td>No aplica<br>comisión</td>
 										<td>0</td>
 										<td>No aplica</td>

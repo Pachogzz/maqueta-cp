@@ -109,7 +109,7 @@
 							<div class="col-12 mt-5">
 								<!-- Nota Legal -->
 								<div class="bg-grey0 p-5">
-									<p class="display-12"><strong>Vigencia del 09 al 15 de Enero del 2020</strong></p>
+									<p class="display-12"><strong>Vigencia del 16 al 22 de Enero del 2020</strong></p>
 									<p class="display-12">Fecha de cálculo Enero 2020</p>
 									<p class="display-12"><strong>* GAT NOMINAL</strong> antes de impuestos. Para fines informativos y de comparación.</p>
 									<p class="display-12"><strong>**GAT REAL</strong> antes de impuestos. Para fines informativos y de comparación. La GAT REAL es el rendimiento que obtendría después de descontar la inflación estimada Para fines informativos y de comparación exclusivamente.</p>
@@ -126,7 +126,6 @@
 							<table class="table">
 								<thead>
 									<tr class="bg-primary">
-										<th scope="col"><span class="text-white">#</span></th>
 										<th scope="col"><span class="text-white">Rango</span></th>
 										<th scope="col"><span class="text-white">Tasa de interés anual <br>fija antes de impuestos</span></th>
 										<th scope="col"><span class="text-white">GAT nominal* <br>antes de impuestos</span></th>
@@ -135,57 +134,49 @@
 								</thead>
 								<tbody>
 									<tr>
-										<th scope="row">1</th>
-										<td>$ 1500.00 A $ 10,000.00</td>
+										<td scope="row">$ 1500.00 A $ 10,000.00</td>
 										<td>2.69%</td>
 										<td>2.72%</td>
 										<td>-0.70%</td>
 									</tr>
 									<tr>
-										<th scope="row">2</th>
-										<td>$ 10,001.01 A $ 25,000</td>
+										<td scope="row">$ 10,001.01 A $ 25,000</td>
 										<td>2.90%</td>
 										<td>2.94%</td>
 										<td>-0.49%</td>
 									</tr>
 									<tr>
-										<th scope="row">3</th>
-										<td>$ 25,001.00 A $ 50,000</td>
+										<td scope="row">$ 25,001.00 A $ 50,000</td>
 										<td>3.11%</td>
 										<td>3.15%</td>
 										<td>-0.29%</td>
 									</tr>
 									<tr>
-										<th scope="row">4</th>
-										<td>$ 50,001.00 A $ 100,000.00</td>
+										<td scope="row">$ 50,001.00 A $ 100,000.00</td>
 										<td>3.31%</td>
 										<td>3.36%</td>
 										<td>-0.09%</td>
 									</tr>
 									<tr>
-										<th scope="row">5</th>
-										<td>$ 100,001.00 A $ 250,000.00</td>
+										<td scope="row">$ 100,001.00 A $ 250,000.00</td>
 										<td>3.52%</td>
 										<td>3.58%</td>
 										<td>0.12%</td>
 									</tr>
 									<tr>
-										<th scope="row">6</th>
-										<td>$ 250,001.00 A $ 500,000.00</td>
+										<td scope="row">$ 250,001.00 A $ 500,000.00</td>
 										<td>3.73%</td>
 										<td>3.79%</td>
 										<td>0.33%</td>
 									</tr>
 									<tr>
-										<th scope="row">7</th>
-										<td>$ 500,001.00 A 1,000,000.00</td>
+										<td scope="row">$ 500,001.00 A 1,000,000.00</td>
 										<td>3.94%</td>
 										<td>4.01%</td>
 										<td>0.54%</td>
 									</tr>
 									<tr>
-										<th scope="row">8</th>
-										<td>$ 1,000,001.00 En adelante</td>
+										<td scope="row">$ 1,000,001.00 En adelante</td>
 										<td>4.15%</td>
 										<td>4.23%</td>
 										<td>0.75%</td>

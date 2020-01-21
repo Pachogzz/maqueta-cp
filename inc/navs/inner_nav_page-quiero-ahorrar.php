@@ -21,7 +21,7 @@
 						<div class="dropdown-menu bg-quaternary" aria-labelledby="dropdownMenuItem3">
 							<a class="dropdown-item" href="rendicuenta.php"><i class="fa fa-chevron-circle-right mr-1"></i> Rendicuenta</a>
 							<a class="dropdown-item" href="mi-alcancia.php"><i class="fa fa-chevron-circle-right mr-1"></i> Mi Alcancía</a>
-							<a class="dropdown-item" href="mi-alcancia-junior.php"><i class="fa fa-chevron-circle-right mr-1"></i> Mi Alcancía Jr.</a>
+							<a class="dropdown-item" href="mi-alcancia-junior.php"><i class="fa fa-chevron-circle-right mr-1"></i> Mi Alcancía Junior</a>
 							<a class="dropdown-item" href="servicuenta.php"><i class="fa fa-chevron-circle-right mr-1"></i> Servicuenta</a>
 							<a class="dropdown-item" href="cuenta-mexicana.php"><i class="fa fa-chevron-circle-right mr-1"></i> Cuenta Mexicana</a>
 							<a class="dropdown-item" href="cuentamiga.php"><i class="fa fa-chevron-circle-right mr-1"></i> Cuentamiga</a>
@@ -49,7 +49,7 @@
 									<div class="dropdown-menu bg-quaternary" aria-labelledby="dropdownMenuItem3">
 										<a class="dropdown-item" href="rendicuenta.php"><i class="fa fa-chevron-circle-right mr-1"></i> Rendicuenta</a>
 										<a class="dropdown-item" href="mi-alcancia.php"><i class="fa fa-chevron-circle-right mr-1"></i> Mi Alcancía</a>
-										<a class="dropdown-item" href="mi-alcancia-junior.php"><i class="fa fa-chevron-circle-right mr-1"></i> Mi Alcancía Jr.</a>
+										<a class="dropdown-item" href="mi-alcancia-junior.php"><i class="fa fa-chevron-circle-right mr-1"></i> Mi Alcancía Junior</a>
 										<a class="dropdown-item" href="servicuenta.php"><i class="fa fa-chevron-circle-right mr-1"></i> Servicuenta</a>
 										<a class="dropdown-item" href="cuenta-mexicana.php"><i class="fa fa-chevron-circle-right mr-1"></i> Cuenta Mexicana</a>
 										<a class="dropdown-item" href="cuentamiga.php"><i class="fa fa-chevron-circle-right mr-1"></i> Cuentamiga</a>

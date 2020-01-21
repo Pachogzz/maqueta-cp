@@ -33,7 +33,7 @@
 							<p class="lead">Si eres socio de nuestra cooperativa y tienes hijos o eres tutor de algún menor de edad, puedes regalarle su primera experiencia en las finanzas formales con su:</p>
 							<p class="lead text-primary font-weight-semibold">
 								<a href="cuentamiga.php">Primera cuenta de ahorro formal</a><br>
-								<a href="mi-alcancia-jr.php">Primera cuenta de ahorro a plazo</a><br>
+								<a href="mi-alcancia-junior.php">Primera cuenta de ahorro a plazo</a><br>
 								<a href="tarjeta-de-debito.php">Primera tarjeta de débito </a>
 							</p>
 						</div>

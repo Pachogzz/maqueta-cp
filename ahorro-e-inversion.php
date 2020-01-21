@@ -4,7 +4,7 @@
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 br-30">¿Necesitas ahorrar o invertír?</h1>
+						<h1 class="display-4 br-30">¿Necesitas ahorrar o invertir?</h1>
 					</div>
 				</div>
 			</div>
@@ -52,7 +52,7 @@
 							<i class="fas fa-piggy-bank fa-4x bg-primary text-white rounded-circle"></i>
 							<!-- <img src="assets/img/icons/icon-clock.png" class="bg-primary p-3 rounded-circle" width="120" height="120" alt=""> -->
 							<h3>Mi Alcancía Jr.</h3>
-							<p>Soy menor, quiero formarme el ábito del ahorro.</p>
+							<p>Soy menor, quiero formarme el hábito del ahorro.</p>
 						</div>
 						</a>
 					</div> <!-- ./ Mi alcancía jr -->

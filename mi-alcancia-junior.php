@@ -115,7 +115,7 @@
 							<div class="col-12 mt-5">
 								<!-- Nota Legal -->
 								<div class="bg-grey0 p-5">
-									<p class="display-12"><strong>Vigencia del 09 al 15 de Enero del 2020</strong></p>
+									<p class="display-12"><strong>Vigencia del 16 al 22 de Enero del 2020</strong></p>
 									<p class="display-12">Fecha de cálculo Enero 2020</p>
 									<p class="display-12"><strong>* GAT NOMINAL</strong> antes de impuestos. Para fines informativos y de comparación.</p>
 									<p class="display-12"><strong>**GAT REAL</strong> antes de impuestos. Para fines informativos y de comparación. La GAT REAL es el rendimiento que obtendría después de descontar la inflación estimada Para fines informativos y de comparación exclusivamente.</p>
@@ -132,7 +132,6 @@
 							<table class="table">
 								<thead>
 									<tr class="bg-primary">
-									<th scope="col"><span class="text-white">#</span></th>
 									<th scope="col"><span class="text-white">Tiempo</span></th>
 									<th scope="col"><span class="text-white">Concepto</span></th>
 									<th scope="col"><span class="text-white">Monto</span></th>
@@ -145,90 +144,97 @@
 								</tr>
 								</thead>
 								<tbody>
-									<tr>
-										<th scope="row">1</th>
-										<td>180 días</td>
-										<td>No aplica<br>comisión</td>
-										<td>0</td>
-										<td>No aplica</td>
-										<td>4.46%</td>
-										<td>4.53%</td>
-										<td>1.04%</td>
-										<td>Enero</td>
-										<td>09/01/2020 al<br>15/01/2020</td>
-									</tr>
-									<tr>
-										<th scope="row">2</th>
-										<td>210 días</td>
-										<td>No aplica<br>comisión</td>
-										<td>0</td>
-										<td>No aplica</td>
-										<td>4.73%</td>
-										<td>4.80%</td>
-										<td>1.30%</td>
-										<td>Enero</td>
-										<td>09/01/2020 al<br>15/01/2020</td>
-									</tr>
-									<tr>
-										<th scope="row">3</th>
-										<td>240 días</td>
-										<td>No aplica<br>comisión</td>
-										<td>0</td>
-										<td>No aplica</td>
-										<td>5.02%</td>
-										<td>5.08%</td>
-										<td>1.58%</td>
-										<td>Enero</td>
-										<td>09/01/2020 al<br>15/01/2020</td>
-									</tr>
-									<tr>
-										<th scope="row">4</th>
-										<td>270 días</td>
-										<td>No aplica<br>comisión</td>
-										<td>0</td>
-										<td>No aplica</td>
-										<td>5.29%</td>
-										<td>5.35%</td>
-										<td>1.84%</td>
-										<td>Enero</td>
-										<td>09/01/2020 al<br>15/01/2020</td>
-									</tr>
-									<tr>
-										<th scope="row">5</th>
-										<td>300 días</td>
-										<td>No aplica<br>comisión</td>
-										<td>0</td>
-										<td>No aplica</td>
-										<td>5.57%</td>
-										<td>5.63%</td>
-										<td>2.11%</td>
-										<td>Enero</td>
-										<td>09/01/2020 al<br>15/01/2020</td>
-									</tr>
-									<tr>
-										<th scope="row">6</th>
-										<td>330 días</td>
-										<td>No aplica<br>comisión</td>
-										<td>0</td>
-										<td>No aplica</td>
-										<td>5.84%</td>
-										<td>5.90%</td>
-										<td>2.37%</td>
-										<td>Enero</td>
-										<td>09/01/2020 al<br>15/01/2020</td>
-									</tr>
-									<tr>
-										<th scope="row">7</th>
-										<td>360 días</td>
-										<td>No aplica<br>comisión</td>
-										<td>0</td>
-										<td>No aplica</td>
-										<td>6.11%</td>
-										<td>6.17%</td>
-										<td>2.63%</td>
-										<td>Enero</td>
-										<td>09/01/2020 al<br>15/01/2020</td>
-									</tr>
+								    <tr>
+								        <td scope="row">180 días</td>
+								        <td><strong>No aplica comisión</strong></td>
+								        <td><b>0</b></td>
+								        <td><strong>No aplica</strong></td>
+								        <td style="text-align: center;">&nbsp;4.46%</td>
+								        <td style="text-align: center;">&nbsp;4.53%</td>
+								        <td style="text-align: center;">&nbsp;1.04%</td>
+								        <td style="text-align: center;">Enero</td>
+								        <td>
+								            <p style="text-align: center;">16/01/2020 al 22/01/2020</p>
+								        </td>
+								    </tr>
+								    <tr>
+								        <td scope="row">210 días</td>
+								        <td><strong>No aplica comisión</strong></td>
+								        <td><strong>0</strong></td>
+								        <td><strong>No aplica</strong></td>
+								        <td style="text-align: center;">&nbsp;4.73%</td>
+								        <td style="text-align: center;">&nbsp;4.80%</td>
+								        <td style="text-align: center;">&nbsp;1.30%</td>
+								        <td style="text-align: center;">Enero</td>
+								        <td style="text-align: center;">
+								            <p style="text-align: center;">16/01/2020 al 22/01/2020</p>
+								        </td>
+								    </tr>
+								    <tr>
+								        <td scope="row">240 días</td>
+								        <td><strong>No aplica comisión</strong></td>
+								        <td><strong>0</strong></td>
+								        <td><strong>No aplica</strong></td>
+								        <td style="text-align: center;">&nbsp;5.02%</td>
+								        <td style="text-align: center;">&nbsp;5.08%</td>
+								        <td style="text-align: center;">&nbsp;1.58%</td>
+								        <td style="text-align: center;">Enero</td>
+								        <td style="text-align: center;">
+								            <p style="text-align: center;">16/01/2020 al 22/01/2020</p>
+								        </td>
+								    </tr>
+								    <tr>
+								        <td scope="row">270 días</td>
+								        <td><strong>No aplica comisión</strong></td>
+								        <td><strong>0</strong></td>
+								        <td><strong>No aplica</strong></td>
+								        <td style="text-align: center;">&nbsp;5.29%</td>
+								        <td style="text-align: center;">&nbsp;5.35%</td>
+								        <td style="text-align: center;">&nbsp;1.84%</td>
+								        <td style="text-align: center;">Enero</td>
+								        <td style="text-align: center;">
+								            <p style="text-align: center;">16/01/2020 al 22/01/2020</p>
+								        </td>
+								    </tr>
+								    <tr>
+								        <td scope="row">300 días</td>
+								        <td><strong>No aplica comisión</strong></td>
+								        <td><strong>0</strong></td>
+								        <td><strong>No aplica</strong></td>
+								        <td style="text-align: center;">&nbsp;5.57%</td>
+								        <td style="text-align: center;">&nbsp;5.63%</td>
+								        <td style="text-align: center;">&nbsp;2.11%</td>
+								        <td style="text-align: center;">Enero</td>
+								        <td style="text-align: center;">
+								            <p style="text-align: center;">16/01/2020 al 22/01/2020</p>
+								        </td>
+								    </tr>
+								    <tr>
+								        <td scope="row">330 días</td>
+								        <td><strong>No aplica comisión</strong></td>
+								        <td><strong>0</strong></td>
+								        <td><strong>No aplica</strong></td>
+								        <td style="text-align: center;">&nbsp;5.84%</td>
+								        <td style="text-align: center;">&nbsp;5.90%</td>
+								        <td style="text-align: center;">&nbsp;2.37%</td>
+								        <td style="text-align: center;">Enero</td>
+								        <td style="text-align: center;">
+								            <p style="text-align: center;">16/01/2020 al 22/01/2020</p>
+								        </td>
+								    </tr>
+								    <tr>
+								        <td scope="row">360 días</td>
+								        <td><strong>No aplica comisión</strong></td>
+								        <td><strong>0</strong></td>
+								        <td><strong>No aplica</strong></td>
+								        <td style="text-align: center;">&nbsp;6.11%</td>
+								        <td style="text-align: center;">&nbsp;6.17%</td>
+								        <td style="text-align: center;">2.63%</td>
+								        <td style="text-align: center;">Enero</td>
+								        <td style="text-align: center;">
+								            <p style="text-align: center;">16/01/2020 al 22/01/2020</p>
+								        </td>
+								    </tr>
 								</tbody>
 							</table>
 						</div>

@@ -17,7 +17,7 @@
 				<div class="row mb-5">
 					<div class="col">
 						<blockquote class="blockquote p-5 border border-light bw-5 rounded border-grey1 text-center">
-							<p class="mb-0 h3 font-weight-normal">¡Te ayudamos a combatir los fraudes Financieros!</p>
+							<p class="mb-0 h3 font-weight-normal">¡Te ayudamos a combatir los fraudes financieros!</p>
 						</blockquote>
 					</div>
 				</div> <!-- ./ Main info block -->
@@ -100,11 +100,11 @@
 											<li>Programa los movimientos que vas a hacer (pagos, transferencias u operaciones) para evitar tener abierta la sesión por mucho tiempo; concreta la operación y cierra tu sesión. Nunca dejes abierta la sesión, sobre todo en lugares públicos, como los llamados ciber- cafés.</li>
 											<li>Verifica de manera recurrente tu estado de cuenta por Internet para ver que no haya cargos no reconocidos.</li>
 											<li>Revisa periódicamente las cuentas registradas para hacer traspasos y asegúrate de no tener cuentas que no diste de alta.</li>
-											<li>Teclea directamente la dirección de CPM, evita ingresar mediante “ligas” que recibas.</li>
+											<li>Teclea directamente la dirección web de Caja Popular Mexicana, <a href="https://www.cpm.coop">www.cpm.coop</a> y evita ingresar mediante “ligas” que recibas.</li>
 											<li>Nunca abras o respondas a una ventana emergente, o correo electrónico sospechoso de remitentes desconocidos o aquellos que te dicen haber ganado un premio, viaje o sorteo.</li>
 											<li>Utiliza un antivirus.</li>
 											<li>Procura tener diferentes contraseñas para cada servicio.</li>
-											<li>Toma en cuenta que CPM nunca solicita datos personales o verificación de tus cuentas, mediante correo electrónico o llamada telefónica.</li>
+											<li>Toma en cuenta que Caja Popular Mexicana nunca solicita datos personales o verificación de tus cuentas, mediante correo electrónico o llamada telefónica.</li>
 											<li>Nunca ingreses tus contraseñas, a algún sitio al que se llegó por un correo electrónico o chat.</li>
 										</ol>
 									</div>
@@ -165,7 +165,7 @@
 								<p class="text-center">Verifica que el sitio en el que navegas cuente con el protocolo de seguridad <strong>“https://”</strong> y un candado cerrado en la barra de direcciones.</p>
 							</div>
 							<div class="p-5 bw-5 border-grey1 rounded tab-pane fade" id="tabFour" role="tabpanel" aria-labelledby="tab-four">
-								<p class="text-center">Cuando no seas tú quien inicie una operación, Caja Popular Mexicana nunca te solicitará tus datos de Socio, tales como números de cuenta, tarjeta, CIF, etc.</p>
+								<p class="text-center">Cuando no seas tú quien inicie una operación, Caja Popular Mexicana nunca te solicitará tus datos de socio, tales como números de cuenta, tarjeta, CIF, etc.</p>
 							</div>
 							<div class="p-5 bw-5 border-grey1 rounded tab-pane fade" id="tabFive" role="tabpanel" aria-labelledby="tab-five">
 								<p class="text-center">Si descargas aplicaciones, hazlo por medio de las tiendas oficiales.</p>
@@ -286,7 +286,7 @@
 
 					<div class="row mb-5">
 						<div class="col-12 text-center">
-							<a href="https://cooperandoando.com/" target="_blank" class="btn btn-lg bg-primary text-white"><strong>Vér más notas</strong></a>
+							<a href="https://cooperandoando.com/" target="_blank" class="btn btn-lg bg-primary text-white"><strong>Ver más notas</strong></a>
 						</div>
 					</div>				
 				</section> <!-- /. Featured Module Home -->
@@ -307,7 +307,7 @@
 						<a href="operaciones-disponibles-sei.php" class="h-100">
 							<div class="landing-grid-box-info rounded bw-5 border-grey0 text-center h-100">
 								<i class="fas fa-hand-point-up fa-5x bg-purple rounded-circle text-white"></i>
-								<p class="lead">Llama al 01 800 7100 800 o acude a tu sucursal más cercana e informa de tu situación para evitar más daños.</p>
+								<p class="lead">Llama al 800 7100 800 o acude a tu sucursal más cercana e informa de tu situación para evitar más daños.</p>
 							</div>
 						</a>
 					</div>
@@ -315,7 +315,7 @@
 						<a href="preguntas-frecuentes-sei.php" class="h-100">
 							<div class="landing-grid-box-info rounded bw-5 border-grey0 text-center p-3 h-100">
 								<i class="fas fa-hand-point-up fa-5x bg-purple rounded-circle text-white"></i>
-								<p class="lead">En caso de pérdida y robo de identificaciones, informa de inmediato al 01800 7100 800 o a tu sucursal más cercana para evitar que hagan mal uso de tus documentos.</p>
+								<p class="lead">En caso de pérdida y robo de identificaciones, informa de inmediato al 800 7100 800 o a tu sucursal más cercana para evitar que hagan mal uso de tus documentos.</p>
 							</div>
 						</a>
 					</div>

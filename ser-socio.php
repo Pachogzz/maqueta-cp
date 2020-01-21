@@ -50,32 +50,26 @@
 					</div>
 					<div class="col-12 col-lg-6">
 						<div class="bg-grey0 p-3 h-100">
-							<h3 class="text-primary text-center mb-3"><strong>Mis derechos y compromisos</strong></h3>
+							<h3 class="text-primary text-center mb-3"><strong>Mis derechos</strong></h3>
 							<ul class="p-5 bg-white bw-1 border-grey1 has-arrow">
-								<li>Brinda tu número fijo o celular.</li>
-								<li>Datos de los beneficiarios [nombre completo, fecha de nacimiento, domicilio particular y número telefónico]</li>
-								<li>En caso de ser apoderado legal o propietario legal, llevar el documento que así lo avale.</li>
-								<p><strong>Mis derechos:</strong></p>
-									<ul>
-										<li>Depositar ahorros para construir mi patrimonio.</li>
-										<li>Obtener préstamos en los términos fijados por la cooperativa.</li>
-										<li>Retirarme libremente de la sociedad, siempre y cuando no existan obligaciones pendientes a mi cargo.</li>
-										<li>Hacer retiro de mis depósitos, a no ser que los haya otorgado expresamente en garantía de un préstamo.</li>
-										<li>Tener voz y voto en las asambleas y ser elegible para cualquier cargo dirigencial conforme a la normatividad establecida.</li>
-										<li>Recibir información de la situación financiera de la cooperativa.</li>
-										<li>Proponer modificaciones a los estatutos.</li>
-										<li>Recibir otros servicios establecidos por la cooperativa.</li>
-									</ul>
+								<li>Depositar ahorros para construir mi patrimonio.</li>
+								<li>Obtener préstamos en los términos fijados por la cooperativa.</li>
+								<li>Retirarme libremente de la sociedad, siempre y cuando no existan obligaciones pendientes a mi cargo.</li>
+								<li>Hacer retiro de mis depósitos, a no ser que los haya otorgado expresamente en garantía de un préstamo.</li>
+								<li>Tener voz y voto en las asambleas y ser elegible para cualquier cargo dirigencial conforme a la normatividad establecida.</li>
+								<li>Recibir información de la situación financiera de la cooperativa.</li>
+								<li>Proponer modificaciones a los estatutos.</li>
+								<li>Recibir otros servicios establecidos por la cooperativa.</li>
+							</ul>
 
-								<p><strong>Mi compromiso con mi cooperativa:</strong></p>
-									<ul>
-										<li>Cumplir fielmente los estatutos y los reglamentos de la cooperativa, además de los acuerdos de las Asambleas y los tomados por el Consejo de Administración.</li>
-										<li>Aportar los incrementos a la parte social aprobados por la Asamblea General Extraordinaria de Socios.</li>
-										<li>Asistir y participar en las asambleas.</li>
-										<li>Interesarme por conocer el funcionamiento de la cooperativa y su situación financiera.</li>
-										<li>Defender y respetar los principios y el objeto social, buscando en todo momento el fomento y la integración de sus miembros.</li>
-										<li>Participar en el desarrollo económico y social de la cooperativa.</li>
-									</ul>
+							<h3 class="text-primary text-center mb-3"><strong>Mi compromiso con mi cooperativa</strong></h3>
+							<ul class="p-5 bg-white bw-1 border-grey1 has-arrow">
+								<li>Cumplir fielmente los estatutos y los reglamentos de la cooperativa, además de los acuerdos de las Asambleas y los tomados por el Consejo de Administración.</li>
+								<li>Aportar los incrementos a la parte social aprobados por la Asamblea General Extraordinaria de Socios.</li>
+								<li>Asistir y participar en las asambleas.</li>
+								<li>Interesarme por conocer el funcionamiento de la cooperativa y su situación financiera.</li>
+								<li>Defender y respetar los principios y el objeto social, buscando en todo momento el fomento y la integración de sus miembros.</li>
+								<li>Participar en el desarrollo económico y social de la cooperativa.</li>
 							</ul>
 						</div>
 					</div>
@@ -157,7 +151,7 @@
 										<h4 class="font-weight-semibold text-primary text-center">Remesas</h4>
 										<ul class="p-4 border border-grey1 bg-white mb-0">
 											<li>Sabemos la importancia del esfuerzo de tus seres queridos que trabajan en el extranjero, por eso podrás cobrar tus remesas en cualquiera de nuestras sucursales sin comisión*.</li>
-											<li>*Servicio disponible para socios, beneficiarios o socios remitentes.</li>
+											<p><small>* Servicio disponible para socios, beneficiarios o socios remitentes.</small></p>
 										</ul>
 										
 									</div>

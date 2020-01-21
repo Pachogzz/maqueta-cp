@@ -22,7 +22,7 @@
 				<div class="row mb-5">
 					<div class="col-12 col-md-10 offset-md-1">
 						<blockquote class="blockquote p-5 border border-light bw-5 rounded border-grey1 text-center">
-							<p class="mb-0 h3 font-weight-normal">Consulta los establecimientos participantes dando <a href="" class="font-weight-bold text-primary" data-toggle="modal" data-target="#modalCorresponsalias">AQUI</a>
+							<p class="mb-0 h3 font-weight-normal">Consulta los establecimientos participantes dando <a href="" class="font-weight-bold text-primary" data-toggle="modal" data-target="#modalCorresponsalias">AQUÍ</a>
 							<div class="modal fade vh-100" id="modalCorresponsalias" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle1">
 							  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-xl" role="document">
 							    <div class="modal-content">
@@ -57,7 +57,7 @@
 
 								<div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionCICPM">
 									<div class="card-body bg-grey0 p-4">
-										<p class="p-3 border borger-grey1 bg-white">Servicio para la recepción en línea de depósitos a cuentas de ahorro de socios y ahorradores menores de edad, así como el pago a préstamos, a través del comisionista Cadena Comercial Oxxo, quien actúa a nombre y por cuenta de Caja Popular Mexicana.</p>
+										<p class="p-3 border borger-grey1 bg-white">Servicio para la recepción en línea de depósitos a cuentas de ahorro de socios y ahorradores menores de edad, así como el pago a préstamos, a través del comisionista Cadena Comercial OXXO, quien actúa a nombre y por cuenta de Caja Popular Mexicana.</p>
 									</div>
 								</div>
 							</div>

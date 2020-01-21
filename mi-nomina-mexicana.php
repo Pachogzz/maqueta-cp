@@ -24,7 +24,7 @@
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 						<div class="has-label pb-5 pt-0 px-5 position-relative">
 							<!-- <h2 class="d-inline-block border-primary text-primary font-weight-bolder bw-3 py-2 px-3 mb-3">DESCRIPCIÓN</h2> -->
-							<img width="" src="" class="d-block w-100 py-2 px-3 mb-3">
+							<img src="assets/img/secciones/mi-nomina-mexicana-cpm.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Cuenta de depósitos a la vista, donde podrás cobrar tu nómina obteniendo beneficios adicionales.</p>
 							<p class="lead">Consulta los <span class="font-weight-bold text-primary">costos y comisiones de nuestro producto <a href="consulta-los-costos-y-comisiones-de-nuestros-productos.php">aquí </a></span></p>
 							<p class="lead"><span class="font-weight-bold text-primary">Consulta el contrato universal <a href="assets/img/secciones/ahorro/FR-1008-Contrato-Universal.pdf" target="blank">aquí</a></span></p>
