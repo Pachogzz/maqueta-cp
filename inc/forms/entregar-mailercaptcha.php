@@ -120,13 +120,25 @@ $verify          = file_get_contents($url, false, $context);
 $captcha_success = json_decode($verify);
 
 if ($captcha_success->success == false) {
-    echo "Captcha wrong";
+    echo "
+    	<script>
+    		alert('Robot detected!!!...');
+    	</script>
+    ";
 } else if (
 	$captcha_success->success == true) {
     if (!$mail->send()) {
-        echo 'Message sent!';
+	    echo "
+	    	<script>
+	    		alert('Mensaje enviado!');
+	    	</script>
+	    ";
     } else {
-        echo 'Error!';
+	    echo "
+	    	<script>
+	    		alert('Se ha encontrado un error, favor de validad los campos...');
+	    	</script>
+	    ";
     }
 }
 

@@ -14,7 +14,7 @@
 										<p class="display-5"><strong>Únete a nuestro #TalentoCPM</strong></p>
 										<p class="display-18 text-yellow"><strong>Bolsa de trabajo</strong></p>
 										<p class="display-14">Da clic aquí y conoce por qué Caja Popular Mexicana es una <strong>#SúperEmpresa</strong></p>
-										<a href="talento-cpm.php" class="btn btn-secondary br-30 px-5 font-weight-semibold">Saber más</a>
+										<a href="https://talento.cpm.coop/" target="_blank" class="btn btn-secondary br-30 px-5 font-weight-semibold">Saber más</a>
 									</div>
 								</div>
 								<div class="carousel-item">

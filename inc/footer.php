@@ -37,12 +37,12 @@
 							<a class="nav-link" href="aviso-de-privacidad.php"><small>Aviso de privacidad</small></a>
 							<a class="nav-link" href="politicas-de-uso.php"><small>Políticas de uso</small></a>
 							<a class="nav-link" href="mapa-de-sitio.php"><small>Mapa del sitio</small></a>
-							<a class="nav-link" href="despacho-de-cobranza.php"><small>Despacho de Cobranza</small></a>
-							<a class="nav-link" href="aviso-de-privacidad-credito-y-cobranza.php"><small>Aviso de privacidad crédito y cobranza</small></a>
+							<a class="nav-link" href="despacho-de-cobranza.php"><small>Despacho de cobranza</small></a>
+							<!-- <a class="nav-link" href="aviso-de-privacidad-credito-y-cobranza.php"><small>Aviso de privacidad crédito y cobranza</small></a> -->
 							<a class="nav-link" href="buro-de-entidades-financieras.php"><small>Buró de Entidades Financieras</small></a>
-							<a class="nav-link" href="terminos-de-uso-para-redes-sociales.php"><small>Términos de uso para redes sociales</small></a>
-							<a class="nav-link" href="aviso-de-privacidad-en-redes-sociales.php"><small>Aviso de privacidad en redes sociales</small></a>
-							<a class="nav-link" href="terminos-y-condiciones-sei.php"><small>Terminos y condiciones para el Servicio Electrónico por Internet</small></a>
+							<!-- <a class="nav-link" href="terminos-de-uso-para-redes-sociales.php"><small>Términos de uso para redes sociales</small></a> -->
+							<!-- <a class="nav-link" href="aviso-de-privacidad-en-redes-sociales.php"><small>Aviso de privacidad en redes sociales</small></a> -->
+							<a class="nav-link" href="terminos-y-condiciones-sei.php"><small>Términos y condiciones para el Servicio Electrónico por Internet</small></a>
 						</ul>
 					</div>
 					<div class="col-12 text-center text-light"><small>&copy; Caja Popular Mexicana 2020</small></div>

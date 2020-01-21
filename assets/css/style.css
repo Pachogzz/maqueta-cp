@@ -1,4 +1,4 @@
-/*
++/*
 Theme Name: Portal Caja Popular Mexicana
 Description: Tema desarrollado para la empresa CMP
 Author: Pacho Gonzalez
@@ -759,85 +759,98 @@ ul.has-arrow li:before,
 	18. MAPS
 ========================= */
 .maps-st{
-  border-top: 2px solid #09871a;  
+	border-top: 2px solid #09871a;  
 }
 .maps-data-scroll {
-  margin: 0;
-  overflow: hidden;
-  height:100%;
+	margin: 0;
+	overflow: hidden;
+	height:100%;
 }
-  #maps-scroll {
-    position: absolute;
-    top: 0px;
-    bottom: 0;
-    left: 20px;
-    width: 103%;
-    overflow-y: scroll; 
-  }
-@media (min-width: 768px){
-  #maps-scroll {
-    position: absolute;
-    top: 0px;
-    bottom: 0;
-    left: 20px;
-    width: 103%;
-    overflow-y: scroll; 
-    overflow-x:hidden;
-  }
+/*@media (min-width: 768px){
+	#maps-scroll {
+		position: absolute;
+		top: 0px;
+		bottom: 0;
+		left: 20px;
+		overflow-y: scroll; 
+		overflow-x:hidden;
+	}
+}*/
+#data-mapf .data-info > .data-info{
+	min-height: 50px;
 }
-
+#data-mapf .carousel .carousel-control-prev,
+#data-mapf .carousel .carousel-control-next{
+	width: 30px;
+	height: 40px;
+	bottom: 0;
+	top: inherit;
+}
+#data-mapf .carousel .carousel-control-prev:hover,
+#data-mapf .carousel .carousel-control-next:hover{
+	background-color: rgba(69,191,0,.2);
+	width: 30px;
+}
+#data-mapf .carousel .carousel-control-prev i,
+#data-mapf .carousel .carousel-control-next i{
+	color: rgba(0,0,0,.5);
+	width: 30px;
+}
+#data-mapf .carousel .carousel-control-prev:hover i,
+#data-mapf .carousel .carousel-control-next:hover i{
+	color: #fff;
+	width: 30px;
+}
+#data-mapf .carousel .carousel-control-prev{}
+#data-mapf .carousel .carousel-control-next{}
 .text-maps-title{
-   color:#09871a;
-   padding-top:10px;
-}
-.table thead th{
-  vertical-align: bottom;
-  border-bottom: 2px solid #ddf0d0;
-}
-.table th, .table td{
-  padding: 0.30rem;
-  vertical-align: top;
-  border-top: 1px solid #ddf0d0;  
+	color:#09871a;
+	padding-top:10px;
 }
 #map {
-    height: 500px;
-    width: 100%;
+	height: 500px;
+	width: 100%;
 }
-
 .row.date-map {
-    background-color:#ddf0d0;
-    padding-top:15px;
-    padding-bottom:5px;
+	background-color:#ddf0d0;
+	padding-top:15px;
+	padding-bottom:5px;
 }
 .row.date-maping {
-    background-color:#ddf0d0;
-    padding-bottom:25px;
+	background-color:#ddf0d0;
+	padding-bottom:25px;
 }
 .selectWrapper {
-    width: 100%;
-    overflow: hidden;
-    position: relative;
-    border: 1px solid #bbb;
-    border-radius: 2px;
-    background:#FFFFFF url('data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2211%22%20height%3D%2211%22%20viewBox%3D%220%200%2011%2011%22%3E%3Cpath%20d%3D%22M4.33%208.5L0%201L8.66%201z%22%20fill%3D%22%2300AEA9%22%2F%3E%3C%2Fsvg%3E') right 13px center no-repeat;
+	width: 100%;
+	overflow: hidden;
+	position: relative;
+	border: 1px solid #bbb;
+	border-radius: 2px;
+	background:#FFFFFF url('data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2211%22%20height%3D%2211%22%20viewBox%3D%220%200%2011%2011%22%3E%3Cpath%20d%3D%22M4.33%208.5L0%201L8.66%201z%22%20fill%3D%22%2300AEA9%22%2F%3E%3C%2Fsvg%3E') right 13px center no-repeat;
 }
-
 .selectWrapper select {
-        padding: 12px 40px 12px 20px;
-        font-size: 18px;
-        line-height: 18px;
-        width: 100%;
-        border: none;
-        box-shadow: none;
-        background: transparent;
-        background-image: none;
-        -webkit-appearance: none;
-        outline: none;
-        cursor: pointer;
-        -moz-appearance: none;
-        text-indent: 0.01px;
-        text-overflow: ellipsis;
-    }
+	padding: 12px 40px 12px 20px;
+	font-size: 18px;
+	line-height: 18px;
+	width: 100%;
+	border: none;
+	box-shadow: none;
+	background: transparent;
+	background-image: none;
+	-webkit-appearance: none;
+	outline: none;
+	cursor: pointer;
+	-moz-appearance: none;
+	text-indent: 0.01px;
+	text-overflow: ellipsis;
+}
+.gm-style-iw-d #content{
+	text-align: center;
+}
+.gm-style-iw-d #content h6{
+	color: #09871a;
+	border-bottom: 1px solid #ccc;
+}
 
 /* =========================
 	19. MODALS
@@ -912,6 +925,13 @@ ul.has-arrow li:before,
 	.display-26{ font-size: 24px; }
 	.display-28{ font-size: 26px; }
 	.display-30{ font-size: 28px; }
+
+	/* Maps - Ubica tu sucursal */	
+	#maps-scroll {
+		max-height: 500px;
+		overflow-y: scroll;
+		margin-bottom: 30px;
+	}
 }
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
@@ -971,6 +991,13 @@ ul.has-arrow li:before,
 	.display-26{ font-size: 26px; }
 	.display-28{ font-size: 28px; }
 	.display-30{ font-size: 30px; }
+
+	/* Maps - Ubica tu sucursal */	
+	#maps-scroll {
+		max-height: 500px;
+		overflow-y: scroll;
+		margin-bottom: 30px;
+	}
 }
 @media (max-width: 576px){
 	.after-flange::after{
@@ -979,9 +1006,9 @@ ul.has-arrow li:before,
 	.social-icons{
 		text-align: center !important;
 	}
-	[class*="br-"]{
+	/*[class*="br-"]{
 		border-radius: 0;
-	}
+	}*/
 }
 
 /* Medium devices (tablets, 768px and up) */
@@ -1019,6 +1046,13 @@ ul.has-arrow li:before,
 		top: 50%;
 		left: 10%;
 		text-align: left;
+	}
+
+	/* Maps - Ubica tu sucursal */	
+	#maps-scroll {
+		max-height: 500px;
+		overflow-y: scroll;
+		margin-bottom: 30px;
 	}
 	
 	/* Display Responsive Fix */
@@ -1073,6 +1107,16 @@ ul.has-arrow li:before,
 		.display-3{ font-size: 4rem; line-height: 4.2rem; }
 		.display-4{ font-size: 3.2rem; line-height: 3.4rem; }
 		.display-5{ font-size: 2rem; line-height: 2.4rem; }
+
+	/* Maps - Ubica tu sucursal */	
+	#maps-scroll {
+		position: absolute;
+		top: 0px;
+		bottom: 0;
+		left: 20px;
+		overflow-y: scroll; 
+		margin-bottom: 0;
+	}
 }
 
 /* Extra large devices (large desktops, 1200px and up) */

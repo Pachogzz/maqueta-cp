@@ -3,7 +3,7 @@
 				<div class="row text-center">
 					<div class="col-12 col-lg z-index-1">
 						<a href="#" class="btn btn-primary btn-lg btn-block rounded-pill w-100 w-lg-75 mx-auto p-3 mb-2 mb-lg-0 active">
-							Avisos <br>legalers <i class="fa fa-chevron-circle-right"></i>
+							Avisos <br>legales <i class="fa fa-chevron-circle-right"></i>
 						</a>
 					</div>
 					<div class="col-12 col-lg p-0 pl-md-0 pl-lg-3 mb-2 mb-lg-0 white-circle-n-line">
@@ -13,7 +13,7 @@
 					</div>
 					<div class="col-12 col-lg p-0 mb-2 mb-lg-0 ">
 						<a href="aviso-de-privacidad-credito-y-cobranza.php" class="btn bg-primary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
-							Aviso de privacidad <br>creditos y cobranza
+							Aviso de privacidad <br>credito y cobranza
 						</a>
 					</div>
 					<div class="col-12 col-lg p-0 mb-2 mb-lg-0 ">

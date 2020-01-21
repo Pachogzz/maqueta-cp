@@ -1,21 +1,6 @@
-$primary: #3F51B5;
-$dark-primary: #303F9F;
-$light-primary: #C5CAE9;
-$text: #FFFFFF;
-$primary-text: #212121;
-$secondary-text: #757575;
-$accent: #FF4081;
-
-section {
-  padding: 100px 0;
-}
-
-html, body {
-  overflow-x: hidden;
-}
-
 .timeline {
   position: relative;
+  overflow: hidden;
 }
 .timeline::before {
   content: '';
@@ -127,15 +112,22 @@ html, body {
 
 @media screen and (max-width: 768px) {
   .timeline::before {
-    left: 50px;
+    left: 19px;
+  }
+  .timeline-item{
+    width: 95%;
+  }
+  .timeline-item .timeline-img-header{
+    height: auto;
+    min-height: auto;
   }
   .timeline .timeline-img {
-    left: 50px;
+    left: 20px;
   }
   .timeline .timeline-content {
     max-width: 100%;
     width: auto;
-    margin-left: 70px;
+    margin-left: 30px;
   }
   .timeline .timeline-item:nth-child(even) .timeline-content {
     float: none;

@@ -23,7 +23,10 @@
 				</div>
 				<div class="row">
 					<div class="col-12">
-						<img src="assets/img/secciones/banner-sei.jpg" class="img-fluid mb-5" alt="">
+						<video autoplay loop muted inline class="w-100">
+							<source class="embed-responsive-item" src="assets/video/banner_cpm_sei_loop.mp4" type="video/mp4">
+							<img src="assets/img/secciones/banner-sei.jpg" />
+						</video>
 					</div>
 				</div>
 			</div>

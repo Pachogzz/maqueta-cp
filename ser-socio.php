@@ -12,7 +12,7 @@
 
 		<?php include('inc/navs/inner_nav_page-quiero-ser-socio.php') ?>
 
-		<section class="featured-module-home py-5">
+		<!-- <section class="featured-module-home py-5">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-8 offset-md-2">
@@ -20,14 +20,14 @@
 					</div>
 				</div>
 			</div>
-		</section> <!-- /. Main Tag Line -->
+		</section>  --><!-- /. Main Tag Line -->
 
 		<section class="page-content">
 			<div class="container">
 				<div class="row mb-5">
 					<div class="col-12 col-lg-6">
-						<div class="bg-grey0 p-5 h-100">
-							<h3 class="text-primary mb-3"><strong>Requisitos</strong></h3>
+						<div class="bg-grey0 p-3 h-100">
+							<h3 class="text-primary text-center mb-3"><strong>Requisitos</strong></h3>
 							<ul class="p-5 bg-white bw-1 border-grey1 has-arrow mb-3">
 								<li>Ser mayor de 18 años o estar legalmente emancipado (casado – se requiere acta de matrimonio en este caso-).</li>
 								<li>Poseer espíritu de trabajo y de honradez y estar en pleno goce de tus derechos civiles.</li>
@@ -40,7 +40,7 @@
 								<li>Copia de identificación oficial vigente y original para cotejo.</li>
 								<li>CURP (presentar cuando no aparezca en la identificación oficial).</li>
 							</ul>
-							<h3 class="text-primary mb-3"><strong>Consideraciones</strong></h3>
+							<h3 class="text-primary text-center mb-3"><strong>Consideraciones</strong></h3>
 							<ul class="p-5 bg-white bw-1 border-grey1 has-arrow">
 								<li>Brinda tu número fijo o celular.</li>
 								<li>Ten a la mano los datos de tus beneficiarios [nombre completo, fecha de nacimiento, domicilio particular y número telefónico]</li>
@@ -49,8 +49,8 @@
 						</div>
 					</div>
 					<div class="col-12 col-lg-6">
-						<div class="bg-grey0 p-5 h-100">
-							<h3 class="text-primary mb-3"><strong>Mis derechos y compromisos</strong></h3>
+						<div class="bg-grey0 p-3 h-100">
+							<h3 class="text-primary text-center mb-3"><strong>Mis derechos y compromisos</strong></h3>
 							<ul class="p-5 bg-white bw-1 border-grey1 has-arrow">
 								<li>Brinda tu número fijo o celular.</li>
 								<li>Datos de los beneficiarios [nombre completo, fecha de nacimiento, domicilio particular y número telefónico]</li>

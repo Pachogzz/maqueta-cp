@@ -45,13 +45,13 @@
 												</thead>
 												<tbody>
 													<tr>
-												<td>Crédito personal Plus CPM</td>
-												<td>No aplica<br>comisión</td>
-												<td>0.00</td>
-												<td>No aplica</td>
-												<td><strong>Min.: 12.00% hasta un Mx: 33.00%</strong><br> *La tasa se asignara de acuerdo al perfil crediticio del Socio.</td>
-												<td><strong>31.5% sin IVA%</strong></td>
-												<td>30/06/2019</td>
+														<td>Crédito personal Plus CPM</td>
+														<td>No aplica<br>comisión</td>
+														<td>0.00</td>
+														<td>No aplica</td>
+														<td><strong>Min.: 12.00% hasta un Mx: 33.00%</strong><br> *La tasa se asignara de acuerdo al perfil crediticio del Socio.</td>
+														<td><strong>31.6% sin IVA%</strong></td>
+														<td>31/12/2019</td>
 													</tr>
 												</tbody>
 											</table>
@@ -67,7 +67,7 @@
 								<div class="card-header" id="headingTwo">
 									<h2 class="mb-0">
 										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-											Crédinámico
+											Credinámico
 										</button>
 									</h2>
 								</div>
@@ -94,7 +94,7 @@
 													<td>No aplica</td>
 													<td><strong>Min.: 12.00% hasta un Máx: 33.00%</strong><br>*La tasa se asignará de acuerdo al perfil crediticio del socio.</td>
 													<td><strong>25.1% sin IVA</strong></td>
-													<td>30/06/2019</td>
+													<td>31/12/2019</td>
 												</tr>
 											</tbody>
 										</table>
@@ -136,8 +136,8 @@
 													<td>0.00</td>
 													<td>No aplica</td>
 													<td><strong>12.24%<p></p></strong></td>
-													<td><strong>73856570763370100000000000.0% sin IVA</strong></td>
-													<td>30/06/19</td>
+													<td><strong>32496813783425200000000000000000000000.0% sin IVA</strong></td>
+													<td>31/12/19</td>
 												</tr>
 											</tbody>
 										</table>
@@ -179,8 +179,8 @@
 													<td>0.00</td>
 													<td>No aplica</td>
 													<td><strong>19.44%<p></p></strong></td>
-													<td><strong>24.2% sin IVA</strong></td>
-													<td>30/06/19</td>
+													<td><strong>25.5% sin IVA</strong></td>
+													<td>31/12/19</td>
 												</tr>
 											</tbody>
 										</table>
@@ -191,18 +191,18 @@
 							</div>
 							<!-- Crédito Productivo CPM -->
 
-							<!-- Crédito Automotríz CPM -->
+							<!-- Crédito Automotriz CPM -->
 							<div class="card">
 								<div class="card-header" id="headingFive">
 									<h2 class="mb-0">
 										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-											Crédito Automotríz CPM
+											Crédito Automotriz CPM
 										</button>
 									</h2>
 								</div>
 								<div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionCCNP1">
 									<div class="card-body bg-grey0 p-4">
-										<h4>Crédito Automotríz CPM</h4>
+										<h4>Crédito Automotriz CPM</h4>
 										<table class="table table-responsive-md table-bordered p-5 bg-white">
 											<thead class="bg-primary text-white">
 												<tr>
@@ -220,8 +220,8 @@
 													<td>0.00</td>
 													<td>No aplica</td>
 													<td><strong>12.84%</strong></td>
-													<td><strong>20.8% sin IVA</strong></td>
-													<td>30/06/19</td>
+													<td><strong>20.3% sin IVA</strong></td>
+													<td>31/12/19</td>
 												</tr>
 											</tbody>
 										</table>
@@ -230,7 +230,7 @@
 									</div>
 								</div>
 							</div>
-							<!-- Crédito Automotríz CPM -->
+							<!-- Crédito Automotriz CPM -->
 
 							<!-- Crédito Hipotecario CPM -->
 							<div class="card">
@@ -265,7 +265,7 @@
 													<td>No aplica</td>
 													<td><strong>Min.: 10.08% hasta Max: 10.44% [¡¡]<br> </strong></td>
 													<td><strong>12.9% sin IVA</strong></td>
-													<td>30/06/19</td>
+													<td>31/12/19</td>
 												</tr>
 												<tr>
 													<td scope="row">Finalidad de liquidez</td>
@@ -274,7 +274,7 @@
 													<td>No aplica</td>
 													<td><strong>17.16%<br> </strong></td>
 													<td><strong>24.3% sin IVA</strong></td>
-													<td>30/06/19</td>
+													<td>31/12/19</td>
 												</tr>
 											</tbody>
 										</table>
