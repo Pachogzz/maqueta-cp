@@ -5,10 +5,6 @@
         var inpmun = $("#cbx_municipio").val();
         var inpsab = $('#customControlAutosizing').prop("checked");
         var inpdom = $('#customControlAutosizing2').prop("checked");
-        /*var inptel = $('#customControlAutosizing3').prop("checked");
-        var inpluz = $('#customControlAutosizing4').prop("checked");
-        var inprem = $('#customControlAutosizing5').prop("checked");*/
-        /*var inpcaj = $('#customControlAutosizing6').prop("checked");*/
         var inpcajdis = $('#customControlAutosizing7').prop("checked");
         var inpcajrec = $('#customControlAutosizing8').prop("checked");        
         window.location = "ubica-tu-sucursal.php?estado=" + inpest + "&idmun=" + inpmun + "&municipio=" + inpmun2 + "&sab=" + inpsab + "&dom=" + inpdom + "&cajdis=" + inpcajdis + "&cajrec=" + inpcajrec + "#data-gmaps";
@@ -42,18 +38,6 @@
     if ($('#hdom').val() == "true") {
         $('#customControlAutosizing2').prop("checked", true);
     }
-    /*if ($('#htel').val() == "true") {
-        $('#customControlAutosizing3').prop("checked", true);
-    }
-    if ($('#hluz').val() == "true") {
-        $('#customControlAutosizing4').prop("checked", true);
-    }
-    if ($('#hrem').val() == "true") {
-        $('#customControlAutosizing5').prop("checked", true);
-    }*/
-    /*if ($('#hcaj').val() == "true") {
-        $('#customControlAutosizing6').prop("checked", true);
-    }*/
     if ($('#hcajdis').val() == "true") {
         $('#customControlAutosizing7').prop("checked", true);
     }
@@ -82,10 +66,6 @@
         var inpmun = $("#cbx_municipio option:selected").text();
         var inpsab = $('#customControlAutosizing').prop("checked");
         var inpdom = $('#customControlAutosizing2').prop("checked");
-        /*var inptel = $('#customControlAutosizing3').prop("checked");
-        var inpluz = $('#customControlAutosizing4').prop("checked");
-        var inprem = $('#customControlAutosizing5').prop("checked");*/
-        /*var inpcaj = $('#customControlAutosizing6').prop("checked");*/
         var inpcajdis = $('#customControlAutosizing7').prop("checked");
         var inpcajrec = $('#customControlAutosizing8').prop("checked");
         /*Cierre de datos de filtrado*/
@@ -262,27 +242,6 @@
                     } else {
                         seleccion++;
                     }
-                    /* if (inptel) {
-                         if (telefonia.length > 2) {
-                             existe = true;
-                         }
-                     } else {
-                         seleccion++;
-                     }
-                     if (inpluz) {
-                         if (luz.length > 2) {
-                             existe = true;
-                         }
-                     } else {
-                         seleccion++;
-                     }
-                     if (inprem) {
-                         if (remesas.length > 2) {
-                             existe = true;
-                         }
-                     } else {
-                         seleccion++;
-                     }*/
                     if (inpcajrec) {
                         if (crecep == "SI") {
                             existe = true;
@@ -301,7 +260,7 @@
                         existe = true;
                     }
                     if (existe) {
-                        var datainfo = "<div class='col-12 px-0 px-lg-auto'><div class='card w-100 rounded-0' style='margin-bottom: 15px;'><div class='card-header bg-tertiary text-white py-2 px-3'><h5 class='card-title my-1 data-info d-inline-block'>*sucursal*</h5><input type='button' class='btn btn-primary btn-sm datos-maker float-right' value='Ver en mapa' target='*localizacion*'></div><div class='card-body py-2 px-3'><p class='card-text data-info'><strong class='text-tertiary'>Dirección:</strong>  *direccion*</p></div><ul class='list-group list-group-flush'><li class='list-group-item py-2 px-3 data-info'><strong class='text-tertiary'>Teléfono: </strong> (*lada*) *tel*</li><li class='list-group-item py-2 px-3 data-info'><strong class='text-tertiary'>Horarios: </strong>*horariolv*<br>*horariosb*<br>*horariodm*</li><li class='list-group-item py-2 px-3 data-info'><strong class='text-tertiary'>Servicios: </strong> *servicios*.</li></ul><div class='card-body py-2 px-3 data-info'><div id='carouselExampleControls' class='carousel slide' data-ride='carousel'><div class='carousel-inner'><div class='carousel-item active *sucursal* data-info'><img class='d-block w-100 bbw'  src='*banner*' alt='' id='slide-uno'><p class='data-info my-2 px-2'>*info1*</p><a href='*link1*' target='_blank' class='d-block w-100 text-center'><input type='button' class='btn btn-primary btn-sm datos-maker m-auto' value='Ver m&aacute;s'></a></div><div class='carousel-item *sucursal* data-info'><img class='d-block w-100 bbw' src='*banner2*' alt='' id='slide-dos'><p class='data-info my-2 px-2'>*info2*</p><a href='*link2*' target='_blank' class='d-block w-100 text-center'><input type='button' class='btn btn-primary btn-sm datos-maker' value='Ver m&aacute;s'></a></div><div class='carousel-item *sucursal* data-info'><img class='d-block w-100 bbw' src='*banner3*' alt='' id='slide-tres'><p class='data-info my-2 px-2'>*info3*</p><a href='*link3*' target='_blank' class='d-block w-100 text-center'><input type='button' class='btn btn-primary btn-sm datos-maker' value='Ver m&aacute;s'></a></div></div><a class='carousel-control-prev' href='#carouselExampleControls' role='button' data-slide='prev'><i class='fas fa-chevron-left'></i></a><a class='carousel-control-next' href='#carouselExampleControls' role='button' data-slide='next'><i class='fas fa-chevron-right'></i></a></div></div><div class='card-body py-2 px-3'><p class='card-text data-info'><strong class='text-tertiary'>Dirección Asamblea:</strong>  *dasamblea*</p></div><div class='card-body py-2 px-3'><p class='card-text data-info'><strong class='text-tertiary'>Fecha:</strong>  *fasamblea*</p></div><div class='card-body py-2 px-3'><p class='card-text data-info'><strong class='text-tertiary'>Hora:</strong>  *hasamblea*</p></div><!--div class='card-body py-2 px-3'></div--></div>";
+                        var datainfo = "<div class='col-12 px-0 px-lg-auto'><div class='card w-100 rounded-0' style='margin-bottom: 15px;'><div class='card-header bg-tertiary text-white py-2 px-3'><h5 class='card-title my-1 data-info d-inline-block'>*sucursal*</h5><input type='button' class='btn btn-primary btn-sm datos-maker float-right' value='Ver en mapa' target='*localizacion*'></div><div class='card-body py-2 px-3'><p class='card-text data-info'><strong class='text-tertiary'>Dirección:</strong>  *direccion*</p></div><ul class='list-group list-group-flush'><li class='list-group-item py-2 px-3 data-info'><strong class='text-tertiary'>Teléfono: </strong> (*lada*) *tel*</li><li class='list-group-item py-2 px-3 data-info'><strong class='text-tertiary'>Horarios: </strong>*horariolv*<br>*horariosb*<br>*horariodm*</li><li class='list-group-item py-2 px-3 data-info'><strong class='text-tertiary'>Servicios: </strong> *servicios*.</li></ul><div class='card-body py-2 px-3 data-info'><div id='carouselExampleControls' class='carousel slide' data-ride='carousel'><div class='carousel-inner'><div class='carousel-item active *sucursal* data-info'><img class='d-block w-100 bbw'  src='*banner*' alt='' id='slide-uno'><p class='data-info my-2 px-2'>*info1*</p><a href='*link1*' target='_blank' class='d-block w-100 text-center'><input type='button' class='btn btn-primary btn-sm datos-maker m-auto' value='Ver m&aacute;s'></a></div><div class='carousel-item *sucursal* data-info'><img class='d-block w-100 bbw' src='*banner2*' alt='' id='slide-dos'><p class='data-info my-2 px-2'>*info2*</p><a href='*link2*' target='_blank' class='d-block w-100 text-center'><input type='button' class='btn btn-primary btn-sm datos-maker' value='Ver m&aacute;s'></a></div><div class='carousel-item *sucursal* data-info'><img class='d-block w-100 bbw' src='*banner3*' alt='' id='slide-tres'><p class='data-info my-2 px-2'>*info3*</p><a href='*link3*' target='_blank' class='d-block w-100 text-center'><input type='button' class='btn btn-primary btn-sm datos-maker' value='Ver m&aacute;s'></a></div></div><a class='carousel-control-prev' href='#carouselExampleControls' role='button' data-slide='prev'><i class='fas fa-chevron-left'></i></a><a class='carousel-control-next' href='#carouselExampleControls' role='button' data-slide='next'><i class='fas fa-chevron-right'></i></a></div></div><div class='card-body py-2 px-3'><p class='card-text data-info'><strong class='text-tertiary'>Direcci&oacute;n Asamblea:</strong>  *dasamblea*</p></div><div class='card-body py-2 px-3'><p class='card-text data-info'><strong class='text-tertiary'>Fecha:</strong>  *fasamblea*</p></div><div class='card-body py-2 px-3'><p class='card-text data-info'><strong class='text-tertiary'>Hora:</strong>  *hasamblea*</p></div><!--div class='card-body py-2 px-3'></div--></div>";
                         var datainsert = datainfo.replace('*sucursal*', sucursal).replace('*direccion*', direccion).replace('*banner*', banner).replace('*banner2*', banner2).replace('*horariolv*', horariolv).replace('*horariosb*', horariosb).replace('*horariodm*', horariodm).replace('*info1*', info1).replace('*info2*', info2).replace('*info3*', info3).replace('*banner3*', banner3).replace('*tel*', uniontel).replace('*lada*', lada).replace('*servicios*', unionser).replace('*localizacion*', localizacion).replace('*dasamblea*', dasamblea).replace('*fasamblea*', fasamblea).replace('*hasamblea*', hasamblea).replace('*link1*', link1).replace('*link2*', link2).replace('*link3*', link3);
                         $("#data-mapf").append(datainsert);
                         /*Mapeo Inicio*/
