@@ -72,7 +72,6 @@
 		<script src="assets/js/timeline.js"></script>
 		<!-- Custom JS -->
 		<script src="assets/js/site.js"></script>
-		<!-- <script src="conexion/js/jquery-3.1.1.min.js"></script> -->
 		<!-- Maps Google -->
 		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCiLXdNlZzFjV8DV-Rj16QWiN37zx2nbLo&callback=initMap" async defer></script>
 		<script type="text/javascript" src="assets/js/maps-config.js"></script>

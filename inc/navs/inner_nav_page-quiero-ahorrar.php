@@ -25,6 +25,7 @@
 							<a class="dropdown-item" href="servicuenta.php"><i class="fa fa-chevron-circle-right mr-1"></i> Servicuenta</a>
 							<a class="dropdown-item" href="cuenta-mexicana.php"><i class="fa fa-chevron-circle-right mr-1"></i> Cuenta Mexicana</a>
 							<a class="dropdown-item" href="cuentamiga.php"><i class="fa fa-chevron-circle-right mr-1"></i> Cuentamiga</a>
+							<a class="dropdown-item" href="quieres-saber-las-tasas-de-rendimiento.php.php"><i class="fa fa-chevron-circle-right mr-1"></i> Tasas de rendimiento</a>
 						</div>
 					</div>
 				</div>
@@ -53,6 +54,7 @@
 										<a class="dropdown-item" href="servicuenta.php"><i class="fa fa-chevron-circle-right mr-1"></i> Servicuenta</a>
 										<a class="dropdown-item" href="cuenta-mexicana.php"><i class="fa fa-chevron-circle-right mr-1"></i> Cuenta Mexicana</a>
 										<a class="dropdown-item" href="cuentamiga.php"><i class="fa fa-chevron-circle-right mr-1"></i> Cuentamiga</a>
+										<a class="dropdown-item" href="quieres-saber-las-tasas-de-rendimiento.php.php"><i class="fa fa-chevron-circle-right mr-1"></i> Tasas de rendimiento</a>
 									</div>
 								</li>
 							</ul>

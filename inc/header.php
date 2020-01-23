@@ -44,6 +44,8 @@
 		<!--[if (lt IE 9)]><script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.helper.ie8.js"></script><![endif]-->
 		<!-- Animate CSS -->
 		<link rel="stylesheet" href="assets/css/animate.css">
+		<!-- Responsive tabs -->
+		<link rel="stylesheet" href="assets/css/responsive-tabs.css">
 		<!-- Main CSS -->
 		<link rel="stylesheet" href="assets/css/timeline.css">
 		<link rel="stylesheet" href="assets/css/style.css">

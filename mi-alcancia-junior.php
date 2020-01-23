@@ -31,7 +31,7 @@
 							<p class="lead">Cuenta donde el menor de edad puede efectuar depósitos en cualquier fecha, a partir del monto mínimo que establezca al momento de aperturar la cuenta. El ahorro podrá ser retirado en los días pactados en el contrato, junto con los interés de acuerdo a la tasa.</p>
 							<p class="lead">Tendrás la posibilidad de cumplir los gustos que te mereces y al mismo tiempo mediante la constancia, crearte el hábito del ahorro.</p>
 							<p class="lead">Consulta los <span class="font-weight-bold text-primary">Consulta los costos y comisiones de nuestro producto <a href="consulta-los-costos-y-comisiones-de-nuestros-productos.php">aquí </a></span></p>
-							<p class="lead"><span class="font-weight-bold text-primary">Consulta el contrato universal <a href="assets/img/secciones/ahorro/FR-1008-Contrato-Universal.pdf" target="blank">aquí</a></span></p>
+							<p class="lead"><span class="font-weight-bold text-primary">Consulta el contrato universal <a href="assets/img/secciones/ahorro/FR-1917_Contrato_de_apertura_de_crédito_en_cuenta_corriente.pdf" target="blank">aquí</a></span></p>
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 					</div>

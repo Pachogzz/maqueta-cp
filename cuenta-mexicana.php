@@ -30,7 +30,7 @@
 							<img width="" src="assets/img/secciones/logos-ahorro/cuenta-mexicana.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Es una cuenta de ahorro ordinario que te ayuda a obtener un préstamo en Caja Popular Mexicana, pues el saldo forma parte de las garantías requeridas.</p>
 							<p class="lead">Consulta los <span class="font-weight-bold text-primary">costos y comisiones de nuestro producto <a href="consulta-los-costos-y-comisiones-de-nuestros-productos.php">aquí </a></span></p>
-							<p class="lead"><span class="font-weight-bold text-primary">Consulta el contrato universal <a href="assets/img/secciones/ahorro/FR-1008-Contrato-Universal.pdf" target="blank">aquí</a></span></p>
+							<p class="lead"><span class="font-weight-bold text-primary">Consulta el contrato universal <a href="assets/img/secciones/ahorro/FR-1917_Contrato_de_apertura_de_crédito_en_cuenta_corriente.pdf" target="blank">aquí</a></span></p>
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 					</div>

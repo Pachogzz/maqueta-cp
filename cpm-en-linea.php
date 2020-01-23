@@ -28,7 +28,7 @@
 				</div> <!-- ./ Main info block -->
 
 				<div class="row video-tutorial-holder mb-5">
-					<div class="col-12 col-md-6">
+					<div class="col-12 col-md-6 mb-3 mb-md-0">
 						<div class="embed-responsive embed-responsive-16by9">
 							<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9i5BUEnW-_Q?rel=0" allowfullscreen></iframe>
 						</div>
@@ -74,7 +74,7 @@
 				</div>
 
 				<div class="row guides-grid">
-				  <div id="0" class="guides-grid-col col-12 col-md-4">
+				  <div id="0" class="guides-grid-col col-12 col-md-6 col-lg-4">
 				    <div class="card h-100 guides-grid-block">
 				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
 				      <div class="card-body">
@@ -107,7 +107,7 @@
 				      </div>
 				    </div>
 				  </div>
-				  <div id="1" class="guides-grid-col col-12 col-md-4">
+				  <div id="1" class="guides-grid-col col-12 col-md-6 col-lg-4">
 				    <div class="card h-100 guides-grid-block">
 				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
 				      <div class="card-body">
@@ -140,7 +140,7 @@
 				      </div>
 				    </div>
 				  </div>
-				  <div id="2" class="guides-grid-col col-12 col-md-4">
+				  <div id="2" class="guides-grid-col col-12 col-md-6 col-lg-4">
 				    <div class="card h-100 guides-grid-block">
 				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
 				      <div class="card-body">
@@ -173,7 +173,7 @@
 				      </div>
 				    </div>
 				  </div>
-				  <div id="3" class="guides-grid-col col-12 col-md-4">
+				  <div id="3" class="guides-grid-col col-12 col-md-6 col-lg-4">
 				    <div class="card h-100 guides-grid-block">
 				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
 				      <div class="card-body">
@@ -206,7 +206,7 @@
 				      </div>
 				    </div>
 				  </div>
-				  <div id="4" class="guides-grid-col col-12 col-md-4">
+				  <div id="4" class="guides-grid-col col-12 col-md-6 col-lg-4">
 				    <div class="card h-100 guides-grid-block">
 				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
 				      <div class="card-body">
@@ -239,7 +239,7 @@
 				      </div>
 				    </div>
 				  </div>
-				  <div id="5" class="guides-grid-col col-12 col-md-4">
+				  <div id="5" class="guides-grid-col col-12 col-md-6 col-lg-4">
 				    <div class="card h-100 guides-grid-block">
 				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
 				      <div class="card-body">
@@ -272,7 +272,7 @@
 				      </div>
 				    </div>
 				  </div>
-				  <div id="6" class="guides-grid-col col-12 col-md-4">
+				  <div id="6" class="guides-grid-col col-12 col-md-6 col-lg-4">
 				    <div class="card h-100 guides-grid-block">
 				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
 				      <div class="card-body">
@@ -305,7 +305,7 @@
 				      </div>
 				    </div>
 				  </div>
-				  <div id="7" class="guides-grid-col col-12 col-md-4">
+				  <div id="7" class="guides-grid-col col-12 col-md-6 col-lg-4">
 				    <div class="card h-100 guides-grid-block">
 				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
 				      <div class="card-body">
@@ -338,7 +338,7 @@
 				      </div>
 				    </div>
 				  </div>
-				  <div id="8" class="guides-grid-col col-12 col-md-4">
+				  <div id="8" class="guides-grid-col col-12 col-md-6 col-lg-4">
 				    <div class="card h-100 guides-grid-block">
 				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
 				      <div class="card-body">
@@ -371,7 +371,7 @@
 				      </div>
 				    </div>
 				  </div>
-				  <div id="9" class="guides-grid-col col-12 col-md-4">
+				  <div id="9" class="guides-grid-col col-12 col-md-6 col-lg-4">
 				    <div class="card h-100 guides-grid-block">
 				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
 				      <div class="card-body">
@@ -404,7 +404,7 @@
 				      </div>
 				    </div>
 				  </div>
-				  <div id="10" class="guides-grid-col col-12 col-md-4">
+				  <div id="10" class="guides-grid-col col-12 col-md-6 col-lg-4">
 				    <div class="card h-100 guides-grid-block">
 				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
 				      <div class="card-body">
@@ -437,7 +437,7 @@
 				      </div>
 				    </div>
 				  </div>
-				  <div id="11" class="guides-grid-col col-12 col-md-4">
+				  <div id="11" class="guides-grid-col col-12 col-md-6 col-lg-4">
 				    <div class="card h-100 guides-grid-block">
 				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
 				      <div class="card-body">
@@ -470,7 +470,7 @@
 				      </div>
 				    </div>
 				  </div>
-				  <div id="12" class="guides-grid-col col-12 col-md-4">
+				  <div id="12" class="guides-grid-col col-12 col-md-6 col-lg-4">
 				    <div class="card h-100 guides-grid-block">
 				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
 				      <div class="card-body">
@@ -503,7 +503,7 @@
 				      </div>
 				    </div>
 				  </div>
-				  <div id="13" class="guides-grid-col col-12 col-md-4">
+				  <div id="13" class="guides-grid-col col-12 col-md-6 col-lg-4">
 				    <div class="card h-100 guides-grid-block">
 				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
 				      <div class="card-body">
@@ -536,7 +536,7 @@
 				      </div>
 				    </div>
 				  </div>
-				  <div id="14" class="guides-grid-col col-12 col-md-4">
+				  <div id="14" class="guides-grid-col col-12 col-md-6 col-lg-4">
 				    <div class="card h-100 guides-grid-block">
 				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
 				      <div class="card-body">
@@ -569,7 +569,7 @@
 				      </div>
 				    </div>
 				  </div>
-				  <div id="15" class="guides-grid-col col-12 col-md-4">
+				  <div id="15" class="guides-grid-col col-12 col-md-6 col-lg-4">
 				    <div class="card h-100 guides-grid-block">
 				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
 				      <div class="card-body">
@@ -602,7 +602,7 @@
 				      </div>
 				    </div>
 				  </div>
-				  <div id="16" class="guides-grid-col col-12 col-md-4">
+				  <div id="16" class="guides-grid-col col-12 col-md-6 col-lg-4">
 				    <div class="card h-100 guides-grid-block">
 				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
 				      <div class="card-body">
