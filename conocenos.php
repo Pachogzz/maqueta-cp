@@ -27,9 +27,9 @@
 
 				<div class="row mb-5">
 					<div class="col-12">
-						<ul class="nav nav-pills nav-justified icon-tabs" id="pills-tab" role="tablist">
-							<li class="nav-item">
-								<a class="nav-link h4 p-3 p-md-3 active" id="pills-mision-tab" data-toggle="pill" href="#pills-mision" role="tab" aria-controls="pills-mision" aria-selected="true">
+						<ul class="nav nav-pills justify-content-center icon-tabs responsive-tabs">
+							<li class="nav-item active">
+								<a class="nav-link h4 p-3 p-md-3" id="pills-mision-tab" data-toggle="pill" href="#pills-mision" role="tab" aria-controls="pills-mision" aria-selected="true">
 									<i class="fas fa-bullseye fa-3x mb-3"></i><br>Misión
 								</a>
 							</li>
