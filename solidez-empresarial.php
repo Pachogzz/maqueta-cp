@@ -88,16 +88,6 @@
 					</div>
 				</div>
 
-				<!-- <script type="text/javascript">
-					$(document).ready(function(){
-						$(function() {
-							$('.counter-val').rCounter({
-								duration: 45
-							});
-						});
-					});
-				</script> -->
-
 				<div class="row">
 					<div class="col-12">
 						<p class="text-center text-grey2">CAJA POPULAR MEXICANA S.C. DE A.P. DE R.L. DE C.V. <br>

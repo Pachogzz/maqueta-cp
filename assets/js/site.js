@@ -1,22 +1,23 @@
 $(document).ready(function(){
+	// Bloque que nos permite colocar dropdowns dentro del menú principal
 	$('.dropdown-submenu a.sub-drop').on("click", function(e){
-		/* This is to hide all dropdown-menu children if the parent(dropdown-submenu) in the element have been clicked */ 
+		 // This is to hide all dropdown-menu children if the parent(dropdown-submenu) in the element have been clicked  
 		$(this).next('ul').find('.dropdown-menu').each(function(){
 			$(this).hide();
 		});
-		/* This is to find another dropdown-menu have has been opened and hide its submenu */   
+		 // This is to find another dropdown-menu have has been opened and hide its submenu    
 		var xw = $(this);
 		$(this).closest(".dropdown-menu").find('.dropdown-submenu a.sub-drop').not(xw).each(function(){
 			if($(this).next("ul").is(":visible")){
 				$(this).next("ul").hide();
 			}
-
 		});
 		$(this).next('ul').toggle();
 		e.stopPropagation();
 		e.preventDefault();
 	});
 	
+	// Opción para filtros en las páginas de CPM en Línea y Móvil
 	$(function() {
 		$('#filterSelector').change(function(){
 			$('.guides-grid-col').hide();
@@ -24,12 +25,12 @@ $(document).ready(function(){
 		});
 	});
 
-	$(function() {
-		$('.counter-val').rCounter({
-			duration: 55
-		});
+	$('.counter-val').counterUp({
+		delay: 10,
+		time: 1000
 	});
 
+// Código para transformar en acoredeón los tabs en el sitio con la clase "responsive-tabs"
 ! function($) {
 	"use strict";
 	var a = {

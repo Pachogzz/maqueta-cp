@@ -17,7 +17,7 @@
 				<div class="row">
 					<div class="col-md-10 offset-md-1 text-center mb-5">
 						<p class="h3 w-100 mb-md-4"><strong>¡Ponemos <span class="text-primary">#MásTiempoEnTusManos!</span></strong></p>
-						<p class="h3 w-100 font-weight-semibold mb-md-4">Disfruta de tus actividades y a los tuyos, usa nuestras plataformas CPM en Línea y CPM Móvil para realizar tus operaciones donde sea, de forma fácil y segura, con tu mismo usuario y contraseña.</p>
+						<p class="h3 w-100 font-weight-semibold mb-md-4">Disfruta de tus actividades y a los tuyos, Usa nuestras plataformas CPM en Línea y CPM Móvil para realizar tus operaciones. donde sea, de forma fácil y segura, con tu mismo usuario y contraseña.</p>
 						<p class="h4">No olvides acudir a tu sucursal para contratar el servicio.</p>
 					</div>
 				</div>

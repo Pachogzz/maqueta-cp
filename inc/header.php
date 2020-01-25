@@ -186,7 +186,7 @@
 								<li class="list-group-item"><a href="ser-socio.php">Ser socio</a></li>
 								<li class="list-group-item"><a href="soy-menor-de-edad.php">Ahorrador menor de edad</a></li>
 								<li class="list-group-item"><a href="servicio-electronico-en-linea.php">Servicio Electrónico por Internet</a></li>
-								<li class="list-group-item"><a href="corresponsalias.php">Corresponsalias</a></li>
+								<li class="list-group-item"><a href="corresponsalias.php">Corresponsalías</a></li>
 								<li class="list-group-item"><a href="necesitas-credito.php">Créditos</a></li>
 								<li class="list-group-item"><a href="ahorro-e-inversion.php">Ahorro e inversión</a></li>
 								<li class="list-group-item"><a href="tarjeta-de-debito.php">Tarjetas de Débito CPM y JR</a></li>

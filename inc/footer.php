@@ -66,7 +66,7 @@
 		<!-- Form Validatr -->
 		<script src="assets/js/validator.js"></script>
 		<!-- Counter Up -->
-		<script src="assets/js/jquery.rcounter.js"></script>
+		<script src="assets/js/jquery.counterup.js"></script>
 		<!-- Línea de tiempo -->
 		<script src='https://cdn.jsdelivr.net/scrollreveal.js/3.3.1/scrollreveal.min.js'></script>
 		<script src="assets/js/timeline.js"></script>
