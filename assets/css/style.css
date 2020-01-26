@@ -6,6 +6,8 @@ Author URI: https://minds.com.mx
 Tags: October CMS, Laravel, SASS, JS, PHP, MySQL, CSS
 */
 
+@import url('all.min.css');
+
 /* INDEX
 	0. GLOBALS
 	1. HEADER
@@ -279,7 +281,7 @@ p a{ font-weight: bold; }
 		width: 100%;
 	}
 	.asterisk:before{
-		font-family: "Font Awesome 5 Pro";
+		font-family: "Font Awesome 5 Free";
 		font-weight: 900;
 		content: "\f069";
 		position: absolute;
@@ -290,7 +292,7 @@ p a{ font-weight: bold; }
 
 /* Arrow in text */
 .arrow-txt:before{
-	font-family: "Font Awesome 5 Pro";
+	font-family: "Font Awesome 5 Free";
 	font-weight: 900;
 	content: "\f0da";
 	position: absolute;
@@ -545,7 +547,7 @@ p a{ font-weight: bold; }
 	font-weight: bold; 
 }
 .accordion-cpm .card-header h2 button:before{
-	font-family: "Font Awesome 5 Pro";
+	font-family: "Font Awesome 5 Free";
 	font-weight: 900;
 	content: "\f056";
 	position: absolute;
@@ -568,7 +570,7 @@ ul.has-arrow li,
 ul.has-arrow li:before,
 .tab-content .tab-pane ul li:before,
 .accordion-cpm .card-body ul li:before{
-	font-family: "Font Awesome 5 Pro";
+	font-family: "Font Awesome 5 Free";
 	font-weight: 900;
 	content: "\f0da";
 	position: absolute;
@@ -881,7 +883,7 @@ ul.has-arrow li:before,
 
 /* Extra Small devices (portrait phones, 300px and up) */
 @media (min-width: 300px) {
-	html::before{
+	/*html::before{
 		content: "XS";
 		display: block;
 		position: fixed;
@@ -892,7 +894,7 @@ ul.has-arrow li:before,
 		left: 0;
 		padding: 10px;
 		z-index: 999;
-	}
+	}*/
 	#site-header-mobile .main-logo{
 		max-height: 40px;
 	}
@@ -941,7 +943,7 @@ ul.has-arrow li:before,
 }
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
-	html::before{
+	/*html::before{
 		content: "SM";
 		display: block;
 		position: fixed;
@@ -952,7 +954,7 @@ ul.has-arrow li:before,
 		left: 0;
 		padding: 10px;
 		z-index: 999;
-	}
+	}*/
 	.has-label::before{
 		left: -20px;
 		width: 30px;
@@ -1020,7 +1022,7 @@ ul.has-arrow li:before,
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
-	html::before{
+	/*html::before{
 		content: "MD";
 		display: block;
 		position: fixed;
@@ -1031,7 +1033,7 @@ ul.has-arrow li:before,
 		left: 0;
 		padding: 10px;
 		z-index: 999;
-	}
+	}*/
 
 	.has-label::before{
 		left: -40px;
@@ -1078,7 +1080,7 @@ ul.has-arrow li:before,
 
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) {
-	html::before{
+	/*html::before{
 		content: "LG";
 		display: block;
 		position: fixed;
@@ -1089,7 +1091,7 @@ ul.has-arrow li:before,
 		left: 0;
 		padding: 10px;
 		z-index: 999;
-	}
+	}*/
 	.has-label::before{
 		left: -40px;
 		width: 80px;
@@ -1130,7 +1132,7 @@ ul.has-arrow li:before,
 
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
-	html::before{
+	/*html::before{
 		content: "XL";
 		display: block;
 		position: fixed;
@@ -1141,7 +1143,7 @@ ul.has-arrow li:before,
 		left: 0;
 		padding: 10px;
 		z-index: 999;
-	}
+	}*/
 	.has-label::before{
 		left: -40px;
 		width: 80px;

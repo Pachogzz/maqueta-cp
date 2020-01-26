@@ -4,7 +4,7 @@
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 br-30">Mi Alcancia JR</h1>
+						<h1 id="sectionTitle" class="display-4 br-30">Mi Alcancia JR</h1>
 					</div>
 				</div>
 			</div>
@@ -30,8 +30,8 @@
 							<img width="" src="assets/img/secciones/logos-ahorro/mi_alcancia_junior.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Cuenta donde el menor de edad puede efectuar depósitos en cualquier fecha, a partir del monto mínimo que establezca al momento de aperturar la cuenta. El ahorro podrá ser retirado en los días pactados en el contrato, junto con los interés de acuerdo a la tasa.</p>
 							<p class="lead">Tendrás la posibilidad de cumplir los gustos que te mereces y al mismo tiempo mediante la constancia, crearte el hábito del ahorro.</p>
-							<p class="lead">Consulta los <span class="font-weight-bold text-primary">Consulta los costos y comisiones de nuestro producto <a href="consulta-los-costos-y-comisiones-de-nuestros-productos.php">aquí </a></span></p>
-							<p class="lead"><span class="font-weight-bold text-primary">Consulta el contrato universal <a href="assets/img/secciones/ahorro/FR-1917_Contrato_de_apertura_de_crédito_en_cuenta_corriente.pdf" target="blank">aquí</a></span></p>
+							<p class="lead"><span class="font-weight-bold text-primary">Consulta los costos y comisiones de nuestro producto <a href="consulta-los-costos-y-comisiones-de-nuestros-productos">aquí.</a></span></p>
+							<p class="lead"><span class="font-weight-bold text-primary">Consulta el contrato universal <a href="assets/pdfs/FR-1008-Contrato-Universal.pdf" target="blank">aquí</a></span></p>
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 					</div>
@@ -73,7 +73,7 @@
 												<p>Ser menor de 18 años.</p>
 												<p>Monto de apertura: $100.00</p>
 												<p>Cumplir con los requisitos de Ahorradores Menores de edad de Caja Popular Mexicana.</p>
-												<p>Tener padre o tutor que <a href="ser-socio.php">sea socio </a>de Caja Popular Mexicana.</p>
+												<p>Tener padre o tutor que <a href="ser-socio">sea socio </a>de Caja Popular Mexicana.</p>
 												<p>El ahorro mínimo para la cuenta es de $100.00 con depósitos mínimos de $25.00</p>
 												<p>Designar un beneficiario pudiendo ser el mismo padre o tutor.</p>
 											</li>
@@ -99,6 +99,7 @@
 											<li>Tasa de interés anual variable, antes de impuestos.</li>
 											<li>Ahorro en moneda nacional.</li>
 											<li>Disponible en todas nuestras sucursales a nivel nacional.</li>
+											<li><span class="font-weight-bold text-primary">Consulta los costos y comisiones de nuestro producto <a href="consulta-los-costos-y-comisiones-de-nuestros-productos">aquí.</a></span></li>
 										</ul>
 										<h4>Plazos y vigencia</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
@@ -115,7 +116,7 @@
 							<div class="col-12 mt-5">
 								<!-- Nota Legal -->
 								<div class="bg-grey0 p-5">
-									<p class="display-12"><strong>Vigencia del 16 al 22 de Enero del 2020</strong></p>
+									<p class="display-12"><strong>Vigencia del 23 al 29 de Enero del 2020</strong></p>
 									<p class="display-12">Fecha de cálculo Enero 2020</p>
 									<p class="display-12"><strong>* GAT NOMINAL</strong> antes de impuestos. Para fines informativos y de comparación.</p>
 									<p class="display-12"><strong>**GAT REAL</strong> antes de impuestos. Para fines informativos y de comparación. La GAT REAL es el rendimiento que obtendría después de descontar la inflación estimada Para fines informativos y de comparación exclusivamente.</p>
@@ -129,7 +130,7 @@
 					<div class="col-12">
 						<!-- Nota Legal Tabla -->
 						<div class="table-responsive mt-5">
-							<table class="table">
+							<table class="table text-center">
 								<thead>
 									<tr class="bg-primary">
 									<th scope="col"><span class="text-white">Tiempo</span></th>
@@ -146,94 +147,80 @@
 								<tbody>
 								    <tr>
 								        <td scope="row">180 días</td>
-								        <td><strong>No aplica comisión</strong></td>
-								        <td><b>0</b></td>
-								        <td><strong>No aplica</strong></td>
-								        <td style="text-align: center;">&nbsp;4.46%</td>
-								        <td style="text-align: center;">&nbsp;4.53%</td>
-								        <td style="text-align: center;">&nbsp;1.04%</td>
-								        <td style="text-align: center;">Enero</td>
-								        <td>
-								            <p style="text-align: center;">16/01/2020 al 22/01/2020</p>
-								        </td>
+								        <td>No aplica comisión</td>
+								        <td>0</td>
+								        <td>No aplica</td>
+								        <td><strong>4.46%</strong></td>
+								        <td><strong>4.53%</strong></td>
+								        <td><strong>1.04%</strong></td>
+								        <td><strong>Enero</strong></td>
+								        <td><strong>23/01/2020 al 29/01/2020</strong></td>
 								    </tr>
 								    <tr>
 								        <td scope="row">210 días</td>
-								        <td><strong>No aplica comisión</strong></td>
-								        <td><strong>0</strong></td>
-								        <td><strong>No aplica</strong></td>
-								        <td style="text-align: center;">&nbsp;4.73%</td>
-								        <td style="text-align: center;">&nbsp;4.80%</td>
-								        <td style="text-align: center;">&nbsp;1.30%</td>
-								        <td style="text-align: center;">Enero</td>
-								        <td style="text-align: center;">
-								            <p style="text-align: center;">16/01/2020 al 22/01/2020</p>
-								        </td>
+								        <td>No aplica comisión</td>
+								        <td>0</td>
+								        <td>No aplica</td>
+								        <td><strong>4.73%</strong></td>
+								        <td><strong>4.80%</strong></td>
+								        <td><strong>1.30%</strong></td>
+								        <td><strong>Enero</strong></td>
+								        <td><strong>23/01/2020 al 29/01/2020</strong></td>
 								    </tr>
 								    <tr>
 								        <td scope="row">240 días</td>
-								        <td><strong>No aplica comisión</strong></td>
-								        <td><strong>0</strong></td>
-								        <td><strong>No aplica</strong></td>
-								        <td style="text-align: center;">&nbsp;5.02%</td>
-								        <td style="text-align: center;">&nbsp;5.08%</td>
-								        <td style="text-align: center;">&nbsp;1.58%</td>
-								        <td style="text-align: center;">Enero</td>
-								        <td style="text-align: center;">
-								            <p style="text-align: center;">16/01/2020 al 22/01/2020</p>
-								        </td>
+								        <td>No aplica comisión</td>
+								        <td>0</td>
+								        <td>No aplica</td>
+								        <td><strong>5.02%</strong></td>
+								        <td><strong>5.08%</strong></td>
+								        <td><strong>1.58%</strong></td>
+								        <td><strong>Enero</strong></td>
+								        <td><strong>23/01/2020 al 29/01/2020</strong></td>
 								    </tr>
 								    <tr>
 								        <td scope="row">270 días</td>
-								        <td><strong>No aplica comisión</strong></td>
-								        <td><strong>0</strong></td>
-								        <td><strong>No aplica</strong></td>
-								        <td style="text-align: center;">&nbsp;5.29%</td>
-								        <td style="text-align: center;">&nbsp;5.35%</td>
-								        <td style="text-align: center;">&nbsp;1.84%</td>
-								        <td style="text-align: center;">Enero</td>
-								        <td style="text-align: center;">
-								            <p style="text-align: center;">16/01/2020 al 22/01/2020</p>
-								        </td>
+								        <td>No aplica comisión</td>
+								        <td>0</td>
+								        <td>No aplica</td>
+								        <td><strong>5.29%</strong></td>
+								        <td><strong>5.35%</strong></td>
+								        <td><strong>1.84%</strong></td>
+								        <td><strong>Enero</strong></td>
+								        <td><strong>23/01/2020 al 29/01/2020</strong></td>
 								    </tr>
 								    <tr>
 								        <td scope="row">300 días</td>
-								        <td><strong>No aplica comisión</strong></td>
-								        <td><strong>0</strong></td>
-								        <td><strong>No aplica</strong></td>
-								        <td style="text-align: center;">&nbsp;5.57%</td>
-								        <td style="text-align: center;">&nbsp;5.63%</td>
-								        <td style="text-align: center;">&nbsp;2.11%</td>
-								        <td style="text-align: center;">Enero</td>
-								        <td style="text-align: center;">
-								            <p style="text-align: center;">16/01/2020 al 22/01/2020</p>
-								        </td>
+								        <td>No aplica comisión</td>
+								        <td>0</td>
+								        <td>No aplica</td>
+								        <td><strong>5.57%</strong></td>
+								        <td><strong>5.63%</strong></td>
+								        <td><strong>2.11%</strong></td>
+								        <td><strong>Enero</strong></td>
+								        <td><strong>23/01/2020 al 29/01/2020</strong></td>
 								    </tr>
 								    <tr>
 								        <td scope="row">330 días</td>
-								        <td><strong>No aplica comisión</strong></td>
-								        <td><strong>0</strong></td>
-								        <td><strong>No aplica</strong></td>
-								        <td style="text-align: center;">&nbsp;5.84%</td>
-								        <td style="text-align: center;">&nbsp;5.90%</td>
-								        <td style="text-align: center;">&nbsp;2.37%</td>
-								        <td style="text-align: center;">Enero</td>
-								        <td style="text-align: center;">
-								            <p style="text-align: center;">16/01/2020 al 22/01/2020</p>
-								        </td>
+								        <td>No aplica comisión</td>
+								        <td>0</td>
+								        <td>No aplica</td>
+								        <td><strong>5.84%</strong></td>
+								        <td><strong>5.90%</strong></td>
+								        <td><strong>2.37%</strong></td>
+								        <td><strong>Enero</strong></td>
+								        <td><strong>23/01/2020 al 29/01/2020</strong></td>
 								    </tr>
 								    <tr>
 								        <td scope="row">360 días</td>
-								        <td><strong>No aplica comisión</strong></td>
-								        <td><strong>0</strong></td>
-								        <td><strong>No aplica</strong></td>
-								        <td style="text-align: center;">&nbsp;6.11%</td>
-								        <td style="text-align: center;">&nbsp;6.17%</td>
-								        <td style="text-align: center;">2.63%</td>
-								        <td style="text-align: center;">Enero</td>
-								        <td style="text-align: center;">
-								            <p style="text-align: center;">16/01/2020 al 22/01/2020</p>
-								        </td>
+								        <td>No aplica comisión</td>
+								        <td>0</td>
+								        <td>No aplica</td>
+								        <td><strong>6.11%</strong></td>
+								        <td><strong>6.17%</strong></td>
+								        <td><strong>2.63%</strong></td>
+								        <td><strong>Enero</strong></td>
+								        <td><strong>23/01/2020 al 29/01/2020</strong></td>
 								    </tr>
 								</tbody>
 							</table>

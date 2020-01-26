@@ -4,7 +4,7 @@
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 br-30">Corresponsalías</h1>
+						<h1 id="sectionTitle" class="display-4 br-30">Corresponsalías</h1>
 					</div>
 				</div>
 			</div>
@@ -16,7 +16,10 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-12 col-md-10 offset-md-1 text-center">
-						<img src="assets/img/secciones/corresponsalias/cpm-corresponsalias-1500x941.jpg" alt="" class="img-fluid mb-5">
+						<video autoplay loop muted inline class="w-100 mb-3 mb-lg-5">
+							<source class="embed-responsive-item" src="assets/video/banner_cpm_corresponsalias_loop.mp4" type="video/mp4">
+							<img src="assets/img/secciones/corresponsalias/cpm-corresponsalias-1500x941.jpg" alt="Corresponsalías CPM" class="img-fluid mb-5">
+						</video>
 					</div>
 				</div> <!-- ./ End Row -->
 				<div class="row mb-5">

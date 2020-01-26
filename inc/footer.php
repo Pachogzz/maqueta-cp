@@ -33,16 +33,16 @@
 					<div class="col-12 mb-2 text-center">
 						<ul class="nav justify-content-center">
 							<a class="nav-link" href="https://www.cpm.coop/inmuebles/" target="_blank"><small>Inmuebles</small></a>
-							<a class="nav-link" href="consulta-los-costos-y-comisiones-de-nuestros-productos.php"><small>Costos y comisiones de nuestros productos</small></a>
-							<a class="nav-link" href="aviso-de-privacidad.php"><small>Aviso de privacidad</small></a>
-							<a class="nav-link" href="politicas-de-uso.php"><small>Políticas de uso</small></a>
-							<a class="nav-link" href="mapa-de-sitio.php"><small>Mapa del sitio</small></a>
-							<a class="nav-link" href="despacho-de-cobranza.php"><small>Despacho de cobranza</small></a>
-							<!-- <a class="nav-link" href="aviso-de-privacidad-credito-y-cobranza.php"><small>Aviso de privacidad crédito y cobranza</small></a> -->
-							<a class="nav-link" href="buro-de-entidades-financieras.php"><small>Buró de Entidades Financieras</small></a>
-							<!-- <a class="nav-link" href="terminos-de-uso-para-redes-sociales.php"><small>Términos de uso para redes sociales</small></a> -->
-							<!-- <a class="nav-link" href="aviso-de-privacidad-en-redes-sociales.php"><small>Aviso de privacidad en redes sociales</small></a> -->
-							<a class="nav-link" href="terminos-y-condiciones-sei.php"><small>Términos y condiciones para el Servicio Electrónico por Internet</small></a>
+							<a class="nav-link" href="consulta-los-costos-y-comisiones-de-nuestros-productos"><small>Costos y comisiones de nuestros productos</small></a>
+							<a class="nav-link" href="aviso-de-privacidad"><small>Aviso de privacidad</small></a>
+							<a class="nav-link" href="politicas-de-uso"><small>Políticas de uso</small></a>
+							<a class="nav-link" href="mapa-de-sitio"><small>Mapa del sitio</small></a>
+							<a class="nav-link" href="despacho-de-cobranza"><small>Despacho de cobranza</small></a>
+							<!-- <a class="nav-link" href="aviso-de-privacidad-credito-y-cobranza"><small>Aviso de privacidad crédito y cobranza</small></a> -->
+							<a class="nav-link" href="buro-de-entidades-financieras"><small>Buró de Entidades Financieras</small></a>
+							<!-- <a class="nav-link" href="terminos-de-uso-para-redes-sociales"><small>Términos de uso para redes sociales</small></a> -->
+							<!-- <a class="nav-link" href="aviso-de-privacidad-en-redes-sociales"><small>Aviso de privacidad en redes sociales</small></a> -->
+							<a class="nav-link" href="terminos-y-condiciones-sei"><small>Términos y condiciones para el Servicio Electrónico por Internet</small></a>
 						</ul>
 					</div>
 					<div class="col-12 text-center text-light"><small>&copy; Caja Popular Mexicana 2020</small></div>
@@ -51,18 +51,16 @@
 		</section>
 
 		<!-- jQiuery -->
-		<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+		<script src="assets/js/jquery-3.4.1.min.js"></script>
+		<!-- jQuery Waypoints -->
 		<script src="assets/js/jquery.waypoints.min.js"></script>
 		<!-- Bootstrap -->
 		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
 		<script src="assets/js/bootstrap.min.js"></script>
-		<!-- FontAwesome 5 -->
-		<script src="https://kit.fontawesome.com/0f2dd2d9af.js" crossorigin="anonymous"></script>
 		<!-- Tiny Slider 2.0 -->
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"></script>
 		<!-- Selector de estados -->
 		<script type="text/javascript" src="assets/js/municipios.js"></script>
-		<script type="text/javascript" src="assets/js/select_estados.js"></script>
 		<!-- Form Validatr -->
 		<script src="assets/js/validator.js"></script>
 		<!-- Counter Up -->

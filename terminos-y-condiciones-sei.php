@@ -4,7 +4,7 @@
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 br-30">Términos y condiciones para el Servicio Electrónico por Internet</h1>
+						<h1 id="sectionTitle" class="display-4 br-30">Términos y condiciones para el Servicio Electrónico por Internet</h1>
 					</div>
 				</div>
 			</div>
@@ -17,7 +17,7 @@
 
 				<div class="row">
 					<div class="col-12 col-md-6 offset-md-3 text-center">
-						<h3 class="title-medium font-weight-bold mb-4">Terminos y condiciones para el Servicio Electrónico por Internet</h3>
+						<h3 class="title-medium font-weight-bold mb-4">Términos y condiciones para el Servicio Electrónico por Internet</h3>
 					</div>	
 				
 					<div class="col-10 offset-1 p-5 bg-grey0 text-left">

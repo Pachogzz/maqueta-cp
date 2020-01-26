@@ -6,20 +6,21 @@
 			<div class="container">
 				<div class="row text-center">
 					<div class="col-md-12 mb-3 mb-lg-5">
+						<h1 id="sectionTitle" class="d-none">Bienvenido a</h1>
 						<h2 class="display-4 text-primary font-weight-semibold">¿En qué te podemos ayudar?</h2>
 					</div>
 					<div class="col-12 col-md-12 col-lg-4 mb-2 mb-lg-0 mb-xl-0">
-						<a href="ser-socio.php" class="btn btn-primary btn-lg btn-block rounded-pill w-100 w-lg-75 mx-auto p-3">
+						<a href="ser-socio" class="btn btn-primary btn-lg btn-block rounded-pill w-100 w-lg-75 mx-auto p-3">
 							Quiero ser socio <i class="fa fa-chevron-circle-right"></i>
 						</a>
 					</div>
 					<div class="col-12 col-md-12 col-lg-4 mb-2 mb-lg-0 mb-xl-0">
-						<a href="necesitas-credito.php" class="btn btn-primary btn-lg btn-block rounded-pill w-100 w-lg-75 mx-auto p-3">
+						<a href="necesitas-credito" class="btn btn-primary btn-lg btn-block rounded-pill w-100 w-lg-75 mx-auto p-3">
 							Quiero un crédito <i class="fa fa-chevron-circle-right"></i>
 						</a>
 					</div>
 					<div class="col-12 col-md-12 col-lg-4 mb-2 mb-lg-0 mb-xl-0">
-						<a href="ahorro-e-inversion.php" class="btn btn-primary btn-lg btn-block rounded-pill w-100 w-lg-75 mx-auto p-3">
+						<a href="ahorro-e-inversion" class="btn btn-primary btn-lg btn-block rounded-pill w-100 w-lg-75 mx-auto p-3">
 							Quiero ahorrar e invertir <i class="fa fa-chevron-circle-right"></i>
 						</a>
 					</div>
@@ -43,7 +44,7 @@
 									<h3><strong>¡Aprende cómo usar CPM Móvil y CPM en Línea!</strong></h3>
 									<h5 class="text-yellow"><strong>Y disfruta #MásTiempoEnTusManos</strong></h5>
 									<p>Conoce las operaciones que puedes hacer en cada plataforma y no olvides calificar tu experiencia en las tiendas oficiales.</p>
-									<a href="servicio-electronico-en-linea.php" class="btn btn-secondary br-30 px-5 font-weight-semibold">Saber más</a>
+									<a href="servicio-electronico-en-linea" class="btn btn-secondary br-30 px-5 font-weight-semibold">Saber más</a>
 								</div>
 							</div>
 						</div>

@@ -4,7 +4,7 @@
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 br-30">Mi Nómina Mexicana</h1>
+						<h1 id="sectionTitle" class="display-4 br-30">Mi Nómina Mexicana</h1>
 					</div>
 				</div>
 			</div>
@@ -26,13 +26,13 @@
 							<!-- <h2 class="d-inline-block border-primary text-primary font-weight-bolder bw-3 py-2 px-3 mb-3">DESCRIPCIÓN</h2> -->
 							<img src="assets/img/secciones/mi-nomina-mexicana-cpm.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Cuenta de depósitos a la vista, donde podrás cobrar tu nómina obteniendo beneficios adicionales.</p>
-							<p class="lead">Consulta los <span class="font-weight-bold text-primary">costos y comisiones de nuestro producto <a href="consulta-los-costos-y-comisiones-de-nuestros-productos.php">aquí </a></span></p>
-							<p class="lead"><span class="font-weight-bold text-primary">Consulta el contrato universal <a href="assets/img/secciones/ahorro/FR-1917_Contrato_de_apertura_de_crédito_en_cuenta_corriente.pdf" target="blank">aquí</a></span></p>
+							<p class="lead"><span class="font-weight-bold text-primary">Consulta los costos y comisiones de nuestro producto <a href="consulta-los-costos-y-comisiones-de-nuestros-productos">aquí </a></span></p>
+							<p class="lead"><span class="font-weight-bold text-primary">Consulta el contrato universal <a href="assets/pdfs/FR-1008-Contrato-Universal.pdf" target="blank">aquí</a></span></p>
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 						<!-- Nota Legal -->
 						<div class="bg-grey0 mb-5 p-5">
-							<p class="display-12"><strong>GAT nominal</strong> de 0.50% y <strong>GAT real</strong> de -2.85% antes de impuestos. La <strong>GAT real</strong> es el rendimiento que obtendrás después de descontar la inflación estimada. Para fines informativos y de comparación exclusivamente con monto de ahorro de $1,500.00 en adelante. Fecha de cálculo del 02 al 08 de Enero del 2020.</p>
+							<p class="display-12"><strong>GAT nominal de 0.50% y GAT real de -2.85%</strong> antes de impuestos. La <strong>GAT real</strong> es el rendimiento que obtendrás después de descontar la inflación estimada. Para fines informativos y de comparación exclusivamente con monto de ahorro de $1,500.00 en adelante. Fecha de cálculo del 23 al 29 de Enero del 2020.</p>
 							<p class="display-12">El producto solo se encuentra disponible en los siguientes estados: <strong>Puebla, Guanajuato y San Luis Potosí Caja Popular Mexicana S.C. de A.P. de R.L. de C.V.</strong></p>
 						</div>
 						<!-- Nota Legal -->
@@ -56,7 +56,7 @@
 											<li>Puedes realizar depósitos en efectivo de forma ilimitada a tu cuenta en cualquiera de nuestras sucursales.</li>
 											<li>Puedes realizar retiros diarios acumulados en cajeros automáticos hasta por $8,000.00.</li>
 											<li>Puedes comprar tiempo aire para telefonía celular a través de nuestra comunidad de cajeros automáticos a nivel nacional sin costo y de forma ilimitada.</li>
-											<li>Con la <a href="tarjeta-de-debito.php">Tarjeta de Débito CPM</a> podrás realizar compras en puntos de venta, cash-back (retiro en efectivo) en tiendas departamentales participantes.</li>
+											<li>Con la <a href="tarjeta-de-debito">Tarjeta de Débito CPM</a> podrás realizar compras en puntos de venta, cash-back (retiro en efectivo) en tiendas departamentales participantes.</li>
 										</ul>
 									</div>
 								</div>
@@ -73,7 +73,7 @@
 									<div class="card-body bg-grey0 p-4">
 										<h4>Requisitos</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li><a href="ser-socio.php">Ser socio </a>de Caja Popular Mexicana.</li>
+											<li><a href="ser-socio">Ser socio </a>de Caja Popular Mexicana.</li>
 											<li>Laborar en empresas que estén en colaboración con Caja Popular Mexicana para recibir el servicio de dispersión de nómina</li>
 										</ul>
 										<h4>Generalidades</h4>

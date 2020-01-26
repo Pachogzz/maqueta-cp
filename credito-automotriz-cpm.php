@@ -4,7 +4,7 @@
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 br-30">Crédito Automotriz CPM</h1>
+						<h1 id="sectionTitle" class="display-4 br-30">Crédito Automotriz CPM</h1>
 					</div>
 				</div>
 			</div>
@@ -26,21 +26,23 @@
 							<!-- <h2 class="d-inline-block border-primary text-primary font-weight-bolder bw-3 py-2 px-3 mb-3">DESCRIPCIÓN</h2> -->
 							<img width="" src="assets/img/secciones/logos-credito/credito-automotriz.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Adquiere el automóvil que tú quieras ya sea nuevo o seminuevo de agencia para uso personal o productivo ¡Te financiamos hasta el 100% del valor del vehículo!</p>
-							<p class="lead my-3 font-weight-bold text-primary">Montos desde $36,157.00 hasta $903,930.00 </p>
+							<p class="lead my-3 font-weight-bold text-primary">Montos desde $1,000.00 hasta $903,930.00</p>
+							<!-- <p class="lead my-3 font-weight-bold text-primary">Montos desde $36,157.00 hasta $903,930.00 </p> -->
+							<p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/FR-1917_Contrato_de_apertura_de_credito_en_cuenta_corriente.pdf">aquí</a></p>
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 						<?php include('inc/calculadoras/calculadora-de-credito.php') ?> <!-- ./ calculadora de credito -->
 						<!-- Nota Legal -->
 						<div class="bg-grey0 p-5 mb-5">
 							<p class="display-12"><strong>Costo Anual Total Promedio de 20.3% sin IVA</strong>. Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 31 de Diciembre de 2019.</strong></p>
-							<p class="display-12">*Cálculo para el <strong>Crédito Automotríz CPM</strong> por la cantidad de <strong>$15,000.00 a un plazo de 12 meses con un monto mínimo de ahorro de $1,500.00</strong>.</p>
+							<!-- <p class="display-12">*Cálculo para el <strong>Crédito Automotríz CPM</strong> por la cantidad de <strong>$15,000.00 a un plazo de 12 meses con un monto mínimo de ahorro de $1,500.00</strong>.</p>
 							<ul class="display-12">
 								<li>Sujeto a aprobación de crédito.</li>
 								<li>Préstamo otorgado en moneda nacional.</li>
 								<li>Disponible en todas nuestras sucursales a nivel nacional.</li>
 								<li>La tasa de interés se asignará de acuerdo al historial crediticio interno y externo a Caja Popular Mexicana que presente el socio.</li>
 								<li>En la contratación del producto, el plan de pagos se establece de manera mensual</li>
-							</ul>
+							</ul> -->
 						</div>
 						<!-- Nota Legal -->
 					</div>
@@ -50,7 +52,7 @@
 							<div class="card">
 								<div class="card-header" id="headingOne">
 									<h2 class="mb-0">
-										<button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
 											Montos y plazos
 										</button>
 									</h2>
@@ -60,8 +62,9 @@
 									<div class="card-body bg-grey0 p-4">
 										<h4>Monto</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Desde $6,000.00 UDIS (Al 31 de enero de 2019, importe $37,485.57)</li>
-											<li>Hasta 150,000.00 UDIS (Al 31 de enero de 2019, importe $937,139.25] UDIS [Unidad de inversión que se actualiza mensualmente para su conversión en moneda nacional).</li>
+											<li>Montos desde $1,000.00 hasta $903,930.00</li>
+											<li>Crédito otorgado en moneda nacional.</li>
+											<!-- <li>Hasta 150,000.00 UDIS (Al 31 de enero de 2019, importe $937,139.25] UDIS [Unidad de inversión que se actualiza mensualmente para su conversión en moneda nacional).</li> -->
 										</ul>
 										<h4>Plazo</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
@@ -76,7 +79,7 @@
 								<div class="card-header" id="headingTwo">
 									<h2 class="mb-0">
 										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-											Tasas y GAT
+											Tasas y CAT
 										</button>
 									</h2>
 								</div>
@@ -105,7 +108,7 @@
 									<div class="card-body bg-grey0 p-4">
 										<h4>Requisitos</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Ser <a href="ser-socio.php">socio</a> de Caja Popular Mexicana.</li>
+											<li>Ser <a href="ser-socio">socio</a> de Caja Popular Mexicana.</li>
 											<li>Ahorro del 10% del monto a solicitar como garantía, depositado en su Cuenta Mexicana.</li>
 										</ul>
 										<h4>Condiciones</h4>
@@ -143,7 +146,7 @@
 										<h4>Gastos de contratación</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li>Cuando exista una garantía prendaria o hipotecaria así como de seguro que lo cubra, los costos dependen del valor de la garantía.</li>
-											<li>Consulta los costos y comisiones de nuestros productos dando <a href="consulta-los-costos-y-comisiones-de-nuestros-productos.php">clic aquí</a>.</li>
+											<li>Consulta los costos y comisiones de nuestros productos dando <a href="consulta-los-costos-y-comisiones-de-nuestros-productos">clic aquí</a>.</li>
 										</ul>
 										<h4>Recomendaciones</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
@@ -159,7 +162,7 @@
 						<div class="bg-grey0 p-5 my-5">
 							<h3 class="font-weight-bolder">¿Dudas sobre nuestro Crédito Automotriz CPM?</h3>
 							<hr>
-							<?php include('inc/forms/formulario-creditos.php') ?> <!-- ./ Formulario gral de sección -->
+							<?php include('inc/forms/formulario_credito-automotriz.php') ?> <!-- ./ Formulario gral de sección -->
 						</div>
 						<!-- Formulario Dudas -->
 					</div>

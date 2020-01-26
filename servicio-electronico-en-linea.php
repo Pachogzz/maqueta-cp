@@ -4,7 +4,7 @@
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 br-30">Servicio Electrónico por Internet</h1>
+						<h1 id="sectionTitle" class="display-4 br-30">Servicio Electrónico por Internet</h1>
 					</div>
 				</div>
 			</div>
@@ -37,7 +37,7 @@
 
 				<div class="row row-eq-height">
 					<div class="landing-grid-box col-12 col-md-6">
-						<a href="cpm-movil.php" class="h-100">
+						<a href="cpm-movil" class="h-100">
 							<div class="landing-grid-box-info rounded bw-5 border-purple text-center h-100">
 								<img src="assets/img/icons/icon_CPMMovil.png" class="bg-purple rounded-circle" width="120" height="120" alt="">
 								<h3>CPM Móvil</h3>
@@ -46,7 +46,7 @@
 						</a>
 					</div>
 					<div class="landing-grid-box col-12 col-md-6">
-						<a href="cpm-en-linea.php" class="h-100">
+						<a href="cpm-en-linea" class="h-100">
 							<div class="landing-grid-box-info rounded bw-5 border-purple text-center h-100">
 								<img src="assets/img/icons/icon_CPMenLinea.png" class="bg-purple rounded-circle" width="120" height="120" alt="">
 								<h3>CPM en Línea</h3>
@@ -58,7 +58,7 @@
 
 				<div class="row row-eq-height">
 					<div class="landing-grid-box col-12 col-md-4 mb-5">
-						<a href="operaciones-disponibles-sei.php" class="h-100">
+						<a href="operaciones-disponibles-sei" class="h-100">
 							<div class="landing-grid-box-info rounded bw-5 border-grey0 text-center h-100">
 								<i class="fas fa-clipboard-list fa-4x bg-primary text-white rounded-circle"></i>
 								<h3>Operaciones disponibles</h3>
@@ -67,7 +67,7 @@
 						</a>
 					</div>
 					<div class="landing-grid-box col-12 col-md-4 mb-5">
-						<a href="preguntas-frecuentes-sei.php" class="h-100">
+						<a href="preguntas-frecuentes-sei" class="h-100">
 							<div class="landing-grid-box-info rounded bw-5 border-grey0 text-center h-100">
 								<i class="far fa-question-circle fa-4x bg-primary text-white rounded-circle"></i>
 								<h3>Preguntas <br>frecuentes</h3>
@@ -76,7 +76,7 @@
 						</a>
 					</div>
 					<div class="landing-grid-box col-12 col-md-4 mb-5">
-						<a href="consideraciones-tecnicas-sei.php" class="h-100">
+						<a href="consideraciones-tecnicas-sei" class="h-100">
 							<div class="landing-grid-box-info rounded bw-5 border-grey0 text-center h-100">
 								<i class="fas fa-cog fa-4x bg-primary text-white rounded-circle"></i>
 								<h3>Consideraciones técnicas</h3>
@@ -90,7 +90,7 @@
 					<div class="landing-grid-box col-12 mb-0">
 						<div class="landing-grid-box-info rounded bw-5 border-grey0 text-center py-5">
 							<h3 class="">No olvides revisar estos consejos de seguridad que tenemos para tí</h3>
-							<a href="consejo-de-seguridad-sei.php" class="btn btn-lg bg-blue3 text-white">Por tu seguridad</a>
+							<a href="consejo-de-seguridad-sei" class="btn btn-lg bg-blue3 text-white">Por tu seguridad</a>
 						</div>
 					</div>
 				</div>

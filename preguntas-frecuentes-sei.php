@@ -5,7 +5,7 @@
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 br-30">Preguntas frecuentes</h1>
+						<h1 id="sectionTitle" class="display-4 br-30">Preguntas frecuentes</h1>
 					</div>
 				</div>
 			</div>
@@ -46,8 +46,8 @@
 								<div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionCICPM">
 									<div class="card-body bg-grey0 p-4">
 										<ol class="p-5 bg-white bw-1 border-grey1">
-											<li><a href="ser-socio.php"><strong>Ser socio</strong></a> de Caja Popular Mexicana.</li>
-											<li>Contar con medios electrónicos con acceso a una conexión de internet que cumplan con las <a href="consideraciones-tecnicas-sei.php"><strong>consideraciones técnicas</strong></a> establecidas.</li>
+											<li><a href="ser-socio"><strong>Ser socio</strong></a> de Caja Popular Mexicana.</li>
+											<li>Contar con medios electrónicos con acceso a una conexión de internet que cumplan con las <a href="consideraciones-tecnicas-sei"><strong>consideraciones técnicas</strong></a> establecidas.</li>
 											<li>Proporcionar una cuenta de correo electrónico personal y número de teléfono celular.</li>
 											<li>Firmar el contrato correspondiente en la sucursal de tu preferencia.</li>
 										</ol>

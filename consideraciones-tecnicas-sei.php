@@ -4,7 +4,7 @@
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 br-30">Consideraciones técnicas</h1>
+						<h1 id="sectionTitle" class="display-4 br-30">Consideraciones técnicas</h1>
 					</div>
 				</div>
 			</div>

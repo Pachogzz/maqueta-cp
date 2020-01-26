@@ -4,7 +4,7 @@
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 br-30">Cuenta Mexicana</h1>
+						<h1 id="sectionTitle" class="display-4 br-30">Cuenta Mexicana</h1>
 					</div>
 				</div>
 			</div>
@@ -29,8 +29,8 @@
 							<!-- <h2 class="d-inline-block border-primary text-primary font-weight-bolder bw-3 py-2 px-3 mb-3">DESCRIPCIÓN</h2> -->
 							<img width="" src="assets/img/secciones/logos-ahorro/cuenta-mexicana.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Es una cuenta de ahorro ordinario que te ayuda a obtener un préstamo en Caja Popular Mexicana, pues el saldo forma parte de las garantías requeridas.</p>
-							<p class="lead">Consulta los <span class="font-weight-bold text-primary">costos y comisiones de nuestro producto <a href="consulta-los-costos-y-comisiones-de-nuestros-productos.php">aquí </a></span></p>
-							<p class="lead"><span class="font-weight-bold text-primary">Consulta el contrato universal <a href="assets/img/secciones/ahorro/FR-1917_Contrato_de_apertura_de_crédito_en_cuenta_corriente.pdf" target="blank">aquí</a></span></p>
+							<p class="lead"><span class="font-weight-bold text-primary"><a href="consulta-los-costos-y-comisiones-de-nuestros-productos">Consulta los costos y comisiones de nuestro producto aquí.</a></span></p>
+							<p class="lead"><span class="font-weight-bold text-primary">Consulta el contrato universal <a href="assets/pdfs/FR-1008-Contrato-Universal.pdf" target="blank">aquí</a></span></p>
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 					</div>
@@ -71,7 +71,7 @@
 									<div class="card-body bg-grey0 p-4">
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li><strong>Requisitos</strong>
-												<p><a href="ser-socio.php">Ser socio </a>de Caja Popular Mexicana.</p>
+												<p><a href="ser-socio">Ser socio </a>de Caja Popular Mexicana.</p>
 											</li>
 											<li><strong>Documentos generales</strong>
 												<p>Identificación oficial y de la sociedad</p>
@@ -93,6 +93,7 @@
 										<h4>Costos y comisiones</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li>Sin monto de apertura</li>
+											<li><span class="font-weight-bold text-primary"><a href="consulta-los-costos-y-comisiones-de-nuestros-productos">Consulta los costos y comisiones de nuestro producto aquí.</a></span></li>
 										</ul>
 										<h4>Recomendaciones</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
@@ -109,7 +110,7 @@
 							<div class="col-12 mt-5">
 								<!-- Nota Legal -->
 								<div class="bg-grey0 p-5">
-									<p class="display-12"><strong>Vigencia del 16 al 22 de Enero del 2020</strong></p>
+									<p class="display-12"><strong>Vigencia del 23 al 29 de Enero del 2020</strong></p>
 									<p class="display-12">Fecha de cálculo Enero 2020</p>
 									<p class="display-12"><strong>* GAT NOMINAL</strong> antes de impuestos. Para fines informativos y de comparación.</p>
 									<p class="display-12"><strong>**GAT REAL</strong> antes de impuestos. Para fines informativos y de comparación. La GAT REAL es el rendimiento que obtendría después de descontar la inflación estimada Para fines informativos y de comparación exclusivamente.</p>
@@ -123,7 +124,7 @@
 					<div class="col-12">
 						<!-- Nota Legal Tabla -->
 						<div class="table-responsive mt-5">
-							<table class="table">
+							<table class="table text-center">
 								<thead>
 									<tr class="bg-primary">
 										<th scope="col"><span class="text-white">Rango</span></th>
@@ -135,21 +136,21 @@
 								<tbody>
 									<tr>
 										<td scope="row">$ 100.00 A $ 25,000.00</td>
-										<td>3.79%</td>
-										<td>3.86%</td>
-										<td>0.39%</td>
+										<td><strong>3.79%</strong></td>
+										<td><strong>3.86%</strong></td>
+										<td><strong>0.39%</strong></td>
 									</tr>
 									<tr>
 										<td scope="row">$ 25,000.01 A $ 50,000.00</td>
-										<td>3.90%</td>
-										<td>3.97%</td>
-										<td>0.50%</td>
+										<td><strong>3.90%</strong></td>
+										<td><strong>3.97%</strong></td>
+										<td><strong>0.50%</strong></td>
 									</tr>
 									<tr>
 										<td scope="row">$ 50,000.01 EN ADELANTE</td>
-										<td>4.01%</td>
-										<td>4.08%</td>
-										<td>0.61%</td>
+										<td><strong>4.01%</strong></td>
+										<td><strong>4.08%</strong></td>
+										<td><strong>0.61%</strong></td>
 									</tr>
 								</tbody>
 							</table>

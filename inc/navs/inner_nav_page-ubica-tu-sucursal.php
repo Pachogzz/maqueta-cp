@@ -7,17 +7,17 @@
 						</a>
 					</div>
 					<div class="col-12 col-lg p-0 pl-md-0 pl-lg-3 mb-2 mb-lg-0 white-circle-n-line">
-						<a href="conocenos.php" class="btn bg-tertiary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
+						<a href="conocenos" class="btn bg-tertiary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
 							Conócenos
 						</a>
 					</div>
 					<div class="col-12 col-lg p-0 mb-2 mb-lg-0 ">
-						<a href="ubica-tu-sucursal.php" class="btn bg-primary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
+						<a href="ubica-tu-sucursal" class="btn bg-primary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
 							Ubica tu sucursal
 						</a>
 					</div>
 					<div class="col-12 col-lg p-0 mb-2 mb-lg-0 ">
-						<a href="asambleas.php" class="btn bg-quaternary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
+						<a href="asambleas" class="btn bg-quaternary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
 							Asambleas
 						</a>
 					</div>
@@ -36,9 +36,9 @@
 						</div>
 						<div class="collapse w-100" id="innerMenuMobile">
 							<ul class="list-group w-100 pt-3">
-								<li class="list-group-item"><a href="conocenos.php">Conócenos</a></li>
-								<li class="list-group-item"><a href="ubica-tu-sucursal.php">Ubica tu sucursal</a></li>
-								<li class="list-group-item"><a href="asambleas.php">Asambleas</a></li>
+								<li class="list-group-item"><a href="conocenos">Conócenos</a></li>
+								<li class="list-group-item"><a href="ubica-tu-sucursal">Ubica tu sucursal</a></li>
+								<li class="list-group-item"><a href="asambleas">Asambleas</a></li>
 							</ul>
 						</div> <!-- ./ Menu Mobile Collapsable -->
 					</div>

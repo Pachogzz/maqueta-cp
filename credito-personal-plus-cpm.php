@@ -4,7 +4,7 @@
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 br-30">Crédito Personal Plus CPM</h1>
+						<h1 id="sectionTitle" class="display-4 br-30">Crédito Personal Plus CPM</h1>
 					</div>
 				</div>
 			</div>
@@ -30,7 +30,8 @@
 							<img width="" src="assets/img/secciones/logos-credito/personal-plus.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Satisface cualquier necesidad de consumo o actividad lícita, excepto finalidades productivas y comerciales.</p>
 							<p class="lead my-3 font-weight-bold text-primary">Montos desde $1,000.00 Hasta $18,078,600.00</p>
-							<p class="lead">Por ejemplo, <span class="font-weight-bold text-primary">solicita $15,000 pesos a 12 meses y pagas ¡$409 semanales*!</span></p>
+							<p class="lead font-weight-bold text-primary">Por ejemplo, solicita $15,000 pesos a 12 meses y pagas ¡$409 semanales*!</p>
+							<p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/FR-1917_Contrato_de_apertura_de_credito_en_cuenta_corriente.pdf">aquí</a></p>
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 						<!-- Nota Legal -->
@@ -65,8 +66,9 @@
 									<div class="card-body bg-grey0 p-4">
 										<h4>Monto</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Desde $1,000.00</li>
-											<li>Hasta 3,000,000 (Al 31 de enero de 2019, importe $18,742,785) UDIS (Unidad de inversión que se actualiza mensualmente para su conversión en moneda nacional).</li>
+											<li>Monto desde $1,000.00, hasta $18,078,600.00</li>
+											<li>Crédito otorgado en moneda nacional.</li>
+											<!-- <li>Hasta 3,000,000 (Al 31 de enero de 2019, importe $18,742,785) UDIS (Unidad de inversión que se actualiza mensualmente para su conversión en moneda nacional).</li> -->
 										</ul>
 										<h4>Plazo</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
@@ -83,7 +85,7 @@
 								<div class="card-header" id="headingTwo">
 									<h2 class="mb-0">
 										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-											Tasas y GAT
+											Tasas y CAT
 										</button>
 									</h2>
 								</div>
@@ -112,8 +114,8 @@
 									<div class="card-body bg-grey0 p-4">
 										<h4>Requisitos</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li><a href="ser-socio.php">Ser socio</a> de Caja Popular Mexicana.</li>
-											<li>Ahorro del 10% del monto a solicitar como garantía, depositando en su Cuenta Mexicana.</li>
+											<li><a href="ser-socio">Ser socio</a> de Caja Popular Mexicana.</li>
+											<li>Ahorro del 10% del monto a solicitar como garantía, depositado en Cuenta Mexicana.</li>
 										</ul>
 										<h4>Condiciones</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
@@ -147,7 +149,7 @@
 										<h4>Gastos de contratación</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li>Cuando exista una garantía prendaria o hipotecaria así como de seguro que lo cubra, los costos dependen del valor de la garantía.</li>
-											<li>Consulta los costos y comisiones de nuestros productos dando <a href="consulta-los-costos-y-comisiones-de-nuestros-productos.php">clic aquí</a>.</li>
+											<li>Consulta los costos y comisiones de nuestros productos dando <a href="consulta-los-costos-y-comisiones-de-nuestros-productos">clic aquí</a>.</li>
 										</ul>
 										<h4>Recomendaciones</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
@@ -163,7 +165,7 @@
 						<div class="bg-grey0 p-5 my-5">
 							<h3 class="font-weight-bolder">¿Dudas sobre nuestro Crédito Personal Plus?</h3>
 							<hr>
-							<?php include('inc/forms/formulario-creditos.php') ?> <!-- ./ Formulario gral de sección -->
+							<?php include('inc/forms/formulario_credito-personal-plus.php') ?> <!-- ./ Formulario gral de sección -->
 						</div>
 						<!-- Formulario Dudas -->
 					</div>

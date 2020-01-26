@@ -4,7 +4,7 @@
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 br-30">Consejos de seguridad</h1>
+						<h1 id="sectionTitle" class="display-4 br-30">Consejos de seguridad</h1>
 					</div>
 				</div>
 			</div>
@@ -183,7 +183,7 @@
 				<section id="blog-slider-module" class="blog-slider-module mb-5">
 					<div class="row">
 						<div class="col-12">
-							<p class="h2 font-weight-bold text-primary text-center mb-5">Más información de nuestro blog</p>
+							<p class="h2 font-weight-bold text-primary text-center mb-5">Más información en COOPERANDO ANDO</p>
 						</div>
 					</div> <!-- ./ Blog slider -->
 
@@ -304,7 +304,7 @@
 						<p class="h2 font-weight-bold text-primary text-center mb-5">¿Qué hacer en caso de ser víctima de un fraude?</p>
 					</div>
 					<div class="landing-grid-box col-12 col-md-4 my-5">
-						<a href="operaciones-disponibles-sei.php" class="h-100">
+						<a href="operaciones-disponibles-sei" class="h-100">
 							<div class="landing-grid-box-info rounded bw-5 border-grey0 text-center h-100">
 								<i class="fas fa-hand-point-up fa-5x bg-purple rounded-circle text-white"></i>
 								<p class="lead">Llama al 800 7100 800 o acude a tu sucursal más cercana e informa de tu situación para evitar más daños.</p>
@@ -312,7 +312,7 @@
 						</a>
 					</div>
 					<div class="landing-grid-box col-12 col-md-4 my-5">
-						<a href="preguntas-frecuentes-sei.php" class="h-100">
+						<a href="preguntas-frecuentes-sei" class="h-100">
 							<div class="landing-grid-box-info rounded bw-5 border-grey0 text-center p-3 h-100">
 								<i class="fas fa-hand-point-up fa-5x bg-purple rounded-circle text-white"></i>
 								<p class="lead">En caso de pérdida y robo de identificaciones, informa de inmediato al 800 7100 800 o a tu sucursal más cercana para evitar que hagan mal uso de tus documentos.</p>
@@ -320,7 +320,7 @@
 						</a>
 					</div>
 					<div class="landing-grid-box col-12 col-md-4 my-5">
-						<a href="consideraciones-tecnicas-sei.php" class="h-100">
+						<a href="consideraciones-tecnicas-sei" class="h-100">
 							<div class="landing-grid-box-info rounded bw-5 border-grey0 text-center p-3 h-100">
 								<i class="fas fa-hand-point-up fa-5x bg-purple rounded-circle text-white"></i>
 								<p class="lead">No dejes de acudir al Ministerio Público a levantar un acta, incluso si Caja Popular Mexicana ya te devolvió tu dinero.</p>

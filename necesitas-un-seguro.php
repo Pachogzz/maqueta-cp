@@ -4,7 +4,7 @@
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 br-30">¿Necesitas un seguro?</h1>
+						<h1 id="sectionTitle" class="display-4 br-30">¿Necesitas un seguro?</h1>
 					</div>
 				</div>
 			</div>
@@ -27,7 +27,7 @@
 			<div class="container">
 				<div class="row row-eq-height">
 					<div class="landing-grid-box col-12 col-md-6 mb-5 mb-md-1">
-						<a href="miseguro-prybe.php" class="h-100">
+						<a href="miseguro-prybe" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
 							<i class="fas fa-hands fa-4x bg-primary text-white rounded-circle"></i>
 							<h3>MiSeguro PRYBE</h3>
@@ -37,7 +37,7 @@
 						</a>
 					</div> <!-- ./ MiSeguro -->
 					<div class="landing-grid-box col-12 col-md-6 mb-0 mb-md-1 mt-5 mt-md-0">
-						<a href="miautoseguri-prybe.php" class="h-100">
+						<a href="miautoseguri-prybe" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
 							<i class="fas fa-car fa-4x bg-primary text-white rounded-circle"></i>
 							<h3>MiAutoSeguro PRYBE</h3>

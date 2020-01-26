@@ -4,7 +4,7 @@
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 br-30">Aviso de privacidad</h1>
+						<h1 id="sectionTitle" class="display-4 br-30">Aviso de privacidad</h1>
 					</div>
 				</div>
 			</div>
@@ -103,7 +103,7 @@
 
 						<p><strong>X Cambios en el Aviso de Privacidad.</strong></p>
 
-						<p>Este Aviso de Privacidad está vigente desde el 1º de enero de 2012 y podrá ser modificado en forma discrecional por el responsable en términos de la normatividad aplicable, cualquier modificación al mismo será comunicada por el responsable mediante la publicación del nuevo Aviso de Privacidad en la página de internet <a href="https://www.cpm.coop/aviso-de-privacidad/">https://www.cpm.coop/aviso-de-privacidad/</a> así como en nuestras sucursales.</p>
+						<p>Este Aviso de Privacidad está vigente desde el 1º de enero de 2012 y podrá ser modificado en forma discrecional por el responsable en términos de la normatividad aplicable, cualquier modificación al mismo será comunicada por el responsable mediante la publicación del nuevo Aviso de Privacidad en la página de internet <a href="aviso-de-privacidad">https://www.cpm.coop/aviso-de-privacidad/</a> así como en nuestras sucursales.</p>
 
 						<p><strong>Última actualización 15º de Diciembre de 2016</strong></p>
 					</div>

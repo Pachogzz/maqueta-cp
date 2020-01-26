@@ -4,7 +4,7 @@
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 br-30">Conoce los costos y comisiones <br>de nuestros productos</h1>
+						<h1 id="sectionTitle" class="display-4 br-30">Conoce los costos y comisiones <br>de nuestros productos</h1>
 					</div>
 				</div>
 			</div>
@@ -51,7 +51,7 @@
 														<td>No aplica</td>
 														<td><strong>Min.: 12.00% hasta un Mx: 33.00%</strong><br> *La tasa se asignara de acuerdo al perfil crediticio del Socio.</td>
 														<td><strong>31.6% sin IVA%</strong></td>
-														<td>31/12/2019</td>
+														<td>30/12/2019</td>
 													</tr>
 												</tbody>
 											</table>
@@ -94,7 +94,7 @@
 													<td>No aplica</td>
 													<td><strong>Min.: 12.00% hasta un Máx: 33.00%</strong><br>*La tasa se asignará de acuerdo al perfil crediticio del socio.</td>
 													<td><strong>25.1% sin IVA</strong></td>
-													<td>31/12/2019</td>
+													<td>30/12/2019</td>
 												</tr>
 											</tbody>
 										</table>
@@ -347,8 +347,8 @@
 												<td><strong>3.79%</strong></td>
 												<td><strong>3.86%</strong></td>
 												<td><strong>0.39%</strong></td>
-												<td>16/01/2020</td>
-												<td>22/01/2020</td>
+												<td>23/01/2020</td>
+												<td>29/01/2020</td>
 											</tr>
 										</tbody>
 									</table>
@@ -396,8 +396,8 @@
 													<td><strong>5.25%</strong></td>
 													<td><strong>5.34%</strong></td>
 													<td><strong>1.83%</strong></td>
-													<td>16/01/2020</td>
-													<td>22/01/2020</td>
+													<td>23/01/2020</td>
+													<td>29/01/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">210 días</td>
@@ -407,8 +407,8 @@
 													<td><strong>5.57%</strong></td>
 													<td><strong>5.66%</strong></td>
 													<td><strong>2.14%</strong></td>
-													<td>16/01/2020</td>
-													<td>22/01/2020</td>
+													<td>23/01/2020</td>
+													<td>29/01/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">240 días</td>
@@ -418,8 +418,8 @@
 													<td><strong>5.90%</strong></td>
 													<td><strong>5.99%</strong></td>
 													<td><strong>2.46%</strong></td>
-													<td>16/01/2020</td>
-													<td>22/01/2020</td>
+													<td>23/01/2020</td>
+													<td>29/01/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">270 días</td>
@@ -429,8 +429,8 @@
 													<td><strong>6.22%</strong></td>
 													<td><strong>6.31%</strong></td>
 													<td><strong>2.77%</strong></td>
-													<td>16/01/2020</td>
-													<td>22/01/2020</td>
+													<td>23/01/2020</td>
+													<td>29/01/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">300 días</td>
@@ -440,8 +440,8 @@
 													<td><strong>6.55%</strong></td>
 													<td><strong>6.64%</strong></td>
 													<td><strong>3.08%</strong></td>
-													<td>16/01/2020</td>
-													<td>22/01/2020</td>
+													<td>23/01/2020</td>
+													<td>29/01/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">330 días</td>
@@ -451,8 +451,8 @@
 													<td><strong>6.87%</strong></td>
 													<td><strong>6.95%</strong></td>
 													<td><strong>3.39%</strong></td>
-													<td>16/01/2020</td>
-													<td>22/01/2020</td>
+													<td>23/01/2020</td>
+													<td>29/01/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">360 días</td>
@@ -462,8 +462,8 @@
 													<td><strong>7.19%</strong></td>
 													<td><strong>7.27%</strong></td>
 													<td><strong>3.69%</strong></td>
-													<td>16/01/2020</td>
-													<td>22/01/2020</td>
+													<td>23/01/2020</td>
+													<td>29/01/2020</td>
 												</tr>
 											</tbody>
 										</table>
@@ -510,8 +510,8 @@
 													<td><strong>2.69%</strong></td>
 													<td><strong>2.72%</strong></td>
 													<td><strong>-0.70%</strong></td>
-													<td>16/01/2020</td>
-													<td>22/01/2020</td>
+													<td>23/01/2020</td>
+													<td>29/01/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">Retiros en cajeros automáticos internacionales</td>
@@ -646,7 +646,7 @@
 													<td><strong> </strong></td>
 													<td><strong> </strong></td>
 													<td><strong> </strong></td>
-													<td>16/01/2020 al 22/01/2020</td>
+													<td>23/01/2020 al 29/01/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">A 60 días</td>
@@ -661,7 +661,7 @@
 													</td>
 													<td><strong> </strong></td>
 													<td><strong> </strong></td>
-													<td>16/01/2020 al 22/01/2020</td>
+													<td>23/01/2020 al 29/01/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">A 90 días</td>
@@ -676,7 +676,7 @@
 													</td>
 													<td><strong> </strong></td>
 													<td><strong> </strong></td>
-													<td>16/01/2020 al 22/01/2020</td>
+													<td>23/01/2020 al 29/01/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">A 120 días</td>
@@ -689,7 +689,7 @@
 													<td><strong>4.56%</strong></td>
 													<td><strong>4.63%</strong></td>
 													<td><strong>1.14%</strong></td>
-													<td>16/01/2020 al 22/01/2020</td>
+													<td>23/01/2020 al 29/01/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">A 150 días</td>
@@ -702,7 +702,7 @@
 													<td><strong>4.77%</strong></td>
 													<td><strong>4.85%</strong></td>
 													<td><strong>1.35%</strong></td>
-													<td>16/01/2020 al 22/01/2020</td>
+													<td>23/01/2020 al 29/01/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">A 180 días</td>
@@ -715,7 +715,7 @@
 													<td><strong>4.97%</strong></td>
 													<td><strong>5.03%</strong></td>
 													<td><strong>1.53%</strong></td>
-													<td>16/01/2020 al 22/01/2020</td>
+													<td>23/01/2020 al 29/01/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">A 360 días</td>
@@ -728,7 +728,7 @@
 													<td><strong>6.24%</strong></td>
 													<td><strong>6.42%</strong></td>
 													<td><strong>2.87%</strong></td>
-													<td>16/01/2020 al 22/01/2020</td>
+													<td>23/01/2020 al 29/01/2020</td>
 												</tr>
 											</tbody>
 										</table>
@@ -774,8 +774,8 @@
 													<td><strong>0.50%</strong></td>
 													<td><strong>0.50%</strong></td>
 													<td><strong>-2.85%</strong></td>
-													<td>16/01/2020</td>
-													<td>22/01/2020</td>
+													<td>23/01/2020</td>
+													<td>29/01/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">Consulta de saldo en cajeros automáticos internacionales</td>
@@ -882,8 +882,8 @@
 													<td><strong>3.79%</strong></td>
 													<td><strong>3.86%</strong></td>
 													<td><strong>0.39%</strong></td>
-													<td>16/01/2020</td>
-													<td>22/01/2020</td>
+													<td>23/01/2020</td>
+													<td>29/01/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">Retiros en cajeros automáticos internacionales</td>
@@ -892,8 +892,8 @@
 													<td><strong>0.50%</strong></td>
 													<td><strong>0.50%</strong></td>
 													<td><strong>-3.25%</strong></td>
-													<td>16/01/2020</td>
-													<td>22/01/2020</td>
+													<td>23/01/2020</td>
+													<td>29/01/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">Consulta de saldo en cajeros automáticos internacionales</td>
@@ -1004,7 +1004,7 @@
 													<td style="text-align: center;"> 1.04%</td>
 													<td style="text-align: center;">Enero</td>
 													<td>
-														<p style="text-align: center;"> 16/01/2020 al 22/01/2020</p>
+														<p style="text-align: center;"> 23/01/2020 al 29/01/2020</p>
 													</td>
 												</tr>
 												<tr>
@@ -1017,7 +1017,7 @@
 													<td style="text-align: center;"> 1.30%</td>
 													<td style="text-align: center;">Enero</td>
 													<td>
-														<p style="text-align: center;"> 16/01/2020 al 22/01/2020</p>
+														<p style="text-align: center;"> 23/01/2020 al 29/01/2020</p>
 													</td>
 												</tr>
 												<tr>
@@ -1030,7 +1030,7 @@
 													<td style="text-align: center;"> 1.58%</td>
 													<td style="text-align: center;">Enero</td>
 													<td>
-														<p style="text-align: center;"> 16/01/2020 al 22/01/2020</p>
+														<p style="text-align: center;"> 23/01/2020 al 29/01/2020</p>
 													</td>
 												</tr>
 												<tr>
@@ -1043,7 +1043,7 @@
 													<td style="text-align: center;"> 1.84%</td>
 													<td style="text-align: center;">Enero</td>
 													<td>
-														<p style="text-align: center;"> 16/01/2020 al 22/01/2020</p>
+														<p style="text-align: center;"> 23/01/2020 al 29/01/2020</p>
 													</td>
 												</tr>
 												<tr>
@@ -1056,7 +1056,7 @@
 													<td style="text-align: center;"> 2.11%</td>
 													<td style="text-align: center;">Enero</td>
 													<td>
-														<p style="text-align: center;"> 16/01/2020 al 22/01/2020</p>
+														<p style="text-align: center;"> 23/01/2020 al 29/01/2020</p>
 													</td>
 												</tr>
 												<tr>
@@ -1069,7 +1069,7 @@
 													<td style="text-align: center;"> 2.37%</td>
 													<td style="text-align: center;">Enero</td>
 													<td>
-														<p style="text-align: center;"> 16/01/2020 al 22/01/2020</p>
+														<p style="text-align: center;"> 23/01/2020 al 29/01/2020</p>
 													</td>
 												</tr>
 												<tr>
@@ -1082,7 +1082,7 @@
 													<td style="text-align: center;"> 2.63%</td>
 													<td style="text-align: center;">Enero</td>
 													<td>
-														<p style="text-align: center;"> 16/01/2020 al 22/01/2020</p>
+														<p style="text-align: center;"> 23/01/2020 al 29/01/2020</p>
 													</td>
 												</tr>
 											</tbody>

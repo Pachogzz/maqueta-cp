@@ -1,11 +1,10 @@
 <?php include('inc/header.php'); ?>
-  <?php include('conexion/conexion.php') ?>
 
 		<section class="after-flange header-title-inner bg-gradient-green">
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 br-30">Asambleas</h1>
+						<h1 id="sectionTitle" class="display-4 br-30">Asambleas</h1>
 					</div>
 				</div>
 			</div>
@@ -21,13 +20,13 @@
 					</div>
 				</div> 
 
-				<div class="row">
+				<!-- <div class="row">
 					<div class="col">
 						<blockquote class="blockquote mb-5 p-5 border border-light bw-5 rounded border-grey1 text-center">
 							<p class="h3 text-center w-100 font-weight-lighter">Unidos lo hacemos posible</p>
 						</blockquote>
 					</div>
-				</div>
+				</div> -->
 				
 				<div class="row">
 					<div class="col-12 col-md-6">
@@ -74,7 +73,7 @@
 								</div>
 								<div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionCICPM">
 									<div class="card-body bg-grey0 p-4">
-										<p class="p-5 bg-white bw-1 border-grey1">El artículo 43 de los Estatutos vigentes de Caja Popular Mexicana señala la celebración de la Asamblea de Sucursal durante los meses de enero y febrero de cada año. Para mayor información, consulta la convocatoria en sucursal, pregunta a un ejecutivo o visita el <a href="ubica-tu-sucursal.php" class="text-primary"><strong>Calendario 2020 de Asambleas</strong></a></p>
+										<p class="p-5 bg-white bw-1 border-grey1">El artículo 43 de los Estatutos vigentes de Caja Popular Mexicana señala la celebración de la Asamblea de Sucursal durante los meses de enero y febrero de cada año. Para mayor información, consulta la convocatoria en sucursal, pregunta a un ejecutivo o visita el <a href="ubica-tu-sucursal" class="text-primary"><strong>Calendario 2020 de Asambleas</strong></a></p>
 									</div>
 								</div>
 							</div>

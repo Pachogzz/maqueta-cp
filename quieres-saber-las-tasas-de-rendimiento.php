@@ -4,7 +4,7 @@
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 br-30">¿Quieres saber las tasas de rendimiento?</h1>
+						<h1 id="sectionTitle" class="display-4 br-30">¿Quieres saber las tasas de rendimiento?</h1>
 					</div>
 				</div>
 			</div>
@@ -28,10 +28,9 @@
 					<div class="col-12">
 						<!-- Nota Legal Tabla -->
 						<div class="table-responsive mt-5">
-							<table class="table">
+							<table class="table text-center">
 								<thead>
 									<tr class="bg-primary">
-									<th scope="col"><span class="text-white">#</span></th>
 									<th scope="col"><span class="text-white">Rango Montos</span></th>
 									<th scope="col"><span class="text-white">30 días</th>
 									<th scope="col"><span class="text-white">60 días</th>
@@ -44,8 +43,7 @@
 								</thead>
 								<tbody>
 									<tr>
-										<th scope="row">1</th>
-										<td>$ 1000.00 A $ 25,000.00</td>
+										<td scope="row">$ 1000.00 A $ 25,000.00</td>
 										<td>3.95%</td>
 										<td>4.16%</td>
 										<td>4.38%</td>
@@ -55,8 +53,7 @@
 										<td>6.38%</td>
 									</tr>
 									<tr>
-										<th scope="row">1</th>
-										<td>$ 25,001.00 A $ 50,000.00</td>
+										<td scope="row">$ 25,001.00 A $ 50,000.00</td>
 										<td>4.14%</td>
 										<td>4.35%</td>
 										<td>4.56%</td>
@@ -66,8 +63,7 @@
 										<td>6.58%</td>
 									</tr>
 									<tr>
-										<th scope="row">3</th>
-										<td>$ 50,001.00 A $ 100,000.00</td>
+										<td scope="row">$ 50,001.00 A $ 100,000.00</td>
 										<td>4.30%</td>
 										<td>4.51%</td>
 										<td>4.74%</td>
@@ -77,8 +73,7 @@
 										<td>6.75%</td>
 									</tr>
 									<tr>
-										<th scope="row">4</th>
-										<td>$ 100.00 A $ 25,000.00</td>
+										<td scope="row">$ 100.00 A $ 25,000.00</td>
 										<td>4.46%</td>
 										<td>4.68%</td>
 										<td>4.89%</td>
@@ -88,8 +83,7 @@
 										<td>6.92%</td>
 									</tr>
 									<tr>
-										<th scope="row">5</th>
-										<td>$ 100.00 A $ 25,000.00</td>
+										<td scope="row">$ 100.00 A $ 25,000.00</td>
 										<td>4.60%</td>
 										<td>4.82%</td>
 										<td>5.03%</td>
@@ -99,8 +93,7 @@
 										<td>7.07%</td>
 									</tr>
 									<tr>
-										<th scope="row">6</th>
-										<td>$ 100.00 A $ 25,000.00</td>
+										<td scope="row">$ 100.00 A $ 25,000.00</td>
 										<td>4.74%</td>
 										<td>4.95%</td>
 										<td>5.17%</td>
@@ -110,8 +103,7 @@
 										<td>7.21%</td>
 									</tr>
 									<tr>
-										<th scope="row">7</th>
-										<td>$ 100.00 A $ 25,000.00</td>
+										<td scope="row">$ 100.00 A $ 25,000.00</td>
 										<td>4.86%</td>
 										<td>5.07%</td>
 										<td>5.29%</td>
@@ -124,6 +116,7 @@
 							</table>
 						</div>
 						<!-- Nota Legal Tabla -->
+						<p class="text-right"><small>* Las tasas de interés están expresadas en términos anuales</small></p>
 					</div>
 				</div>
 			</div>

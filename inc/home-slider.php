@@ -17,8 +17,8 @@
 							</video>
 							<div class="carousel-caption d-none d-sm-block p-3 p-lg-5 bg-primary br-ntl-30 col-5 col-md-3 my-auto has-label">
 								<h2 class="display-5"><strong>Bienvenido a Caja Popular Mexicana.</strong></h2>
-								<h5 class="text-yellow mb-2"><strong>Tu cooperativa financiera confiable</strong></h5>
-								<a href="conocenos.php" class="btn btn-secondary br-30 px-5 font-weight-semibold">Saber más</a>
+								<h5 class="text-yellow mb-2"><strong>Tu cooperativa confiable</strong></h5>
+								<a href="conocenos" class="btn btn-secondary br-30 px-5 font-weight-semibold">Saber más</a>
 							</div>
 						</div>
 						<!-- <div class="carousel-item align-items-center" data-interval="6000">

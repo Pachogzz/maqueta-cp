@@ -4,7 +4,7 @@
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 br-30">CPM en Línea</h1>
+						<h1 id="sectionTitle" class="display-4 br-30">CPM en Línea</h1>
 					</div>
 				</div>
 			</div>
@@ -22,7 +22,7 @@
 								<a class="display-24" href="https://www.cpmenlinea.cpm.coop/" target="_blank">www.cpmenlinea.cpm.coop</a>
 							</p>
 							<p class="mt-3 mb-2 lead font-weight-normal">Recuerda usar el mismo usuario y contraseña para acceder a <strong>CPM Móvil</strong></p>
-							<p><small>Consulta los términos y condiciones de nuestro servicio Electrónico por Internet dando <a href="terminos-y-condiciones-sei.php" target="_blank">clic aquí</a>.</small></p>
+							<p><small>Consulta los términos y condiciones de nuestro servicio Electrónico por Internet dando <a href="terminos-y-condiciones-sei" target="_blank">clic aquí</a>.</small></p>
 						</blockquote>
 					</div>
 				</div> <!-- ./ Main info block -->

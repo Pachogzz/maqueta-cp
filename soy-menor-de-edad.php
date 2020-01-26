@@ -4,7 +4,7 @@
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 br-30">Ahorrador Menor de Edad</h1>
+						<h1 id="sectionTitle" class="display-4 br-30">Ahorrador Menor de Edad</h1>
 					</div>
 				</div>
 			</div>
@@ -32,9 +32,9 @@
 							<!-- <h2 class="d-inline-block border-primary text-primary font-weight-bolder bw-3 py-2 px-3 mb-3">DESCRIPCIÓN</h2> -->
 							<p class="lead">Si eres socio de nuestra cooperativa y tienes hijos o eres tutor de algún menor de edad, puedes regalarle su primera experiencia en las finanzas formales con su:</p>
 							<p class="lead text-primary font-weight-semibold">
-								<a href="cuentamiga.php">Primera cuenta de ahorro formal</a><br>
-								<a href="mi-alcancia-junior.php">Primera cuenta de ahorro a plazo</a><br>
-								<a href="tarjeta-de-debito.php">Primera tarjeta de débito </a>
+								<a href="cuentamiga">Primera cuenta de ahorro formal</a><br>
+								<a href="mi-alcancia-junior">Primera cuenta de ahorro a plazo</a><br>
+								<a href="tarjeta-de-debito">Primera tarjeta de débito </a>
 							</p>
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
@@ -71,7 +71,7 @@
 
 				<div class="row mb-3 mb-lg-5">
 					<div class="col-12">
-						<ul id="responsiveTabTest" class="nav nav-pills justify-content-center icon-tabs responsive-tabs">
+						<ul id="responsiveTab" class="nav nav-pills justify-content-center icon-tabs responsive-tabs">
 							<li class="nav-item active">
 								<a class="nav-link text-center h4 p-3" href="#v-One">
 									<i class="fas fa-bullseye fa-3x mb-3"></i><br>Beneficios
@@ -98,7 +98,7 @@
 								<ul class="p-3 pl-5 p-lg-5 border border-grey1 bg-white">
 									<li>Adoptar desde temprana edad el hábito del ahorro formal</li>
 									<li>Acceso a los talleres de educación cooperativa y financiera diseñados especialmente para menores de edad, conócelos <a href="https://cpm.coop/educacion" target="_blank">aquí</a></li>
-									<li>Oportunidad de participar en promociones y disfrutar los diversos convenios que tenemos vigentes; consúltalos en nuestras redes sociales oficiales o dando <a href="ubica-tu-sucursal.php">clic aquí</a>.</li>
+									<li>Oportunidad de participar en promociones y disfrutar los diversos convenios que tenemos vigentes; consúltalos en nuestras redes sociales oficiales o dando <a href="ubica-tu-sucursal">clic aquí</a>.</li>
 								</ul>
 							</div>
 
@@ -107,7 +107,7 @@
 									<li>Ser menor de 18 años y no estar legalmente emancipado (casado).</li>
 									<li>Cualquiera de los padres o tutores deberá tramitar personalmente el ingreso del menor en la sucursal donde se dio de alta como socio.</li>
 									<li>Llenar la solicitud de ingreso de ahorradores menores de edad, la cual será proporcionada en sucursal.</li>
-									<li>Cubrir el monto de $20.00 para aperturar la <a href="cuentamiga.php">Cuentamiga</a>.</li>
+									<li>Cubrir el monto de $20.00 para aperturar la <a href="cuentamiga">Cuentamiga</a>.</li>
 									<li>Copia del acta de nacimiento del menor de edad y original para cotejo.</li>
 									<li>Copia del CURP del menor de edad y original para cotejo (si este dato se presenta en el acta de nacimiento, no es necesario presentar el documento).</li>
 									<li>Dos fotografías tamaño infantil (solo en caso que el menor tenga 5 años cumplidos o más).</li>
@@ -130,7 +130,7 @@
 													<li><strong class="text-primary">Desafío FaceCOOP</strong>: ¡Gánate tu pase a la siguiente etapa! Consigue las siguientes calcomanías en tu sucursal al asistir al taller: <br>
 														<img src="assets/img/secciones/menor-de-edad/cpm-ahorrador-menor-de-edad-calcas.png" alt="">
 													</li>
-													<li>Consulta las bases del <a href="facecoop.php">desafío AQUÍ</a></li>
+													<li>Consulta las bases del <a href="facecoop">desafío AQUÍ</a></li>
 												</ul>
 											</li>
 										</ul>

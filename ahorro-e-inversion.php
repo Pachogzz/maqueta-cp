@@ -4,7 +4,7 @@
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 br-30">¿Necesitas ahorrar o invertir?</h1>
+						<h1 id="sectionTitle" class="display-4 br-30">¿Necesitas ahorrar o invertir?</h1>
 					</div>
 				</div>
 			</div>
@@ -27,7 +27,7 @@
 			<div class="container">
 				<div class="row row-eq-height">
 					<div class="landing-grid-box col-12 col-md-4">
-						<a href="rendicuenta.php" class="h-100">
+						<a href="rendicuenta" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
 							<i class="fas fa-hand-holding-usd fa-4x bg-primary text-white rounded-circle"></i>
 							<!-- <img src="assets/img/icons/icon-bills.png" class="bg-primary p-3 rounded-circle" width="120" height="120" alt=""> -->
@@ -37,7 +37,7 @@
 						</a>
 					</div> <!-- ./ Rendicuenta -->
 					<div class="landing-grid-box col-12 col-md-4">
-						<a href="mi-alcancia.php" class="h-100">
+						<a href="mi-alcancia" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
 							<i class="fas fa-money-bill-wave fa-4x bg-primary text-white rounded-circle"></i>
 							<!-- <img src="assets/img/icons/icon-clock.png" class="bg-primary p-3 rounded-circle" width="120" height="120" alt=""> -->
@@ -47,7 +47,7 @@
 						</a>
 					</div> <!-- ./ Mi alcancía -->
 					<div class="landing-grid-box col-12 col-md-4">
-						<a href="mi-alcancia-junior.php" class="h-100">
+						<a href="mi-alcancia-junior" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
 							<i class="fas fa-piggy-bank fa-4x bg-primary text-white rounded-circle"></i>
 							<!-- <img src="assets/img/icons/icon-clock.png" class="bg-primary p-3 rounded-circle" width="120" height="120" alt=""> -->
@@ -59,7 +59,7 @@
 				</div>
 				<div class="row row-eq-height">
 					<div class="landing-grid-box col-12 col-md-4">
-						<a href="cuenta-mexicana.php" class="h-100">
+						<a href="cuenta-mexicana" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
 							<i class="fas fa-credit-card fa-4x bg-primary text-white rounded-circle"></i>
 							<!-- <img src="assets/img/icons/icon-car.png" class="bg-primary p-3 rounded-circle" width="120" height="120" alt=""> -->
@@ -69,7 +69,7 @@
 						</a>
 					</div> <!-- ./ Cuenta Mexicana -->
 					<div class="landing-grid-box col-12 col-md-4">
-						<a href="servicuenta.php" class="h-100">
+						<a href="servicuenta" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
 							<i class="fas fa-file-invoice-dollar fa-4x bg-primary text-white rounded-circle"></i>
 							<!-- <img src="assets/img/icons/icon-group-people.png" class="bg-primary p-3 rounded-circle" width="120" height="120" alt=""> -->
@@ -79,7 +79,7 @@
 						</a>
 					</div> <!-- ./ Servicuenta -->
 					<div class="landing-grid-box col-12 col-md-4">
-						<a href="cuentamiga.php" class="h-100">
+						<a href="cuentamiga" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
 							<i class="far fa-credit-card fa-4x bg-primary text-white rounded-circle"></i>
 							<!-- <img src="assets/img/icons/icon-car.png" class="bg-primary p-3 rounded-circle" width="120" height="120" alt=""> -->

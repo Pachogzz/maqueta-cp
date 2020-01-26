@@ -14,7 +14,7 @@
 						</video>
 					</div> -->
 					<div class="col">
-						<h1 class="display-4 br-30">Solidez Empresarial</h1>
+						<h1 id="sectionTitle" class="display-4 br-30">Solidez Empresarial</h1>
 					</div>
 				</div>
 			</div>
@@ -47,7 +47,7 @@
 					<div class="col-12 col-md-4 mb-4 mb-md-5">
 						<div class="h-100 bg-primary text-white text-center rounded p-5">
 							<i class="fas fa-users fa-5x mb-3"></i>
-							<h2 class="font-weight-bolder mb-3 counter-val">1,726,428</h2>
+							<h2 class="font-weight-bolder mb-3 counter-val">2,726,428</h2>
 							<h4>Socios</h4>
 						</div>
 					</div>

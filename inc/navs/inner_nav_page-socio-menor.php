@@ -7,17 +7,17 @@
 						</a>
 					</div>
 					<div class="col-12 col-lg p-0 pl-md-0 pl-lg-3 mb-2 mb-lg-0 white-circle-n-line">
-						<a href="ser-socio.php" class="btn bg-tertiary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
+						<a href="ser-socio" class="btn bg-tertiary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
 							Ser socio
 						</a>
 					</div>
 					<div class="col-12 col-lg p-0 mb-2 mb-lg-0 ">
-						<a href="mi-alcancia-junior.php" class="btn bg-primary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
+						<a href="mi-alcancia-junior" class="btn bg-primary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
 							Mi primera inversión
 						</a>
 					</div>
 					<div class="col-12 col-lg p-0 mb-2 mb-lg-0 ">
-						<a href="tarjeta-de-debito.php" class="btn bg-quaternary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
+						<a href="tarjeta-de-debito" class="btn bg-quaternary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
 							Mi primera Tarjeta de Débito Jr.
 						</a>
 					</div>
@@ -36,9 +36,9 @@
 						</div>
 						<div class="collapse w-100" id="innerMenuMobile">
 							<ul class="list-group w-100 pt-3">
-								<li class="list-group-item"><a href="ser-socio.php">Ser socio</a></li>
-								<li class="list-group-item"><a href="mi-alcancia-junior.php">Mi primera inversión</a></li>
-								<li class="list-group-item"><a href="tarjeta-de-debito.php">Mi primera Tarjeta de Débito Jr.</a></li>
+								<li class="list-group-item"><a href="ser-socio">Ser socio</a></li>
+								<li class="list-group-item"><a href="mi-alcancia-junior">Mi primera inversión</a></li>
+								<li class="list-group-item"><a href="tarjeta-de-debito">Mi primera Tarjeta de Débito Jr.</a></li>
 							</ul>
 						</div> <!-- ./ Menu Mobile Collapsable -->
 					</div>

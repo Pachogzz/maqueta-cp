@@ -4,7 +4,7 @@
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 br-30">Crédito Inmediato CPM</h1>
+						<h1 id="sectionTitle" class="display-4 br-30">Crédito Inmediato CPM</h1>
 					</div>
 				</div>
 			</div>
@@ -27,6 +27,7 @@
 							<img width="" src="assets/img/secciones/logos-credito/credito-inmediato.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Obtén un crédito inmediato, de igual o menor monto a tu ahorro, con una tasa accesible</p>
 							<p class="lead my-3 font-weight-bold text-primary">Montos desde $1,000.00 hasta $30,000,000.00</p>
+							<p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/FR-1917_Contrato_de_apertura_de_credito_en_cuenta_corriente.pdf">aquí</a></p>
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 						<!-- Nota Legal -->
@@ -49,7 +50,7 @@
 							<div class="card">
 								<div class="card-header" id="headingOne">
 									<h2 class="mb-0">
-										<button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
 											Montos y plazos
 										</button>
 									</h2>
@@ -59,8 +60,8 @@
 									<div class="card-body bg-grey0 p-4">
 										<h4>Monto</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Desde $1,000.00</li>
-											<li>Hasta 3,000,000 </li>
+											<li>Montos desde $1,000.00, hasta $30,000,000.00</li>
+											<li>Crédito otorgado en moneda nacional.</li>
 										</ul>
 										<h4>Plazo</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
@@ -75,7 +76,7 @@
 								<div class="card-header" id="headingTwo">
 									<h2 class="mb-0">
 										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-											Tasas y GAT
+											Tasas y CAT
 										</button>
 									</h2>
 								</div>
@@ -104,7 +105,7 @@
 									<div class="card-body bg-grey0 p-4">
 										<h4>Requisitos</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Ser <a href="ser-socio.php">socio</a> de Caja Popular Mexicana.</li>
+											<li>Ser <a href="ser-socio">socio</a> de Caja Popular Mexicana.</li>
 											<li>Tener disponibilidad en Cuenta Mexicana o mantener una inversión en Rendicuenta.</li>
 										</ul>
 										<h4>Condiciones</h4>
@@ -136,7 +137,7 @@
 										<h4>Gastos de contratación</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li>Cuando exista una garantía prendaria o hipotecaria así como de seguro que lo cubra, los costos dependen del valor de la garantía.</li>
-											<li>Consulta los costos y comisiones de nuestros productos dando <a href="consulta-los-costos-y-comisiones-de-nuestros-productos.php">clic aquí</a>.</li>
+											<li>Consulta los costos y comisiones de nuestros productos dando <a href="consulta-los-costos-y-comisiones-de-nuestros-productos">clic aquí</a>.</li>
 										</ul>
 										<h4>Recomendaciones</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
@@ -152,7 +153,7 @@
 						<div class="bg-grey0 p-5 my-5">
 							<h3 class="font-weight-bolder">¿Dudas sobre nuestro Crédito Inmediato CPM?</h3>
 							<hr>
-							<?php include('inc/forms/formulario-creditos.php') ?> <!-- ./ Formulario gral de sección -->
+							<?php include('inc/forms/formulario_credito-inmediato.php') ?> <!-- ./ Formulario gral de sección -->
 						</div>
 						<!-- Formulario Dudas -->
 					</div>

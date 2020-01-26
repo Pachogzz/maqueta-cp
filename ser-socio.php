@@ -4,7 +4,7 @@
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 br-30">Requisitos para ser socio</h1>
+						<h1 id="sectionTitle" class="display-4 br-30">Requisitos para ser socio</h1>
 					</div>
 				</div>
 			</div>
@@ -137,13 +137,13 @@
 									<div class="col-12 col-lg-4 mb-4 mb-lg-0">
 										<h4 class="font-weight-semibold text-primary text-center">Servicios</h4>
 										<ul class="p-4 border border-grey1 bg-white mb-0">
-											<li>Para tu comodidad, ahora puedes pagar tus servicios recurrentes en tu sucursal preferida; consulta los servicios que puedes pagar en tu sucursal más cercana dando <a href="ubica-tu-sucursal.php">clic aquí</a>.</li>
+											<li>Para tu comodidad, ahora puedes pagar tus servicios recurrentes en tu sucursal preferida; consulta los servicios que puedes pagar en tu sucursal más cercana dando <a href="ubica-tu-sucursal">clic aquí</a>.</li>
 										</ul>
 									</div>
 									<div class="col-12 col-lg-4">
 										<h4 class="font-weight-semibold text-primary text-center">Promociones</h4>
 										<ul class="p-4 border border-grey1 bg-white mb-0">
-											<li>No olvides estar al pendiente de todas las promociones, convenios u oportunidades que tenemos para ti en nuestras redes sociales o dando <a href="ubica-tu-sucursal.php">clic aquí</a>.</li>
+											<li>No olvides estar al pendiente de todas las promociones, convenios u oportunidades que tenemos para ti en nuestras redes sociales o dando <a href="ubica-tu-sucursal">clic aquí</a>.</li>
 										</ul>
 									</div>
 								</div>
@@ -214,7 +214,7 @@
 
 				<div class="row">
 					<div class="col-12 col-md-8 offset-md-2">
-						<p class="h3 text-center">Tenemos a tu disposición más de <strong>470 sucursales</strong>, además de nuestro servicio de <a href="corresponsalias.php">Corresponsalías</a>, con el que puedes hacer depósitos a tus créditos y cuentas de ahorro en tiendas de la cadena comercial OXXO.</p>
+						<p class="h3 text-center">Tenemos a tu disposición más de <strong>470 sucursales</strong>, además de nuestro servicio de <a href="corresponsalias">Corresponsalías</a>, con el que puedes hacer depósitos a tus créditos y cuentas de ahorro en tiendas de la cadena comercial OXXO.</p>
 					</div>
 				</div>
 

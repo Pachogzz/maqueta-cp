@@ -30,7 +30,7 @@
 										    </div>
 											<div class="form-group form-check">
 												<input type="checkbox" class="form-check-input" id="aceptoTerminosyCondiciones" required>
-												<label class="form-check-label text-white" for="aceptoTerminosyCondiciones"> Acepto el <a href="aviso-de-privacidad.php" class="text-yellow">aviso de privacidad</a></label>
+												<label class="form-check-label text-white" for="aceptoTerminosyCondiciones"> Acepto el <a href="aviso-de-privacidad" class="text-yellow">aviso de privacidad</a></label>
 											</div>
 										    <div class="clear">
 										    	<input type="submit" value="Quiero suscribirme" name="subscribe" id="mc-embedded-subscribe" class="button btn btn-secondary br-30 px-5 font-weight-semibold">
@@ -43,7 +43,7 @@
 						</div>
 					</div>
 					<div class="col-12 col-lg-4">
-						<a href="ubica-tu-sucursal.php">
+						<a href="ubica-tu-sucursal">
 							<img src="assets/img/secciones/beneficios-box-banner.jpg" alt="Banner Placeholder" class="img-fluid d-block mx-md-auto">
 						</a>
 					</div>
