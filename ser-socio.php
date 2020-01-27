@@ -90,41 +90,39 @@
 
 				<div class="row mb-5">
 					<div class="col-12">
-						<ul class="nav nav-pills responsive-tabs justify-content-center icon-tabs" id="pills-tab" role="tablist">
-							<li class="nav-item">
-								<a class="nav-link h4 p-3 p-md-3 text-center active" id="v-One-tab" data-toggle="pill" href="#v-One" role="tab" aria-controls="v-One" aria-selected="true">
+						<ul class="nav nav-pills justify-content-center icon-tabs responsive-tabs">
+							<li class="nav-item active">
+								<a class="nav-link text-center h4 p-3" href="#v-One">
 									<i class="fas fa-hand-holding-usd fa-3x mb-3"></i><br>Remesas y <br>servicios
 								</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link h4 p-3 p-md-3 text-center" id="v-Two-tab" data-toggle="pill" href="#v-Two" role="tab" aria-controls="v-Two" aria-selected="false">
+								<a class="nav-link text-center h4 p-3" href="#v-Two">
 									<i class="fas fa-user-shield fa-3x mb-3"></i><br>Protección al <br>ahorro y crédito
 								</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link h4 p-3 p-md-3 text-center" id="v-Three-tab" data-toggle="pill" href="#v-Three" role="tab" aria-controls="v-Three" aria-selected="false">
+								<a class="nav-link text-center h4 p-3" href="#v-Three">
 									<i class="fas fa-cross fa-3x mb-3"></i><br>Ayuda <br>funeraria
 								</a>
 							</li>
 							<!-- <li class="nav-item">
-								<a class="nav-link h4 p-3 p-md-3 text-center" id="v-Four-tab" data-toggle="pill" href="#v-Four" role="tab" aria-controls="v-Four" aria-selected="false">
+								<a class="nav-link text-center h4 p-3" href="#v-Four">
 									<i class="fas fa-clipboard-list fa-3x mb-3"></i><br>Requisitos y <br>documentación
 								</a>
 							</li> -->
 							<!-- <li class="nav-item">
-								<a class="nav-link h4 p-3 p-md-3 text-center" id="v-Five-tab" data-toggle="pill" href="#v-Five" role="tab" aria-controls="v-Five" aria-selected="false">
+								<a class="nav-link text-center h4 p-3" href="#v-Five">
 									<i class="fas fa-search fa-3x mb-3"></i><br>Mis derechos <br>y compromisos
 								</a>
 							</li> -->
-							<li class="nav-item">
-								<a class="nav-link h4 p-3 p-md-3 text-center" href="http://www.puntosverdes.mx/" target="_blank">
-									<i class="fas fa-spinner fa-3x mb-3"></i><br>Puntos <br>Verdes
-								</a>
-							</li>
+							<a class="nav-link h4 p-3 p-md-3 text-center" href="http://www.puntosverdes.mx/" target="_blank">
+								<i class="fas fa-spinner fa-3x mb-3"></i><br>Puntos <br>Verdes
+							</a>
 						</ul>
 
-						<div class="tab-content responsive icon-tabs" id="pills-tabContent">
-							<div class="tab-pane fade bw-5 border-primary rounded bg-grey0 p-3 p-lg-5 show active" id="v-One" role="tabpanel" aria-labelledby="v-One-tab">
+						<div class="tab-content">
+							<div class="tab-pane bw-5 border-primary rounded p-4 bg-grey0 active" id="v-One">
 								<div class="row h-100">
 									<div class="col-12 col-lg-4 mb-4 mb-lg-0">
 										<h4 class="font-weight-semibold text-primary text-center">Remesas</h4>
@@ -148,19 +146,19 @@
 									</div>
 								</div>
 							</div>
-							<div class="tab-pane fade bw-5 border-primary rounded bg-grey0 p-3 p-lg-5" id="v-Two" role="tabpanel" aria-labelledby="v-Two-tab">
+							<div class="tab-pane bw-5 border-primary rounded p-4 bg-grey0" id="v-Two">
 								<ul class="p-4 border border-grey1 bg-white">
 									<li><p>Sabemos lo difícil que es sobreponerse a una pérdida del ser amado y más si es el sustento familiar; es por ello que protegemos tu ahorro sin costo como servicio adicional y saldamos el crédito vigente de tu ser querido al fallecer*.</p>
 									<p><small>* Aplican restricciones de acuerdo a la póliza de seguro vigente. Para mayores informes, consulta a un ejecutivo en tu sucursal y no olvides dar de alta a tus beneficiarios con su nombre completo, dirección y número telefónico.</small></p></li>
 								</ul>
 							</div>
-							<div class="tab-pane fade bw-5 border-primary rounded bg-grey0 p-3 p-lg-5" id="v-Three" role="tabpanel" aria-labelledby="v-Three-tab">
+							<div class="tab-pane bw-5 border-primary rounded p-4 bg-grey0" id="v-Three">
 								<ul class="p-4 border border-grey1 bg-white">
 									<li><p>En los momentos difíciles, queremos apoyar tu economía con la ayuda funeraria económica para nuestros socios*. Recuerda que únicamente tus beneficiarios [quienes brindaste al momento de darte alta como socios], son los únicos que pueden solicitar el apoyo por lo que considera siempre actualizar los datos en caso de cambios.</p>
 									<p><small>* Aplican restricciones de acuerdo a la póliza de seguro vigente. Para mayores informes, consulta a un ejecutivo en tu sucursal.</small></p></li>
 								</ul>
 							</div>
-							<!-- <div class="tab-pane fade bw-5 border-primary rounded bg-grey0 p-3 p-lg-5" id="v-Four" role="tabpanel" aria-labelledby="v-Four-tab">
+							<!-- <div class="tab-pane bw-5 border-primary rounded p-4 bg-grey0" id="v-Four">
 								<ul class="p-5 bg-white bw-1 border-grey1">
 									<li>Ser mayor de 18 años o estar legalmente emancipado (casado – se requiere acta de matrimonio en este caso-).</li>
 									<li>Poseer espíritu de trabajo y de honradez y estar en pleno goce de tus derechos civiles.</li>
@@ -180,7 +178,7 @@
 									<li>En caso de ser apoderado legal o propietario real, se requerirá el documento que así lo avale.</li>
 								</ul>
 							</div> -->
-							<!-- <div class="tab-pane fade bw-5 border-primary rounded bg-grey0 p-3 p-lg-5" id="v-Five" role="tabpanel" aria-labelledby="v-Five-tab">
+							<!-- <div class="tab-pane bw-5 border-primary rounded p-4 bg-grey0" id="v-Five">
 								<ul class="p-5 bg-white bw-1 border-grey1">
 									<li>Brinda tu número fijo o celular.</li>
 									<li>Datos de los beneficiarios [nombre completo, fecha de nacimiento, domicilio particular y número telefónico]</li>

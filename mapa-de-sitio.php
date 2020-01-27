@@ -63,7 +63,7 @@
 							<li><a href="quieres-saber-las-tasas-de-rendimiento">¿Quieres saber las tasas de rendimiento?</a></li>
 							<li><a href="rendicuenta">Rendicuenta</a></li>
 							<li><a href="ser-socio">Requisitos para ser socio</a></li>
-							<li><a href="servicio-electronico-en-linea">Servicio Electrónico por Internet</a></li>
+							<li><a href="serviciosdigitales">Servicio Electrónico por Internet</a></li>
 							<li><a href="servicuenta">Servicuenta</a></li>
 							<li><a href="solidez-empresarial">Solidez Empresarial </a></li>
 							<li><a href="soy-menor-de-edad">Ahorrador Menor de Edad</a></li>

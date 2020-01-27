@@ -44,7 +44,7 @@
 									<h3><strong>¡Aprende cómo usar CPM Móvil y CPM en Línea!</strong></h3>
 									<h5 class="text-yellow"><strong>Y disfruta #MásTiempoEnTusManos</strong></h5>
 									<p>Conoce las operaciones que puedes hacer en cada plataforma y no olvides calificar tu experiencia en las tiendas oficiales.</p>
-									<a href="servicio-electronico-en-linea" class="btn btn-secondary br-30 px-5 font-weight-semibold">Saber más</a>
+									<a href="serviciosdigitales" class="btn btn-secondary br-30 px-5 font-weight-semibold">Saber más</a>
 								</div>
 							</div>
 						</div>

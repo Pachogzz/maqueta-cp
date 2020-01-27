@@ -7,7 +7,7 @@
 						</a>
 					</div>
 					<div class="col-12 col-lg p-0 pl-md-0 pl-lg-3 mb-2 mb-lg-0 white-circle-n-line">
-						<a href="servicio-electronico-en-linea" class="btn bg-tertiary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
+						<a href="serviciosdigitales" class="btn bg-tertiary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
 							Tu caja ya es digital
 						</a>
 					</div>
@@ -53,7 +53,7 @@
 						</div>
 						<div class="collapse w-100" id="innerMenuMobile">
 							<ul class="list-group w-100 pt-3">
-								<li class="list-group-item"><a href="servicio-electronico-en-linea">Tu caja ya es digital</a></li>
+								<li class="list-group-item"><a href="serviciosdigitales">Tu caja ya es digital</a></li>
 								<li class="list-group-item"><a href="cpm-movil">CPM Móvil</a></li>
 								<li class="list-group-item"><a href="cpm-en-linea">CPM en Línea</a></li>
 								<li class="list-group-item">
