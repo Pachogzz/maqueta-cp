@@ -48,7 +48,7 @@
                 } // end function
 
             //bind with waypoints
-            $this.waypoint(startCounter, { offset: '100%', triggerOnce: true });
+            $this.val(startCounter, { offset: '100%', triggerOnce: true }); 
         });
 
 

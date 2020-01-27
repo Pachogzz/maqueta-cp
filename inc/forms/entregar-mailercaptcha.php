@@ -10,26 +10,26 @@ require 'phpmailer/SMTP.php';
 $mail = new PHPMailer(true);
 $mail->CharSet = 'utf-8';
 
-$nombreCompleto 		= !empty($_POST['nombreCompleto']);
-$correoelectronico 		= !empty($_POST['correoelectronico']);
-$telefonoDeContacto 	= !empty($_POST['telefonoDeContacto']);
-$montoaSolicitar 		= !empty($_POST['montoaSolicitar']);
-$finalidad 				= !empty($_POST['finalidad']);
-$numerodeSocio 			= !empty($_POST['numerodeSocio']);
-$estado 				= !empty($_POST['estado']);
-$municipio 				= !empty($_POST['municipio']);
-$avisoDePrivacidad 		= !empty($_POST['avisoDePrivacidad']);
+$nombreCompleto 		= $_POST['nombreCompleto'];
+$correoelectronico 		= $_POST['correoelectronico'];
+$telefonoDeContacto 	= $_POST['telefonoDeContacto'];
+$montoaSolicitar 		= $_POST['montoaSolicitar'];
+$finalidad 				= $_POST['finalidad'];
+$numerodeSocio 			= $_POST['numerodeSocio'];
+$estado 				= $_POST['estado'];
+$municipio 				= $_POST['municipio'];
+$avisoDePrivacidad 		= $_POST['avisoDePrivacidad'];
 
 $mail->isSMTP();
 $mail->Host       = 'smtp.gmail.com';
 $mail->SMTPAuth   = true;
-$mail->Username   = 'fgonzalez@cyanmedialab.com';
-$mail->Password   = 'appleMG1';
+$mail->Username   = 'marco@minds.com.mx';
+$mail->Password   = 'Meta.developer18';
 $mail->SMTPSecure = 'tls';
 $mail->Port       = 587;
 
-$mail->setFrom('fgonzalez@cyanmedialab.com', 'Caja Popular Mexicana');
-$mail->addAddress('pacho@minds.com.mx');
+$mail->setFrom('marco@minds.com.mx', 'Caja Popular Mexicana');
+$mail->addAddress('marco@minds.com.mx');
 $mail->isHTML(true);
 $mail->Subject = 'Dudas sobre: Crédito Personal Plus CPM';
 $mail->Body    = "
@@ -75,15 +75,15 @@ $mail->Body    = "
 											<div class='title' style='font-family:Helvetica, Arial, sans-serif;font-size:18px;font-weight:600;color:#374550'>Crédito X - Solicitud de información</div>
 											<br>
 											<div class='body-text' style='font-family:Helvetica, Arial, sans-serif;font-size:14px;line-height:20px;text-align:left;color:#333333'>
-													<p>Dato 1: <strong>$nombreCompleto</strong></p>
-													<p>Dato 2: <strong>$correoelectronico</strong></p>
-													<p>Dato 3: <strong>$telefonoDeContacto</strong></p>
-													<p>Dato 4: <strong>$montoaSolicitar</strong></p>
-													<p>Dato 5: <strong>$finalidad</strong></p>
-													<p>Dato 6: <strong>$numerodeSocio</strong></p>
-													<p>Dato 7: <strong>$estado</strong></p>
-													<p>Dato 8: <strong>$municipio</strong></p>
-													<p>Dato 9: <strong>$avisoDePrivacidad</strong></p>
+													<p>Dato 1: <strong>."$nombreCompleto".</strong></p>
+													<p>Dato 2: <strong>."$correoelectronico".</strong></p>
+													<p>Dato 3: <strong>."$telefonoDeContacto".</strong></p>
+													<p>Dato 4: <strong>."$montoaSolicitar".</strong></p>
+													<p>Dato 5: <strong>."$finalidad".</strong></p>
+													<p>Dato 6: <strong>."$numerodeSocio".</strong></p>
+													<p>Dato 7: <strong>."$estado".</strong></p>
+													<p>Dato 8: <strong>."$municipio".</strong></p>
+													<p>Dato 9: <strong>."$avisoDePrivacidad".</strong></p>
 											</div>
 										</td>
 									</tr>
@@ -118,27 +118,24 @@ $options         = array(
 $context         = stream_context_create($options);
 $verify          = file_get_contents($url, false, $context);
 $captcha_success = json_decode($verify);
+echo "alert($context);";
+echo "alert($verify);";
+echo "alert($captcha_success);";
+
 
 if ($captcha_success->success == false) {
-    echo "
-    	<script>
-    		alert('Robot detected!!!...');
-    	</script>
-    ";
-} else if (
-	$captcha_success->success == true) {
+echo "<script language='javascript' type='text/javascript'>";
+echo "alert('Your message has been send error');";
+echo "</script>";
+} else if ($captcha_success->success == true) {
     if (!$mail->send()) {
-	    echo "
-	    	<script>
-	    		alert('Mensaje enviado!');
-	    	</script>
-	    ";
+echo "<script language='javascript' type='text/javascript'>";
+echo "alert('Your message has been send enviado');";
+echo "</script>";
     } else {
-	    echo "
-	    	<script>
-	    		alert('Se ha encontrado un error, favor de validad los campos...');
-	    	</script>
-	    ";
+echo "<script language='javascript' type='text/javascript'>";
+echo "alert('Your message has been send error 2');";
+echo "</script>";
     }
 }
 
