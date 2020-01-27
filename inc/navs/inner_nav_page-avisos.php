@@ -7,22 +7,22 @@
 						</a>
 					</div>
 					<div class="col-12 col-lg p-0 pl-md-0 pl-lg-3 mb-2 mb-lg-0 white-circle-n-line">
-						<a href="aviso-de-privacidad.php" class="btn bg-tertiary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
+						<a href="aviso-de-privacidad" class="btn bg-tertiary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
 							Aviso de <br>privacidad
 						</a>
 					</div>
 					<div class="col-12 col-lg p-0 mb-2 mb-lg-0 ">
-						<a href="aviso-de-privacidad-credito-y-cobranza.php" class="btn bg-primary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
-							Aviso de privacidad <br>credito y cobranza
+						<a href="aviso-de-privacidad-credito-y-cobranza" class="btn bg-primary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
+							Aviso de privacidad <br>crédito y cobranza
 						</a>
 					</div>
 					<div class="col-12 col-lg p-0 mb-2 mb-lg-0 ">
-						<a href="aviso-de-privacidad-postulantes.php" class="btn bg-tertiary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
+						<a href="aviso-de-privacidad-postulantes" class="btn bg-tertiary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
 							Aviso de privacidad <br>para postulantes
 						</a>
 					</div>
 					<div class="dropdown col-12 col-lg p-0 mb-2 mb-lg-0 ">
-						<a href="aviso-de-privacidad-en-redes-sociales.php" class="btn bg-primary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
+						<a href="aviso-de-privacidad-en-redes-sociales" class="btn bg-primary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
 							Aviso de privacidad <br>para redes sociales
 						</a>
 					</div>
@@ -41,10 +41,10 @@
 						</div>
 						<div class="collapse w-100" id="innerMenuMobile">
 							<ul class="list-group w-100 pt-3">
-								<li class="list-group-item"><a href="aviso-de-privacidad.php">Aviso de privacidad</a></li>
-								<li class="list-group-item"><a href="aviso-de-privacidad-credito-y-cobranza.php">Aviso de privacidad creditos y cobranza</a></li>
-								<li class="list-group-item"><a href="aviso-de-privacidad-postulantes.php">Aviso de privacidad para postulantes</a></li>
-								<li class="list-group-item"><a href="aviso-de-privacidad-en-redes-sociales.php">Aviso de privacidad para redes sociales</a></li>
+								<li class="list-group-item"><a href="aviso-de-privacidad">Aviso de privacidad</a></li>
+								<li class="list-group-item"><a href="aviso-de-privacidad-credito-y-cobranza">Aviso de privacidad crédito y cobranza</a></li>
+								<li class="list-group-item"><a href="aviso-de-privacidad-postulantes">Aviso de privacidad para postulantes</a></li>
+								<li class="list-group-item"><a href="aviso-de-privacidad-en-redes-sociales">Aviso de privacidad para redes sociales</a></li>
 							</ul>
 						</div> <!-- ./ Menu Mobile Collapsable -->
 					</div>

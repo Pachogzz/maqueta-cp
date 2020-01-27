@@ -4,7 +4,7 @@
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 br-30">Tarjetas de Débito</h1>
+						<h1 id="sectionTitle" class="display-4 br-30">Tarjetas de Débito</h1>
 					</div>
 				</div>
 			</div>
@@ -29,15 +29,15 @@
 							<!-- <h2 class="d-inline-block border-primary text-primary font-weight-bolder bw-3 py-2 px-3 mb-3">DESCRIPCIÓN</h2> -->
 							<img width="" src="" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Solicítala, actívala y empieza a disfrutar de sus beneficios</p>
-							<p class="lead">Consulta los <span class="font-weight-bold text-primary">costos y comisiones de nuestro producto <a href="consulta-los-costos-y-comisiones-de-nuestros-productos.php">aquí </a></span></p>
-							<p class="lead"><span class="font-weight-bold text-primary">Consulta el contrato universal <a href="assets/img/secciones/ahorro/FR-1008-Contrato-Universal.pdf" target="blank">aquí</a></span></p>
+							<p class="lead"><span class="font-weight-bold text-primary">Consulta los costos y comisiones de nuestro producto <a href="consulta-los-costos-y-comisiones-de-nuestros-productos">aquí </a></span></p>
+							<p class="lead"><span class="font-weight-bold text-primary">Consulta el contrato universal <a href="assets/pdfs/FR-1008-Contrato-Universal.pdf" target="blank">aquí</a></span></p>
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 						<!-- Nota Legal -->
 						<div class="bg-grey0 p-5">
-							<p class="display-12">Vigencia del <strong>02 al 08 de Enero del 2020</strong></p>
+							<p class="display-12">Vigencia del <strong>23 al 29 de Enero del 2020</strong></p>
 							<p class="display-12">Fecha de cálculo Enero 2020</p>
-							<p class="display-12"><strong>* GAT NOMINAL</strong> de -2.65% y <strong>GAT real</strong> de -5.89% antes de impuestos. La GAT real es el rendimiento que obtendrás después de descontar la inflación estimada. Para fines informativos y de comparación exclusivamente; tasa fija de rendimiento de $1,500 en adelante 1.35% anual antes de impuestos.</p>
+							<p class="display-12"><strong>* GAT NOMINAL de -2.65% y GAT real de -5.89% antes de impuestos</strong>. La GAT real es el rendimiento que obtendrás después de descontar la inflación estimada. Para fines informativos y de comparación exclusivamente; tasa fija de rendimiento de $1,500 en adelante 1.35% anual antes de impuestos.</p>
 						</div>
 						<!-- Nota Legal -->
 					</div>
@@ -56,7 +56,7 @@
 								<div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionCICPM">
 									<div class="card-body bg-grey0 p-4">
 										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Puedes realizar compras en terminales puntos de venta en México y en el extranjero <strong>(previa notificación en la sucursal)</strong>.</li>
+											<li>Puedes realizar compras en terminales punto de venta en México, así como en el extranjero con previa notificación <strong>llamando al 800 277 7273</strong>.</li>
 											<li>Puedes retirar efectivo en los supermercados participantes.</li>
 											<li>Puedes realizar depósitos en efectivo de forma ilimitada a la cuenta relacionada a la tarjeta (<strong>Servicuenta</strong> para <strong>Tarjeta de Débito CPM</strong> y <strong>Cuentamiga</strong> para <strong>Tarjeta de Débito JR</strong>) en cualquiera de nuestras sucursales.</li>
 											<li>Puedes realizar retiros diarios acumulados en cajeros automáticos de Caja Popular Mexicana y RED hasta por $8,000.00.</li>
@@ -79,8 +79,9 @@
 										<h4>Tarjeta de Débito CPM</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<p><strong>Requisitos</strong></p>
-											<li><a href="ser-socio.php">Ser socio </a>de Caja Popular Mexicana.</li>
+											<li><a href="ser-socio">Ser socio </a>de Caja Popular Mexicana.</li>
 											<li>Cubrir la cuota anual de $60.00 pesos más IVA al momento de la contratación.</li>
+											<li>Mantener un saldo promedio mínimo mensual de $150.00 en la Servicuenta a la que está vinculada la tarjeta.</li>
 										</ul>
 										<h4>Tarjeta de Débito JR.</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
@@ -89,13 +90,15 @@
 											<li>Tener 12 y hasta 17 años, 6 meses de edad cumplidos.</li>
 											<li>La solicitud de la tarjeta se realiza mediante el socio padre o tutor</li>
 											<li>El ahorrador menor de edad deberá contar con la autorización para realizar retiros de Cuentamiga por parte del socio padre o tutor.</li>
+											<li>Mantener un saldo promedio mínimo mensual de $20.00 en la Servicuenta a la que está vinculada la tarjeta.</li>
 										</ul>
 										<h4>Generalidades</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li>Por cuestiones de seguridad, al adquirir tu tarjeta, cambia el NIP (Número de Identificación Personal), en los cajeros automáticos de Caja Popular Mexicana o en los Cajeros RED que lo permitan.</li>
-											<li>Activación inmediata de la tarjeta.</li>
-											<li>Reportar si utilizarás tu tarjeta en el extranjero, para evitar el bloqueo de la misma por seguridad.</li>
+											<!-- <li>Activación inmediata de la tarjeta.</li> -->
+											<li>Reportar si utilizarás tu tarjeta en el extranjero al <strong>800 277 7273</strong> para evitar bloqueo de la misma por seguridad.</li>
 											<li>Para mayor seguridad en tus transacciones, acude a tu sucursal a remplazar tu Tarjeta de Débito de banda por la nueva tarjeta con chip.</li>
+											<li>Para hacer uso de tu tarjeta, actívala inmediatamente llamando al <strong>800 277 7273</strong>.</li>
 										</ul>
 									</div>
 								</div>
@@ -113,7 +116,7 @@
 										<h4>Costos y comisiones</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li>Sin comisiones</li>
-											<li>Producto en moneda nacional</li>
+											<!-- <li>Producto en moneda nacional</li> -->
 											<li>La Tarjeta de Débito JR no tiene costo.</li>
 											<li>Puedes realizar disposiciones en efectivo en los cajeros automáticos y ventanillas de Caja Popular Mexicana sin cobro de comisión.</li>
 											<li>Puedes consultar tu saldo en cajeros automáticos de Caja Popular Mexicana sin costo.</li>

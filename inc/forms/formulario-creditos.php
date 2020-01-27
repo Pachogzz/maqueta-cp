@@ -1,4 +1,10 @@
-<form id="productFormCreditos" action="inc/forms/entregar-mailercaptcha.php" method="POST">
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<script>
+	function onSubmit(token) {
+		document.getElementById("creditosForm").submit();
+	}
+</script>
+<form id='creditosForm' action="inc/forms/formulario.php" method="POST">
 	<div class="form-row">
 		<div class="form-group col-12">
 			<label for="nombreCompleto">Nombre completo</label>
@@ -53,5 +59,5 @@
 			</label>
 		</div>
 	</div>
-	<button type="submit" class="btn btn-primary">Enviar información</button>
+	<button class="btn btn-primary g-recaptcha" data-sitekey="6Le3Y9AUAAAAAHrmVXCGdZWx1TtVzJo43FofIho9" data-callback='onSubmit'>Enviar información</button>
 </form>

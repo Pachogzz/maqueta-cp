@@ -4,7 +4,7 @@
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 br-30">Somos Caja Popular Mexicana</h1>
+						<h1 id="sectionTitle" class="display-4 br-30">Somos Caja Popular Mexicana</h1>
 					</div>
 				</div>
 			</div>
@@ -27,54 +27,54 @@
 
 				<div class="row mb-5">
 					<div class="col-12">
-						<ul class="nav nav-pills nav-justified icon-tabs" id="pills-tab" role="tablist">
-							<li class="nav-item">
-								<a class="nav-link h4 p-3 p-md-3 active" id="pills-mision-tab" data-toggle="pill" href="#pills-mision" role="tab" aria-controls="pills-mision" aria-selected="true">
+						<ul class="nav nav-pills justify-content-center icon-tabs responsive-tabs">
+							<li class="nav-item active">
+								<a class="nav-link text-center h4 p-3" href="#pills-mision">
 									<i class="fas fa-bullseye fa-3x mb-3"></i><br>Misión
 								</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link h4 p-3 p-md-3" id="pills-vision-tab" data-toggle="pill" href="#pills-vision" role="tab" aria-controls="pills-vision" aria-selected="false">
+								<a class="nav-link text-center h4 p-3" href="#pills-vision">
 									<i class="far fa-eye fa-3x mb-3"></i><br>Visión
 								</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link h4 p-3 p-md-3" id="pills-propvalor-tab" data-toggle="pill" href="#pills-propvalor" role="tab" aria-controls="pills-propvalor" aria-selected="false">
-									<i class="far fa-handshake fa-3x mb-3"></i><br>Propuesta de valor
+								<a class="nav-link text-center h4 p-3" href="#pills-propvalor">
+									<i class="far fa-handshake fa-3x mb-3"></i><br>Propuesta <br>de valor
 								</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link h4 p-3 p-md-3" id="pills-valores-tab" data-toggle="pill" href="#pills-valores" role="tab" aria-controls="pills-valores" aria-selected="false">
+								<a class="nav-link text-center h4 p-3" href="#pills-valores">
 									<i class="fas fa-hand-holding fa-3x mb-3"></i><br>Valores
 								</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link h4 p-3 p-md-3" id="pills-principios-tab" data-toggle="pill" href="#pills-principios" role="tab" aria-controls="pills-principios" aria-selected="false">
+								<a class="nav-link text-center h4 p-3" href="#pills-principios">
 									<i class="fas fa-cogs fa-3x mb-3"></i><br>Principios
 								</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link h4 p-3 p-md-3" id="pills-organismos-tab" data-toggle="pill" href="#pills-organismos" role="tab" aria-controls="pills-organismos" aria-selected="false">
-									<i class="fas fa-project-diagram fa-3x mb-3"></i><br>Organismos de Integración
+								<a class="nav-link text-center h4 p-3" href="#pills-organismos">
+									<i class="fas fa-project-diagram fa-3x mb-3"></i><br>Organismos <br>de Integración
 								</a>
 							</li>
 						</ul>
 					
-						<div class="tab-content icon-tabs" id="pills-tabContent">
-							<div class="tab-pane fade bw-5 border-primary rounded bg-grey0 p-4 show active" id="pills-mision" role="tabpanel" aria-labelledby="pills-mision-tab">
-								<p class="p-5 bg-white bw-1 border-grey1 mb-0 display-18 text-center">Contribuir al mejoramiento de la calidad de vida y satisfacción de nuestros socios, en apego a los principios y valores cooperativos.</p>
+						<div class="tab-content">
+							<div class="tab-pane bw-5 border-primary rounded p-4 bg-grey0 active" id="pills-mision">
+								<p class="p-3 p-lg-5 bg-white bw-1 border-grey1 mb-0 display-18 text-center">Contribuir al mejoramiento de la calidad de vida y satisfacción de nuestros socios, en apego a los principios y valores cooperativos.</p>
 							</div>
 
-							<div class="tab-pane fade bw-5 border-primary rounded  bg-grey0 p-4" id="pills-vision" role="tabpanel" aria-labelledby="pills-vision-tab">
-								<p class="p-5 bg-white bw-1 border-grey1 mb-0 display-18 text-center">Consolidar nuestro liderazgo como cooperativa de ahorro y préstamo mediante <strong>soluciones financieras competitivas, personalizadas, accesibles y oportunas</strong>, que dinamicen la economía de nuestros socios y las comunidades en las que operamos.</p>
+							<div class="tab-pane bw-5 border-primary rounded p-4 bg-grey0" id="pills-vision">
+								<p class="p-3 p-lg-5 bg-white bw-1 border-grey1 mb-0 display-18 text-center">Consolidar nuestro liderazgo como cooperativa de ahorro y préstamo mediante <strong>soluciones financieras competitivas, personalizadas, accesibles y oportunas</strong>, que dinamicen la economía de nuestros socios y las comunidades en las que operamos.</p>
 							</div>
 							
-							<div class="tab-pane fade bw-5 border-primary rounded  bg-grey0 p-4" id="pills-propvalor" role="tabpanel" aria-labelledby="pills-propvalor-tab">
-								<p class="p-5 bg-white bw-1 border-grey1 mb-0 display-18 text-center">Soluciones financieras <strong>competitivas</strong>, <strong>personalizadas</strong>, <strong>accesibles</strong> y <strong>oportunas</strong>.</p>
+							<div class="tab-pane bw-5 border-primary rounded p-4 bg-grey0" id="pills-propvalor">
+								<p class="p-3 p-lg-5 bg-white bw-1 border-grey1 mb-0 display-18 text-center">Soluciones financieras <strong>competitivas</strong>, <strong>personalizadas</strong>, <strong>accesibles</strong> y <strong>oportunas</strong>.</p>
 							</div>
 							
-							<div class="tab-pane fade bw-5 border-grey0 rounded p-4" id="pills-valores" role="tabpanel" aria-labelledby="pills-valores-tab">
-								<div class="row p-5 bg-white mx-0 mb-0">
+							<div class="tab-pane bw-5 border-primary rounded p-4 bg-grey0" id="pills-valores">
+								<div class="row p-3 p-lg-5 bg-white mx-0 mb-0">
 									<div class="col-12 col-md-6">
 										<h5 class="text-primary arrow-txt"><strong>Ayuda mutua</strong></h5>
 										<p class="display-18"><i>Demostrar con los hechos el compromiso por servir</i> a los demás, asumiendo la actitud de <i>participar cooperativamente</i> y uniendo esfuerzos para lograr resultados que serían inalcanzables en lo individual.</p>
@@ -95,8 +95,8 @@
 								</div>
 							</div>
 							
-							<div class="tab-pane fade bw-5 border-grey0 rounded p-4" id="pills-principios" role="tabpanel" aria-labelledby="pills-principios-tab">
-								<div class="row p-5 bg-white mx-0 mb-0">
+							<div class="tab-pane bw-5 border-primary rounded p-4 bg-grey0" id="pills-principios">
+								<div class="row p-3 p-lg-5 bg-white mx-0 mb-0">
 									<div class="col-12 col-md-6">
 										<h5 class="text-primary arrow-txt"><strong>1. Adhesión voluntaria y abierta</strong></h5>
 										<p>Las cooperativas son organizaciones voluntarias y abiertas para quienes estén dispuestos a utilizar sus servicios y aceptar las responsabilidades que conlleva ser socio, sin importar su  género, raza, clase social, posición política o religiosa.</p>
@@ -123,59 +123,58 @@
 								</div>
 							</div>
 							
-							<div class="tab-pane fade bw-5 border-grey0 rounded p-4" id="pills-organismos" role="tabpanel" aria-labelledby="pills-organismos-tab">
-								<div class="p-5 bg-white mx-0 mb-0">
+							<div class="tab-pane bw-5 border-primary rounded p-4 bg-grey0" id="pills-organismos">
+								<div class="p-3 p-lg-5 bg-white mx-0 mb-0">
 									<div class="row border-bottom mb-3">
-										<div class="col-12 col-md-2">
-											<img width=80 src="assets/img/secciones/logos-organismos/1.png">
-											<br>
+										<div class="col-12 col-md-2 text-center text-lg-left">
+											<img src="assets/img/secciones/logos-organismos/1.png" class="d-block mx-auto mx-lg-0">
 											<a href="https://www.ica.coop/es" class="btn btn-sm btn-primary font-weight-semibold mb-3" target="_blank">Saber más</a>
 										</div>
-										<div class="col-12 col-md-10">
+										<div class="col-12 col-md-10 text-center text-lg-left">
 											<h5><strong>Alianza Cooperativa Internacional [ACI]:</strong></h5>
 											<p>Organización no gubernamental independiente, fundada en 1895, su labor principal es unir, representar y servir a organizaciones cooperativas en todo el mundo.</p>
 										</div>
 									</div>
 
 									<div class="row border-bottom mb-3">
-										<div class="col-12 col-md-2">
-											<img src="assets/img/secciones/logos-organismos/1WOCCU.png" class="img-fluid mb-3">
+										<div class="col-12 col-md-2 text-center text-lg-left">
+											<img width="130" src="assets/img/secciones/logos-organismos/1WOCCU.png" class="d-block mx-auto mx-lg-0 mb-3">
 											<a href="http://www.woccu.org" class="btn btn-sm btn-primary font-weight-semibold mb-3" target="_blank">Saber más</a>
 										</div>
-										<div class="col-12 col-md-10">
+										<div class="col-12 col-md-10 text-center text-lg-left">
 											<h5><strong>Consejo Mundial de Cooperativas de Ahorro y Crédito [WOCCU]:</strong></h5>
 											<p>Organización que tiene como visión ampliar la inclusión financiera en todo el mundo, a través de la comunidad global de las cooperativas de ahorro y crédito, ayudando a sus miembros y posibles miembros en su orden, expansión, mejora e integración.</p>
 										</div>
 									</div>
 
 									<div class="row border-bottom mb-3">
-										<div class="col-12 col-md-2">
-											<img src="assets/img/secciones/logos-organismos/3.png" class="img-fluid mb-3">
+										<div class="col-12 col-md-2 text-center text-lg-left">
+											<img src="assets/img/secciones/logos-organismos/3.png" class="d-block mx-auto mx-lg-0">
 											<a href="https://www.iru.de" class="btn btn-sm btn-primary font-weight-semibold mb-3" target="_blank">Saber más</a>
 										</div>
-										<div class="col-12 col-md-10">
+										<div class="col-12 col-md-10 text-center text-lg-left">
 											<h5><strong>La Unión Internacional Raiffeisen [IRU]:</strong></h5>
 											<p>Asociación universal voluntaria mundial de organizaciones cooperativas nacionales, cuya labor se basa en las ideas y en principios de Federico Guillermo Raiffeisen: autoayuda, autorresponsabilidad y autoadministración. Fundada en 1968, hoy en día tiene 52 miembros de 33 países.</p>
 										</div>
 									</div>
 
 									<div class="row border-bottom mb-3">
-										<div class="col-12 col-md-2">
-											<img src="assets/img/secciones/logos-organismos/4.png">
+										<div class="col-12 col-md-2 text-center text-lg-left">
+											<img src="assets/img/secciones/logos-organismos/4.png" class="d-block mx-auto mx-lg-0">
 											<a href="http://www.integradoracentral.coop" class="btn btn-sm btn-primary font-weight-semibold mb-3" target="_blank">Saber más</a>
 										</div>
-										<div class="col-12 col-md-10">
+										<div class="col-12 col-md-10 text-center text-lg-left">
 											<h5><strong>Federación Integradora Central de Cooperativas de Ahorro y Préstamo:</strong></h5>
 											<p>Organismo que integra a sociedades cooperativas de ahorro y préstamo, con la finalidad de representarlas, defenderlas y promoverlas ante organismos nacionales e internacionales, propiciando el fortalecimiento del sector cooperativo.</p>
 										</div>
 									</div>
 
 									<div class="row mb-0">
-										<div class="col-12 col-md-2">
-											<img src="assets/img/secciones/logos-organismos/5.png">
+										<div class="col-12 col-md-2 text-center text-lg-left">
+											<img src="assets/img/secciones/logos-organismos/5.png" class="d-block mx-auto mx-lg-0">
 											<a href="http://www.concamex.coop/es-mx" class="btn btn-sm btn-primary font-weight-semibold mb-3" target="_blank">Saber más</a>
 										</div>
-										<div class="col-12 col-md-10">
+										<div class="col-12 col-md-10 text-center text-lg-left">
 											<h5><strong>Confederación de Cooperativas de Ahorro y Préstamo de México (CONCAMEX):</strong></h5>
 											<p>Órgano de consulta y colaboración del estado para el diseño, difusión y ejecución de las políticas, programas e instrumentos para el fomento, consolidación y desarrollo de las sociedades cooperativas de ahorro y préstamo y sus federaciones.</p>
 										</div>

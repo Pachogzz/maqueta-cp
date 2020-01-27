@@ -4,7 +4,7 @@
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 br-30">MiSeguro PRYBE</h1>
+						<h1 id="sectionTitle" class="display-4 br-30">MiSeguro PRYBE</h1>
 					</div>
 				</div>
 			</div>
@@ -30,7 +30,7 @@
 							<img src="assets/img/secciones/logos-seguros/miseguro.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Porque la tranquilidad de tu familia está en tus manos, seguro de vida de bajo costo el cual asegura sumas de $25,000.00 hasta los $75,000.00 que puedes tramitar en cualquiera de la nuestras sucursales.</a></p>
 							<!-- <p class="lead">Consulta los <span class="font-weight-bold text-primary">costos y comisiones de nuestro producto <a href="consulta-los-costos-y-comisiones-de-nuestros-productos"></span>aquí </a></p>
-							<p class="lead">Por ejemplo, <span class="font-weight-bold text-primary">Consulta el contrato universal <a href="assets/img/secciones/ahorro/FR-1008-Contrato-Universal.pdf" target="blank"></span>aquí</a></p> -->
+							<p class="lead">Por ejemplo, <span class="font-weight-bold text-primary">Consulta el contrato universal <a href="assets/pdfs/FR-1917_Contrato_de_apertura_de_credito_en_cuenta_corriente.pdf" target="blank"></span>aquí</a></p> -->
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 					</div>

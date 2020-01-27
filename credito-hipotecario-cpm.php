@@ -4,7 +4,7 @@
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 br-30">Crédito Hipotecario CPM</h1>
+						<h1 id="sectionTitle" class="display-4 br-30">Crédito Hipotecario CPM</h1>
 					</div>
 				</div>
 			</div>
@@ -27,23 +27,24 @@
 							<img width="" src="assets/img/secciones/logos-credito/credito-hipotecario.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Adquiere tu vivienda nueva o usada, construcción, remodelación o mejoramiento sin propósito comercial, sustitución de hipoteca o cualquier otra finalidad lícita que garantice el préstamo con la vivienda propiedad del socio.</p>
 							<p class="lead my-3 font-weight-bold text-primary">Montos desde $62,745.00 Hasta $18,823,500.00 </p>
+							<p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/FR-1917_Contrato_de_apertura_de_credito_en_cuenta_corriente.pdf">aquí</a></p>
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 						<!-- Nota Legal -->
 						<div class="bg-grey0 p-5 mb-5">
-							<p class="display-12"><strong>Costo Anual Total Promedio a 12.9% sin IVA</strong>. para finalidades de vivienda | <strong>24.3% </strong> <strong>para finalidades de liquidez</strong>. Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 31 de Diciembre de 2019.</strong></p>
-							<p class="display-12">*Cálculo para el <strong>Crédito Personal Plus CPM</strong> por la cantidad de <strong>$15,000.00 a un plazo de 12 meses con un monto mínimo de ahorro de $1,500.00</strong>.</p>
+							<p class="display-12"><strong>Costo Anual Total Promedio a 12.9% sin IVA</strong>. para finalidades de vivienda | <strong>24.3% </strong> <strong>para finalidades de liquidez</strong>. Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 30 de Junio de 2019.</strong></p>
+							<!-- <p class="display-12">*Cálculo para el <strong>Crédito Personal Plus CPM</strong> por la cantidad de <strong>$15,000.00 a un plazo de 12 meses con un monto mínimo de ahorro de $1,500.00</strong>.</p>
 							<ul class="display-12">
 								<li>Sujeto a aprobación de crédito.</li>
 								<li>Préstamo otorgado en moneda nacional.</li>
 								<li>Disponible en todas nuestras sucursales a nivel nacional.</li>
 								<li>La tasa de interés se asignará de acuerdo al historial crediticio interno y externo a Caja Popular Mexicana que presente el socio.</li>
 								<li>En la contratación del producto, el plan de pagos se establece de manera mensual</li>
-							</ul>
+							</ul> -->
 						</div>
 						<div class="bg-grey0 p-5 mb-5">
 							<p class="display-12">[ii]Tasa en base al financiamiento: la tasa se determinará con base a la relación del valor de la vivienda para adquisición o sustitución de hipoteca y el financiamiento; o en su caso al valor de la construcción, remodelación y mejoramiento de la vivienda, dicho porcentaje, se establecerá en función del proyecto de obra.</p>
-							<table class="table" style="font-size: 15px;">
+							<table class="table text-center" style="font-size: 15px;">
 							  <thead>
 							    <tr>
 							      <th scope="col"><center>Financiamiento</center></th>
@@ -78,7 +79,7 @@
 							<div class="card">
 								<div class="card-header" id="headingOne">
 									<h2 class="mb-0">
-										<button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
 											Montos y plazos
 										</button>
 									</h2>
@@ -88,7 +89,8 @@
 									<div class="card-body bg-grey0 p-4">
 										<h4>Monto</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Desde $62,745.00 Hasta $18,823,500.00</li>
+											<li>Montos desde $62,745.00 Hasta $18,823,500.00</li>
+											<li>Crédito otorgado en moneda nacional.</li>
 											<li>Préstamos para la adquisición de vivienda, se financiará hasta el 95% del valor avalúo de la misma o del precio de compra , debiendo considerar el que resulte menor, siempre y cuando no exceda el monto máximo del producto.</li>
 										</ul>
 										<h4>Plazo</h4>
@@ -103,7 +105,7 @@
 								<div class="card-header" id="headingTwo">
 									<h2 class="mb-0">
 										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-											Tasas y GAT
+											Tasas y CAT
 										</button>
 									</h2>
 								</div>
@@ -136,8 +138,8 @@
 									<div class="card-body bg-grey0 p-4">
 										<h4>Requisitos</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Ser <a href="ser-socio.php">socio</a> de Caja Popular Mexicana.</li>
-											<li>Ahorro del 10% del monto a solicitar como garantía, depositado en su Cuenta Mexicana.</li>
+											<li>Ser <a href="ser-socio">socio</a> de Caja Popular Mexicana.</li>
+											<li>Ahorro del 10% del monto a solicitar como garantía, depositando en Cuenta Mexicana cuando la finalidad sea de liquidez.</li>
 										</ul>
 										<h4>Condiciones</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
@@ -172,7 +174,7 @@
 										<h4>Gastos de contratación</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li>Cuando exista una garantía prendaria o hipotecaria así como de seguro que lo cubra, los costos dependen del valor de la garantía.</li>
-											<li>Consulta los costos y comisiones de nuestros productos dando <a href="consulta-los-costos-y-comisiones-de-nuestros-productos.php">clic aquí</a>.</li>
+											<li>Consulta los costos y comisiones de nuestros productos dando <a href="consulta-los-costos-y-comisiones-de-nuestros-productos">clic aquí</a>.</li>
 										</ul>
 										<h4>Recomendaciones</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
@@ -188,7 +190,7 @@
 						<div class="bg-grey0 p-5 my-5">
 							<h3 class="font-weight-bolder">¿Dudas sobre nuestro Crédito Hipotecario CPM?</h3>
 							<hr>
-							<?php include('inc/forms/formulario-creditos.php') ?> <!-- ./ Formulario gral de sección -->
+							<?php include('inc/forms/formulario_credito-hipotecario.php') ?> <!-- ./ Formulario gral de sección -->
 						</div>
 						<!-- Formulario Dudas -->
 					</div>

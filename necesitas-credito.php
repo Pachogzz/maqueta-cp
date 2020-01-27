@@ -4,7 +4,7 @@
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 br-30">¿Necesitas crédito?</h1>
+						<h1 id="sectionTitle" class="display-4 br-30">¿Necesitas crédito?</h1>
 					</div>
 				</div>
 			</div>
@@ -27,7 +27,7 @@
 			<div class="container">
 				<div class="row row-eq-height">
 					<div class="landing-grid-box col-12 col-lg-4">
-						<a href="credito-personal-plus-cpm.php" class="h-100">
+						<a href="credito-personal-plus-cpm" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
 							<i class="far fa-money-bill-alt fa-4x bg-primary text-white rounded-circle"></i>
 							<!-- <img src="assets/img/icons/icon-bills.png" class="bg-primary p-3 rounded-circle" width="120" height="120" alt=""> -->
@@ -37,17 +37,17 @@
 						</a>
 					</div> <!-- ./ Personal Plus -->
 					<div class="landing-grid-box col-12 col-lg-4">
-						<a href="credito-credinamico-cpm.php" class="h-100">
+						<a href="credito-credinamico-cpm" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
 							<i class="fas fa-sync-alt fa-4x bg-primary text-white rounded-circle"></i>
 							<!-- <img src="assets/img/icons/icon-clock.png" class="bg-primary p-3 rounded-circle" width="120" height="120" alt=""> -->
-							<h3>Credinámico</h3>
+							<h3>Credinámico CPM</h3>
 							<p>Obtén un crédito revolvente que cubra cualquiera de tus necesidades.</p>
 						</div>
 						</a>
 					</div> <!-- ./ Credinamico -->
 					<div class="landing-grid-box col-12 col-lg-4">
-						<a href="credito-inmediato-cpm.php" class="h-100">
+						<a href="credito-inmediato-cpm" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
 							<i class="far fa-clock fa-4x bg-primary text-white rounded-circle"></i>
 							<!-- <img src="assets/img/icons/icon-clock.png" class="bg-primary p-3 rounded-circle" width="120" height="120" alt=""> -->
@@ -59,7 +59,7 @@
 				</div>
 				<div class="row row-eq-height">
 					<div class="landing-grid-box col-12 col-lg-4">
-						<a href="credito-productivo-cpm.php" class="h-100">
+						<a href="credito-productivo-cpm" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
 							<i class="fas fa-file-invoice-dollar fa-4x bg-primary text-white rounded-circle"></i>
 							<!-- <img src="assets/img/icons/icon-group-people.png" class="bg-primary p-3 rounded-circle" width="120" height="120" alt=""> -->
@@ -69,7 +69,7 @@
 						</a>
 					</div> <!-- ./ Productivo -->
 					<div class="landing-grid-box col-12 col-lg-4">
-						<a href="credito-automotriz-cpm.php" class="h-100">
+						<a href="credito-automotriz-cpm" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
 							<i class="fas fa-car-side fa-4x bg-primary text-white rounded-circle"></i>
 							<!-- <img src="assets/img/icons/icon-car.png" class="bg-primary p-3 rounded-circle" width="120" height="120" alt=""> -->
@@ -79,7 +79,7 @@
 						</a>
 					</div> <!-- ./ Automotríz -->
 					<div class="landing-grid-box col-12 col-lg-4 mb-md-5 mb-lg-auto">
-						<a href="credito-hipotecario-cpm.php" class="h-100">
+						<a href="credito-hipotecario-cpm" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
 							<i class="fas fa-home fa-4x bg-primary text-white rounded-circle"></i>
 							<!-- <img src="assets/img/icons/icon-car.png" class="bg-primary p-3 rounded-circle" width="120" height="120" alt=""> -->

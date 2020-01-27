@@ -7,22 +7,22 @@
 						</a>
 					</div>
 					<div class="col-12 col-lg p-0 pl-md-0 pl-lg-3 mb-2 mb-lg-0 white-circle-n-line">
-						<a href="conocenos.php" class="btn bg-tertiary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
+						<a href="conocenos" class="btn bg-tertiary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
 							Filosofía
 						</a>
 					</div>
 					<div class="col-12 col-lg p-0 mb-2 mb-lg-0 ">
-						<a href="linea-de-tiempo.php" class="btn bg-primary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
+						<a href="linea-de-tiempo" class="btn bg-primary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
 							Línea de tiempo
 						</a>
 					</div>
 					<div class="col-12 col-lg p-0 mb-2 mb-lg-0 ">
-						<a href="solidez-empresarial.php" class="btn bg-quaternary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
+						<a href="solidez-empresarial" class="btn bg-quaternary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
 							Solidez Empresarial
 						</a>
 					</div>
 					<div class="col-12 col-lg p-0 mb-2 mb-lg-0 ">
-						<a href="ser-socio.php" class="btn bg-quinary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
+						<a href="ser-socio" class="btn bg-quinary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
 							Quiero ser socio
 						</a>
 					</div>
@@ -41,10 +41,10 @@
 						</div>
 						<div class="collapse w-100" id="innerMenuMobile">
 							<ul class="list-group w-100 pt-3">
-								<li class="list-group-item"><a href="conocenos.php">Filosofía</a></li>
-								<li class="list-group-item"><a href="linea-de-tiempo.php">Línea de tiempo</a></li>
-								<li class="list-group-item"><a href="solidez-empresarial.php">Solidez Empresarial</a></li>
-								<li class="list-group-item"><a href="ser-socio.php">Quiero ser socio</a></li>
+								<li class="list-group-item"><a href="conocenos">Filosofía</a></li>
+								<li class="list-group-item"><a href="linea-de-tiempo">Línea de tiempo</a></li>
+								<li class="list-group-item"><a href="solidez-empresarial">Solidez Empresarial</a></li>
+								<li class="list-group-item"><a href="ser-socio">Quiero ser socio</a></li>
 							</ul>
 						</div> <!-- ./ Menu Mobile Collapsable -->
 					</div>

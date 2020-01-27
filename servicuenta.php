@@ -1,10 +1,10 @@
-<?php include('inc/header.php'); ?>
++<?php include('inc/header.php'); ?>
 
 		<section class="after-flange header-title-inner bg-gradient-green">
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 br-30">Servicuenta</h1>
+						<h1 id="sectionTitle" class="display-4 br-30">Servicuenta</h1>
 					</div>
 				</div>
 			</div>
@@ -29,8 +29,8 @@
 							<!-- <h2 class="d-inline-block border-primary text-primary font-weight-bolder bw-3 py-2 px-3 mb-3">DESCRIPCIÓN</h2> -->
 							<img width="" src="assets/img/secciones/logos-ahorro/servicuenta.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Es un depósito de dinero a la vista que te permite manejar cómodamente tu dinero realizando disposiciones inmediatas; puedes realizar depósitos y retiros sin restricción alguna, sin cobro de comisión por saldo promedio, retiros o depósitos.</p>
-							<p class="lead">Consulta los <span class="font-weight-bold text-primary">costos y comisiones de nuestro producto <a href="consulta-los-costos-y-comisiones-de-nuestros-productos.php"><strong>aquí</strong></a></span></p>
-							<p class="lead"><span class="font-weight-bold text-primary">Consulta el contrato universal <a href="assets/img/secciones/ahorro/FR-1008-Contrato-Universal.pdf" target="blank">aquí</a></span></p>
+							<p class="lead"><span class="font-weight-bold text-primary">Consulta los costos y comisiones de nuestro producto <a href="consulta-los-costos-y-comisiones-de-nuestros-productos">aquí.</a></span></p>
+							<p class="lead"><span class="font-weight-bold text-primary">Consulta el contrato universal <a href="assets/pdfs/FR-1008-Contrato-Universal.pdf" target="blank">aquí</a></span></p>
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 					</div>
@@ -69,7 +69,7 @@
 									<div class="card-body bg-grey0 p-4">
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li><strong>Requisitos</strong>
-												<p><a href="ser-socio.php">Ser socio </a>de Caja Popular Mexicana.</p>
+												<p><a href="ser-socio">Ser socio </a>de Caja Popular Mexicana.</p>
 											</li>
 											<li><strong>Documentos generales</strong>
 												<p>Identificación oficial y de la sociedad</p>
@@ -92,7 +92,8 @@
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li>Este producto no aplica comisiones, excepto las establecidas por el uso de la Tarjeta de Débito*</li>
 											<li>Podrás solicitar la Tarjeta de Débito y asociarla a tu Servicuenta.</li>
-											<p>*Requiere contratación</p>
+											<li><span class="font-weight-bold text-primary"><a href="consulta-los-costos-y-comisiones-de-nuestros-productos">Consulta los costos y comisiones de nuestro producto aquí.</a></span></li>
+											<p><small>*Requiere contratación</small></p>
 										</ul>
 										<h4>Recomendaciones</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
@@ -109,7 +110,7 @@
 							<div class="col-12 mt-5">
 								<!-- Nota Legal -->
 								<div class="bg-grey0 p-5">
-									<p class="display-12"><strong>Vigencia del 16 al 22 de Enero del 2020</strong></p>
+									<p class="display-12"><strong>Vigencia del 23 al 29 de Enero del 2020</strong></p>
 									<p class="display-12">Fecha de cálculo Enero 2020</p>
 									<p class="display-12"><strong>* GAT NOMINAL</strong> antes de impuestos. Para fines informativos y de comparación.</p>
 									<p class="display-12"><strong>**GAT REAL</strong> antes de impuestos. Para fines informativos y de comparación. La GAT REAL es el rendimiento que obtendría después de descontar la inflación estimada Para fines informativos y de comparación exclusivamente.</p>
@@ -123,7 +124,7 @@
 					<div class="col-12">
 						<!-- Nota Legal Tabla -->
 						<div class="table-responsive mt-5">
-							<table class="table">
+							<table class="table text-center">
 								<thead>
 									<tr class="bg-primary">
 										<th scope="col"><span class="text-white">Rango</span></th>
@@ -135,51 +136,51 @@
 								<tbody>
 									<tr>
 										<td scope="row">$ 1500.00 A $ 10,000.00</td>
-										<td>2.69%</td>
-										<td>2.72%</td>
-										<td>-0.70%</td>
+										<td><strong>2.69%</strong></td>
+										<td><strong>2.72%</strong></td>
+										<td><strong>-0.70%</strong></td>
 									</tr>
 									<tr>
 										<td scope="row">$ 10,001.01 A $ 25,000</td>
-										<td>2.90%</td>
-										<td>2.94%</td>
-										<td>-0.49%</td>
+										<td><strong>2.90%</strong></td>
+										<td><strong>2.94%</strong></td>
+										<td><strong>-0.49%</strong></td>
 									</tr>
 									<tr>
 										<td scope="row">$ 25,001.00 A $ 50,000</td>
-										<td>3.11%</td>
-										<td>3.15%</td>
-										<td>-0.29%</td>
+										<td><strong>3.11%</strong></td>
+										<td><strong>3.15%</strong></td>
+										<td><strong>-0.29%</strong></td>
 									</tr>
 									<tr>
 										<td scope="row">$ 50,001.00 A $ 100,000.00</td>
-										<td>3.31%</td>
-										<td>3.36%</td>
-										<td>-0.09%</td>
+										<td><strong>3.31%</strong></td>
+										<td><strong>3.36%</strong></td>
+										<td><strong>-0.09%</strong></td>
 									</tr>
 									<tr>
 										<td scope="row">$ 100,001.00 A $ 250,000.00</td>
-										<td>3.52%</td>
-										<td>3.58%</td>
-										<td>0.12%</td>
+										<td><strong>3.52%</strong></td>
+										<td><strong>3.58%</strong></td>
+										<td><strong>0.12%</strong></td>
 									</tr>
 									<tr>
 										<td scope="row">$ 250,001.00 A $ 500,000.00</td>
-										<td>3.73%</td>
-										<td>3.79%</td>
-										<td>0.33%</td>
+										<td><strong>3.73%</strong></td>
+										<td><strong>3.79%</strong></td>
+										<td><strong>0.33%</strong></td>
 									</tr>
 									<tr>
 										<td scope="row">$ 500,001.00 A 1,000,000.00</td>
-										<td>3.94%</td>
-										<td>4.01%</td>
-										<td>0.54%</td>
+										<td><strong>3.94%</strong></td>
+										<td><strong>4.01%</strong></td>
+										<td><strong>0.54%</strong></td>
 									</tr>
 									<tr>
 										<td scope="row">$ 1,000,001.00 En adelante</td>
-										<td>4.15%</td>
-										<td>4.23%</td>
-										<td>0.75%</td>
+										<td><strong>4.15%</strong></td>
+										<td><strong>4.23%</strong></td>
+										<td><strong>0.75%</strong></td>
 									</tr>
 								</tbody>
 							</table>

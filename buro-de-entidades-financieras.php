@@ -4,7 +4,7 @@
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 class="display-4 br-30">Buró de Entidades Financieras</h1>
+						<h1 id="sectionTitle" class="display-4 br-30">Buró de Entidades Financieras</h1>
 					</div>
 				</div>
 			</div>
@@ -29,7 +29,7 @@
 					    <p>Esta información te será útil para elegir un producto financiero y también para conocer y usar mejor los que ya tienes.</p>
 					    <p>Este Buró de Entidades Financieras, es una herramienta que puede contribuir al crecimiento económico del país, al promover la competencia entre las instituciones financieras; que impulsará la transparencia al revelar información a los usuarios sobre el desempeño de éstas y los productos que ofrecen y que va a facilitar un manejo responsable de los productos y servicios financieros al conocer a detalle sus características.</p>
 					    <p>Lo anterior, podrá derivar en un mayor bienestar social, porque al conjuntar en un solo espacio tan diversa información del sistema financiero, el usuario tendrá más elementos para optimizar su presupuesto, para mejorar sus finanzas personales, para utilizar correctamente los créditos que fortalecerán su economía y obtener los seguros que la protejan, entre otros aspectos.</p>
-					    <p>Podrás consultar la información que consta de Caja Popular Mexicana S.C. de A.P. de R.L. de C.V, en el Buró de Entidades Financieras dando clic <a class="text-primary font-weight-semibold" href="comportamiento-de-sociedades-cooperativas-de-ahorro-y-prestamo.php">aquí</a></p>
+					    <p>Podrás consultar la información que consta de Caja Popular Mexicana S.C. de A.P. de R.L. de C.V, en el Buró de Entidades Financieras dando clic <a class="text-primary font-weight-semibold" href="comportamiento-de-sociedades-cooperativas-de-ahorro-y-prestamo">aquí</a></p>
 					    <p>Para conocer la información de todo el sector, podrás acceder al sitio del Buró de Entidades Financieras que se encuentra en la siguiente liga: <a class="text-primary font-weight-semibold" href="http://www.buro.gob.mx" target="_blank" rel="noopener noreferrer">http: www.buro.gob.mx</a></p>
 					    <h4 class="text-center text-primary font-weight-semibold">La información del Buró de Entidades Financieras <br>es una herramienta para mejorar tu futuro.</h4>
 					    <h4 class="text-center text-primary font-weight-semibold">¡Úsala a tu favor! </h4>

@@ -7,31 +7,31 @@
 						</a>
 					</div>
 					<div class="col-12 col-lg p-0 pl-md-0 pl-lg-3 mb-2 mb-lg-0 white-circle-n-line">
-						<a href="ser-socio.php" class="btn bg-tertiary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
+						<a href="ser-socio" class="btn bg-tertiary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
 							Socio
 						</a>
 					</div>
 					<div class="col-12 col-lg p-0 mb-2 mb-lg-0 ">
-						<a href="ubica-tu-sucursal.php" class="btn bg-primary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
+						<a href="ubica-tu-sucursal" class="btn bg-primary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
 							Ubica tu sucursal 
 						</a>
 					</div>
 					<div class="dropdown col-12 col-lg p-0 mb-2 mb-lg-0 ">
 						<a href="#" class="btn bg-quaternary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white dropdown-toggle" type="button" id="dropdownMenuItem3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Créditos</a>
 						<div class="dropdown-menu bg-quaternary" aria-labelledby="dropdownMenuItem3">
-							<a class="dropdown-item" href="credito-personal-plus-cpm.php">
+							<a class="dropdown-item" href="credito-personal-plus-cpm">
 								<i class="fa fa-chevron-circle-right mr-1"></i> Crédito Personal Plus CPM</a>
-							<a class="dropdown-item" href="credito-credinamico-cpm.php">
+							<a class="dropdown-item" href="credito-credinamico-cpm">
 								<i class="fa fa-chevron-circle-right mr-1"></i> Credinámico CPM</a>
-							<a class="dropdown-item" href="credito-inmediato-cpm.php">
+							<a class="dropdown-item" href="credito-inmediato-cpm">
 								<i class="fa fa-chevron-circle-right mr-1"></i> Crédito Inmediato CPM</a>
-							<a class="dropdown-item" href="credito-productivo-cpm.php">
+							<a class="dropdown-item" href="credito-productivo-cpm">
 								<i class="fa fa-chevron-circle-right mr-1"></i> Crédito Productivo CPM</a>
-							<a class="dropdown-item" href="credito-automotriz-cpm.php">
+							<a class="dropdown-item" href="credito-automotriz-cpm">
 								<i class="fa fa-chevron-circle-right mr-1"></i> Crédito Automotriz CPM</a>
-							<a class="dropdown-item" href="credito-hipotecario-cpm.php">
+							<a class="dropdown-item" href="credito-hipotecario-cpm">
 								<i class="fa fa-chevron-circle-right mr-1"></i> Crédito Hipotecario CPM</a>
-							<!-- <a class="dropdown-item" href="credito-personal.php">
+							<!-- <a class="dropdown-item" href="credito-personal">
 								<i class="fa fa-chevron-circle-right mr-1"></i> Crédito Personal CPM</a> -->
 						</div>
 					</div>
@@ -50,24 +50,24 @@
 						</div>
 						<div class="collapse w-100" id="innerMenuMobile">
 							<ul class="list-group w-100 pt-3">
-								<li class="list-group-item"><a href="ser-socip.php">Socio</a></li>
-								<li class="list-group-item"><a href="ubica-tu-sucursal.php">Ubica tu sucursal</a></li>
+								<li class="list-group-item"><a href="ser-socip">Socio</a></li>
+								<li class="list-group-item"><a href="ubica-tu-sucursal">Ubica tu sucursal</a></li>
 								<li class="list-group-item">
 									<a href="#" class="dropdown-toggle" type="button" id="dropdownMenuItem3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Créditos</a>
 									<div class="dropdown-menu bg-quaternary" aria-labelledby="dropdownMenuItem3">
-										<a class="dropdown-item" href="credito-personal-plus-cpm.php">
+										<a class="dropdown-item" href="credito-personal-plus-cpm">
 											<i class="fa fa-chevron-circle-right mr-1"></i> Crédito Personal Plus CPM</a>
-										<a class="dropdown-item" href="credito-credinamico-cpm.php">
+										<a class="dropdown-item" href="credito-credinamico-cpm">
 											<i class="fa fa-chevron-circle-right mr-1"></i> Credinámico</a>
-										<a class="dropdown-item" href="credito-inmediato-cpm.php">
+										<a class="dropdown-item" href="credito-inmediato-cpm">
 											<i class="fa fa-chevron-circle-right mr-1"></i> Crédito Inmediato CPM</a>
-										<a class="dropdown-item" href="credito-productivo-cpm.php">
+										<a class="dropdown-item" href="credito-productivo-cpm">
 											<i class="fa fa-chevron-circle-right mr-1"></i> Crédito Productivo CPM</a>
-										<a class="dropdown-item" href="credito-automotriz-cpm.php">
+										<a class="dropdown-item" href="credito-automotriz-cpm">
 											<i class="fa fa-chevron-circle-right mr-1"></i> Crédito Automotriz CPM</a>
-										<a class="dropdown-item" href="credito-hipotecario-cpm.php">
+										<a class="dropdown-item" href="credito-hipotecario-cpm">
 											<i class="fa fa-chevron-circle-right mr-1"></i> Crédito Hipotecario CPM</a>
-										<a class="dropdown-item" href="credito-personal.php">
+										<a class="dropdown-item" href="credito-personal">
 											<i class="fa fa-chevron-circle-right mr-1"></i> Crédito Personal CPM</a>
 									</div>
 								</li>

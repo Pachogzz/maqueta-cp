@@ -1,7 +1,7 @@
 		<div class="container">
 		    <div id="map-target" class="row video-section">
 					<div class="table-responsive mt-5">
-							<table class="table">
+							<table class="table text-center">
 								<thead>
 								   <tr class="bg-primary">
 									<th scope="col"><h3 class="text-white font-weight-semibold"><center>LOCALIZA LA SUCURSAL MAS CERCANA</center></h3></th>
@@ -17,7 +17,7 @@
 		    <div class="row video-section">
 		        <div class="col-md-12">
 					<div class="table-responsive mt-5">
-							<table class="table">
+							<table class="table text-center">
 								<thead>
 								   <tr class="bg-primary">
 									<th scope="col"><h5 class="text-white font-weight-semibold">Selecciona el estado en que quieres ubicar las sucursales</h5></th>
