@@ -14,12 +14,9 @@
 
 		<section class="page-content">
 			<div class="container">
-				<div class="row">
+				<div class="row mb-3 mb-lg-5">
 					<div class="col-12 text-center">
-						<!-- <div class="embed-responsive embed-responsive-16by9 mb-md-5">
-							<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/FY6AMOfUyMk?rel=0" allowfullscreen></iframe>
-						</div> -->
-						<img src="assets/img/secciones/ahorro/cuenta_mexicana.jpg" alt="" class="img-fluid mb-5">
+						<img src="assets/img/secciones/ahorro/cuenta_mexicana_1.jpg" alt="" class="my-auto img-fluid">
 					</div> <!-- ./ Video o imágen principal -->
 				</div> <!-- ./ End Row -->
 				<div class="row">
@@ -110,7 +107,7 @@
 							<div class="col-12 mt-5">
 								<!-- Nota Legal -->
 								<div class="bg-grey0 p-5">
-									<p class="display-12"><strong>Vigencia del 23 al 29 de Enero del 2020</strong></p>
+									<p class="display-12">Vigencia del <strong>30 de Enero al 05 de Febrero del 2020</strong></p>
 									<p class="display-12">Fecha de cálculo Enero 2020</p>
 									<p class="display-12"><strong>* GAT NOMINAL</strong> antes de impuestos. Para fines informativos y de comparación.</p>
 									<p class="display-12"><strong>**GAT REAL</strong> antes de impuestos. Para fines informativos y de comparación. La GAT REAL es el rendimiento que obtendría después de descontar la inflación estimada Para fines informativos y de comparación exclusivamente.</p>

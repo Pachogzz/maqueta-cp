@@ -3,7 +3,7 @@
 				<div class="row text-center">
 					<div class="col-12 col-lg z-index-1">
 						<a href="#" class="btn btn-primary btn-lg btn-block rounded-pill w-100 w-lg-75 mx-auto p-3 mb-2 mb-lg-0 active">
-							Queremos servirte <i class="fa fa-chevron-circle-right"></i>
+							Agenda tu cita <i class="fa fa-chevron-circle-right"></i>
 						</a>
 					</div>
 					<div class="col-12 col-lg p-0 pl-md-0 pl-lg-3 mb-2 mb-lg-0 white-circle-n-line">
@@ -31,8 +31,6 @@
 								<i class="fa fa-chevron-circle-right mr-1"></i> Crédito Automotriz CPM</a>
 							<a class="dropdown-item" href="credito-hipotecario-cpm">
 								<i class="fa fa-chevron-circle-right mr-1"></i> Crédito Hipotecario CPM</a>
-							<!-- <a class="dropdown-item" href="credito-personal">
-								<i class="fa fa-chevron-circle-right mr-1"></i> Crédito Personal CPM</a> -->
 						</div>
 					</div>
 				</div>
@@ -67,8 +65,6 @@
 											<i class="fa fa-chevron-circle-right mr-1"></i> Crédito Automotriz CPM</a>
 										<a class="dropdown-item" href="credito-hipotecario-cpm">
 											<i class="fa fa-chevron-circle-right mr-1"></i> Crédito Hipotecario CPM</a>
-										<!-- <a class="dropdown-item" href="credito-personal">
-											<i class="fa fa-chevron-circle-right mr-1"></i> Crédito Personal CPM</a> -->
 									</div>
 								</li>
 							</ul>

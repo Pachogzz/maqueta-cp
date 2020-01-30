@@ -31,9 +31,9 @@ $(document).ready(function(){
 	});
 
 	// Inicializa el contador de los números ( actualmente ubicado solamente en Solidez Empresarial )
-	$('.counter-val').counterUp({
-		delay: 10,
-		time: 1000
+	$('.counter-val').rCounter({
+		// delay: 100000,
+		// time: 100000
 	});
 
 	// Código para transformar en acoredeón los tabs en el sitio con la clase "responsive-tabs"

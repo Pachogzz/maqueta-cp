@@ -37,7 +37,7 @@
 						</a>
 					</div> <!-- ./ MiSeguro -->
 					<div class="landing-grid-box col-12 col-md-6 mb-0 mb-md-1 mt-5 mt-md-0">
-						<a href="miautoseguri-prybe" class="h-100">
+						<a href="miautoseguro-prybe" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
 							<i class="fas fa-car fa-4x bg-primary text-white rounded-circle"></i>
 							<h3>MiAutoSeguro PRYBE</h3>

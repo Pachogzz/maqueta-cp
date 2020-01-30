@@ -29,8 +29,8 @@
     
 
     $mail->setFrom('contacto.caja.popular.mexicana@gmail.com', 'Caja Popular Mexicana');
-    $mail->addAddress('gema_pina@cpm.coop');
-    // $mail->addAddress('pachogzz@gmail.com');
+    $mail->addAddress('contacto@cpm.coop');
+    // $mail->addAddress('gema_pina@cpm.coop');
     $mail->isHTML(true);
     $mail->Subject = 'Dudas sobre: Crédito Personal Plus CPM';
     $mail->Body    = "

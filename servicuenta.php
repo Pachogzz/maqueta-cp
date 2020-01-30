@@ -14,12 +14,9 @@
 
 		<section class="page-content">
 			<div class="container">
-				<div class="row">
+				<div class="row mb-3 mb-lg-5">
 					<div class="col-12 text-center">
-						<!-- <div class="embed-responsive embed-responsive-16by9 mb-md-5">
-							<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/FY6AMOfUyMk?rel=0" allowfullscreen></iframe>
-						</div> -->
-						<img src="assets/img/secciones/ahorro/servicuenta.jpg" alt="" class="img-fluid mb-5">
+						<img src="assets/img/secciones/ahorro/servicuenta_1.jpg" alt="" class="my-auto img-fluid">
 					</div> <!-- ./ Video o imágen principal -->
 				</div> <!-- ./ End Row -->
 				<div class="row">
@@ -110,7 +107,7 @@
 							<div class="col-12 mt-5">
 								<!-- Nota Legal -->
 								<div class="bg-grey0 p-5">
-									<p class="display-12"><strong>Vigencia del 23 al 29 de Enero del 2020</strong></p>
+									<p class="display-12">Vigencia del <strong>30 de Enero al 05 de Febrero del 2020</strong></p>
 									<p class="display-12">Fecha de cálculo Enero 2020</p>
 									<p class="display-12"><strong>* GAT NOMINAL</strong> antes de impuestos. Para fines informativos y de comparación.</p>
 									<p class="display-12"><strong>**GAT REAL</strong> antes de impuestos. Para fines informativos y de comparación. La GAT REAL es el rendimiento que obtendría después de descontar la inflación estimada Para fines informativos y de comparación exclusivamente.</p>
@@ -136,51 +133,51 @@
 								<tbody>
 									<tr>
 										<td scope="row">$ 1500.00 A $ 10,000.00</td>
+										<td><strong>2.66%</strong></td>
 										<td><strong>2.69%</strong></td>
-										<td><strong>2.72%</strong></td>
-										<td><strong>-0.70%</strong></td>
+										<td><strong>-0.73%</strong></td>
 									</tr>
 									<tr>
 										<td scope="row">$ 10,001.01 A $ 25,000</td>
-										<td><strong>2.90%</strong></td>
-										<td><strong>2.94%</strong></td>
-										<td><strong>-0.49%</strong></td>
+										<td><strong>2.87%</strong></td>
+										<td><strong>2.91%</strong></td>
+										<td><strong>-0.52%</strong></td>
 									</tr>
 									<tr>
 										<td scope="row">$ 25,001.00 A $ 50,000</td>
-										<td><strong>3.11%</strong></td>
-										<td><strong>3.15%</strong></td>
-										<td><strong>-0.29%</strong></td>
+										<td><strong>3.08%</strong></td>
+										<td><strong>3.12%</strong></td>
+										<td><strong>-0.32%</strong></td>
 									</tr>
 									<tr>
 										<td scope="row">$ 50,001.00 A $ 100,000.00</td>
-										<td><strong>3.31%</strong></td>
-										<td><strong>3.36%</strong></td>
-										<td><strong>-0.09%</strong></td>
+										<td><strong>3.28%</strong></td>
+										<td><strong>3.33%</strong></td>
+										<td><strong>-0.12%</strong></td>
 									</tr>
 									<tr>
 										<td scope="row">$ 100,001.00 A $ 250,000.00</td>
-										<td><strong>3.52%</strong></td>
-										<td><strong>3.58%</strong></td>
-										<td><strong>0.12%</strong></td>
+										<td><strong>3.49%</strong></td>
+										<td><strong>3.55%</strong></td>
+										<td><strong>0.09%</strong></td>
 									</tr>
 									<tr>
 										<td scope="row">$ 250,001.00 A $ 500,000.00</td>
-										<td><strong>3.73%</strong></td>
-										<td><strong>3.79%</strong></td>
-										<td><strong>0.33%</strong></td>
+										<td><strong>3.70%</strong></td>
+										<td><strong>3.76%</strong></td>
+										<td><strong>0.30%</strong></td>
 									</tr>
 									<tr>
 										<td scope="row">$ 500,001.00 A 1,000,000.00</td>
-										<td><strong>3.94%</strong></td>
-										<td><strong>4.01%</strong></td>
-										<td><strong>0.54%</strong></td>
+										<td><strong>3.90%</strong></td>
+										<td><strong>3.97%</strong></td>
+										<td><strong>0.50%</strong></td>
 									</tr>
 									<tr>
 										<td scope="row">$ 1,000,001.00 En adelante</td>
-										<td><strong>4.15%</strong></td>
-										<td><strong>4.23%</strong></td>
-										<td><strong>0.75%</strong></td>
+										<td><strong>4.11%</strong></td>
+										<td><strong>4.19%</strong></td>
+										<td><strong>0.71%</strong></td>
 									</tr>
 								</tbody>
 							</table>

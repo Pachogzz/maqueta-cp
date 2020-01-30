@@ -27,7 +27,7 @@
 							<img width="" src="assets/img/secciones/logos-credito/credito-credinamico.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Obtén un crédito revolvente que cubra cualquiera de tus necesidades.</p>
 							<p class="lead my-3 font-weight-bold text-primary">Montos desde $10,000 hasta $120,524.00</p>
-							<p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/FR-1917_Contrato_de_apertura_de_credito_en_cuenta_corriente.pdf">aquí</a></p>
+							<p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/FR-1917_Contrato_de_apertura_de_credito_en_cuenta_corriente-2.pdf">aquí</a></p>
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 						<!-- Nota Legal -->

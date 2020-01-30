@@ -1,4 +1,4 @@
-<a href="#" class="btn btn-primary btn-lg btn-block rounded-pill w-100 w-lg-75 mx-auto p-3 mb-3" data-toggle="modal" data-target="#exampleModalCenter">
+<a href="#" class="btn btn-primary btn-lg btn-block rounded-pill w-100 w-lg-75 mx-auto p-3 mb-3 mb-lg-5" data-toggle="modal" data-target="#exampleModalCenter">
 	Calcular mi crédito <i class="fas fa-calculator"></i>
 </a>
 <!-- Modal -->
@@ -12,6 +12,7 @@
 				</button>
 			</div>
 			<div class="modal-body">
+				<!-- <iframe src="https://simuladorcredito.cpm.coop/SimuladorCreditosWeb/SimuladorWeb.aspx?IdProducto=416" frameborder="0" width="100%" height="500"></iframe> -->
 				<iframe src="https://simuladorcredito.cpm.coop/SimuladorCreditosWeb/SimuladorWeb.aspx?IdProducto=414" frameborder="0" width="100%" height="500"></iframe>
 			</div>
 		</div>

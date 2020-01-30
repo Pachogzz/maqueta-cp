@@ -1,83 +1,56 @@
-/*!
-* jquery.counterup.js 1.0
-*
-* Copyright 2013, Benjamin Intal http://gambit.ph @bfintal
-* Released under the GPL v2 License
-*
-* Date: Nov 26, 2013
-*/
-(function( $ ){
-  "use strict";
+/**
+ * Jquery.counterup.js 
+ * Version: 1.0.1x
+ * Author: Sharifur // Mod by Marco Rdz
+ * */
 
-  $.fn.counterUp = function( options ) {
+(function($) {
+    'use strict';
+    $.fn.rCounter = function(options) {
+        var settings = $.extend({
+            duration: 60,
+            easing: 'swing',
+        }, options);
+        return this.each(function() {
+            var $this = $(this);
 
-    // Defaults
-    var settings = $.extend({
-        'time': 400,
-        'delay': 10
-    }, options);
+            var startCounter = function() {
+                    var numbers = [];
+                    var length = $this.length;
+                    var number = $this.text();
+                    var isComma = /[,\-]/.test(number);
+                    var isFloat = /[,\-]/.test(number);
+                    var number = number.replace(/,/g, '');
+                    var divisions = settings.duration;
+                    var decimalPlaces = isFloat ? (number.split('.')[1] || []).length : 0;
 
-    return this.each(function(){
+                    // make number string to array for displaying counterup
+                    for (var rcn = divisions; rcn >= 1; rcn--) {
 
-        // Store the object
-        var $this = $(this);
-        var $settings = settings;
+                        var newNum = parseInt(number / divisions * rcn);
+                        if (isFloat) {
+                            newNum = parseFloat(number / divisions * rcn).toFixed(decimalPlaces);
+                        }
+                        if (isComma) {
+                            while (/(\d+)(\d{3})/.test(newNum.toString())) {
+                                newNum = newNum.toString().replace(/(\d+)(\d{3})/, '$1' + ',' + '$2');
+                            }
+                        }
 
-        var counterUpper = function() {
-            var nums = [];
-            var divisions = $settings.time / $settings.delay;
-            var num = $this.text();
-            var isComma = /[0-9]+,[0-9]+/.test(num);
-            num = num.replace(/,/g, '');
-            var isInt = /^[0-9]+$/.test(num);
-            var isFloat = /^[0-9]+\.[0-9]+$/.test(num);
-            var decimalPlaces = isFloat ? (num.split('.')[1] || []).length : 0;
-
-            // Generate list of incremental numbers to display
-            for (var i = divisions; i >= 1; i--) {
-
-                // Preserve as int if input was int
-                var newNum = parseInt(num / divisions * i);
-
-                // Preserve float if input was float
-                if (isFloat) {
-                    newNum = parseFloat(num / divisions * i).toFixed(decimalPlaces);
-                }
-
-                // Preserve commas if input had commas
-                if (isComma) {
-                    while (/(\d+)(\d{3})/.test(newNum.toString())) {
-                        newNum = newNum.toString().replace(/(\d+)(\d{3})/, '$1'+','+'$2');
+                        numbers.unshift(newNum);
                     }
-                }
+                    var counterUpDisplay = function() {
+                        $this.text(numbers.shift());
+                        setTimeout(counterUpDisplay, settings.duration);
+                    };
+                    setTimeout(counterUpDisplay, settings.duration);
+                } // end function
 
-                nums.unshift(newNum);
-            }
+            //bind with waypoints
+            $this.val(startCounter, { offset: '100%', triggerOnce: true }); 
+        });
 
-            $this.data('counterup-nums', nums);
-            $this.text('0');
 
-            // Updates the number until we're done
-            var f = function() {
-                $this.text($this.data('counterup-nums').shift());
-                if ($this.data('counterup-nums').length) {
-                    setTimeout($this.data('counterup-func'), $settings.delay);
-                } else {
-                    delete $this.data('counterup-nums');
-                    $this.data('counterup-nums', null);
-                    $this.data('counterup-func', null);
-                }
-            };
-            $this.data('counterup-func', f);
+    }
 
-            // Start the count up
-            setTimeout($this.data('counterup-func'), $settings.delay);
-        };
-
-        // Perform counts when the element gets into view
-        $this.waypoint(counterUpper, { offset: '100%', triggerOnce: true });
-    });
-
-  };
-
-})( jQuery );
+}(jQuery));

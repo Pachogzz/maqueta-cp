@@ -67,7 +67,7 @@
 								<div class="card-header" id="headingThree">
 									<h2 class="mb-0">
 										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-											¿Cuándo es la asambleas?
+											¿Cuándo es la asamblea?
 										</button>
 									</h2>
 								</div>
@@ -126,6 +126,7 @@
 											<li>Podrás elegir a tus representantes mediante el voto.</li>
 											<li>Puedes participar como candidato a formar parte de la estructura dirigencial.</li>
 											<li>Conocerás y convivirás con otros socios de tu comunidad, con quienes puedes intercambiar ideas y puntos de vista.</li>
+											<li>Podrás ganar 750 <a href="http://www.puntosverdes.mx" target="_blank">Puntos Verdes</a></li>
 										</ul>
 									</div>
 								</div>

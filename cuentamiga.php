@@ -14,12 +14,9 @@
 
 		<section class="page-content">
 			<div class="container">
-				<div class="row">
+				<div class="row mb-3 mb-lg-5">
 					<div class="col-12 text-center">
-						<!-- <div class="embed-responsive embed-responsive-16by9 mb-md-5">
-							<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/FY6AMOfUyMk?rel=0" allowfullscreen></iframe>
-						</div> -->
-						<img src="assets/img/secciones/ahorro/cuentamiga.jpg" alt="" class="img-fluid mb-5">
+						<img src="assets/img/secciones/ahorro/cuentamiga_1.jpg" alt="" class="my-auto img-fluid">
 					</div> <!-- ./ Video o imágen principal -->
 				</div> <!-- ./ End Row -->
 				<div class="row">
@@ -106,7 +103,7 @@
 							<div class="col-12 mt-5">
 								<!-- Nota Legal -->
 								<div class="bg-grey0 p-5">
-									<p class="display-12"><strong>Vigencia del 23 al 29 de Enero del 2020</strong></p>
+									<p class="display-12">Vigencia del <strong>30 de Enero al 05 de Febrero del 2020</strong></p>
 									<p class="display-12">Fecha de cálculo Enero 2020</p>
 									<p class="display-12"><strong>* GAT NOMINAL</strong> antes de impuestos. Para fines informativos y de comparación.</p>
 									<p class="display-12"><strong>**GAT REAL</strong> antes de impuestos. Para fines informativos y de comparación. La GAT REAL es el rendimiento que obtendría después de descontar la inflación estimada Para fines informativos y de comparación exclusivamente.</p>
@@ -123,7 +120,6 @@
 							<table class="table text-center">
 								<thead>
 									<tr class="bg-primary">
-									<th scope="col"><span class="text-white">#</span></th>
 									<th scope="col"><span class="text-white">Rango</span></th>
 									<th scope="col"><span class="text-white">Tasa de interés anual <br>fija antes de impuestos</span></th>
 									<th scope="col"><span class="text-white">GAT nominal* <br>antes de impuestos</span></th>
@@ -132,22 +128,19 @@
 								</thead>
 								<tbody>
 									<tr>
-										<th scope="row">1</th>
-										<td>$ 20.00 A $ 25,000.00</td>
+										<td scope="row">$ 20.00 A $ 25,000.00</td>
 										<td><strong>3.79%</strong></td>
 										<td><strong>3.86%</strong></td>
 										<td><strong>0.39%</strong></td>
 									</tr>
 									<tr>
-										<th scope="row">2</th>
-										<td>$ 25,001.00 A $ 50,000.00</td>
+										<td scope="row">$ 25,001.00 A $ 50,000.00</td>
 										<td><strong>3.90%</strong></td>
 										<td><strong>3.97%</strong></td>
 										<td><strong>0.50%</strong></td>
 									</tr>
 									<tr>
-										<th scope="row">3</th>
-										<td>$ 50,000.01 EN ADELANTE</td>
+										<td scope="row">$ 50,000.01 EN ADELANTE</td>
 										<td><strong>4.01%</strong></td>
 										<td><strong>4.08%</strong></td>
 										<td><strong>0.61%</strong></td>

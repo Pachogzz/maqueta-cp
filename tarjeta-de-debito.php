@@ -35,9 +35,9 @@
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 						<!-- Nota Legal -->
 						<div class="bg-grey0 p-5">
-							<p class="display-12">Vigencia del <strong>23 al 29 de Enero del 2020</strong></p>
+							<p class="display-12">Vigencia del <strong>30 de Enero al 05 de Febrero del 2020</strong></p>
 							<p class="display-12">Fecha de cálculo Enero 2020</p>
-							<p class="display-12"><strong>* GAT NOMINAL de -2.65% y GAT real de -5.89% antes de impuestos</strong>. La GAT real es el rendimiento que obtendrás después de descontar la inflación estimada. Para fines informativos y de comparación exclusivamente; tasa fija de rendimiento de $1,500 en adelante 1.35% anual antes de impuestos.</p>
+							<p class="display-12"><strong>* GAT NOMINAL de -2.66% y GAT real de -5.91% antes de impuestos</strong>. La GAT real es el rendimiento que obtendrás después de descontar la inflación estimada. Para fines informativos y de comparación exclusivamente; tasa fija de rendimiento de $1,500 en adelante 1.33% anual antes de impuestos.</p>
 						</div>
 						<!-- Nota Legal -->
 					</div>

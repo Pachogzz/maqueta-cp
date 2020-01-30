@@ -10,7 +10,7 @@
 		<meta name="description" content="Es una cooperativa de ahorro y préstamo con más 60 años de experiencia que contribuye a mejorar la calidad de vida de sus socios, educando en la cultura del ahorro, en la práctica de la ayuda mutua y el uso responsable del crédito por medio de sus diferentes productos de ahorro, crédito e inversión." />
 		<meta name="author" content="Diego Carranza, Pacho Gonzalez" />
 		<meta name="copyright" content="Caja Popular Mexicana 2020" />
-		<meta name="robots" content="noindex, nofollow" />
+		<meta name="robots" content="index, nofollow" />
 		<link rel="canonical" href="https://www.cpm.coop/" />
 		<!-- Open Graph Protocol -->
 		<meta property="og:type" content="website" />
@@ -51,6 +51,24 @@
 		<!-- Main CSS -->
 		<link rel="stylesheet" href="assets/css/timeline.css">
 		<link rel="stylesheet" href="assets/css/style.css">
+
+		<script>
+			(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+				new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+				j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+				'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+			})(window,document,'script','dataLayer','GTM-M9GJD7V');
+		</script>
+
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-100232444-1', 'auto');
+			ga('send', 'pageview');
+		</script>
 
 	</head>
 	<body>

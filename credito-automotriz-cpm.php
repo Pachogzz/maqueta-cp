@@ -14,9 +14,40 @@
 
 		<section class="page-content">
 			<div class="container">
-				<div class="row">
+				<div class="row mb-3 mb-lg-5">
 					<div class="col-12 text-center">
-						<img src="assets/img/secciones/creditos/automotriz.jpg" alt="" class="img-fluid mb-5">
+						<div id="carouselControls" class="carousel slide" data-ride="carousel">
+							<ol class="carousel-indicators">
+								<li data-target="#carouselControls" data-slide-to="0" class="active"></li>
+								<li data-target="#carouselControls" data-slide-to="1"></li>
+								<li data-target="#carouselControls" data-slide-to="2"></li>
+							</ol>
+							<div class="carousel-inner">
+								<div class="carousel-item active">
+									<div class="h-100 w-100 text-center">
+										<img class="m-auto img-fluid" src="assets/img/secciones/creditos/automotriz_0.jpg" alt="">
+									</div>
+								</div>
+								<div class="carousel-item">
+									<div class="h-100 w-100 text-center">
+										<img class="m-auto img-fluid" src="assets/img/secciones/creditos/automotriz_1.jpg" alt="">
+									</div>
+								</div>
+								<div class="carousel-item">
+									<div class="h-100 w-100 text-center">
+										<img class="m-auto img-fluid" src="assets/img/secciones/creditos/automotriz_2.jpg" alt="">
+									</div>
+								</div>
+							</div>
+							<a class="carousel-control-prev" href="#carouselControls" role="button" data-slide="prev">
+								<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+								<span class="sr-only">Previous</span>
+							</a>
+							<a class="carousel-control-next" href="#carouselControls" role="button" data-slide="next">
+								<span class="carousel-control-next-icon" aria-hidden="true"></span>
+								<span class="sr-only">Next</span>
+							</a>
+						</div>
 					</div>
 				</div> <!-- ./ End Row -->
 				<div class="row">
@@ -29,8 +60,11 @@
 							<p class="lead my-3 font-weight-bold text-primary">Montos desde $1,000.00 hasta $903,930.00</p>
 							<!-- <p class="lead my-3 font-weight-bold text-primary">Montos desde $36,157.00 hasta $903,930.00 </p> -->
 							<p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/FR-1917_Contrato_de_apertura_de_credito_en_cuenta_corriente.pdf">aquí</a></p>
-						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
+						</div>
+						<div class="embed-responsive embed-responsive-16by9 mb-3 mb-lg-5">
+							<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9diWKW-ZxEg" allowfullscreen></iframe>
+						</div>
 						<?php include('inc/calculadoras/calculadora-de-credito.php') ?> <!-- ./ calculadora de credito -->
 						<!-- Nota Legal -->
 						<div class="bg-grey0 p-5 mb-5">

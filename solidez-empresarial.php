@@ -47,42 +47,42 @@
 					<div class="col-12 col-md-6 col-lg-4 mb-4 mb-md-5">
 						<div class="h-100 bg-primary text-white text-center rounded p-5">
 							<i class="fas fa-users fa-5x mb-3"></i>
-							<h2 class="font-weight-bolder mb-3">2,726,428</h2>
+							<h2 class="font-weight-bolder mb-3 counter-val">2,745,206</h2>
 							<h4>Socios</h4>
 						</div>
 					</div>
 					<div class="col-12 col-md-6 col-lg-4 mb-4 mb-md-5">
 						<div class="h-100 bg-quinary text-white text-center rounded p-5">
 							<i class="fas fa-child fa-5x mb-3"></i>
-							<h2 class="font-weight-bolder mb-3">360,957</h2>
+							<h2 class="font-weight-bolder mb-3 counter-val">363,803</h2>
 							<h4>Ahorradores Menores de Edad</h4>
 						</div>
 					</div>
 					<div class="col-12 col-md-6 col-lg-4 mb-4 mb-md-5">
 						<div class="h-100 bg-primary text-white text-center rounded p-5">
 							<i class="fas fa-store-alt fa-5x mb-3"></i>
-							<h2 class="font-weight-bolder mb-3">473</h2>
+							<h2 class="font-weight-bolder mb-3 counter-val">473</h2>
 							<h4>Sucursales</h4>
 						</div>
 					</div>
 					<div class="col-12 col-md-6 col-lg-4 mb-4 mb-md-5">
 						<div class="h-100 bg-quinary text-white text-center rounded p-5">
 							<i class="fas fa-piggy-bank fa-5x mb-3"></i>
-							<h2 class="font-weight-bolder mb-3 asterisk">48,282,360</h2>
+							<h2 class="font-weight-bolder mb-3 counter-val asterisk">49,258,873</h2>
 							<h4>Captación</h4>
 						</div>
 					</div>
 					<div class="col-12 col-md-6 col-lg-4 mb-4 mb-md-5">
 						<div class="h-100 bg-primary text-white text-center rounded p-5">
 							<i class="fas fa-money-bill-wave fa-5x mb-3"></i>
-							<h2 class="font-weight-bolder mb-3 asterisk">38,479,149</h2>
+							<h2 class="font-weight-bolder mb-3 counter-val asterisk">38,732,505</h2>
 							<h4>Colocación</h4>
 						</div>
 					</div>
 					<div class="col-12 col-md-6 col-lg-4 mb-4 mb-md-5">
 						<div class="h-100 bg-quinary text-white text-center rounded p-5">
 							<i class="fas fa-hand-holding-usd fa-5x mb-3"></i>
-							<h2 class="font-weight-bolder mb-3 asterisk">60,047,095</h2>
+							<h2 class="font-weight-bolder mb-3 counter-val asterisk">60,961,278</h2>
 							<h4>Activos</h4>
 						</div>
 					</div>
@@ -91,7 +91,7 @@
 				<div class="row">
 					<div class="col-12">
 						<p class="text-center text-grey2">CAJA POPULAR MEXICANA S.C. DE A.P. DE R.L. DE C.V. <br>
-						*Cifras en miles de pesos | Información estadística al 30 de noviembre de 2019</p>
+						*Cifras en miles de pesos | Información estadística al 31 de diciembre de 2019</p>
 					</div>
 				</div>
 			</div>
