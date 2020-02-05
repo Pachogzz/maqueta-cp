@@ -14,12 +14,34 @@
 
 		<section class="page-content">
 			<div class="container">
-				<div class="row">
+				<div class="row mb-3 mb-lg-5">
 					<div class="col-12 text-center">
-						<!-- <div class="embed-responsive embed-responsive-16by9 mb-md-5">
-							<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/FY6AMOfUyMk?rel=0" allowfullscreen></iframe>
-						</div> -->
-						<!-- <img src="assets/img/secciones/ahorro/banner-cuenta-mexicana.jpg" alt="" class="img-fluid mb-5"> -->
+						<div id="carouselControls" class="carousel slide" data-ride="carousel">
+							<ol class="carousel-indicators">
+								<li data-target="#carouselControls" data-slide-to="0" class="active"></li>
+								<li data-target="#carouselControls" data-slide-to="1"></li>
+							</ol>
+							<div class="carousel-inner">
+								<div class="carousel-item active">
+									<div class="h-100 w-100 text-center">
+										<img class="m-auto img-fluid" src="assets/img/secciones/ahorro/mi_alcancia_jr_1.jpg" alt="Guarda tus ahorros para lo que más te gusta">
+									</div>
+								</div>
+								<div class="carousel-item">
+									<div class="h-100 w-100 text-center">
+										<img class="m-auto img-fluid" src="assets/img/secciones/ahorro/mi_alcancia_jr_2.jpg" alt="Guarda tus ahorros para lo que más te gusta">
+									</div>
+								</div>
+							</div>
+							<a class="carousel-control-prev" href="#carouselControls" role="button" data-slide="prev">
+								<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+								<span class="sr-only">Previous</span>
+							</a>
+							<a class="carousel-control-next" href="#carouselControls" role="button" data-slide="next">
+								<span class="carousel-control-next-icon" aria-hidden="true"></span>
+								<span class="sr-only">Next</span>
+							</a>
+						</div>
 					</div> <!-- ./ Video o imágen principal -->
 				</div> <!-- ./ End Row -->
 				<div class="row">

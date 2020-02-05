@@ -16,10 +16,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-12 text-center">
-						<!-- <div class="embed-responsive embed-responsive-16by9 mb-md-5">
-							<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/FY6AMOfUyMk?rel=0" allowfullscreen></iframe>
-						</div> -->
-						<!-- <img src="assets/img/secciones/ahorro/banner-cuenta-mexicana.jpg" alt="" class="img-fluid mb-5"> -->
+						<img src="assets/img/secciones/tarjetas_de_debito_1.jpg" alt="" class="img-fluid mb-5">
 					</div> <!-- ./ Video o imágen principal -->
 				</div> <!-- ./ End Row -->
 				<div class="row mb-4">

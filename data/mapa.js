@@ -33,8 +33,8 @@ eqfeed_callback(
 				"horario_lv": "Lunes a Viernes  9:00 a 18:00 hrs.",
 				"horario_sb": "Sábado 10:00 a 14:00 hrs.",
 				"horario_dm": "",
-				"longitud": "-102.3121626",
-				"latitud": "21.87506269",
+				"longitud": "-102.3123211",
+				"latitud": "21.8750125",
 				"imagen1": "assets/img/secciones/sucursales/banners/corresponsalias-sucu.jpg",
 				"texto1": "Deposita en tus créditos y/o cuentas de ahorro en más de 17 mil establecimientos",
 				"ver_mas1": "corresponsalias",
@@ -53,7 +53,7 @@ eqfeed_callback(
 				},
 				"geometry": {
 					"type": "Point",
-					"coordinates": [-102.3121626, 21.87506269]
+					"coordinates": [-102.3123211, 21.8750125]
 				},
 				"id": "us70006sp2"
 			},
@@ -80,8 +80,8 @@ eqfeed_callback(
 				"horario_lv": "Lunes a Viernes  9:00 a 19:00 hrs.",
 				"horario_sb": "Sábado 10:00 a 19:00 hrs.",
 				"horario_dm": "Domingo 9:00 a 14:00 hrs.",
-				"longitud": "-106.076851",
-				"latitud": "28.634851",
+				"longitud": "-102.2974925",
+				"latitud": "21.8768968",
 				"imagen1": "assets/img/secciones/sucursales/banners/corresponsalias-sucu.jpg",
 				"texto1": "Deposita en tus créditos y/o cuentas de ahorro en más de 17 mil establecimientos",
 				"ver_mas1": "corresponsalias",
@@ -100,7 +100,7 @@ eqfeed_callback(
 				},
 				"geometry": {
 					"type": "Point",
-					"coordinates": [-106.076851, 28.634851]
+					"coordinates": [-102.2974925, 21.8768968]
 				},
 				"id": "us70006sp2"
 			},
@@ -1266,7 +1266,7 @@ eqfeed_callback(
 				"imagen3": "assets/img/secciones/sucursales/banners/BANNER-SUCU2.jpg",
 				"texto3": "No olvides acudir a tu Asamblea ¡Unidos lo hacemos posible!",
 				"ver_mas3": "ubica-tu-sucursal",
-				"direccion_asamblea": "Antonio García Cubas # 127,  Col. Alfredo Vázquez Bonfil, C.P. 38010, Celaya, Gto.",
+				"direccion_asamblea": "Salón Eleganz, Republica de Brasil #905 Col. Panamericana, Chihuahua, Chihuahua.",
 				"fecha_asamblea": "2/9/2020",
 				"hora_asamblea": "11:00 a. m.",
 				"cursos": "",
@@ -1313,7 +1313,7 @@ eqfeed_callback(
 				"imagen3": "assets/img/secciones/sucursales/banners/BANNER-SUCU2.jpg",
 				"texto3": "No olvides acudir a tu Asamblea ¡Unidos lo hacemos posible!",
 				"ver_mas3": "ubica-tu-sucursal",
-				"direccion_asamblea": "Auditorio \"DIMO\", Alejandro Topete Del Valle #108, Col. San Marcos, Aguascalientes, Ags.",
+				"direccion_asamblea": "Salón Inglés, Hotel Quality INN, Victoria #409, Colonia Centro, Chihuahua, Chihuahua.",
 				"fecha_asamblea": "2/22/2020",
 				"hora_asamblea": "5:00 p. m.",
 				"cursos": "",
@@ -1566,7 +1566,7 @@ eqfeed_callback(
 			"properties": {
 				"estado": "CHIHUAHUA",
 				"sucursal": "TARAHUMARA",
-				"direccion": "Calle Vicente Guerrero No. 27",
+				"direccion": "Calle 9ª No. 234",
 				"colonia": "Centro",
 				"localidad": "CUAUHTEMOC",
 				"municipio": "CUAUHTEMOC",
@@ -1736,7 +1736,7 @@ eqfeed_callback(
 				"imagen3": "assets/img/secciones/sucursales/banners/BANNER-SUCU2.jpg",
 				"texto3": "No olvides acudir a tu Asamblea ¡Unidos lo hacemos posible!",
 				"ver_mas3": "ubica-tu-sucursal",
-				"direccion_asamblea": "Manuel Doblado # 1 esq. con Abasolo, Col. Las Fuentes, C.P. 38048, Celaya, Gto.",
+				"direccion_asamblea": "Bella Terra, Calzada Francisco Sarabia # 40, Fracc. Hacienda La Merced, Torreón, Coahuila.",
 				"fecha_asamblea": "2/29/2020",
 				"hora_asamblea": "4:00 p. m.",
 				"cursos": "",
@@ -2134,8 +2134,8 @@ eqfeed_callback(
 				"colonia": "Valle de las Garzas",
 				"localidad": "MANZANILLO",
 				"municipio": "MANZANILLO",
-				"localidad_inegi": "",
-				"municipio_inegi": "",
+				"localidad_inegi": "Manzanillo",
+				"municipio_inegi": "Manzanillo",
 				"lada": "314",
 				"tel1": "1381357",
 				"tel2": "1381360",
@@ -4078,10 +4078,8 @@ eqfeed_callback(
 				"horario_lv": "Lunes a Viernes 9:00 a 19:00 hrs.",
 				"horario_sb": "Sábado 10:00 a 19:00 hrs.",
 				"horario_dm": "Domingo  de 9:00 a 14:00 hrs.",
-				"longitud": "-101.6814539",
-				// "longitud": "-106.076851",
-				"latitud": "21.1231129",
-				// "latitud": "28.634851",
+				"longitud": "-106.076851",
+				"latitud": "28.634851",
 				"imagen1": "assets/img/secciones/sucursales/banners/corresponsalias-sucu.jpg",
 				"texto1": "Deposita en tus créditos y/o cuentas de ahorro en más de 17 mil establecimientos",
 				"ver_mas1": "corresponsalias",
@@ -4091,7 +4089,7 @@ eqfeed_callback(
 				"imagen3": "assets/img/secciones/sucursales/banners/BANNER-SUCU2.jpg",
 				"texto3": "No olvides acudir a tu Asamblea ¡Unidos lo hacemos posible!",
 				"ver_mas3": "ubica-tu-sucursal",
-				"direccion_asamblea": "Auditorio \"DIMO\", Alejandro Topete Del Valle #108, Col. San Marcos, Aguascalientes, Ags.",
+				"direccion_asamblea": "Auditorio Preparatoria Oficial Nocturna, Álvaro Obregón # 308, Zona Centro, León, Gto.",
 				"fecha_asamblea": "2/22/2020",
 				"hora_asamblea": "5:00 p. m.",
 				"cursos": "",
@@ -4100,8 +4098,7 @@ eqfeed_callback(
 				},
 				"geometry": {
 					"type": "Point",
-					"coordinates": [-101.6814539, 21.1231129]
-					// "coordinates": [-106.076851, 28.634851]
+					"coordinates": [-106.076851, 28.634851]
 				},
 				"id": "us70006sp2"
 			},
@@ -4374,7 +4371,7 @@ eqfeed_callback(
 				"imagen3": "assets/img/secciones/sucursales/banners/BANNER-SUCU2.jpg",
 				"texto3": "No olvides acudir a tu Asamblea ¡Unidos lo hacemos posible!",
 				"ver_mas3": "ubica-tu-sucursal",
-				"direccion_asamblea": "Auditorio \"DIMO\", Alejandro Topete Del Valle #108, Col. San Marcos, Aguascalientes, Ags.",
+				"direccion_asamblea": "Hidalgo S/N, Col. Centro, C.P. 37600, San Felipe, Guanajuato.",
 				"fecha_asamblea": "2/22/2020",
 				"hora_asamblea": "5:00 p. m.",
 				"cursos": "",
@@ -7899,7 +7896,7 @@ eqfeed_callback(
 				"imagen3": "assets/img/secciones/sucursales/banners/BANNER-SUCU2.jpg",
 				"texto3": "No olvides acudir a tu Asamblea ¡Unidos lo hacemos posible!",
 				"ver_mas3": "ubica-tu-sucursal",
-				"direccion_asamblea": "Auditorio \"DIMO\", Alejandro Topete Del Valle #108, Col. San Marcos, Aguascalientes, Ags.",
+				"direccion_asamblea": "Obregón # 172, Zona Centro, C.P. 38400, Valle de Santiago, Guanajuato.",
 				"fecha_asamblea": "2/22/2020",
 				"hora_asamblea": "5:00 p. m.",
 				"cursos": "",
