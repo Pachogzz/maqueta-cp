@@ -91,6 +91,9 @@
 
 										<h5 class="text-primary arrow-txt"><strong>Equidad</strong></h5>
 										<p class="display-18"><i>Brindar las mismas oportunidades</i>, condiciones y trato a las personas sin importar las diferencias culturales, sociales o de género.</p>
+
+										<h5 class="text-primary arrow-txt"><strong>Solidaridad</strong></h5>
+										<p class="display-18">Pensar en lo común antes que en lo individual. Comprometerse con los derechos de las personas con independencia de su condición cultural, social o de género. Tratar a los demás como deseamos que nos traten a nosotros.</p>
 									</div>
 								</div>
 							</div>

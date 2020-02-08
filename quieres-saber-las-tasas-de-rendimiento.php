@@ -17,7 +17,7 @@
 				<div class="row">
 					<div class="col-md-10 offset-md-1">
 						<p class="h3 text-center w-100 font-weight-bold">Tasas de rendimiento</p>
-						<p class="h4 text-center w-100 font-weight-medium">Caja Popular Mexicana, S.C. de A.P. de R.L. de C.V <br>Tasas brutas de interés aplicables a pagarés con rendimiento liquidable al vencimiento del 30 de Enero al 05 de Febrero del 2020.</p>
+						<p class="h4 text-center w-100 font-weight-medium">Caja Popular Mexicana, S.C. de A.P. de R.L. de C.V <br>Tasas brutas de interés aplicables a pagarés con rendimiento liquidable al vencimiento del 06 al 12 de Febrero del 2020.</p>
 					</div>
 				</div>
 			</div>
@@ -44,79 +44,73 @@
 								<tbody>
 									<tr>
 										<td scope="row">$ 1000.00 A $ 25,000.00</td>
-										<td>3.84%</td>
-										<td>4.05%</td>
-										<td>4.25%</td>
-										<td>4.46%</td>
-										<td>4.67%</td>
-										<td>4.89%</td>
-										<td>6.20%</td>
+										<td><strong>3.81%</strong></td>
+										<td><strong>4.02%</strong></td>
+										<td><strong>4.22%</strong></td>
+										<td><strong>4.43%</strong></td>
+										<td><strong>4.64%</strong></td>
+										<td><strong>4.86%</strong></td>
+										<td><strong>6.16%</strong></td>
 									</tr>
 									<tr>
 										<td scope="row">$ 25,001.00 A $ 50,000.00</td>
-										<td>4.01%</td>
-										<td>4.22%</td>
-										<td>4.43%</td>
-										<td>4.64%</td>
-										<td>4.86%</td>
-										<td>5.07%</td>
-										<td>6.39%</td>
-
+										<td><strong>3.99%</strong></td>
+										<td><strong>4.19%</strong></td>
+										<td><strong>4.40%</strong></td>
+										<td><strong>4.61%</strong></td>
+										<td><strong>4.82%</strong></td>
+										<td><strong>5.03%</strong></td>
+										<td><strong>6.34%</strong></td>
 									</tr>
 									<tr>
 										<td scope="row">$ 50,001.00 A $ 100,000.00</td>
-										<td>4.18%</td>
-										<td>4.38%</td>
-										<td>4.59%</td>
-										<td>4.81%</td>
-										<td>5.02%</td>
-										<td>5.24%</td>
-										<td>6.56%</td>
-
+										<td><strong>4.15%</strong></td>
+										<td><strong>4.35%</strong></td>
+										<td><strong>4.56%</strong></td>
+										<td><strong>4.78%</strong></td>
+										<td><strong>4.98%</strong></td>
+										<td><strong>5.20%</strong></td>
+										<td><strong>6.51%</strong></td>
 									</tr>
 									<tr>
 										<td scope="row">$ 100,000.00 A $ 250,000.00</td>
-										<td>4.32%</td>
-										<td>4.53%</td>
-										<td>4.75%</td>
-										<td>4.96%</td>
-										<td>5.18%</td>
-										<td>5.39%</td>
-										<td>6.72%</td>
-
+										<td><strong>4.29%</strong></td>
+										<td><strong>4.50%</strong></td>
+										<td><strong>4.72%</strong></td>
+										<td><strong>4.93%</strong></td>
+										<td><strong>5.14%</strong></td>
+										<td><strong>5.35%</strong></td>
+										<td><strong>6.67%</strong></td>
 									</tr>
 									<tr>
 										<td scope="row">$ 250,001.00 A $ 500,000.00</td>
-										<td>4.47%</td>
-										<td>4.68%</td>
-										<td>4.89%</td>
-										<td>5.10%</td>
-										<td>5.32%</td>
-										<td>5.53%</td>
-										<td>6.86%</td>
-
+										<td><strong>4.43%</strong></td>
+										<td><strong>4.65%</strong></td>
+										<td><strong>4.86%</strong></td>
+										<td><strong>5.06%</strong></td>
+										<td><strong>5.28%</strong></td>
+										<td><strong>5.50%</strong></td>
+										<td><strong>6.82%</strong></td>
 									</tr>
 									<tr>
 										<td scope="row">$ 500,001.00 A $ 1,000,000.00</td>
-										<td>4.60%</td>
-										<td>4.81%</td>
-										<td>5.02%</td>
-										<td>5.24%</td>
-										<td>5.44%</td>
-										<td>5.66%</td>
-										<td>7.00%</td>
-
+										<td><strong>4.57%</strong></td>
+										<td><strong>4.78%</strong></td>
+										<td><strong>4.98%</strong></td>
+										<td><strong>5.20%</strong></td>
+										<td><strong>5.41%</strong></td>
+										<td><strong>5.62%</strong></td>
+										<td><strong>6.95%</strong></td>
 									</tr>
 									<tr>
 										<td scope="row">$ 1,000,000.00 EN ADELANTE</td>
-										<td>4.72%</td>
-										<td>4.93%</td>
-										<td>5.13%</td>
-										<td>5.35%</td>
-										<td>5.57%</td>
-										<td>5.79%</td>
-										<td>7.12%</td>
-
+										<td><strong>4.68%</strong></td>
+										<td><strong>4.89%</strong></td>
+										<td><strong>5.10%</strong></td>
+										<td><strong>5.31%</strong></td>
+										<td><strong>5.53%</strong></td>
+										<td><strong>5.75%</strong></td>
+										<td><strong>7.07%</strong></td>
 									</tr>
 								</tbody>
 							</table>

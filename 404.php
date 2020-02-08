@@ -114,7 +114,7 @@
 												<li class="nav-item"><a href="https://www.cpm.coop/necesitas-credito" class="nav-link">Créditos</a></li>
 												<li class="nav-item"><a href="https://www.cpm.coop/ahorro-e-inversion" class="nav-link">Ahorro e inversión</a></li>
 												<li class="nav-item"><a href="https://www.cpm.coop/tarjeta-de-debito" class="nav-link">Tarjetas de Débito CPM y JR</a></li>
-												<li class="nav-item"><a href="https://www.puntosverdes.mx/" target="_blank" class="nav-link">Puntos Verdes</a></li>
+												<li class="nav-item"><a href="http://www.puntosverdes.mx/" target="_blank" class="nav-link">Puntos Verdes</a></li>
 												<!-- <li class="nav-item"><a href="https://www.cpm.coop/#" class="nav-link">Remesas</a></li> -->
 												<li class="nav-item"><a href="https://www.cpm.coop/mi-nomina-mexicana" class="nav-link">Mi Nómina Mexicana</a></li>
 												<li class="nav-item"><a href="https://www.cpm.coop/necesitas-un-seguro" class="nav-link">Seguros</a></li>
@@ -194,7 +194,7 @@
 								<li class="list-group-item"><a href="https://www.cpm.coop/necesitas-credito">Créditos</a></li>
 								<li class="list-group-item"><a href="https://www.cpm.coop/ahorro-e-inversion">Ahorro e inversión</a></li>
 								<li class="list-group-item"><a href="https://www.cpm.coop/tarjeta-de-debito">Tarjetas de Débito CPM y JR</a></li>
-								<li class="list-group-item"><a href="https://www.puntosverdes.mx/" target="_blank">Puntos Verdes</a></li>
+								<li class="list-group-item"><a href="http://www.puntosverdes.mx/" target="_blank">Puntos Verdes</a></li>
 								<!-- <li class="list-group-item"><a href="https://www.cpm.coop/#">Remesas</a></li> -->
 								<li class="list-group-item"><a href="https://www.cpm.coop/mi-nomina-mexicana">Mi Nómina Mexicana</a></li>
 								<li class="list-group-item"><a href="https://www.cpm.coop/necesitas-un-seguro">Seguros</a></li>

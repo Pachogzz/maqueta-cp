@@ -132,7 +132,7 @@
 												<li class="nav-item"><a href="necesitas-credito" class="nav-link">Créditos</a></li>
 												<li class="nav-item"><a href="ahorro-e-inversion" class="nav-link">Ahorro e inversión</a></li>
 												<li class="nav-item"><a href="tarjeta-de-debito" class="nav-link">Tarjetas de Débito CPM y JR</a></li>
-												<li class="nav-item"><a href="https://www.puntosverdes.mx/" target="_blank" class="nav-link">Puntos Verdes</a></li>
+												<li class="nav-item"><a href="http://www.puntosverdes.mx/" target="_blank" class="nav-link">Puntos Verdes</a></li>
 												<!-- <li class="nav-item"><a href="#" class="nav-link">Remesas</a></li> -->
 												<li class="nav-item"><a href="mi-nomina-mexicana" class="nav-link">Mi Nómina Mexicana</a></li>
 												<li class="nav-item"><a href="necesitas-un-seguro" class="nav-link">Seguros</a></li>
@@ -211,7 +211,7 @@
 								<li class="list-group-item"><a href="necesitas-credito">Créditos</a></li>
 								<li class="list-group-item"><a href="ahorro-e-inversion">Ahorro e inversión</a></li>
 								<li class="list-group-item"><a href="tarjeta-de-debito">Tarjetas de Débito CPM y JR</a></li>
-								<li class="list-group-item"><a href="https://www.puntosverdes.mx/" target="_blank">Puntos Verdes</a></li>
+								<li class="list-group-item"><a href="http://www.puntosverdes.mx/" target="_blank">Puntos Verdes</a></li>
 								<!-- <li class="list-group-item"><a href="#">Remesas</a></li> -->
 								<li class="list-group-item"><a href="mi-nomina-mexicana">Mi Nómina Mexicana</a></li>
 								<li class="list-group-item"><a href="necesitas-un-seguro">Seguros</a></li>

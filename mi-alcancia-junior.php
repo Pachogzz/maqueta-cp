@@ -138,8 +138,8 @@
 							<div class="col-12 mt-5">
 								<!-- Nota Legal -->
 								<div class="bg-grey0 p-5">
-									<p class="display-12">Vigencia del <strong>30 de Enero al 05 de Febrero del 2020</strong></p>
-									<p class="display-12">Fecha de cálculo Enero 2020</p>
+									<p class="display-12">Vigencia del <strong>06 al 12 de Febrero del 2020</strong></p>
+									<p class="display-12">Fecha de cálculo Febrero 2020</p>
 									<p class="display-12"><strong>* GAT NOMINAL</strong> antes de impuestos. Para fines informativos y de comparación.</p>
 									<p class="display-12"><strong>**GAT REAL</strong> antes de impuestos. Para fines informativos y de comparación. La GAT REAL es el rendimiento que obtendría después de descontar la inflación estimada Para fines informativos y de comparación exclusivamente.</p>
 								</div>
@@ -174,9 +174,9 @@
 								        <td>No aplica</td>
 										<td><strong>4.45%</strong></td>
 										<td><strong>4.51%</strong></td>
-										<td><strong>1.02%</strong></td>
-								        <td>Enero</td>
-								        <td>30/01/2020 al 05/02/2020</td>
+										<td><strong>1.04%</strong></td>
+								        <td>Febrero</td>
+								        <td>06/02/2020 al 12/02/2020</td>
 								    </tr>
 								    <tr>
 								        <td scope="row">210 días</td>
@@ -185,9 +185,9 @@
 								        <td>No aplica</td>
 										<td><strong>4.72%</strong></td>
 										<td><strong>4.78%</strong></td>
-										<td><strong>1.29%</strong></td>
-								        <td>Enero</td>
-								        <td>30/01/2020 al 05/02/2020</td>
+										<td><strong>1.31%</strong></td>
+								        <td>Febrero</td>
+								        <td>06/02/2020 al 12/02/2020</td>
 								    </tr>
 								    <tr>
 								        <td scope="row">240 días</td>
@@ -196,9 +196,9 @@
 								        <td>No aplica</td>
 										<td><strong>4.99%</strong></td>
 										<td><strong>5.06%</strong></td>
-										<td><strong>1.55%</strong></td>
-								        <td>Enero</td>
-								        <td>30/01/2020 al 05/02/2020</td>
+										<td><strong>1.57%</strong></td>
+								        <td>Febrero</td>
+								        <td>06/02/2020 al 12/02/2020</td>
 								    </tr>
 								    <tr>
 								        <td scope="row">270 días</td>
@@ -207,9 +207,9 @@
 								        <td>No aplica</td>
 										<td><strong>5.27%</strong></td>
 										<td><strong>5.34%</strong></td>
-										<td><strong>1.82%</strong></td>
-								        <td>Enero</td>
-								        <td>30/01/2020 al 05/02/2020</td>
+										<td><strong>1.84%</strong></td>
+								        <td>Febrero</td>
+								        <td>06/02/2020 al 12/02/2020</td>
 								    </tr>
 								    <tr>
 								        <td scope="row">300 días</td>
@@ -218,9 +218,9 @@
 								        <td>No aplica</td>
 										<td><strong>5.54%</strong></td>
 										<td><strong>5.61%</strong></td>
-										<td><strong>2.08%</strong></td>
-								        <td>Enero</td>
-								        <td>30/01/2020 al 05/02/2020</td>
+										<td><strong>2.10%</strong></td>
+								        <td>Febrero</td>
+								        <td>06/02/2020 al 12/02/2020</td>
 								    </tr>
 								    <tr>
 								        <td scope="row">330 días</td>
@@ -229,9 +229,9 @@
 								        <td>No aplica</td>
 										<td><strong>5.81%</strong></td>
 										<td><strong>5.87%</strong></td>
-										<td><strong>2.34%</strong></td>
-								        <td>Enero</td>
-								        <td>30/01/2020 al 05/02/2020</td>
+										<td><strong>2.36%</strong></td>
+								        <td>Febrero</td>
+								        <td>06/02/2020 al 12/02/2020</td>
 								    </tr>
 								    <tr>
 								        <td scope="row">360 días</td>
@@ -240,9 +240,9 @@
 								        <td>No aplica</td>
 										<td><strong>6.09%</strong></td>
 										<td><strong>6.14%</strong></td>
-										<td><strong>2.60%</strong></td>
-								        <td>Enero</td>
-								        <td>30/01/2020 al 05/02/2020</td>
+										<td><strong>2.62%</strong></td>
+								        <td>Febrero</td>
+								        <td>06/02/2020 al 12/02/2020</td>
 								    </tr>
 								</tbody>
 							</table>
