@@ -108,7 +108,7 @@
 							<div class="col-12 mt-5">
 								<!-- Nota Legal -->
 								<div class="bg-grey0 p-5">
-									<p class="display-12">Vigencia del <strong>06 al 12 de Febrero del 2020</strong></p>
+									<p class="display-12">Vigencia del <strong>13 al 19 de Febrero del 2020</strong></p>
 									<p class="display-12">Fecha de cálculo Febrero 2020</p>
 									<p class="display-12"><strong>* GAT NOMINAL</strong> antes de impuestos. Para fines informativos y de comparación.</p>
 									<p class="display-12"><strong>**GAT REAL</strong> antes de impuestos. Para fines informativos y de comparación. La GAT REAL es el rendimiento que obtendría después de descontar la inflación estimada Para fines informativos y de comparación exclusivamente.</p>
@@ -146,7 +146,7 @@
 										<td><strong>5.32%</strong></td>
 										<td><strong>1.83%</strong></td>
 										<td>Febrero</td>
-										<td>06/02/2020 al 12/02/2020</td>
+										<td>13/02/2020 al 19/02/2020</td>
 									</tr>
 									<tr>
 										<td scope="row">210 días</td>
@@ -157,7 +157,7 @@
 										<td><strong>5.64%</strong></td>
 										<td><strong>2.14%</strong></td>
 										<td>Febrero</td>
-										<td>06/02/2020 al 12/02/2020</td>
+										<td>13/02/2020 al 19/02/2020</td>
 									</tr>
 									<tr>
 										<td scope="row">240 días</td>
@@ -168,7 +168,7 @@
 										<td><strong>5.96%</strong></td>
 										<td><strong>2.45%</strong></td>
 										<td>Febrero</td>
-										<td>06/02/2020 al 12/02/2020</td>
+										<td>13/02/2020 al 19/02/2020</td>
 									</tr>
 									<tr>
 										<td scope="row">270 días</td>
@@ -179,7 +179,7 @@
 										<td><strong>6.29%</strong></td>
 										<td><strong>2.77%</strong></td>
 										<td>Febrero</td>
-										<td>06/02/2020 al 12/02/2020</td>
+										<td>13/02/2020 al 19/02/2020</td>
 									</tr>
 									<tr>
 										<td scope="row">300 días</td>
@@ -190,7 +190,7 @@
 										<td><strong>6.61%</strong></td>
 										<td><strong>3.07%</strong></td>
 										<td>Febrero</td>
-										<td>06/02/2020 al 12/02/2020</td>
+										<td>13/02/2020 al 19/02/2020</td>
 									</tr>
 									<tr>
 										<td scope="row">330 días</td>
@@ -201,7 +201,7 @@
 										<td><strong>6.92%</strong></td>
 										<td><strong>3.38%</strong></td>
 										<td>Febrero</td>
-										<td>06/02/2020 al 12/02/2020</td>
+										<td>13/02/2020 al 19/02/2020</td>
 									</tr>
 									<tr>
 										<td scope="row">360 días</td>
@@ -212,7 +212,7 @@
 										<td><strong>7.24%</strong></td>
 										<td><strong>3.68%</strong></td>
 										<td>Febrero</td>
-										<td>06/02/2020 al 12/02/2020</td>
+										<td>13/02/2020 al 19/02/2020</td>
 									</tr>
 								</tbody>
 							</table>

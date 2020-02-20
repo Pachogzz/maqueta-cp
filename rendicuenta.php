@@ -115,7 +115,7 @@
 							<div class="col-12 mt-5">
 								<!-- Nota Legal -->
 								<div class="bg-grey0 p-5">
-									<p class="display-12">Vigencia del <strong>06 al 12 de Febrero del 2020</strong></p>
+									<p class="display-12">Vigencia del <strong>13 al 19 de Febrero del 2020</strong></p>
 									<p class="display-12">Fecha de cálculo Febrero 2020</p>
 									<p class="display-12"><strong>* GAT NOMINAL</strong> antes de impuestos. Para fines informativos y de comparación.</p>
 									<p class="display-12"><strong>**GAT REAL</strong> antes de impuestos. Para fines informativos y de comparación. La GAT REAL es el rendimiento que obtendría después de descontar la inflación estimada Para fines informativos y de comparación exclusivamente.</p>
@@ -170,9 +170,9 @@
 											<tr>
 												<td scope="row">$1,000</td>
 												<td>$25,000</td>
-												<td><strong>3.81%</strong></td>
-												<td><strong>3.88%</strong></td>
-												<td><strong>0.43%</strong></td>
+												<td><strong>3.82%</strong></td>
+												<td><strong>3.89%</strong></td>
+												<td><strong>0.44%</strong></td>
 											</tr>
 											<tr>
 												<td scope="row">$25,001</td>
@@ -191,16 +191,16 @@
 											<tr>
 												<td scope="row">$100,001</td>
 												<td>$250,000</td>
-												<td><strong>4.29%</strong></td>
-												<td><strong>4.38%</strong></td>
-												<td><strong>0.91%</strong></td>
+												<td><strong>4.30%</strong></td>
+												<td><strong>4.39%</strong></td>
+												<td><strong>0.92%</strong></td>
 											</tr>
 											<tr>
 												<td scope="row">$250,001</td>
 												<td>$500,000</td>
-												<td><strong>4.43%</strong></td>
-												<td><strong>4.52%</strong></td>
-												<td><strong>1.05%</strong></td>
+												<td><strong>4.44%</strong></td>
+												<td><strong>4.53%</strong></td>
+												<td><strong>1.06%</strong></td>
 											</tr>
 											<tr>
 												<td scope="row">$500,001</td>
@@ -212,9 +212,9 @@
 											<tr>
 												<td scope="row">$1,000,001</td>
 												<td>En adelante</td>
-												<td><strong>4.68%</strong></td>
-												<td><strong>4.78%</strong></td>
-												<td><strong>1.31%</strong></td>
+												<td><strong>4.69%</strong></td>
+												<td><strong>4.79%</strong></td>
+												<td><strong>1.32%</strong></td>
 											</tr>
 										</tbody>
 									</table>
@@ -245,30 +245,30 @@
 										    <tr>
 										        <td scope="row">$25,001</td>
 										        <td>$50,000</td>
-												<td><strong>4.19%</strong></td>
-												<td><strong>4.26%</strong></td>
-												<td><strong>0.81%</strong></td>
+												<td><strong>4.20%</strong></td>
+												<td><strong>4.27%</strong></td>
+												<td><strong>0.82%</strong></td>
 										    </tr>
 										    <tr>
 										        <td scope="row">$50,001</td>
 										        <td>$100,000</td>
-												<td><strong>4.35%</strong></td>
-												<td><strong>4.43%</strong></td>
-												<td><strong>0.97%</strong></td>
+												<td><strong>4.36%</strong></td>
+												<td><strong>4.44%</strong></td>
+												<td><strong>0.98%</strong></td>
 										    </tr>
 										    <tr>
 										        <td scope="row">$100,001</td>
 										        <td>$250,000</td>
-												<td><strong>4.50%</strong></td>
-												<td><strong>4.59%</strong></td>
-												<td><strong>1.12%</strong></td>
+												<td><strong>4.51%</strong></td>
+												<td><strong>4.60%</strong></td>
+												<td><strong>1.13%</strong></td>
 										    </tr>
 										    <tr>
 										        <td scope="row">$250,001</td>
 										        <td>$500,000</td>
-												<td><strong>4.65%</strong></td>
-												<td><strong>4.74%</strong></td>
-												<td><strong>1.27%</strong></td>
+												<td><strong>4.66%</strong></td>
+												<td><strong>4.75%</strong></td>
+												<td><strong>1.28%</strong></td>
 										    </tr>
 										    <tr>
 										        <td scope="row">$500,001</td>
@@ -280,9 +280,9 @@
 										    <tr>
 										        <td scope="row">$1,000,001</td>
 										        <td>En adelante</td>
-												<td><strong>4.89%</strong></td>
-												<td><strong>4.99%</strong></td>
-												<td><strong>1.51%</strong></td>
+												<td><strong>4.90%</strong></td>
+												<td><strong>5.00%</strong></td>
+												<td><strong>1.52%</strong></td>
 										    </tr>
 										</tbody>
 									</table>
@@ -306,30 +306,30 @@
 										    <tr>
 										        <td scope="row">$1,000</td>
 										        <td>$25,000</td>
-												<td><strong>4.22%</strong></td>
-												<td><strong>4.29%</strong></td>
-												<td><strong>0.83%</strong></td>
+												<td><strong>4.23%</strong></td>
+												<td><strong>4.30%</strong></td>
+												<td><strong>0.84%</strong></td>
 										    </tr>
 										    <tr>
 										        <td scope="row">$25,001</td>
 										        <td>$50,000</td>
-												<td><strong>4.40%</strong></td>
-												<td><strong>4.47%</strong></td>
-												<td><strong>1.01%</strong></td>
+												<td><strong>4.41%</strong></td>
+												<td><strong>4.48%</strong></td>
+												<td><strong>1.02%</strong></td>
 										    </tr>
 										    <tr>
 										        <td scope="row">$50,001</td>
 										        <td>$100,000</td>
-												<td><strong>4.56%</strong></td>
-												<td><strong>4.64%</strong></td>
-												<td><strong>1.17%</strong></td>
+												<td><strong>4.57%</strong></td>
+												<td><strong>4.65%</strong></td>
+												<td><strong>1.18%</strong></td>
 										    </tr>
 										    <tr>
 										        <td scope="row">$100,001</td>
 										        <td>$250,000</td>
-												<td><strong>4.72%</strong></td>
-												<td><strong>4.80%</strong></td>
-												<td><strong>1.33%</strong></td>
+												<td><strong>4.73%</strong></td>
+												<td><strong>4.81%</strong></td>
+												<td><strong>1.34%</strong></td>
 										    </tr>
 										    <tr>
 										        <td scope="row">$250,001</td>
@@ -341,16 +341,16 @@
 										    <tr>
 										        <td scope="row">$500,001</td>
 										        <td>$1,000,000</td>
-												<td><strong>4.98%</strong></td>
-												<td><strong>5.07%</strong></td>
-												<td><strong>1.59%</strong></td>
+												<td><strong>4.99%</strong></td>
+												<td><strong>5.08%</strong></td>
+												<td><strong>1.60%</strong></td>
 										    </tr>
 										    <tr>
 										        <td scope="row">$1,000,001</td>
 										        <td>En adelante</td>
-												<td><strong>5.10%</strong></td>
-												<td><strong>5.20%</strong></td>
-												<td><strong>1.71%</strong></td>
+												<td><strong>5.11%</strong></td>
+												<td><strong>5.21%</strong></td>
+												<td><strong>1.72%</strong></td>
 										    </tr>
 										</tbody>
 									</table>
@@ -377,12 +377,12 @@
 										    <tr>
 										        <td scope="row">$1,000</td>
 										        <td>$25,000</td>
-												<td><strong>4.43%</strong></td>
-												<td><strong>4.50%</strong></td>
-												<td><strong>1.03%</strong></td>
-												<td><strong>4.39%</strong></td>
-												<td><strong>4.45%</strong></td>
-												<td><strong>0.99%</strong></td>
+												<td><strong>4.44%</strong></td>
+												<td><strong>4.51%</strong></td>
+												<td><strong>1.04%</strong></td>
+												<td><strong>4.40%</strong></td>
+												<td><strong>4.46%</strong></td>
+												<td><strong>1.00%</strong></td>
 										    </tr>
 										    <tr>
 										        <td scope="row">$25,001</td>
@@ -417,32 +417,32 @@
 										    <tr>
 										        <td scope="row">$250,001</td>
 										        <td>$500,000</td>
-												<td><strong>5.06%</strong></td>
-												<td><strong>5.15%</strong></td>
-												<td><strong>1.66%</strong></td>
-												<td><strong>5.02%</strong></td>
-												<td><strong>5.10%</strong></td>
-												<td><strong>1.62%</strong></td>
+												<td><strong>5.07%</strong></td>
+												<td><strong>5.16%</strong></td>
+												<td><strong>1.67%</strong></td>
+												<td><strong>5.03%</strong></td>
+												<td><strong>5.11%</strong></td>
+												<td><strong>1.63%</strong></td>
 										    </tr>
 										    <tr>
 										        <td scope="row">$500,001</td>
 										        <td>$1,000,000</td>
-												<td><strong>5.20%</strong></td>
-												<td><strong>5.29%</strong></td>
-												<td><strong>1.80%</strong></td>
-												<td><strong>5.16%</strong></td>
-												<td><strong>5.25%</strong></td>
-												<td><strong>1.76%</strong></td>
+												<td><strong>5.21%</strong></td>
+												<td><strong>5.30%</strong></td>
+												<td><strong>1.81%</strong></td>
+												<td><strong>5.17%</strong></td>
+												<td><strong>5.26%</strong></td>
+												<td><strong>1.77%</strong></td>
 										    </tr>
 										    <tr>
 										        <td scope="row">$1,000,001</td>
 										        <td>En adelante</td>
-												<td><strong>5.31%</strong></td>
-												<td><strong>5.40%</strong></td>
-												<td><strong>1.91%</strong></td>
-												<td><strong>5.27%</strong></td>
-												<td><strong>5.36%</strong></td>
-												<td><strong>1.87%</strong></td>
+												<td><strong>5.32%</strong></td>
+												<td><strong>5.41%</strong></td>
+												<td><strong>1.92%</strong></td>
+												<td><strong>5.28%</strong></td>
+												<td><strong>5.37%</strong></td>
+												<td><strong>1.88%</strong></td>
 										    </tr>
 										</tbody>
 									</table>
@@ -479,42 +479,42 @@
 										    <tr>
 										        <td scope="row">$25,001</td>
 										        <td>$50,000</td>
-												<td><strong>4.82%</strong></td>
-												<td><strong>4.90%</strong></td>
-												<td><strong>1.42%</strong></td>
-												<td><strong>4.77%</strong></td>
-												<td><strong>4.85%</strong></td>
-												<td><strong>1.37%</strong></td>
+												<td><strong>4.83%</strong></td>
+												<td><strong>4.91%</strong></td>
+												<td><strong>1.43%</strong></td>
+												<td><strong>4.78%</strong></td>
+												<td><strong>4.86%</strong></td>
+												<td><strong>1.38%</strong></td>
 										    </tr>
 										    <tr>
 										        <td scope="row">$50,001</td>
 										        <td>$100,000</td>
-												<td><strong>4.98%</strong></td>
-												<td><strong>5.06%</strong></td>
-												<td><strong>1.58%</strong></td>
-												<td><strong>4.93%</strong></td>
-												<td><strong>5.01%</strong></td>
-												<td><strong>1.53%</strong></td>
+												<td><strong>4.99%</strong></td>
+												<td><strong>5.07%</strong></td>
+												<td><strong>1.59%</strong></td>
+												<td><strong>4.94%</strong></td>
+												<td><strong>5.02%</strong></td>
+												<td><strong>1.54%</strong></td>
 										    </tr>
 										    <tr>
 										        <td scope="row">$100,001</td>
 										        <td>$250,000</td>
-												<td><strong>5.14%</strong></td>
-												<td><strong>5.23%</strong></td>
-												<td><strong>1.74%</strong></td>
-												<td><strong>5.09%</strong></td>
-												<td><strong>5.18%</strong></td>
-												<td><strong>1.69%</strong></td>
+												<td><strong>5.15%</strong></td>
+												<td><strong>5.24%</strong></td>
+												<td><strong>1.75%</strong></td>
+												<td><strong>5.10%</strong></td>
+												<td><strong>5.19%</strong></td>
+												<td><strong>1.70%</strong></td>
 										    </tr>
 										    <tr>
 										        <td scope="row">$250,001</td>
 										        <td>$500,000</td>
-												<td><strong>5.28%</strong></td>
-												<td><strong>5.37%</strong></td>
-												<td><strong>1.88%</strong></td>
-												<td><strong>5.23%</strong></td>
-												<td><strong>5.32%</strong></td>
-												<td><strong>1.83%</strong></td>
+												<td><strong>5.29%</strong></td>
+												<td><strong>5.38%</strong></td>
+												<td><strong>1.89%</strong></td>
+												<td><strong>5.24%</strong></td>
+												<td><strong>5.33%</strong></td>
+												<td><strong>1.84%</strong></td>
 										    </tr>
 										    <tr>
 										        <td scope="row">$500,001</td>
@@ -529,12 +529,12 @@
 										    <tr>
 										        <td scope="row">$1,000,001</td>
 										        <td>En adelante</td>
-												<td><strong>5.53%</strong></td>
-												<td><strong>5.63%</strong></td>
-												<td><strong>2.13%</strong></td>
-												<td><strong>5.48%</strong></td>
-												<td><strong>5.58%</strong></td>
-												<td><strong>2.08%</strong></td>
+												<td><strong>5.54%</strong></td>
+												<td><strong>5.64%</strong></td>
+												<td><strong>2.14%</strong></td>
+												<td><strong>5.49%</strong></td>
+												<td><strong>5.59%</strong></td>
+												<td><strong>2.09%</strong></td>
 										    </tr>
 										</tbody>
 									</table>
@@ -571,32 +571,32 @@
 										    <tr>
 										        <td scope="row">$25,001</td>
 										        <td>$50,000</td>
+												<td><strong>5.04%</strong></td>
+												<td><strong>5.10%</strong></td>
+												<td><strong>1.62%</strong></td>
+												<td><strong>4.97%</strong></td>
 												<td><strong>5.03%</strong></td>
-												<td><strong>5.09%</strong></td>
-												<td><strong>1.61%</strong></td>
-												<td><strong>4.96%</strong></td>
-												<td><strong>5.02%</strong></td>
-												<td><strong>1.54%</strong></td>
+												<td><strong>1.55%</strong></td>
 										    </tr>
 										    <tr>
 										        <td scope="row">$50,001</td>
 										        <td>$100,000</td>
-												<td><strong>5.20%</strong></td>
-												<td><strong>5.27%</strong></td>
-												<td><strong>1.78%</strong></td>
-												<td><strong>5.13%</strong></td>
-												<td><strong>5.20%</strong></td>
-												<td><strong>1.71%</strong></td>
+												<td><strong>5.21%</strong></td>
+												<td><strong>5.28%</strong></td>
+												<td><strong>1.79%</strong></td>
+												<td><strong>5.14%</strong></td>
+												<td><strong>5.21%</strong></td>
+												<td><strong>1.72%</strong></td>
 										    </tr>
 										    <tr>
 										        <td scope="row">$100,001</td>
 										        <td>$250,000</td>
-												<td><strong>5.35%</strong></td>
-												<td><strong>5.42%</strong></td>
-												<td><strong>1.93%</strong></td>
-												<td><strong>5.28%</strong></td>
-												<td><strong>5.35%</strong></td>
-												<td><strong>1.86%</strong></td>
+												<td><strong>5.36%</strong></td>
+												<td><strong>5.43%</strong></td>
+												<td><strong>1.94%</strong></td>
+												<td><strong>5.29%</strong></td>
+												<td><strong>5.36%</strong></td>
+												<td><strong>1.87%</strong></td>
 										    </tr>
 										    <tr>
 										        <td scope="row">$250,001</td>
@@ -611,22 +611,22 @@
 										    <tr>
 										        <td scope="row">$500,001</td>
 										        <td>$1,000,000</td>
-												<td><strong>5.62%</strong></td>
-												<td><strong>5.70%</strong></td>
-												<td><strong>2.19%</strong></td>
-												<td><strong>5.55%</strong></td>
 												<td><strong>5.63%</strong></td>
-												<td><strong>2.12%</strong></td>
+												<td><strong>5.71%</strong></td>
+												<td><strong>2.20%</strong></td>
+												<td><strong>5.56%</strong></td>
+												<td><strong>5.64%</strong></td>
+												<td><strong>2.13%</strong></td>
 										    </tr>
 										    <tr>
 										        <td scope="row">$1,000,001</td>
 										        <td>En adelante</td>
-												<td><strong>5.75%</strong></td>
-												<td><strong>5.83%</strong></td>
-												<td><strong>2.32%</strong></td>
-												<td><strong>5.68%</strong></td>
 												<td><strong>5.76%</strong></td>
-												<td><strong>2.25%</strong></td>
+												<td><strong>5.84%</strong></td>
+												<td><strong>2.33%</strong></td>
+												<td><strong>5.69%</strong></td>
+												<td><strong>5.77%</strong></td>
+												<td><strong>2.26%</strong></td>
 										    </tr>
 										</tbody>
 									</table>
@@ -653,52 +653,52 @@
 										    <tr>
 										        <td scope="row">$1,000</td>
 										        <td>$25,000</td>
-												<td><strong>6.16%</strong></td>
-												<td><strong>6.16%</strong></td>
-												<td><strong>2.64%</strong></td>
-												<td><strong>6.01%</strong></td>
-												<td><strong>6.18%</strong></td>
-												<td><strong>2.66%</strong></td>
+												<td><strong>6.17%</strong></td>
+												<td><strong>6.17%</strong></td>
+												<td><strong>2.65%</strong></td>
+												<td><strong>6.02%</strong></td>
+												<td><strong>6.19%</strong></td>
+												<td><strong>2.67%</strong></td>
 										    </tr>
 										    <tr>
 										        <td scope="row">$25,001</td>
 										        <td>$50,000</td>
-												<td><strong>6.34%</strong></td>
-												<td><strong>6.34%</strong></td>
-												<td><strong>2.81%</strong></td>
-												<td><strong>6.19%</strong></td>
-												<td><strong>6.37%</strong></td>
-												<td><strong>2.84%</strong></td>
+												<td><strong>6.35%</strong></td>
+												<td><strong>6.35%</strong></td>
+												<td><strong>2.82%</strong></td>
+												<td><strong>6.20%</strong></td>
+												<td><strong>6.38%</strong></td>
+												<td><strong>2.85%</strong></td>
 										    </tr>
 										    <tr>
 										        <td scope="row">$50,001</td>
 										        <td>$100,000</td>
-												<td><strong>6.51%</strong></td>
-												<td><strong>6.51%</strong></td>
-												<td><strong>2.98%</strong></td>
-												<td><strong>6.36%</strong></td>
-												<td><strong>6.55%</strong></td>
-												<td><strong>3.02%</strong></td>
+												<td><strong>6.52%</strong></td>
+												<td><strong>6.52%</strong></td>
+												<td><strong>2.99%</strong></td>
+												<td><strong>6.37%</strong></td>
+												<td><strong>6.56%</strong></td>
+												<td><strong>3.03%</strong></td>
 										    </tr>
 										    <tr>
 										        <td scope="row">$100,001</td>
 										        <td>$250,000</td>
-												<td><strong>6.67%</strong></td>
-												<td><strong>6.67%</strong></td>
-												<td><strong>3.13%</strong></td>
-												<td><strong>6.52%</strong></td>
-												<td><strong>6.72%</strong></td>
-												<td><strong>3.18%</strong></td>
+												<td><strong>6.68%</strong></td>
+												<td><strong>6.68%</strong></td>
+												<td><strong>3.14%</strong></td>
+												<td><strong>6.53%</strong></td>
+												<td><strong>6.73%</strong></td>
+												<td><strong>3.19%</strong></td>
 										    </tr>
 										    <tr>
 										        <td scope="row">$250,001</td>
 										        <td>$500,000</td>
-												<td><strong>6.82%</strong></td>
-												<td><strong>6.82%</strong></td>
-												<td><strong>3.28%</strong></td>
-												<td><strong>6.67%</strong></td>
-												<td><strong>6.88%</strong></td>
-												<td><strong>3.33%</strong></td>
+												<td><strong>6.83%</strong></td>
+												<td><strong>6.83%</strong></td>
+												<td><strong>3.29%</strong></td>
+												<td><strong>6.68%</strong></td>
+												<td><strong>6.89%</strong></td>
+												<td><strong>3.34%</strong></td>
 										    </tr>
 										    <tr>
 										        <td scope="row">$500,001</td>
@@ -713,12 +713,12 @@
 										    <tr>
 										        <td scope="row">$1,000,001</td>
 										        <td>En adelante</td>
-												<td><strong>7.07%</strong></td>
-												<td><strong>7.07%</strong></td>
-												<td><strong>3.52%</strong></td>
-												<td><strong>6.93%</strong></td>
-												<td><strong>7.15%</strong></td>
-												<td><strong>3.60%</strong></td>
+												<td><strong>7.08%</strong></td>
+												<td><strong>7.08%</strong></td>
+												<td><strong>3.53%</strong></td>
+												<td><strong>6.94%</strong></td>
+												<td><strong>7.17%</strong></td>
+												<td><strong>3.61%</strong></td>
 										    </tr>
 										</tbody>
 									</table>

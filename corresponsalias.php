@@ -36,12 +36,12 @@
 							        </button>
 							      </div>
 							      <div class="modal-body">
-							        <iframe src="assets/img/secciones/corresponsalias/DICIEMBRE-CORRESPONSALIAS.html" class="w-100" height="600" frameborder="0"></iframe>
+							        <iframe src="assets/img/secciones/corresponsalias/ENERO-CORRESPONSALIAS.html" class="w-100" height="600" frameborder="0"></iframe>
 							      </div>
 							    </div>
 							  </div>
 							</div> <!-- ./ Modal Ends -->
-							<p class="mb-0 h3 font-weight-normal font-weight-bolder mt-3">Vigencia: DICIEMBRE 2019</p></a>
+							<p class="mb-0 h3 font-weight-normal font-weight-bolder mt-3">Vigencia: ENERO 2020</p></a>
 						</blockquote>
 					</div>
 				</div>
@@ -75,7 +75,7 @@
 								<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionCICPM">
 									<div class="card-body bg-grey0 p-4">
 										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Desde las 7:00 a.m. y hasta las 8:00 p.m. los 365 días del año.</li>
+											<li>Desde las 7:00 a.m. y hasta las 8:00 p.m. hora centro, los 365 días del año.</li>
 											<li>La comisión por operación en tiendas OXXO será de $10.00 pesos.</li>
 											<li>Todas las operaciones serán solo en efectivo y moneda nacional.</li>
 											<li>Hasta por 5 mil pesos en cada operación, sin exceder un monto diario de 20 mil pesos por cada cuenta.</li>

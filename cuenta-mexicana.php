@@ -107,7 +107,7 @@
 							<div class="col-12 mt-5">
 								<!-- Nota Legal -->
 								<div class="bg-grey0 p-5">
-									<p class="display-12">Vigencia del <strong>06 al 12 de Febrero del 2020</strong></p>
+									<p class="display-12">Vigencia del <strong>13 al 19 de Febrero del 2020</strong></p>
 									<p class="display-12">Fecha de cálculo Febrero 2020</p>
 									<p class="display-12"><strong>* GAT NOMINAL</strong> antes de impuestos. Para fines informativos y de comparación.</p>
 									<p class="display-12"><strong>**GAT REAL</strong> antes de impuestos. Para fines informativos y de comparación. La GAT REAL es el rendimiento que obtendría después de descontar la inflación estimada Para fines informativos y de comparación exclusivamente.</p>

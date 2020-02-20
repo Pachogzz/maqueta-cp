@@ -57,11 +57,10 @@
 							<!-- <h2 class="d-inline-block border-primary text-primary font-weight-bolder bw-3 py-2 px-3 mb-3">DESCRIPCIÓN</h2> -->
 							<img width="" src="assets/img/secciones/logos-credito/credito-automotriz.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Adquiere el automóvil que tú quieras ya sea nuevo o seminuevo de agencia para uso personal o productivo ¡Te financiamos hasta el 100% del valor del vehículo!</p>
-							<p class="lead my-3 font-weight-bold text-primary">Montos desde $1,000.00 hasta $903,930.00</p>
-							<!-- <p class="lead my-3 font-weight-bold text-primary">Montos desde $36,157.00 hasta $903,930.00 </p> -->
-							<p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/FR-1917_Contrato_de_apertura_de_credito_en_cuenta_corriente.pdf">aquí</a></p>
-						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
+							<p class="lead my-3 font-weight-bold text-primary">Montos desde $38,641.20 hasta $966,930.00</p>
+							<p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/contratos/Credito-Automotriz/FR-1916-Contrato-de-apertura-de-credito-automotriz.pdf" target="_blank">aquí</a></p>
 						</div>
+						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 						<div class="embed-responsive embed-responsive-16by9 mb-3 mb-lg-5">
 							<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9diWKW-ZxEg" allowfullscreen></iframe>
 						</div>
@@ -96,7 +95,7 @@
 									<div class="card-body bg-grey0 p-4">
 										<h4>Monto</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Montos desde $1,000.00 hasta $903,930.00</li>
+											<li>Montos desde $38,641.20 hasta $966,930.00</li>
 											<li>Crédito otorgado en moneda nacional.</li>
 											<!-- <li>Hasta 150,000.00 UDIS (Al 31 de enero de 2019, importe $937,139.25] UDIS [Unidad de inversión que se actualiza mensualmente para su conversión en moneda nacional).</li> -->
 										</ul>
@@ -121,10 +120,10 @@
 									<div class="card-body bg-grey0 p-4">
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li><strong>Tasa de Interés</strong>
-												<p>Tasa de interés ordinaria anual fija desde un 12.84% hasta un 33.0% antes de impuestos. La tasa se asignará de acuerdo al perfil crediticio del socio.</p>
+												<p>Tasa de interés ordinaria anual fija única de 12.84% más IVA hasta un 33.0% antes de impuestos. La tasa se asignará de acuerdo al perfil crediticio del socio.</p>
 											</li>
-											<li><strong>CAT Promedio Crédito Automotríz CPM</strong>
-												<p><strong>Costo Anual Total Promedio de 20.8% sin IVA.</strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 31 de Diciembre de 2019.</strong></p>
+											<li><strong>CAT Promedio Crédito Automotriz CPM</strong>
+												<p><strong>Costo Anual Total Promedio de 20.3% sin IVA.</strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 31 de Diciembre de 2019.</strong></p>
 											</li>
 										</ul>
 									</div>
@@ -150,6 +149,7 @@
 											<li>Sólo podrán ser financiados vehículos seminuevos con una antigüedad menor o igual a 4 años incluyendo el año actual.</li>
 											<li>No serán financiados los accesorios que se adquieran de forma adicional al equipamiento del vehículo.</li>
 											<li>Sólo podrá aplicarse para compra de vehículos que provengan directamente de agencias automotrices formalmente establecidas.</li>
+											<li>Se deberá contratar un seguro automotriz de cobertura amplia que deberá permanecer vigente durante el plazo del crédito.</li>
 										</ul>
 										<h4>Documentos generales</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">

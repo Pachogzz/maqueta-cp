@@ -26,7 +26,7 @@
 							<!-- <h2 class="d-inline-block border-primary text-primary font-weight-bolder bw-3 py-2 px-3 mb-3">DESCRIPCIÓN</h2> -->
 							<img width="" src="assets/img/secciones/logos-credito/credito-productivo.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Adquiere tu crédito para financiar tus actividades comerciales y productivas</p>
-							<p class="lead my-3 font-weight-bold text-primary">Montos desde $1,000.00 Hasta $18,078,600.00</p>
+							<p class="lead my-3 font-weight-bold text-primary">Montos desde $1,000.00 Hasta $19,320,600.00</p>
 							<p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/FR-1917_Contrato_de_apertura_de_credito_en_cuenta_corriente.pdf">aquí</a></p>
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
@@ -60,7 +60,7 @@
 									<div class="card-body bg-grey0 p-4">
 										<h4>Monto</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Montos desde $1,000.00, hasta $18,078,000.00</li>
+											<li>Montos desde $1,000.00, hasta $19,320,600.00</li>
 											<li>Crédito otorgado en moneda nacional.</li>
 											<!-- <li>Hasta 3,000,000 UDIS (Al 31 de enero de 2019, importe $18,742,785] UDIS [Unidad de inversión que se actualiza mensualmente para su conversión en moneda nacional].</li> -->
 										</ul>
@@ -86,7 +86,7 @@
 									<div class="card-body bg-grey0 p-4">
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li><strong>Tasa de Interés</strong>
-												<p>Tasa de interés ordinaria anual fija desde del 24.2% antes de impuestos. La tasa se asignará de acuerdo al perfil crediticio del socio.</p>
+												<p>Tasa de interés ordinaria anual fija única del 24.2% más IVA. La tasa se asignará de acuerdo al perfil crediticio del socio.</p>
 											</li>
 											<li><strong>CAT Promedio Crédito Productivo CPM</strong>
 												<p><strong>Costo Anual Total Promedio de 25.5% sin IVA.</strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 31 de Diciembre de 2019.</strong></p>
@@ -95,6 +95,26 @@
 									</div>
 								</div>
 							</div>
+
+							<div class="card">
+								<div class="card-header" id="headingTwo2">
+									<h2 class="mb-0">
+										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo2" aria-expanded="false" aria-controls="collapseTwo2">
+											Contratos
+										</button>
+									</h2>
+								</div>
+								<div id="collapseTwo2" class="collapse" aria-labelledby="headingTwo2" data-parent="#accordionCICPM">
+									<div class="card-body bg-grey0 p-4">
+										<ul class="p-5 bg-white bw-1 border-grey1">
+											<li><a href="assets/pdfs/contratos/Credito-Productivo-de-CPM/FR-1920-Contrato-de-apertura-de-credito-simple.pdf" target="_blank"><strong>Contrato de apertura de crédito simple</strong></a></li>
+											<li><a href="assets/pdfs/contratos/Credito-Productivo-de-CPM/FR-1915-Contrato-apertura-de-credito-simple-con-garantia-prendaria.pdf" target="_blank"><strong>Contrato de apertura de crédito simple con garantía prendaria</strong></a></li>
+											<li><a href="assets/pdfs/contratos/Credito-Productivo-de-CPM/FR-1919-Contrato-deapertura-de-credito-simple-con-garantia-hipotecaria.pdf" target="_blank"><strong>Contrato de apertura de crédito simple con garantía hipotecaria</strong></a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+
 							<div class="card">
 								<div class="card-header" id="headingThree">
 									<h2 class="mb-0">
@@ -112,9 +132,10 @@
 										</ul>
 										<h4>Condiciones</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Requiere de garantía hipotecaria o prendaria y un seguro que lo cubra* en préstamos mayores a 60,000 UDIS para socios cumplidos y 25,000 UDIS para socios no clasificados como cumplidos.</li>
+											<li>Requiere de garantía hipotecaria o prendaria y un seguro que lo cubra en montos mayores a 60,000 UDIS* en acumulación de créditos para socios cumplidos y montos mayores a 25,000 UDIS* para socios no clasificados como cumplidos.</li>
 											<li>Un socio podrá obtener y mantener a la vez más de un préstamo de este producto.</li>
 											<li>No se otorgará este producto para créditos cuando la garantía hipotecaria consista en la vivienda, propiedad del acreditado.</li>
+											<p><small>*UDI: (Unidades de Inversión) son unidades de cuenta cuyo valor en moneda nacional publica el Banco de México. Los montos a pagar varían conforme al comportamiento de la moneda o índice de referencia.</small></p>
 										</ul>
 										<h4>Documentos generales</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">

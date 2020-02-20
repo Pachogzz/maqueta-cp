@@ -27,20 +27,20 @@
 							<img width="" src="assets/img/secciones/logos-credito/credito-inmediato.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Obtén un crédito inmediato, de igual o menor monto a tu ahorro, con una tasa accesible</p>
 							<p class="lead my-3 font-weight-bold text-primary">Montos desde $1,000.00 hasta $30,000,000.00</p>
-							<p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/FR-1917_Contrato_de_apertura_de_credito_en_cuenta_corriente.pdf">aquí</a></p>
+							<p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/contratos/Credito-Inmediato-CPM/FR-1920-Contrato-de-apertura-de-credito-simple.pdf">aquí</a></p>
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 						<!-- Nota Legal -->
 						<div class="bg-grey0 p-5 mb-5">
 							<p class="display-12"><strong>Costo Anual Total Promedio de 32496813783425200000000000000000000000.0% sin IVA</strong>. Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 31 de Diciembre de 2019.</strong></p>
-							<p class="display-12">*Cálculo para el <strong>Crédito Inmediato CPM</strong> por la cantidad de <strong>$15,000.00 a un plazo de 12 meses con un monto mínimo de ahorro de $1,500.00</strong>.</p>
+							<!-- <p class="display-12">*Cálculo para el <strong>Crédito Inmediato CPM</strong> por la cantidad de <strong>$15,000.00 a un plazo de 12 meses con un monto mínimo de ahorro de $1,500.00</strong>.</p>
 							<ul class="display-12">
 								<li>Sujeto a aprobación de crédito.</li>
 								<li>Préstamo otorgado en moneda nacional.</li>
 								<li>Disponible en todas nuestras sucursales a nivel nacional.</li>
 								<li>La tasa de interés se asignará de acuerdo al historial crediticio interno y externo a Caja Popular Mexicana que presente el socio.</li>
 								<li>En la contratación del producto, el plan de pagos se establece de manera mensual</li>
-							</ul>
+							</ul> -->
 						</div>
 						<!-- Nota Legal -->
 					</div>
@@ -84,7 +84,7 @@
 									<div class="card-body bg-grey0 p-4">
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li><strong>Tasa de Interés</strong>
-												<p>Tasa de interés ordinaria anual fija del 12.24 antes de impuestos.</p>
+												<p>Tasa de interés ordinaria anual fija única del 12.24 más IVA.</p>
 											</li>
 											<li><strong>CAT Promedio Crédito Inmediato CPM</strong>
 												<p><strong>Costo Anual Total Promedio de 32496813783425200000000000000000000000.0% sin IVA</strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 31 de Diciembre de 2019.</strong></p>
