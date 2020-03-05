@@ -157,7 +157,8 @@
 											<li>Comprobante de domicilio.</li>
 											<li>Comprobante de ingresos*</li>
 											<li>Cotización del seguro a contratar en aquellos casos que sea objeto de financiamiento.</li>
-											<li>Cotización del vehículo expedido por la agencia automotriz en caso de que la finalidad sea productiva.</li>
+											<li>Cotización del vehículo expedido por la agencia automotriz.</li>
+											<!-- <li>Cotización del vehículo expedido por la agencia automotriz en caso de que la finalidad sea productiva.</li> -->
 										</ul>
 										<p><small>*Aplican restricciones, para mayor información acude a nuestras sucursales.</small></p>
 									</div>

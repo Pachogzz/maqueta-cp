@@ -103,8 +103,8 @@
 							<div class="col-12 mt-5">
 								<!-- Nota Legal -->
 								<div class="bg-grey0 p-5">
-									<p class="display-12">Vigencia del <strong>13 al 19 de Febrero del 2020</strong></p>
-									<p class="display-12">Fecha de cálculo Febrero 2020</p>
+									<p class="display-12">Vigencia del <strong>05 al 11 de Marzo del 2020</strong></p>
+									<p class="display-12">Fecha de cálculo Marzo 2020</p>
 									<p class="display-12"><strong>* GAT NOMINAL</strong> antes de impuestos. Para fines informativos y de comparación.</p>
 									<p class="display-12"><strong>**GAT REAL</strong> antes de impuestos. Para fines informativos y de comparación. La GAT REAL es el rendimiento que obtendría después de descontar la inflación estimada Para fines informativos y de comparación exclusivamente.</p>
 								</div>
@@ -131,19 +131,19 @@
 										<td scope="row">$ 20.00 A $ 25,000.00</td>
 										<td><strong>3.79%</strong></td>
 										<td><strong>3.86%</strong></td>
-										<td><strong>0.41%</strong></td>
+										<td><strong>0.36%</strong></td>
 									</tr>
 									<tr>
 										<td scope="row">$ 25,001.00 A $ 50,000.00</td>
 										<td><strong>3.90%</strong></td>
 										<td><strong>3.97%</strong></td>
-										<td><strong>0.52%</strong></td>
+										<td><strong>0.47%</strong></td>
 									</tr>
 									<tr>
 										<td scope="row">$ 50,000.01 EN ADELANTE</td>
 										<td><strong>4.01%</strong></td>
 										<td><strong>4.08%</strong></td>
-										<td><strong>0.63%</strong></td>
+										<td><strong>0.58%</strong></td>
 									</tr>
 								</tbody>
 							</table>

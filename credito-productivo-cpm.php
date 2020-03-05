@@ -27,7 +27,7 @@
 							<img width="" src="assets/img/secciones/logos-credito/credito-productivo.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Adquiere tu crédito para financiar tus actividades comerciales y productivas</p>
 							<p class="lead my-3 font-weight-bold text-primary">Montos desde $1,000.00 Hasta $19,320,600.00</p>
-							<p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/FR-1917_Contrato_de_apertura_de_credito_en_cuenta_corriente.pdf">aquí</a></p>
+							<!-- <p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/FR-1917_Contrato_de_apertura_de_credito_en_cuenta_corriente.pdf">aquí</a></p> -->
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 						<!-- Nota Legal -->
@@ -86,7 +86,8 @@
 									<div class="card-body bg-grey0 p-4">
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li><strong>Tasa de Interés</strong>
-												<p>Tasa de interés ordinaria anual fija única del 24.2% más IVA. La tasa se asignará de acuerdo al perfil crediticio del socio.</p>
+												<p>Tasa de interés ordinaria anual fija única del 19.44% más IVA.</p>
+												<!-- <p>Tasa de interés ordinaria anual fija única del 24.2% más IVA. La tasa se asignará de acuerdo al perfil crediticio del socio.</p> -->
 											</li>
 											<li><strong>CAT Promedio Crédito Productivo CPM</strong>
 												<p><strong>Costo Anual Total Promedio de 25.5% sin IVA.</strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 31 de Diciembre de 2019.</strong></p>

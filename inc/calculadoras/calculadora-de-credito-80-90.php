@@ -1,12 +1,12 @@
-<a href="ser-socio.php" class="btn btn-primary rounded-pill w-100 w-lg-75 mx-auto" data-toggle="modal" data-target="#exampleModalCenter">
+<a href="ser-socio.php" class="btn btn-primary rounded-pill w-100 w-lg-75 mx-auto" data-toggle="modal" data-target="#calculadora8090">
 	Calcular
 </a>
 <!-- Modal -->
-<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+<div class="modal fade" id="calculadora8090" tabindex="-1" role="dialog" aria-labelledby="calculadora8090Title" aria-hidden="true">
 	<div class="modal-dialog modal-dialog-centered modal-xl" role="document">
 		<div class="modal-content">
 			<div class="modal-header">
-				<h5 class="modal-title" id="exampleModalCenterTitle">Calcular</h5>
+				<h5 class="modal-title" id="calculadora8090Title">Mayor al 80% y hasta el 90%</h5>
 				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
 					<span aria-hidden="true">&times;</span>
 				</button>

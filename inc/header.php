@@ -48,6 +48,8 @@
 		<link rel="stylesheet" href="assets/css/animate.css">
 		<!-- Responsive tabs -->
 		<link rel="stylesheet" href="assets/css/responsive-tabs.css">
+		<!-- Bootstrap Select - CUSTOM -->
+		<link rel="stylesheet" href="assets/css/bootstrap-select.css">
 		<!-- Main CSS -->
 		<link rel="stylesheet" href="assets/css/timeline.css">
 		<link rel="stylesheet" href="assets/css/style.css">

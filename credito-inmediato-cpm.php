@@ -27,7 +27,8 @@
 							<img width="" src="assets/img/secciones/logos-credito/credito-inmediato.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Obtén un crédito inmediato, de igual o menor monto a tu ahorro, con una tasa accesible</p>
 							<p class="lead my-3 font-weight-bold text-primary">Montos desde $1,000.00 hasta $30,000,000.00</p>
-							<p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/contratos/Credito-Inmediato-CPM/FR-1920-Contrato-de-apertura-de-credito-simple.pdf">aquí</a></p>
+							<p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/FR-1920_Contrato_de_apertura_de_credito_simple.pdf" target="_blank">aquí</a></p>
+							<!-- <p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/contratos/Credito-Inmediato-CPM/FR-1920-Contrato-de-apertura-de-credito-simple.pdf">aquí</a></p> -->
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 						<!-- Nota Legal -->

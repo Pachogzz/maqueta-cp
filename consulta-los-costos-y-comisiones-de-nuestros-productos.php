@@ -346,9 +346,9 @@
 												<td>No aplica</td>
 												<td><strong>3.79%</strong></td>
 												<td><strong>3.86%</strong></td>
-												<td><strong>0.41%</strong></td>
-												<td>13/02/2020</td>
-												<td>19/02/2020</td>
+												<td><strong>0.36%</strong></td>
+												<td>05/03/2020</td>
+												<td>11/03/2020</td>
 											</tr>
 										</tbody>
 									</table>
@@ -393,77 +393,77 @@
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>5.23%</strong></td>
-													<td><strong>5.32%</strong></td>
-													<td><strong>1.83%</strong></td>
-													<td>13/02/2020</td>
-													<td>19/02/2020</td>
+													<td><strong>5.13%</strong></td>
+													<td><strong>5.21%</strong></td>
+													<td><strong>1.68%</strong></td>
+													<td>05/03/2020</td>
+													<td>11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">210 días</td>
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>5.55%</strong></td>
-													<td><strong>5.64%</strong></td>
-													<td><strong>2.14%</strong></td>
-													<td>13/02/2020</td>
-													<td>19/02/2020</td>
+													<td><strong>5.45%</strong></td>
+													<td><strong>5.54%</strong></td>
+													<td><strong>1.99%</strong></td>
+													<td>05/03/2020</td>
+													<td>11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">240 días</td>
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>5.87%</strong></td>
-													<td><strong>5.96%</strong></td>
-													<td><strong>2.45%</strong></td>
-													<td>13/02/2020</td>
-													<td>19/02/2020</td>
+													<td><strong>5.77%</strong></td>
+													<td><strong>5.86%</strong></td>
+													<td><strong>2.30%</strong></td>
+													<td>05/03/2020</td>
+													<td>11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">270 días</td>
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>6.20%</strong></td>
-													<td><strong>6.29%</strong></td>
-													<td><strong>2.77%</strong></td>
-													<td>13/02/2020</td>
-													<td>19/02/2020</td>
+													<td><strong>6.08%</strong></td>
+													<td><strong>6.17%</strong></td>
+													<td><strong>2.60%</strong></td>
+													<td>05/03/2020</td>
+													<td>11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">300 días</td>
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>6.52%</strong></td>
-													<td><strong>6.61%</strong></td>
-													<td><strong>3.07%</strong></td>
-													<td>13/02/2020</td>
-													<td>19/02/2020</td>
+													<td><strong>6.40%</strong></td>
+													<td><strong>6.48%</strong></td>
+													<td><strong>2.90%</strong></td>
+													<td>05/03/2020</td>
+													<td>11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">330 días</td>
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>6.84%</strong></td>
-													<td><strong>6.92%</strong></td>
-													<td><strong>3.38%</strong></td>
-													<td>13/02/2020</td>
-													<td>19/02/2020</td>
+													<td><strong>6.72%</strong></td>
+													<td><strong>6.80%</strong></td>
+													<td><strong>3.21%</strong></td>
+													<td>05/03/2020</td>
+													<td>11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">360 días</td>
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>7.16%</strong></td>
-													<td><strong>7.24%</strong></td>
-													<td><strong>3.68%</strong></td>
-													<td>13/02/2020</td>
-													<td>19/02/2020</td>
+													<td><strong>7.03%</strong></td>
+													<td><strong>7.10%</strong></td>
+													<td><strong>3.50%</strong></td>
+													<td>05/03/2020</td>
+													<td>11/03/2020</td>
 												</tr>
 											</tbody>
 										</table>
@@ -507,11 +507,11 @@
 													<td scope="row">No aplica comisión por apertura de la cuenta.</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>2.66%</strong></td>
-													<td><strong>2.69%</strong></td>
-													<td><strong>-0.71%</strong></td>
-													<td>13/02/2020</td>
-													<td>19/02/2020</td>
+													<td><strong>2.61%</strong></td>
+													<td><strong>2.64%</strong></td>
+													<td><strong>-0.81%</strong></td>
+													<td>05/03/2020</td>
+													<td>11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">Retiros en cajeros automáticos internacionales</td>
@@ -640,98 +640,98 @@
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>3.82%</strong></td>
-													<td><strong>3.89%</strong></td>
-													<td><strong>0.44%</strong></td>
+													<td><strong>3.69%</strong></td>
+													<td><strong>3.75%</strong></td>
+													<td><strong>0.26%</strong></td>
 													<td><strong> </strong></td>
 													<td><strong> </strong></td>
 													<td><strong> </strong></td>
-													<td>13/02/2020</td>
-													<td>19/02/2020</td>
+													<td>05/03/2020</td>
+													<td>11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">A 60 días</td>
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>4.02%</strong></td>
-													<td><strong>4.09%</strong></td>
-													<td><strong>0.64%</strong></td>
+													<td><strong>3.88%</strong></td>
+													<td><strong>3.94%</strong></td>
+													<td><strong>0.45%</strong></td>
 													<td><strong> </strong></td>
 													<td><strong> </strong></td>
 													<td><strong> </strong></td>
-													<td>13/02/2020</td>
-													<td>19/02/2020</td>
+													<td>05/03/2020</td>
+													<td>11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">A 90 días</td>
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>4.23%</strong></td>
-													<td><strong>4.30%</strong></td>
-													<td><strong>0.84%</strong></td>
+													<td><strong>4.07%</strong></td>
+													<td><strong>4.13%</strong></td>
+													<td><strong>0.63%</strong></td>
 													<td><strong> </strong></td>
 													<td><strong> </strong></td>
 													<td><strong> </strong></td>
-													<td>13/02/2020</td>
-													<td>19/02/2020</td>
+													<td>05/03/2020</td>
+													<td>11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">A 120 días</td>
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>4.44%</strong></td>
-													<td><strong>4.51%</strong></td>
-													<td><strong>1.04%</strong></td>
-													<td><strong>4.40%</strong></td>
-													<td><strong>4.46%</strong></td>
-													<td><strong>1.00%</strong></td>
-													<td>13/02/2020</td>
-													<td>19/02/2020</td>
+													<td><strong>4.27%</strong></td>
+													<td><strong>4.33%</strong></td>
+													<td><strong>0.82%</strong></td>
+													<td><strong>4.23%</strong></td>
+													<td><strong>4.29%</strong></td>
+													<td><strong>0.78%</strong></td>
+													<td>05/03/2020</td>
+													<td>11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">A 150 días</td>
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>4.64%</strong></td>
-													<td><strong>4.71%</strong></td>
-													<td><strong>1.24%</strong></td>
-													<td><strong>4.59%</strong></td>
-													<td><strong>4.66%</strong></td>
-													<td><strong>1.19%</strong></td>
-													<td>13/02/2020</td>
-													<td>19/02/2020</td>
+													<td><strong>4.48%</strong></td>
+													<td><strong>4.55%</strong></td>
+													<td><strong>1.03%</strong></td>
+													<td><strong>4.43%</strong></td>
+													<td><strong>4.50%</strong></td>
+													<td><strong>0.98%</strong></td>
+													<td>05/03/2020</td>
+													<td>11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">A 180 días</td>
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>4.86%</strong></td>
-													<td><strong>4.92%</strong></td>
-													<td><strong>1.44%</strong></td>
-													<td><strong>4.79%</strong></td>
-													<td><strong>4.85%</strong></td>
-													<td><strong>1.37%</strong></td>
-													<td>13/02/2020</td>
-													<td>19/02/2020</td>
+													<td><strong>4.68%</strong></td>
+													<td><strong>4.73%</strong></td>
+													<td><strong>1.21%</strong></td>
+													<td><strong>4.62%</strong></td>
+													<td><strong>4.67%</strong></td>
+													<td><strong>1.15%</strong></td>
+													<td>05/03/2020</td>
+													<td>11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">A 360 días</td>
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>6.17%</strong></td>
-													<td><strong>6.17%</strong></td>
-													<td><strong>2.65%</strong></td>
-													<td><strong>6.02%</strong></td>
-													<td><strong>6.19%</strong></td>
-													<td><strong>2.67%</strong></td>
-													<td>13/02/2020</td>
-													<td>19/02/2020</td>
+													<td><strong>5.93%</strong></td>
+													<td><strong>5.93%</strong></td>
+													<td><strong>2.37%</strong></td>
+													<td><strong>5.79%</strong></td>
+													<td><strong>5.95%</strong></td>
+													<td><strong>2.38%</strong></td>
+													<td>05/03/2020</td>
+													<td>11/03/2020</td>
 												</tr>
 											</tbody>
 										</table>
@@ -776,9 +776,9 @@
 													<td>Por evento</td>
 													<td><strong>0.50%</strong></td>
 													<td><strong>0.50%</strong></td>
-													<td><strong>-2.83%</strong></td>
-													<td>13/02/2020</td>
-													<td>19/02/2020</td>
+													<td><strong>-2.88%</strong></td>
+													<td>05/03/2020</td>
+													<td>11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">Consulta de saldo en cajeros automáticos internacionales</td>
@@ -884,9 +884,9 @@
 													<td>No aplica</td>
 													<td><strong>3.79%</strong></td>
 													<td><strong>3.86%</strong></td>
-													<td><strong>0.41%</strong></td>
-													<td>13/02/2020</td>
-													<td>19/02/2020</td>
+													<td><strong>0.36%</strong></td>
+													<td>05/03/2020</td>
+													<td>11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">Retiros en cajeros automáticos internacionales</td>
@@ -895,8 +895,8 @@
 													<td><strong>0.50%</strong></td>
 													<td><strong>0.50%</strong></td>
 													<td><strong>-3.25%</strong></td>
-													<td>13/02/2020</td>
-													<td>19/02/2020</td>
+													<td>05/03/2020</td>
+													<td>11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">Consulta de saldo en cajeros automáticos internacionales</td>
@@ -1002,77 +1002,77 @@
 													<td>No aplica comisión</td>
 													<td>0</td>
 													<td>No aplica</td>
-													<td><strong>4.45%</strong></td>
-													<td><strong>4.51%</strong></td>
-													<td><strong>1.04%</strong></td>
-													<td><strong>Febrero</strong></td>
-													<td>13/02/2020 al 19/02/2020</td>
+													<td><strong>4.36%</strong></td>
+													<td><strong>4.42%</strong></td>
+													<td><strong>0.91%</strong></td>
+													<td><strong>Marzo</strong></td>
+													<td>05/03/2020 al 11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">210 días</td>
 													<td>No aplica comisión</td>
 													<td>0</td>
 													<td>No aplica</td>
-													<td><strong>4.72%</strong></td>
-													<td><strong>4.78%</strong></td>
-													<td><strong>1.31%</strong></td>
-													<td><strong>Febrero</strong></td>
-													<td>13/02/2020 al 19/02/2020</td>
+													<td><strong>4.63%</strong></td>
+													<td><strong>4.70%</strong></td>
+													<td><strong>1.17%</strong></td>
+													<td><strong>Marzo</strong></td>
+													<td>05/03/2020 al 11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">240 días</td>
 													<td>No aplica comisión</td>
 													<td>0</td>
 													<td>No aplica</td>
-													<td><strong>4.99%</strong></td>
-													<td><strong>5.06%</strong></td>
-													<td><strong>1.57%</strong></td>
-													<td><strong>Febrero</strong></td>
-													<td>13/02/2020 al 19/02/2020</td>
+													<td><strong>4.90%</strong></td>
+													<td><strong>4.97%</strong></td>
+													<td><strong>1.44%</strong></td>
+													<td><strong>Marzo</strong></td>
+													<td>05/03/2020 al 11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">270 días</td>
 													<td>No aplica comisión</td>
 													<td>0</td>
 													<td>No aplica</td>
-													<td><strong>5.27%</strong></td>
-													<td><strong>5.34%</strong></td>
-													<td><strong>1.84%</strong></td>
-													<td><strong>Febrero</strong></td>
-													<td>13/02/2020 al 19/02/2020</td>
+													<td><strong>5.17%</strong></td>
+													<td><strong>5.23%</strong></td>
+													<td><strong>1.69%</strong></td>
+													<td><strong>Marzo</strong></td>
+													<td>05/03/2020 al 11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">300 días</td>
 													<td>No aplica comisión</td>
 													<td>0</td>
 													<td>No aplica</td>
-													<td><strong>5.54%</strong></td>
-													<td><strong>5.61%</strong></td>
-													<td><strong>2.10%</strong></td>
-													<td><strong>Febrero</strong></td>
-													<td>13/02/2020 al 19/02/2020</td>
+													<td><strong>5.44%</strong></td>
+													<td><strong>5.50%</strong></td>
+													<td><strong>1.95%</strong></td>
+													<td><strong>Marzo</strong></td>
+													<td>05/03/2020 al 11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">330 días</td>
 													<td>No aplica comisión</td>
 													<td>0</td>
 													<td>No aplica</td>
-													<td><strong>5.81%</strong></td>
-													<td><strong>5.87%</strong></td>
-													<td><strong>2.36%</strong></td>
-													<td><strong>Febrero</strong></td>
-													<td>13/02/2020 al 19/02/2020</td>
+													<td><strong>5.71%</strong></td>
+													<td><strong>5.77%</strong></td>
+													<td><strong>2.21%</strong></td>
+													<td><strong>Marzo</strong></td>
+													<td>05/03/2020 al 11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">360 días</td>
 													<td>No aplica comisión</td>
 													<td>0</td>
 													<td>No aplica</td>
-													<td><strong>6.09%</strong></td>
-													<td><strong>6.14%</strong></td>
-													<td><strong>2.62%</strong></td>
-													<td><strong>Febrero</strong></td>
-													<td>13/02/2020 al 19/02/2020</td>
+													<td><strong>5.98%</strong></td>
+													<td><strong>6.03%</strong></td>
+													<td><strong>2.46%</strong></td>
+													<td><strong>Marzo</strong></td>
+													<td>05/03/2020 al 11/03/2020</td>
 												</tr>
 											</tbody>
 										</table>

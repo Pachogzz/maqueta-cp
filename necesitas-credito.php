@@ -78,7 +78,7 @@
 						</div>
 						</a>
 					</div> <!-- ./ Automotríz -->
-					<div class="landing-grid-box col-12 col-lg-4 mb-md-5 mb-lg-auto">
+					<div class="landing-grid-box col-12 col-lg-4">
 						<a href="credito-hipotecario-cpm" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
 							<i class="fas fa-home fa-4x bg-primary text-white rounded-circle"></i>

@@ -1,4 +1,5 @@
 $(document).ready(function(){
+	$('#loading').hide();
 	// Get dinamically the site title
 	var titleSite = $('#sectionTitle').text();
 	console.log(titleSite);
@@ -24,6 +25,7 @@ $(document).ready(function(){
 	
 	// Opción para filtros en las páginas de CPM en Línea y Móvil
 	$(function() {
+		$('.guides-grid-col').hide();
 		$('#filterSelector').change(function(){
 			$('.guides-grid-col').hide();
 			$('.guides-grid #' + $(this).val()).show();

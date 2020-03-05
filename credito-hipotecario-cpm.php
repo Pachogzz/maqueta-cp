@@ -102,17 +102,22 @@
 							    <tr>
 							      <th scope="row"><center>Mayor al 90% y hasta el 100%</center></th>
 							      <td><center><b>10.44% anual</b></center></td>
-							      <td><center><?php include('inc/calculadoras/calculadora-de-credito-90-100.php') ?> <!-- ./ calculadora de credito --></td>
+							      <td><center><?php include('inc/calculadoras/calculadora-de-credito-90-100.php') ?></td>
 							    </tr>
 							    <tr>
 							      <th scope="row"><center>Mayor al 80% y hasta el 90%</center></th>
 							      <td><center><b>10.32% anual</b></center></td>
-							      <td><center><?php include('inc/calculadoras/calculadora-de-credito-80-90.php') ?> <!-- ./ calculadora de credito --></td>
+							      <td><center><?php include('inc/calculadoras/calculadora-de-credito-80-90.php') ?></td>
 							    </tr>
 							    <tr>
 							      <th scope="row"><center>Hasta el 80%</center></th>
 							      <td><center><b>10.08% anual</b></center></td>
-							      <td><center><?php include('inc/calculadoras/calculadora-de-credito-80.php') ?> <!-- ./ calculadora de credito --></td>
+							      <td><center><?php include('inc/calculadoras/calculadora-de-credito-80.php') ?></td>
+							    </tr>
+							    <tr>
+							      <th scope="row"><center>Simulador para finalidades de liquidez</center></th>
+							      <td><center><b> </b></center></td>
+							      <td><center><?php include('inc/calculadoras/calculadora-de-credito-liquidez.php') ?></td>
 							    </tr>
 							  </tbody>
 							</table>

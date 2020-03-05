@@ -89,6 +89,8 @@
 		<!-- Línea de tiempo -->
 		<script src='https://cdn.jsdelivr.net/scrollreveal.js/3.3.1/scrollreveal.min.js'></script>
 		<script src="assets/js/timeline.js"></script>
+		<!-- Bootstrap Select - CUSTOM -->
+		<script src="assets/js/bootstrap-select.min.js"></script>
 		<!-- Custom JS -->
 		<script src="assets/js/site.js"></script>
 		<!-- Maps Google -->

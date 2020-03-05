@@ -59,7 +59,7 @@
 							<p class="lead">Satisface cualquier necesidad lícita de consumo, excepto finalidades productivas y comerciales.</p>
 							<p class="lead my-3 font-weight-bold text-primary">Montos desde $1,000.00 Hasta $19,320,600.00</p>
 							<p class="lead font-weight-bold text-primary">Por ejemplo, solicita $15,000 pesos a 12 meses y pagas ¡$409 semanales*!</p>
-							<p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/FR-1917_Contrato_de_apertura_de_credito_en_cuenta_corriente.pdf">aquí</a></p>
+							<!-- <p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/FR-1917_Contrato_de_apertura_de_credito_en_cuenta_corriente.pdf">aquí</a></p> -->
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 						<!-- Nota Legal -->

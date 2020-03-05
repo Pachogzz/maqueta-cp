@@ -195,10 +195,10 @@
                 cdisp = '';
             } else {
                 if (unionser == "") {
-                    cdisp = 'Cajero dispensador';
+                    cdisp = 'cajero dispensador';
                     unionser = cdisp;
                 } else {
-                    cdisp = 'Cajero dispensador';
+                    cdisp = 'cajero dispensador';
                     unionser += ', ' + cdisp;
                 }
             }
@@ -206,10 +206,10 @@
                 crecep = '';
             } else {
                 if (unionser == "") {
-                    crecep = 'Cajero receptor';
+                    crecep = 'cajero receptor';
                     unionser = crecep;
                 } else {
-                    crecep = 'Cajero receptor';
+                    crecep = 'cajero receptor';
                     unionser += ', ' + crecep;
                 }
             }

@@ -1,12 +1,12 @@
-<a href="#" class="btn btn-primary btn-lg btn-block rounded-pill w-100 w-lg-75 mx-auto p-3 mb-3 mb-lg-5" data-toggle="modal" data-target="#exampleModalCenter">
+<a href="#" class="btn btn-primary btn-lg btn-block rounded-pill w-100 w-lg-75 mx-auto p-3 mb-3 mb-lg-5" data-toggle="modal" data-target="#calculadoraCredito">
 	Calcular mi crédito <i class="fas fa-calculator"></i>
 </a>
 <!-- Modal -->
-<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+<div class="modal fade" id="calculadoraCredito" tabindex="-1" role="dialog" aria-labelledby="calculadoraCreditoTitle" aria-hidden="true">
 	<div class="modal-dialog modal-dialog-centered modal-xl" role="document">
 		<div class="modal-content">
 			<div class="modal-header">
-				<h5 class="modal-title" id="exampleModalCenterTitle">Calcular mi crédito</h5>
+				<h5 class="modal-title" id="calculadoraCreditoTitle">Calcular mi crédito</h5>
 				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
 					<span aria-hidden="true">&times;</span>
 				</button>

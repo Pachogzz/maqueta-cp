@@ -58,7 +58,7 @@
 						<p class="lead font-weight-semibold">Selecciona la guía de tu interés por su categoría</p>
 						<form action="">
 							<div class="form-group">
-								<select class="form-control" id="filterSelector">
+								<select class="form-control selectpicker" id="filterSelector">
 									<option value="seleccione">- Seleccione una guía -</option>
 									<option value="0">Guía de uso general</option>
 									<option value="1">Guía de primer ingreso</option>
