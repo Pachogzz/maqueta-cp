@@ -56,10 +56,10 @@
 						<div class="has-label pb-5 pt-0 px-5">
 							<!-- <h2 class="d-inline-block border-primary text-primary font-weight-bolder bw-3 py-2 px-3 mb-3">DESCRIPCIÓN</h2> -->
 							<img width="" src="assets/img/secciones/logos-credito/personal-plus.png" class="d-block w-100 py-2 px-3 mb-3">
-							<p class="lead">Satisface cualquier necesidad de consumo o actividad lícita, excepto finalidades productivas y comerciales.</p>
-							<p class="lead my-3 font-weight-bold text-primary">Montos desde $1,000.00 Hasta $18,078,600.00</p>
+							<p class="lead">Satisface cualquier necesidad lícita de consumo, excepto finalidades productivas y comerciales.</p>
+							<p class="lead my-3 font-weight-bold text-primary">Montos desde $1,000.00 Hasta $19,320,600.00</p>
 							<p class="lead font-weight-bold text-primary">Por ejemplo, solicita $15,000 pesos a 12 meses y pagas ¡$409 semanales*!</p>
-							<p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/FR-1917_Contrato_de_apertura_de_credito_en_cuenta_corriente.pdf">aquí</a></p>
+							<!-- <p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/FR-1917_Contrato_de_apertura_de_credito_en_cuenta_corriente.pdf">aquí</a></p> -->
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 						<!-- Nota Legal -->
@@ -94,7 +94,7 @@
 									<div class="card-body bg-grey0 p-4">
 										<h4>Monto</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Monto desde $1,000.00, hasta $18,078,600.00</li>
+											<li>Monto desde $1,000.00, hasta $19,320,600.00</li>
 											<li>Crédito otorgado en moneda nacional.</li>
 											<!-- <li>Hasta 3,000,000 (Al 31 de enero de 2019, importe $18,742,785) UDIS (Unidad de inversión que se actualiza mensualmente para su conversión en moneda nacional).</li> -->
 										</ul>
@@ -103,7 +103,7 @@
 											<li>Hasta 72 meses para finalidades de consumo.</li>
 											<li>Hasta 48 meses para socios participantes en el programa “Semilla Cooperativa”</li>
 											<li>Hasta 120 meses para construir o adquirir inmuebles y pago de deudas derivadas de estos conceptos.</li>
-											<li>Hasta 12 meses para adquisición de seguros de daños cuando se adquiera a través de la aplicación denominada “Portal WEB Prybe”</li>
+											<li>Hasta 12 meses para adquisición de seguro de daños cuando se adquiera a través de Caja Popular Mexicana.</li>
 											<li>En caso de pagos únicos, el plazo máximo será de 18 meses.</li>
 										</ul>
 									</div>
@@ -121,7 +121,7 @@
 									<div class="card-body bg-grey0 p-4">
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li><strong>Tasa de Interés</strong>
-												<p>Tasa de interés ordinaria anual fija desde un 12.00% hasta un 33.0% antes de impuestos. La tasa se asignará de acuerdo al perfil crediticio del socio.</p>
+												<p>Tasa de interés ordinaria anual fija desde un 12.00% hasta un 33.0% más IVA. La tasa se asignará de acuerdo al perfil crediticio del socio.</p>
 											</li>
 											<li><strong>CAT Promedio Crédito Personal Plus CPM</strong>
 												<p><strong>Costo Anual Total Promedio de 31.6% sin IVA.</strong> Para fines informativos y de comparación exclusivamente. Fecha de cálculo <strong>31 de Diciembre de 2019</strong>.</p>
@@ -130,6 +130,26 @@
 									</div>
 								</div>
 							</div>
+
+							<div class="card">
+								<div class="card-header" id="headingTwo2">
+									<h2 class="mb-0">
+										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo2" aria-expanded="false" aria-controls="collapseTwo2">
+											Contratos
+										</button>
+									</h2>
+								</div>
+								<div id="collapseTwo2" class="collapse" aria-labelledby="headingTwo2" data-parent="#accordionCICPM">
+									<div class="card-body bg-grey0 p-4">
+										<ul class="p-5 bg-white bw-1 border-grey1">
+											<li><a href="assets/pdfs/contratos/Credito-Personal-Plus-CPM/FR-1920-Contrato-de-apertura-de-credito-simple.pdf" target="_blank"><strong>Contrato de apertura de crédito simple</strong></a></li>
+											<li><a href="assets/pdfs/contratos/Credito-Personal-Plus-CPM/FR-1915-Contrato-apertura-de-credito-simple-con-garantia-prendaria.pdf" target="_blank"><strong>Contrato de apertura de crédito simple con garantía prendaria</strong></a></li>
+											<li><a href="assets/pdfs/contratos/Credito-Personal-Plus-CPM/FR-1919-Contrato-de-apertura-de-credito-simple-con-garantia-hipotecaria.pdf" target="_blank"><strong>Contrato de apertura de crédito simple con garantía hipotecaria</strong></a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+
 							<div class="card">
 								<div class="card-header" id="headingThree">
 									<h2 class="mb-0">

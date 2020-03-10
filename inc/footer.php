@@ -8,10 +8,31 @@
 						<p class="display-20">o escríbenos a </p>
 						<p class="display-30"><a href="mailto:contacto@cpm.coop">contacto@cpm.coop</a></p>
 						<div class="row mt-3">
-							<div class="col-6 col-md-auto"><a href="https://www.buro.gob.mx/" target="_blank"><img src="assets/img/buro-g-logo.jpg" alt="" class="img-fluid"></a></div>
-							<div class="col-6 col-md-auto"><a href="http://www.aciamericas.coop/" target="_blank"><img src="assets/img/coop-g-logo.jpg" alt="" class="img-fluid"></a></div>
-							<div class="col-6 col-md-auto mt-3 mt-md-0"><a href="http://www.woccu.org/" target="_blank"><img src="assets/img/cm-g-logo.jpg" alt="" class="img-fluid"></a></div>
-							<div class="col-6 col-md-auto mt-3 mt-md-0"><a href="http://concamex.coop/es-mx/" target="_blank"><img src="assets/img/concamex-g-logo.jpg" alt="" class="img-fluid"></a></div>
+							<div class="col-6 col-md-auto">
+								<a href="https://www.buro.gob.mx/" target="_blank">
+									<img src="assets/img/buro-g-logo.jpg" alt="" class="img-fluid">
+								</a>
+							</div>
+							<div class="col-6 col-md-auto">
+								<a href="http://www.aciamericas.coop/" target="_blank">
+									<img src="assets/img/coop-g-logo.jpg" alt="" class="img-fluid">
+								</a>
+							</div>
+							<div class="col-6 col-md-auto mt-3 mt-md-0">
+								<a href="http://www.woccu.org/" target="_blank">
+									<img src="assets/img/cm-g-logo.jpg" alt="" class="img-fluid">
+								</a>
+							</div>
+							<div class="col-6 col-md-auto mt-3 mt-md-0">
+								<a href="http://concamex.coop/es-mx/" target="_blank">
+									<img src="assets/img/concamex-g-logo.jpg" alt="" class="img-fluid">
+								</a>
+							</div>
+							<div class="col-6 col-md-auto mt-3 mt-md-0">
+								<a href="https://www.integradoracentral.coop/" target="_blank">
+									<img src="assets/img/fic-g-logo-2.png" alt="" class="img-fluid" height="90" width="auto">
+								</a>
+							</div>
 						</div>
 					</div>
 					<div class="col-12 col-md-4 col-lg-4 mt-3 mt-md-0">
@@ -68,10 +89,13 @@
 		<!-- Línea de tiempo -->
 		<script src='https://cdn.jsdelivr.net/scrollreveal.js/3.3.1/scrollreveal.min.js'></script>
 		<script src="assets/js/timeline.js"></script>
+		<!-- Bootstrap Select - CUSTOM -->
+		<script src="assets/js/bootstrap-select.min.js"></script>
 		<!-- Custom JS -->
 		<script src="assets/js/site.js"></script>
 		<!-- Maps Google -->
 		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCiLXdNlZzFjV8DV-Rj16QWiN37zx2nbLo&callback=initMap" async defer></script>
+		<!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAY3wtYGDWhjl332uvDlxDkWpmh8Tum3qk&callback=initMap" async defer></script> -->
 		<script type="text/javascript" src="assets/js/maps-config.js"></script>
 		<script type="text/javascript" src="assets/js/select-drop.js"></script>
 	</body>

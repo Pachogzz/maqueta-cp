@@ -69,8 +69,8 @@
 							<!-- <h2 class="d-inline-block border-primary text-primary font-weight-bolder bw-3 py-2 px-3 mb-3">DESCRIPCIÓN</h2> -->
 							<img width="" src="assets/img/secciones/logos-credito/credito-hipotecario.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Adquiere tu vivienda nueva o usada, construcción, remodelación o mejoramiento sin propósito comercial, sustitución de hipoteca o cualquier otra finalidad lícita que garantice el préstamo con la vivienda propiedad del socio.</p>
-							<p class="lead my-3 font-weight-bold text-primary">Montos desde $62,745.00 Hasta $18,823,500.00 </p>
-							<p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/FR-1917_Contrato_de_apertura_de_credito_en_cuenta_corriente.pdf">aquí</a></p>
+							<p class="lead my-3 font-weight-bold text-primary">Montos desde $64,402.00 Hasta $19,320,600.00 </p>
+							<!-- <p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/FR-1917_Contrato_de_apertura_de_credito_en_cuenta_corriente.pdf" target="_blank">aquí</a></p> -->
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 						<div class="embed-responsive embed-responsive-16by9 mb-3 mb-lg-5">
@@ -102,17 +102,22 @@
 							    <tr>
 							      <th scope="row"><center>Mayor al 90% y hasta el 100%</center></th>
 							      <td><center><b>10.44% anual</b></center></td>
-							      <td><center><?php include('inc/calculadoras/calculadora-de-credito-90-100.php') ?> <!-- ./ calculadora de credito --></td>
+							      <td><center><?php include('inc/calculadoras/calculadora-de-credito-90-100.php') ?></td>
 							    </tr>
 							    <tr>
 							      <th scope="row"><center>Mayor al 80% y hasta el 90%</center></th>
 							      <td><center><b>10.32% anual</b></center></td>
-							      <td><center><?php include('inc/calculadoras/calculadora-de-credito-80-90.php') ?> <!-- ./ calculadora de credito --></td>
+							      <td><center><?php include('inc/calculadoras/calculadora-de-credito-80-90.php') ?></td>
 							    </tr>
 							    <tr>
 							      <th scope="row"><center>Hasta el 80%</center></th>
 							      <td><center><b>10.08% anual</b></center></td>
-							      <td><center><?php include('inc/calculadoras/calculadora-de-credito-80.php') ?> <!-- ./ calculadora de credito --></td>
+							      <td><center><?php include('inc/calculadoras/calculadora-de-credito-80.php') ?></td>
+							    </tr>
+							    <tr>
+							      <th scope="row"><center>Simulador para finalidades de liquidez</center></th>
+							      <td><center><b> </b></center></td>
+							      <td><center><?php include('inc/calculadoras/calculadora-de-credito-liquidez.php') ?></td>
 							    </tr>
 							  </tbody>
 							</table>
@@ -135,7 +140,7 @@
 									<div class="card-body bg-grey0 p-4">
 										<h4>Monto</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Montos desde $62,745.00 Hasta $18,823,500.00</li>
+											<li>Montos desde $64,402.00 Hasta $19,320,600.00</li>
 											<li>Crédito otorgado en moneda nacional.</li>
 											<li>Préstamos para la adquisición de vivienda, se financiará hasta el 95% del valor avalúo de la misma o del precio de compra , debiendo considerar el que resulte menor, siempre y cuando no exceda el monto máximo del producto.</li>
 										</ul>
@@ -159,19 +164,41 @@
 									<div class="card-body bg-grey0 p-4">
 											<h4>Tasa de Interés</h4>
 											<ul class="p-5 bg-white bw-1 border-grey1">
-												<li>Tasa de interés ordinaria anual fija desde un 10.08% hasta un 10.44% [ii] antes de impuestos. La tasa se asignará de acuerdo al perfil crediticio del socio. </li>
-												<li>Para finalidades de liquidez, la tasa de interés ordinaria anual fija única de 17.16% antes de impuestos.</li>
-												<li>La retención del IVA dependerá de la finalidad del crédito.</li>
+												<li>Para finalidades de vivienda, la tasa de interés ordinaria anual fija desde un 10.08% hasta un 10.44% (ii) sin IVA.</li>
+												<li>Para finalidades de liquidez, la tasa de interés ordinaria anual fija única de 17.16% más IVA.</li>
+												<!-- <li>La retención del IVA dependerá de la finalidad del crédito.</li> -->
 										    </ul>
 											<h4></h4>
 										    <ul class="p-5 bg-white bw-1 border-grey1">
 											<li><strong>CAT Promedio Crédito Hipotecario CPM</strong>
-												<p><strong>Costo Anual Total Promedio de 12.9% sin IVA para finalidades de vivienda | 24.3% para finalidades de liquidez. </strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 31 de Diciembre de 2019.</strong></p>
+												<p><strong>Costo Anual Total Promedio de 12.9% sin IVA para finalidades de vivienda | 24.3% para finalidades de liquidez. </strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 30 de Junio de 2019.</strong></p>
 											</li>
 										</ul>
 									</div>
 								</div>
 							</div>
+
+							<div class="card">
+								<div class="card-header" id="headingTwo2">
+									<h2 class="mb-0">
+										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo2" aria-expanded="false" aria-controls="collapseTwo2">
+											Contratos
+										</button>
+									</h2>
+								</div>
+								<div id="collapseTwo2" class="collapse" aria-labelledby="headingTwo2" data-parent="#accordionCICPM">
+									<div class="card-body bg-grey0 p-4">
+											<ul class="p-5 bg-white bw-1 border-grey1">
+												<li><a href="assets/pdfs/contratos/Credito-Hipotecario-CPM/Para-Finalidades-de-Vivienda/Adquisicion-de-Vivienda/FR-1387-Contrato-de-credito-hipotecario-de-vivienda-Rev-Prod-y-Cred-Fi01-07-19.pdf" target="_blank"><strong>Contrato hipotecario de vivienda</strong></a></li>
+												<li><a href="assets/pdfs/contratos/Credito-Hipotecario-CPM/Para-Finalidades-de-Vivienda/Construccion-Remodelacion-y-Ampliacion/FR-1837-Contrato-hip-vivienda-para-constr-remod-o-mejora-de-la-vi-Fi.pdf" target="_blank"><strong>Contrato hipotecario de vivienda para construcción, remodelación o mejoramientos de la vivienda</strong></a></li>
+												<li><a href="assets/pdfs/contratos/Credito-Hipotecario-CPM/Para-Finalidades-de-Vivienda/Sustitucion-de-Hipoteca/FR-1654-Cont-de-apert-de-cred-simp-int-y-grtia-hip-pago-de-pasiv-deriv.pdf" target="_blank"><strong>Contrato de apertura de crédito simple con garantía hipotecaria para pago de pasivos derivado de un crédito hipotecario para la adquisición de vivienda</strong></a></li>
+												<li><a href="assets/pdfs/contratos/Credito-Hipotecario-CPM/Para-Finalidades-de-Liquidez/FR-1919-Contrato-de-apertura-de-credito-simple-con-garantia-hipotecaria.pdf" target="_blank"><strong>Contrato de apertura de crédito simple con garantía hipotecaria</strong></a></li>
+										    </ul>
+										</ul>
+									</div>
+								</div>
+							</div>
+
 							<div class="card">
 								<div class="card-header" id="headingThree">
 									<h2 class="mb-0">
@@ -189,7 +216,7 @@
 										</ul>
 										<h4>Condiciones</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>El bien inmueble deberá contar con un seguro de daños con coberturas básicas de daños.</li>
+											<li>El inmueble deberá contar con seguro de daños con las coberturas básicas de riesgos a los que se considere expuesto de acuerdo con la zona, que deberá permanecer vigente durante el plazo del crédito.</li>
 											<li>Podrá mantener a la vez máximo dos préstamos al amparo de este producto, siempre y cuando su finalidad no sea la misma.</li>
 										</ul>
 										<h4>Documentos generales</h4>

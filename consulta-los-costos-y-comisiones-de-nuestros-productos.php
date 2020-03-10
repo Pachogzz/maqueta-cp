@@ -31,7 +31,7 @@
 								<div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionCCNP1">
 									<div class="card-body bg-grey0 p-4">
 											<h4>Crédito Personal Plus CPM</h4>
-											<table class="table table-responsive-md table-bordered p-5 bg-white">
+											<table class="table table-responsive-md table-bordered p-5 bg-white text-center display-14">
 												<thead>
 													<tr class="bg-primary">
 													<th scope="col"><span class="text-white">Nombre comercial del producto</span></th>
@@ -51,7 +51,7 @@
 														<td>No aplica</td>
 														<td><strong>Min.: 12.00% hasta un Mx: 33.00%</strong><br> *La tasa se asignara de acuerdo al perfil crediticio del Socio.</td>
 														<td><strong>31.6% sin IVA%</strong></td>
-														<td>30/12/2019</td>
+														<td>31/12/2019</td>
 													</tr>
 												</tbody>
 											</table>
@@ -94,7 +94,7 @@
 													<td>No aplica</td>
 													<td><strong>Min.: 12.00% hasta un Máx: 33.00%</strong><br>*La tasa se asignará de acuerdo al perfil crediticio del socio.</td>
 													<td><strong>25.1% sin IVA</strong></td>
-													<td>30/12/2019</td>
+													<td>31/12/2019</td>
 												</tr>
 											</tbody>
 										</table>
@@ -117,7 +117,7 @@
 								<div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionCCNP1">
 									<div class="card-body bg-grey0 p-4">
 										<h4>Crédito Inmediato CPM</h4>
-										<table class="table table-responsive-md table-bordered p-5 bg-white">
+										<table class="table table-responsive-md table-bordered p-5 bg-white text-center display-14">
 											<thead class="bg-primary text-white">
 												<tr>
 													<th scope="col">Nombre comercial del producto</th>
@@ -160,7 +160,7 @@
 								<div id="collapseFour" class="collapse" aria-labelledby="headingThree" data-parent="#accordionCCNP1">
 									<div class="card-body bg-grey0 p-4">
 										<h4>Crédito Productivo CPM</h4>
-										<table class="table table-responsive-md table-bordered p-5 bg-white">
+										<table class="table table-responsive-md table-bordered p-5 bg-white text-center display-14">
 											<thead class="bg-primary text-white">
 												<tr>
 													<th scope="col">Nombre comercial del producto</th>
@@ -203,7 +203,7 @@
 								<div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionCCNP1">
 									<div class="card-body bg-grey0 p-4">
 										<h4>Crédito Automotriz CPM</h4>
-										<table class="table table-responsive-md table-bordered p-5 bg-white">
+										<table class="table table-responsive-md table-bordered p-5 bg-white text-center display-14">
 											<thead class="bg-primary text-white">
 												<tr>
 													<th scope="col">Concepto</th>
@@ -245,7 +245,7 @@
 									<div class="card-body bg-grey0 p-4">
 										<h4>Crédito Hipotecario CPM</h4>
 
-										<table class="table table-responsive-md table-bordered p-5 bg-white">
+										<table class="table table-responsive-md table-bordered p-5 bg-white text-center display-14">
 											<thead class="bg-primary text-white">
 												<tr>
 													<th scope="col">Finalidad</th>
@@ -281,7 +281,7 @@
 										<p><strong>*CAT </strong>es el costo anual total del financiamiento expresado en términos porcentuales anuales que, para fines informativos y de comparación, incorpora la totalidad de los costos y gastos inherentes a los créditos.</p>
 										<p> El préstamo otorgado es en moneda nacional. Disponible en todas nuestras sucursales a nivel nacional.</p>
 										<p>[¡¡] <strong>Tasa en base al financiamiento:</strong> la tasa se determinará con base a la relación del valor de la vivienda para adquisición o sustitución de hipoteca y el financiamiento; o en su caso al valor de la construcción, remodelación y mejoramiento de la vivienda, dicho porcentaje, se establecerá en función del proyecto de obra.</p>
-										<table class="table table-responsive-md table-bordered w-50">
+										<table class="table table-responsive-md table-bordered w-50 text-center display-14">
 											<thead class="bg-grey2 text-white">
 												<tr>
 													<th scope="col"><strong>Financiamiento</strong></th>
@@ -326,7 +326,7 @@
 								<div id="collapseSeven" class="collapse" aria-labelledby="headingSeven" data-parent="#accordionCCNP2">
 									<div class="card-body bg-grey0 p-4">
 									<h4>Cuenta Mexicana</h4>
-									<table class="table table-responsive-md table-bordered p-5 bg-white">
+									<table class="table table-responsive-md table-bordered p-5 bg-white text-center display-14">
 										<thead class="bg-primary text-white">
 											<tr>
 												<th scope="col">Concepto</th>
@@ -346,9 +346,9 @@
 												<td>No aplica</td>
 												<td><strong>3.79%</strong></td>
 												<td><strong>3.86%</strong></td>
-												<td><strong>0.39%</strong></td>
-												<td>30/01/2020</td>
-												<td>05/02/2020</td>
+												<td><strong>0.36%</strong></td>
+												<td>05/03/2020</td>
+												<td>11/03/2020</td>
 											</tr>
 										</tbody>
 									</table>
@@ -373,7 +373,7 @@
 								<div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordionCCNP2">
 									<div class="card-body bg-grey0 p-4">
 										<h4>Mi Alcancía CPM</h4>
-										<table class="table table-responsive-md table-bordered p-5 bg-white">
+										<table class="table table-responsive-md table-bordered p-5 bg-white text-center display-14">
 											<thead class="bg-primary text-white">
 												<tr>
 													<th scope="col">Tiempo</th>
@@ -393,77 +393,77 @@
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>5.23%</strong></td>
-													<td><strong>5.32%</strong></td>
-													<td><strong>1.81%</strong></td>
-													<td>30/01/2020</td>
-													<td>05/02/2020</td>
+													<td><strong>5.13%</strong></td>
+													<td><strong>5.21%</strong></td>
+													<td><strong>1.68%</strong></td>
+													<td>05/03/2020</td>
+													<td>11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">210 días</td>
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>5.55%</strong></td>
-													<td><strong>5.64%</strong></td>
-													<td><strong>2.12%</strong></td>
-													<td>30/01/2020</td>
-													<td>05/02/2020</td>
+													<td><strong>5.45%</strong></td>
+													<td><strong>5.54%</strong></td>
+													<td><strong>1.99%</strong></td>
+													<td>05/03/2020</td>
+													<td>11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">240 días</td>
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>5.87%</strong></td>
-													<td><strong>5.96%</strong></td>
-													<td><strong>2.43%</strong></td>
-													<td>30/01/2020</td>
-													<td>05/02/2020</td>
+													<td><strong>5.77%</strong></td>
+													<td><strong>5.86%</strong></td>
+													<td><strong>2.30%</strong></td>
+													<td>05/03/2020</td>
+													<td>11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">270 días</td>
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>6.20%</strong></td>
-													<td><strong>6.29%</strong></td>
-													<td><strong>2.75%</strong></td>
-													<td>30/01/2020</td>
-													<td>05/02/2020</td>
+													<td><strong>6.08%</strong></td>
+													<td><strong>6.17%</strong></td>
+													<td><strong>2.60%</strong></td>
+													<td>05/03/2020</td>
+													<td>11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">300 días</td>
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>6.52%</strong></td>
-													<td><strong>6.61%</strong></td>
-													<td><strong>3.05%</strong></td>
-													<td>30/01/2020</td>
-													<td>05/02/2020</td>
+													<td><strong>6.40%</strong></td>
+													<td><strong>6.48%</strong></td>
+													<td><strong>2.90%</strong></td>
+													<td>05/03/2020</td>
+													<td>11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">330 días</td>
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>6.84%</strong></td>
-													<td><strong>6.92%</strong></td>
-													<td><strong>3.36%</strong></td>
-													<td>30/01/2020</td>
-													<td>05/02/2020</td>
+													<td><strong>6.72%</strong></td>
+													<td><strong>6.80%</strong></td>
+													<td><strong>3.21%</strong></td>
+													<td>05/03/2020</td>
+													<td>11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">360 días</td>
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>7.16%</strong></td>
-													<td><strong>7.24%</strong></td>
-													<td><strong>3.66%</strong></td>
-													<td>30/01/2020</td>
-													<td>05/02/2020</td>
+													<td><strong>7.03%</strong></td>
+													<td><strong>7.10%</strong></td>
+													<td><strong>3.50%</strong></td>
+													<td>05/03/2020</td>
+													<td>11/03/2020</td>
 												</tr>
 											</tbody>
 										</table>
@@ -489,7 +489,7 @@
 									<div class="card-body bg-grey0 p-4">
 										<h4>Servicuenta</h4>
 
-										<table class="table table-responsive-md table-bordered p-5 bg-white">
+										<table class="table table-responsive-md table-bordered p-5 bg-white text-center display-14">
 											<thead class="bg-primary text-white">
 												<tr>
 													<th scope="col">Concepto</th>
@@ -507,11 +507,11 @@
 													<td scope="row">No aplica comisión por apertura de la cuenta.</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>2.66%</strong></td>
-													<td><strong>2.69%</strong></td>
-													<td><strong>-0.73%</strong></td>
-													<td>30/01/2020</td>
-													<td>05/02/2020</td>
+													<td><strong>2.61%</strong></td>
+													<td><strong>2.64%</strong></td>
+													<td><strong>-0.81%</strong></td>
+													<td>05/03/2020</td>
+													<td>11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">Retiros en cajeros automáticos internacionales</td>
@@ -617,7 +617,7 @@
 								<div id="collapseTen" class="collapse" aria-labelledby="headingTen" data-parent="#accordionCCNP2">
 									<div class="card-body bg-grey0 p-4">
 										<h4>Rendicuenta</h4>
-										<table class="table table-responsive-md table-bordered p-5 bg-white">
+										<table class="table table-responsive-md table-bordered p-5 bg-white text-center display-14">
 											<thead class="bg-primary text-white">
 												<tr>
 													<th scope="col">Tiempo</th>
@@ -640,91 +640,98 @@
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>3.84%</strong></td>
-													<td><strong>3.91%</strong></td>
-													<td><strong>0.44%</strong></td>
+													<td><strong>3.69%</strong></td>
+													<td><strong>3.75%</strong></td>
+													<td><strong>0.26%</strong></td>
 													<td><strong> </strong></td>
 													<td><strong> </strong></td>
 													<td><strong> </strong></td>
-													<td>30/01/2020 al 05/02/2020</td>
+													<td>05/03/2020</td>
+													<td>11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">A 60 días</td>
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>4.05%</strong></td>
-													<td><strong>4.12%</strong></td>
-													<td><strong>0.65%</strong></td>
+													<td><strong>3.88%</strong></td>
+													<td><strong>3.94%</strong></td>
+													<td><strong>0.45%</strong></td>
 													<td><strong> </strong></td>
 													<td><strong> </strong></td>
 													<td><strong> </strong></td>
-													<td>30/01/2020 al 05/02/2020</td>
+													<td>05/03/2020</td>
+													<td>11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">A 90 días</td>
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>4.25%</strong></td>
-													<td><strong>4.32%</strong></td>
-													<td><strong>0.84%</strong></td>
+													<td><strong>4.07%</strong></td>
+													<td><strong>4.13%</strong></td>
+													<td><strong>0.63%</strong></td>
 													<td><strong> </strong></td>
 													<td><strong> </strong></td>
 													<td><strong> </strong></td>
-													<td>30/01/2020 al 05/02/2020</td>
+													<td>05/03/2020</td>
+													<td>11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">A 120 días</td>
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>4.46%</strong></td>
-													<td><strong>4.53%</strong></td>
-													<td><strong>1.04%</strong></td>
-													<td><strong>4.42%</strong></td>
-													<td><strong>4.49%</strong></td>
-													<td><strong>1.00%</strong></td>
-													<td>30/01/2020 al 05/02/2020</td>
+													<td><strong>4.27%</strong></td>
+													<td><strong>4.33%</strong></td>
+													<td><strong>0.82%</strong></td>
+													<td><strong>4.23%</strong></td>
+													<td><strong>4.29%</strong></td>
+													<td><strong>0.78%</strong></td>
+													<td>05/03/2020</td>
+													<td>11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">A 150 días</td>
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>4.67%</strong></td>
-													<td><strong>4.74%</strong></td>
-													<td><strong>1.25%</strong></td>
-													<td><strong>4.62%</strong></td>
-													<td><strong>4.69%</strong></td>
-													<td><strong>1.20%</strong></td>
-													<td>30/01/2020 al 05/02/2020</td>
+													<td><strong>4.48%</strong></td>
+													<td><strong>4.55%</strong></td>
+													<td><strong>1.03%</strong></td>
+													<td><strong>4.43%</strong></td>
+													<td><strong>4.50%</strong></td>
+													<td><strong>0.98%</strong></td>
+													<td>05/03/2020</td>
+													<td>11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">A 180 días</td>
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>4.89%</strong></td>
-													<td><strong>4.95%</strong></td>
-													<td><strong>1.45%</strong></td>
-													<td><strong>4.82%</strong></td>
-													<td><strong>4.88%</strong></td>
-													<td><strong>1.38%</strong></td>
-													<td>30/01/2020 al 05/02/2020</td>
+													<td><strong>4.68%</strong></td>
+													<td><strong>4.73%</strong></td>
+													<td><strong>1.21%</strong></td>
+													<td><strong>4.62%</strong></td>
+													<td><strong>4.67%</strong></td>
+													<td><strong>1.15%</strong></td>
+													<td>05/03/2020</td>
+													<td>11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">A 360 días</td>
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>6.20%</strong></td>
-													<td><strong>6.20%</strong></td>
-													<td><strong>2.66%</strong></td>
-													<td><strong>6.05%</strong></td>
-													<td><strong>6.22%</strong></td>
-													<td><strong>2.68%</strong></td>
-													<td>30/01/2020 al 05/02/2020</td>
+													<td><strong>5.93%</strong></td>
+													<td><strong>5.93%</strong></td>
+													<td><strong>2.37%</strong></td>
+													<td><strong>5.79%</strong></td>
+													<td><strong>5.95%</strong></td>
+													<td><strong>2.38%</strong></td>
+													<td>05/03/2020</td>
+													<td>11/03/2020</td>
 												</tr>
 											</tbody>
 										</table>
@@ -749,7 +756,7 @@
 								<div id="collapseEleven" class="collapse" aria-labelledby="headingEleven" data-parent="#accordionCCNP2">
 									<div class="card-body bg-grey0 p-4">
 										<h4>Mi Nómina Mexicana</h4>
-										<table class="table table-responsive-md table-bordered p-5 bg-white">
+										<table class="table table-responsive-md table-bordered p-5 bg-white text-center display-14">
 											<thead class="bg-primary text-white">
 												<tr>
 													<th scope="col">Concepto</th>
@@ -769,9 +776,9 @@
 													<td>Por evento</td>
 													<td><strong>0.50%</strong></td>
 													<td><strong>0.50%</strong></td>
-													<td><strong>-2.85%</strong></td>
-													<td>30/01/2020</td>
-													<td>05/02/2020</td>
+													<td><strong>-2.88%</strong></td>
+													<td>05/03/2020</td>
+													<td>11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">Consulta de saldo en cajeros automáticos internacionales</td>
@@ -857,7 +864,7 @@
 								<div id="collapseTwelve" class="collapse" aria-labelledby="headingTwelve" data-parent="#accordionCCNP2">
 									<div class="card-body bg-grey0 p-4">
 										<h4>Cuentamiga</h4>
-										<table class="table table-responsive-md table-bordered p-5 bg-white">
+										<table class="table table-responsive-md table-bordered p-5 bg-white text-center display-14">
 											<thead class="bg-primary text-white">
 												<tr>
 													<th scope="col">Concepto</th>
@@ -877,9 +884,9 @@
 													<td>No aplica</td>
 													<td><strong>3.79%</strong></td>
 													<td><strong>3.86%</strong></td>
-													<td><strong>0.39%</strong></td>
-													<td>30/01/2020</td>
-													<td>05/02/2020</td>
+													<td><strong>0.36%</strong></td>
+													<td>05/03/2020</td>
+													<td>11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">Retiros en cajeros automáticos internacionales</td>
@@ -888,8 +895,8 @@
 													<td><strong>0.50%</strong></td>
 													<td><strong>0.50%</strong></td>
 													<td><strong>-3.25%</strong></td>
-													<td>30/01/2020</td>
-													<td>05/02/2020</td>
+													<td>05/03/2020</td>
+													<td>11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">Consulta de saldo en cajeros automáticos internacionales</td>
@@ -975,7 +982,7 @@
 								<div id="collapseThirteen" class="collapse" aria-labelledby="headingThirteen" data-parent="#accordionCCNP2">
 									<div class="card-body bg-grey0 p-4">
 										<h4>Mi Alcancía Jr</h4>
-										<table class="table table-responsive-md table-bordered p-5 bg-white">
+										<table class="table table-responsive-md table-bordered p-5 bg-white text-center display-14">
 											<thead class="bg-primary text-white">
 												<tr>
 													<th scope="col">Tiempo</th>
@@ -995,77 +1002,77 @@
 													<td>No aplica comisión</td>
 													<td>0</td>
 													<td>No aplica</td>
-													<td><strong>4.46%</strong></td>
-													<td><strong>4.53%</strong></td>
-													<td><strong>1.04%</strong></td>
-													<td><strong>Enero</strong></td>
-													<td>30/01/2020 al 05/02/2020</td>
+													<td><strong>4.36%</strong></td>
+													<td><strong>4.42%</strong></td>
+													<td><strong>0.91%</strong></td>
+													<td><strong>Marzo</strong></td>
+													<td>05/03/2020 al 11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">210 días</td>
 													<td>No aplica comisión</td>
 													<td>0</td>
 													<td>No aplica</td>
-													<td><strong>4.73%</strong></td>
-													<td><strong>4.80%</strong></td>
-													<td><strong>1.30%</strong></td>
-													<td><strong>Enero</strong></td>
-													<td>30/01/2020 al 05/02/2020</td>
+													<td><strong>4.63%</strong></td>
+													<td><strong>4.70%</strong></td>
+													<td><strong>1.17%</strong></td>
+													<td><strong>Marzo</strong></td>
+													<td>05/03/2020 al 11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">240 días</td>
 													<td>No aplica comisión</td>
 													<td>0</td>
 													<td>No aplica</td>
-													<td><strong>5.02%</strong></td>
-													<td><strong>5.08%</strong></td>
-													<td><strong>1.58%</strong></td>
-													<td><strong>Enero</strong></td>
-													<td>30/01/2020 al 05/02/2020</td>
+													<td><strong>4.90%</strong></td>
+													<td><strong>4.97%</strong></td>
+													<td><strong>1.44%</strong></td>
+													<td><strong>Marzo</strong></td>
+													<td>05/03/2020 al 11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">270 días</td>
 													<td>No aplica comisión</td>
 													<td>0</td>
 													<td>No aplica</td>
-													<td><strong>5.29%</strong></td>
-													<td><strong>5.35%</strong></td>
-													<td><strong>1.84%</strong></td>
-													<td><strong>Enero</strong></td>
-													<td>30/01/2020 al 05/02/2020</td>
+													<td><strong>5.17%</strong></td>
+													<td><strong>5.23%</strong></td>
+													<td><strong>1.69%</strong></td>
+													<td><strong>Marzo</strong></td>
+													<td>05/03/2020 al 11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">300 días</td>
 													<td>No aplica comisión</td>
 													<td>0</td>
 													<td>No aplica</td>
-													<td><strong>5.57%</strong></td>
-													<td><strong>5.63%</strong></td>
-													<td><strong>2.11%</strong></td>
-													<td><strong>Enero</strong></td>
-													<td>30/01/2020 al 05/02/2020</td>
+													<td><strong>5.44%</strong></td>
+													<td><strong>5.50%</strong></td>
+													<td><strong>1.95%</strong></td>
+													<td><strong>Marzo</strong></td>
+													<td>05/03/2020 al 11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">330 días</td>
 													<td>No aplica comisión</td>
 													<td>0</td>
 													<td>No aplica</td>
-													<td><strong>5.84%</strong></td>
-													<td><strong>5.90%</strong></td>
-													<td><strong>2.37%</strong></td>
-													<td><strong>Enero</strong></td>
-													<td>30/01/2020 al 05/02/2020</td>
+													<td><strong>5.71%</strong></td>
+													<td><strong>5.77%</strong></td>
+													<td><strong>2.21%</strong></td>
+													<td><strong>Marzo</strong></td>
+													<td>05/03/2020 al 11/03/2020</td>
 												</tr>
 												<tr>
 													<td scope="row">360 días</td>
 													<td>No aplica comisión</td>
 													<td>0</td>
 													<td>No aplica</td>
-													<td><strong>6.11%</strong></td>
-													<td><strong>6.17%</strong></td>
-													<td><strong>2.63%</strong></td>
-													<td><strong>Enero</strong></td>
-													<td>30/01/2020 al 05/02/2020</td>
+													<td><strong>5.98%</strong></td>
+													<td><strong>6.03%</strong></td>
+													<td><strong>2.46%</strong></td>
+													<td><strong>Marzo</strong></td>
+													<td>05/03/2020 al 11/03/2020</td>
 												</tr>
 											</tbody>
 										</table>

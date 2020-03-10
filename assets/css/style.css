@@ -1,4 +1,4 @@
-+/*
+/*
 Theme Name: Portal Caja Popular Mexicana
 Description: Tema desarrollado para la empresa CMP
 Author: Pacho Gonzalez
@@ -181,8 +181,7 @@ p a{ font-weight: bold; }
 	.br-bl-0{ border-bottom-left-radius: 0 !important; }
 
 /* White Flange */
-	.haz-flange{
-	}
+	.haz-flange{}
 	.after-flange{
 		position: relative;
 	}
@@ -233,9 +232,10 @@ p a{ font-weight: bold; }
 	.styled-carousel .carousel-caption{
 		transform: translateY(-50%);
 		bottom: inherit;
-		top:50%;
+		top:80%;
 		color: #fff;
 		text-align: left;
+		background-color: rgb(69,191,0);
 	}
 /* Social Icons */
 	.social-icons{
@@ -290,14 +290,22 @@ p a{ font-weight: bold; }
 		font-size: 10px; 
 	}
 /* Arrow in text */
-.arrow-txt:before{
-	font-family: "Font Awesome 5 Free";
-	font-weight: 900;
-	content: "\f0da";
-	position: absolute;
-	left: 0;
-	color: #45bf00; 
-}
+	.arrow-txt:before{
+		font-family: "Font Awesome 5 Free";
+		font-weight: 900;
+		content: "\f0da";
+		position: absolute;
+		left: 0;
+		color: #45bf00; 
+	}
+/* Custom Styled select */
+	.bootstrap-select > .dropdown-toggle{
+		background-color: #45bf00;
+		color: #fff;
+	}
+	.bootstrap-select .dropdown-menu{
+		min-width: auto !important;
+	}
 
 /* =========================
 		1. HEADER
@@ -330,15 +338,15 @@ p a{ font-weight: bold; }
 		2. NAVIGATION
 ========================= */
 .navbar {
-    padding-top:0;
-    padding-bottom:0;
+	padding-top:0;
+	padding-bottom:0;
 
 }
 .navbar-nav .navbar {
-    position: static;
+	position: static;
 }
 .navbar-nav {
-    position:static !important;
+	position:static !important;
 }
 .navbar-nav li > a,
 .navbar-nav li > a:visited{
@@ -350,17 +358,17 @@ p a{ font-weight: bold; }
 	color: #8CF800;
 }
 .dropdown {
-    position:static;
+	position:static;
 }
 .dropdown-menu a {
-    width:100%;
+	width:100%;
 }
 #main-nav .dropdown-menu {
-    min-width:100%;
-    width:100%;
-    transition:all 0.5s ease;
-    background-color: rgba(255,255,255,.9);
-    border-bottom: 5px solid #45bf00 !important;
+	min-width:100%;
+	width:100%;
+	transition:all 0.5s ease;
+	background-color: rgba(255,255,255,.9);
+	border-bottom: 5px solid #45bf00 !important;
 }
 #main-nav .dropdown-menu .nav{
 	display: block;
@@ -630,6 +638,7 @@ ul.has-arrow li:before,
 	margin-bottom: 3rem !important;
 }
 .guides-grid .guides-grid-col{
+	display: none;
 	margin-bottom: 30px;
 }
 .guides-grid .guides-grid-col .guides-grid-block{
@@ -733,32 +742,32 @@ ul.has-arrow li:before,
 		17. TABS TO ACCORDION
 ========================= */
 .nav-tabs.to-accordion {
-    display:none;
+	display:none;
 }
 
 @media(min-width:768px) {
-    .nav-tabs.to-accordion {
-        display: flex;
-    }
-    
-    .tab-content.to-accordion .card {
-        border: none;
-    }
+	.nav-tabs.to-accordion {
+		display: flex;
+	}
+	
+	.tab-content.to-accordion .card {
+		border: none;
+	}
 
-    .tab-content.to-accordion .card .card-header {
-        display:none;
-    }  
+	.tab-content.to-accordion .card .card-header {
+		display:none;
+	}  
 
-    .tab-content.to-accordion .card .collapse{
-        display:block;
-    }
+	.tab-content.to-accordion .card .collapse{
+		display:block;
+	}
 }
 
 @media(max-width:767px){
-    .tab-content.to-accordion  > .tab-pane {
-        display: block !important;
-        opacity: 1;
-    }
+	.tab-content.to-accordion  > .tab-pane {
+		display: block !important;
+		opacity: 1;
+	}
 }
 
 /* =========================
@@ -862,17 +871,17 @@ ul.has-arrow li:before,
 	19. MODALS
 ========================= */
 .modal-backdrop.fade.show:after {
-    content: "";
-    background-image: url('https://thumbs.gfycat.com/BitterEarnestBeardeddragon-small.gif');
-    background-repeat: no-repeat;
-    background-size: 100px;
-    height: 100px; 
-    width: 100px;
-    display: block;
-    position: absolute;
-    transform: translate(-50%, -50%);
-    top: 50%;
-    left: 50%;
+	content: "";
+	background-image: url('https://thumbs.gfycat.com/BitterEarnestBeardeddragon-small.gif');
+	background-repeat: no-repeat;
+	background-size: 100px;
+	height: 100px; 
+	width: 100px;
+	display: block;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	top: 50%;
+	left: 50%;
 }
 
 /*
@@ -882,7 +891,7 @@ ul.has-arrow li:before,
 
 /* Extra Small devices (portrait phones, 300px and up) */
 @media (min-width: 300px) {
-	/*html::before{
+	html::before{
 		content: "XS";
 		display: block;
 		position: fixed;
@@ -893,7 +902,7 @@ ul.has-arrow li:before,
 		left: 0;
 		padding: 10px;
 		z-index: 999;
-	}*/
+	}
 	#site-header-mobile .main-logo{
 		max-height: 40px;
 	}
@@ -911,6 +920,8 @@ ul.has-arrow li:before,
 		transform: none;
 		left: 0;
 		text-align: center;
+		min-width: 100%;
+		min-height: 220px;
 	}
 	.carousel-control-prev, .carousel-control-next{
 		z-index: 9;
@@ -942,7 +953,7 @@ ul.has-arrow li:before,
 }
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
-	/*html::before{
+	html::before{
 		content: "SM";
 		display: block;
 		position: fixed;
@@ -953,7 +964,7 @@ ul.has-arrow li:before,
 		left: 0;
 		padding: 10px;
 		z-index: 999;
-	}*/
+	}
 	.has-label::before{
 		left: -20px;
 		width: 30px;
@@ -967,12 +978,23 @@ ul.has-arrow li:before,
 	.after-flange::after{
 		height: 40px;
 	}
+	/* Main Slider */
+	.styled-carousel .carousel-caption{
+		top:80%;
+		background-color: rgba(69,191,0,.75);
+	}
+	.styled-carousel .carousel-caption .btn{
+		font-size: 14px;
+		padding: 5px 10px;
+	}
 
 	.styled-carousel.with-caption .carousel-caption{
 		position: relative;
 		transform: none;
 		left: 0;
 		text-align: center;
+		min-width: 100%;
+		min-height: 220px;
 	}
 	.carousel-control-prev, .carousel-control-next{
 		z-index: 9;
@@ -1021,7 +1043,7 @@ ul.has-arrow li:before,
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
-	/*html::before{
+	html::before{
 		content: "MD";
 		display: block;
 		position: fixed;
@@ -1032,7 +1054,7 @@ ul.has-arrow li:before,
 		left: 0;
 		padding: 10px;
 		z-index: 999;
-	}*/
+	}
 
 	.has-label::before{
 		left: -40px;
@@ -1047,13 +1069,14 @@ ul.has-arrow li:before,
 	.after-flange::after{
 		height: 60px;
 	}
-	.styled-carousel.with-caption .carousel-caption{
-		position: absolute;
-		transform: translateY(-50%);
-		bottom: inherit;
-		top: 50%;
-		left: 10%;
-		text-align: left;
+	/* Main Slider */
+	.styled-carousel .carousel-caption{
+		top:65%;
+		background-color: rgba(69,191,0,.75);
+	}
+	.styled-carousel .carousel-caption h2{
+		font-size: 1.8rem;
+		line-height: 2rem;
 	}
 
 	/* Maps - Ubica tu sucursal */	
@@ -1079,7 +1102,7 @@ ul.has-arrow li:before,
 
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) {
-	/*html::before{
+	html::before{
 		content: "LG";
 		display: block;
 		position: fixed;
@@ -1090,7 +1113,7 @@ ul.has-arrow li:before,
 		left: 0;
 		padding: 10px;
 		z-index: 999;
-	}*/
+	}
 	.has-label::before{
 		left: -40px;
 		width: 80px;
@@ -1103,12 +1126,22 @@ ul.has-arrow li:before,
 	.after-flange::after{
 		height: 70px;
 	}
+	/* Main Slider */
+	.styled-carousel .carousel-caption{
+		top:80%;
+	}
 	.styled-carousel.with-caption .carousel-caption{
-		position: absolute;		
-		transform: translateY(-50%);
-		bottom: inherit;
+		position: absolute;
 		top: 50%;
-		text-align: left;
+		left: 10%;
+		text-align: center;
+		transform: translateY(-50%);
+		-webkit-transform: translateY(-50%);
+		-moz-transform: translateY(-50%);
+		-ms-transform: translateY(-50%);
+		-o-transform: translateY(-50%);
+		min-width: inherit;
+		min-height: inherit;
 	}
 	/* Display Responsive Fix */
 		.display-1{ font-size: 5.4rem; line-height: 5.6rem; }
@@ -1131,7 +1164,7 @@ ul.has-arrow li:before,
 
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
-	/*html::before{
+	html::before{
 		content: "XL";
 		display: block;
 		position: fixed;
@@ -1142,7 +1175,7 @@ ul.has-arrow li:before,
 		left: 0;
 		padding: 10px;
 		z-index: 999;
-	}*/
+	}
 	.has-label::before{
 		left: -40px;
 		width: 80px;
@@ -1168,13 +1201,22 @@ ul.has-arrow li:before,
 	.after-flange::after{
 		height: 80px;
 	}
+	/* Main Slider */
+	.styled-carousel .carousel-caption{
+		top:80%;
+	}
 	.styled-carousel.with-caption .carousel-caption{
 		position: absolute;
-		transform: translateY(-50%);
-		bottom: inherit;
 		top: 50%;
 		left: 10%;
-		text-align: left;
+		text-align: center;
+		transform: translateY(-50%);
+		-webkit-transform: translateY(-50%);
+		-moz-transform: translateY(-50%);
+		-ms-transform: translateY(-50%);
+		-o-transform: translateY(-50%);
+		min-width: inherit;
+		min-height: inherit;
 	}
 	/* White circle and line */
 		.white-circle-n-line{

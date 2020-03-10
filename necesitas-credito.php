@@ -32,7 +32,7 @@
 							<i class="far fa-money-bill-alt fa-4x bg-primary text-white rounded-circle"></i>
 							<!-- <img src="assets/img/icons/icon-bills.png" class="bg-primary p-3 rounded-circle" width="120" height="120" alt=""> -->
 							<h3>Crédito <br>Personal Plus CPM</h3>
-							<p>Satisface cualquier necesidad de consumo o actividad lícita, excepto finalidades productivas y comerciales.</p>
+							<p>Satisface cualquier necesidad lícita de consumo, excepto finalidades productivas y comerciales.</p>
 						</div>
 						</a>
 					</div> <!-- ./ Personal Plus -->
@@ -78,13 +78,13 @@
 						</div>
 						</a>
 					</div> <!-- ./ Automotríz -->
-					<div class="landing-grid-box col-12 col-lg-4 mb-md-5 mb-lg-auto">
+					<div class="landing-grid-box col-12 col-lg-4">
 						<a href="credito-hipotecario-cpm" class="h-100">
 						<div class="landing-grid-box-info rounded bw-5 border-primary text-center h-100">
 							<i class="fas fa-home fa-4x bg-primary text-white rounded-circle"></i>
 							<!-- <img src="assets/img/icons/icon-car.png" class="bg-primary p-3 rounded-circle" width="120" height="120" alt=""> -->
 							<h3>Crédito <br>Hipotecario CPM</h3>
-							<p>Adquiere tu vivienda nueva o usada, construcción, remodelación o mejoramiento.</p>
+							<p>Adquiere tu vivienda nueva o usada, construcción, remodelación, mejoramiento, sustitución de hipoteca o cualquier otra finalidad lícita.</p>
 						</div>
 						</a>
 					</div> <!-- ./ Hipotecario -->

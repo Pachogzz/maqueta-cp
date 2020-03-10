@@ -91,6 +91,9 @@
 
 										<h5 class="text-primary arrow-txt"><strong>Equidad</strong></h5>
 										<p class="display-18"><i>Brindar las mismas oportunidades</i>, condiciones y trato a las personas sin importar las diferencias culturales, sociales o de género.</p>
+
+										<h5 class="text-primary arrow-txt"><strong>Solidaridad</strong></h5>
+										<p class="display-18">Pensar en lo común antes que en lo individual, comprometiéndose con los derechos de las personas con independencia de su condición cultural, social o de género.</p>
 									</div>
 								</div>
 							</div>
@@ -160,7 +163,7 @@
 
 									<div class="row border-bottom mb-3">
 										<div class="col-12 col-md-2 text-center text-lg-left">
-											<img src="assets/img/secciones/logos-organismos/4.png" class="d-block mx-auto mx-lg-0">
+											<img src="assets/img/secciones/logos-organismos/4-2.png" class="d-block mx-auto mx-lg-0">
 											<a href="http://www.integradoracentral.coop" class="btn btn-sm btn-primary font-weight-semibold mb-3" target="_blank">Saber más</a>
 										</div>
 										<div class="col-12 col-md-10 text-center text-lg-left">

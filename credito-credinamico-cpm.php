@@ -26,8 +26,8 @@
 							<!-- <h2 class="d-inline-block border-primary text-primary font-weight-bolder bw-3 py-2 px-3 mb-3">DESCRIPCIÓN</h2> -->
 							<img width="" src="assets/img/secciones/logos-credito/credito-credinamico.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Obtén un crédito revolvente que cubra cualquiera de tus necesidades.</p>
-							<p class="lead my-3 font-weight-bold text-primary">Montos desde $10,000 hasta $120,524.00</p>
-							<p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/FR-1917_Contrato_de_apertura_de_credito_en_cuenta_corriente-2.pdf">aquí</a></p>
+							<p class="lead my-3 font-weight-bold text-primary">Montos desde $10,000 hasta $128,804.00</p>
+							<p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/FR-1917_Contrato_de_apertura_de_credito_en_cuenta_corriente-22.pdf">aquí</a></p>
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 						<!-- Nota Legal -->
@@ -60,7 +60,7 @@
 									<div class="card-body bg-grey0 p-4">
 										<h4>Monto</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Montos desde $10,000.00, hasta $120,524.00</li>
+											<li>Montos desde $10,000.00, hasta $128,804.00</li>
 											<li>Crédito otorgado en moneda nacional.</li>
 											<!-- <li>Hasta 20,000 (Al 31 de enero de 2019, importe $124,951.90) UDIS (Unidad de inversión que se actualiza mensualmente para su conversión en moneda nacional).</li> -->
 										</ul>
@@ -83,7 +83,7 @@
 									<div class="card-body bg-grey0 p-4">
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li><strong>Tasa de Interés</strong>
-												<p>Tasa de interés ordinaria anual fija desde un 12.00% hasta un 33.0% antes de impuestos. La tasa se asignará de acuerdo al perfil crediticio del socio.</p>
+												<p>Tasa de interés ordinaria anual fija desde un 12.00% hasta un 33.0% más IVA. La tasa se asignará de acuerdo al perfil crediticio del socio.</p>
 											</li>
 											<li><strong>CAT Promedio Crédito Credinámico CPM</strong>
 												<p><strong>Costo Anual Total Promedio de 25.1% sin IVA.</strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo <strong>31 de Diciembre de 2019</strong>.</strong></p>

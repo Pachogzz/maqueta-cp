@@ -15,7 +15,16 @@
 									type="video/mp4" 
 									alt="Bienvenido a Caja Popular Mexicana">
 							</video>
-							<div class="carousel-caption d-none d-sm-block p-3 p-lg-5 bg-primary br-ntl-30 col-5 col-md-3 my-auto has-label">
+							<div 
+								class="
+									carousel-caption 
+									d-none d-sm-block 
+									my-auto 
+									p-3 px-md-5 pl-lg-5 pr-lg-3 py-lg-3 
+									col-5 col-sm-8 col-md-6 col-lg-4 col-xl-3 
+									br-ntl-30 
+									has-label"
+							>
 								<h2 class="display-5"><strong>Bienvenido a Caja Popular Mexicana.</strong></h2>
 								<h5 class="text-yellow mb-2"><strong>Tu cooperativa confiable</strong></h5>
 								<a href="conocenos" class="btn btn-secondary br-30 px-5 font-weight-semibold">Saber más</a>

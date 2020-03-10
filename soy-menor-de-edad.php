@@ -87,7 +87,7 @@
 									<i class="fas fa-handshake fa-3x mb-3"></i><br>Generacción <br>en acción
 								</a>
 							</li>
-							<!-- <a class="nav-link text-center h4 p-3" href="hhttp://www.puntosverdes.mx/" target="_blank">
+							<!-- <a class="nav-link text-center h4 p-3" href="http://www.puntosverdes.mx/" target="_blank">
 								<i class="fas fa-spinner fa-3x mb-3"></i><br>Puntos <br>verdes
 							</a> -->
 						</ul>

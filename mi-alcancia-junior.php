@@ -14,12 +14,34 @@
 
 		<section class="page-content">
 			<div class="container">
-				<div class="row">
+				<div class="row mb-3 mb-lg-5">
 					<div class="col-12 text-center">
-						<!-- <div class="embed-responsive embed-responsive-16by9 mb-md-5">
-							<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/FY6AMOfUyMk?rel=0" allowfullscreen></iframe>
-						</div> -->
-						<!-- <img src="assets/img/secciones/ahorro/banner-cuenta-mexicana.jpg" alt="" class="img-fluid mb-5"> -->
+						<div id="carouselControls" class="carousel slide" data-ride="carousel">
+							<ol class="carousel-indicators">
+								<li data-target="#carouselControls" data-slide-to="0" class="active"></li>
+								<li data-target="#carouselControls" data-slide-to="1"></li>
+							</ol>
+							<div class="carousel-inner">
+								<div class="carousel-item active">
+									<div class="h-100 w-100 text-center">
+										<img class="m-auto img-fluid" src="assets/img/secciones/ahorro/mi_alcancia_jr_1.jpg" alt="Guarda tus ahorros para lo que más te gusta">
+									</div>
+								</div>
+								<div class="carousel-item">
+									<div class="h-100 w-100 text-center">
+										<img class="m-auto img-fluid" src="assets/img/secciones/ahorro/mi_alcancia_jr_2.jpg" alt="Guarda tus ahorros para lo que más te gusta">
+									</div>
+								</div>
+							</div>
+							<a class="carousel-control-prev" href="#carouselControls" role="button" data-slide="prev">
+								<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+								<span class="sr-only">Previous</span>
+							</a>
+							<a class="carousel-control-next" href="#carouselControls" role="button" data-slide="next">
+								<span class="carousel-control-next-icon" aria-hidden="true"></span>
+								<span class="sr-only">Next</span>
+							</a>
+						</div>
 					</div> <!-- ./ Video o imágen principal -->
 				</div> <!-- ./ End Row -->
 				<div class="row">
@@ -116,8 +138,8 @@
 							<div class="col-12 mt-5">
 								<!-- Nota Legal -->
 								<div class="bg-grey0 p-5">
-									<p class="display-12">Vigencia del <strong>30 de Enero al 05 de Febrero del 2020</strong></p>
-									<p class="display-12">Fecha de cálculo Enero 2020</p>
+									<p class="display-12">Vigencia del <strong>05 al 11 de Marzo del 2020</strong></p>
+									<p class="display-12">Fecha de cálculo Marzo 2020</p>
 									<p class="display-12"><strong>* GAT NOMINAL</strong> antes de impuestos. Para fines informativos y de comparación.</p>
 									<p class="display-12"><strong>**GAT REAL</strong> antes de impuestos. Para fines informativos y de comparación. La GAT REAL es el rendimiento que obtendría después de descontar la inflación estimada Para fines informativos y de comparación exclusivamente.</p>
 								</div>
@@ -150,77 +172,77 @@
 								        <td>No aplica comisión</td>
 								        <td>0</td>
 								        <td>No aplica</td>
-										<td><strong>4.45%</strong></td>
-										<td><strong>4.51%</strong></td>
-										<td><strong>1.02%</strong></td>
-								        <td>Enero</td>
-								        <td>30/01/2020 al 05/02/2020</td>
+										<td><strong>4.36%</strong></td>
+										<td><strong>4.42%</strong></td>
+										<td><strong>0.91%</strong></td>
+								        <td>Marzo</td>
+										<td>05/03/2020 al 11/03/2020</td>
 								    </tr>
 								    <tr>
 								        <td scope="row">210 días</td>
 								        <td>No aplica comisión</td>
 								        <td>0</td>
 								        <td>No aplica</td>
-										<td><strong>4.72%</strong></td>
-										<td><strong>4.78%</strong></td>
-										<td><strong>1.29%</strong></td>
-								        <td>Enero</td>
-								        <td>30/01/2020 al 05/02/2020</td>
+										<td><strong>4.63%</strong></td>
+										<td><strong>4.70%</strong></td>
+										<td><strong>1.17%</strong></td>
+								        <td>Marzo</td>
+										<td>05/03/2020 al 11/03/2020</td>
 								    </tr>
 								    <tr>
 								        <td scope="row">240 días</td>
 								        <td>No aplica comisión</td>
 								        <td>0</td>
 								        <td>No aplica</td>
-										<td><strong>4.99%</strong></td>
-										<td><strong>5.06%</strong></td>
-										<td><strong>1.55%</strong></td>
-								        <td>Enero</td>
-								        <td>30/01/2020 al 05/02/2020</td>
+										<td><strong>4.90%</strong></td>
+										<td><strong>4.97%</strong></td>
+										<td><strong>1.44%</strong></td>
+								        <td>Marzo</td>
+										<td>05/03/2020 al 11/03/2020</td>
 								    </tr>
 								    <tr>
 								        <td scope="row">270 días</td>
 								        <td>No aplica comisión</td>
 								        <td>0</td>
 								        <td>No aplica</td>
-										<td><strong>5.27%</strong></td>
-										<td><strong>5.34%</strong></td>
-										<td><strong>1.82%</strong></td>
-								        <td>Enero</td>
-								        <td>30/01/2020 al 05/02/2020</td>
+										<td><strong>5.17%</strong></td>
+										<td><strong>5.23%</strong></td>
+										<td><strong>1.69%</strong></td>
+								        <td>Marzo</td>
+										<td>05/03/2020 al 11/03/2020</td>
 								    </tr>
 								    <tr>
 								        <td scope="row">300 días</td>
 								        <td>No aplica comisión</td>
 								        <td>0</td>
 								        <td>No aplica</td>
-										<td><strong>5.54%</strong></td>
-										<td><strong>5.61%</strong></td>
-										<td><strong>2.08%</strong></td>
-								        <td>Enero</td>
-								        <td>30/01/2020 al 05/02/2020</td>
+										<td><strong>5.44%</strong></td>
+										<td><strong>5.50%</strong></td>
+										<td><strong>1.95%</strong></td>
+								        <td>Marzo</td>
+										<td>05/03/2020 al 11/03/2020</td>
 								    </tr>
 								    <tr>
 								        <td scope="row">330 días</td>
 								        <td>No aplica comisión</td>
 								        <td>0</td>
 								        <td>No aplica</td>
-										<td><strong>5.81%</strong></td>
-										<td><strong>5.87%</strong></td>
-										<td><strong>2.34%</strong></td>
-								        <td>Enero</td>
-								        <td>30/01/2020 al 05/02/2020</td>
+										<td><strong>5.71%</strong></td>
+										<td><strong>5.77%</strong></td>
+										<td><strong>2.21%</strong></td>
+								        <td>Marzo</td>
+										<td>05/03/2020 al 11/03/2020</td>
 								    </tr>
 								    <tr>
 								        <td scope="row">360 días</td>
 								        <td>No aplica comisión</td>
 								        <td>0</td>
 								        <td>No aplica</td>
-										<td><strong>6.09%</strong></td>
-										<td><strong>6.14%</strong></td>
-										<td><strong>2.60%</strong></td>
-								        <td>Enero</td>
-								        <td>30/01/2020 al 05/02/2020</td>
+										<td><strong>5.98%</strong></td>
+										<td><strong>6.03%</strong></td>
+										<td><strong>2.46%</strong></td>
+								        <td>Marzo</td>
+										<td>05/03/2020 al 11/03/2020</td>
 								    </tr>
 								</tbody>
 							</table>

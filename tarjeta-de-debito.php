@@ -16,10 +16,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-12 text-center">
-						<!-- <div class="embed-responsive embed-responsive-16by9 mb-md-5">
-							<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/FY6AMOfUyMk?rel=0" allowfullscreen></iframe>
-						</div> -->
-						<!-- <img src="assets/img/secciones/ahorro/banner-cuenta-mexicana.jpg" alt="" class="img-fluid mb-5"> -->
+						<img src="assets/img/secciones/tarjetas_de_debito_1.jpg" alt="" class="img-fluid mb-5">
 					</div> <!-- ./ Video o imágen principal -->
 				</div> <!-- ./ End Row -->
 				<div class="row mb-4">
@@ -35,9 +32,9 @@
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 						<!-- Nota Legal -->
 						<div class="bg-grey0 p-5">
-							<p class="display-12">Vigencia del <strong>30 de Enero al 05 de Febrero del 2020</strong></p>
-							<p class="display-12">Fecha de cálculo Enero 2020</p>
-							<p class="display-12"><strong>* GAT NOMINAL de -2.66% y GAT real de -5.91% antes de impuestos</strong>. La GAT real es el rendimiento que obtendrás después de descontar la inflación estimada. Para fines informativos y de comparación exclusivamente; tasa fija de rendimiento de $1,500 en adelante 1.33% anual antes de impuestos.</p>
+							<p class="display-12">Vigencia del <strong>05 al 11 de Marzo del 2020</strong></p>
+							<p class="display-12">Fecha de cálculo Marzo 2020</p>
+							<p class="display-12"><strong>* GAT NOMINAL de -2.68% y GAT real de -5.95% antes de impuestos</strong>. La GAT real es el rendimiento que obtendrás después de descontar la inflación estimada. Para fines informativos y de comparación exclusivamente; tasa fija de rendimiento de $1,500 en adelante 1.31% anual antes de impuestos.</p>
 						</div>
 						<!-- Nota Legal -->
 					</div>

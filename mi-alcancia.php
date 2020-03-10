@@ -108,8 +108,8 @@
 							<div class="col-12 mt-5">
 								<!-- Nota Legal -->
 								<div class="bg-grey0 p-5">
-									<p class="display-12">Vigencia del <strong>30 de Enero al 05 de Febrero del 2020</strong></p>
-									<p class="display-12">Fecha de cálculo Enero 2020</p>
+									<p class="display-12">Vigencia del <strong>05 al 11 de Marzo del 2020</strong></p>
+									<p class="display-12">Fecha de cálculo Marzo 2020</p>
 									<p class="display-12"><strong>* GAT NOMINAL</strong> antes de impuestos. Para fines informativos y de comparación.</p>
 									<p class="display-12"><strong>**GAT REAL</strong> antes de impuestos. Para fines informativos y de comparación. La GAT REAL es el rendimiento que obtendría después de descontar la inflación estimada Para fines informativos y de comparación exclusivamente.</p>
 								</div>
@@ -142,77 +142,77 @@
 										<td>No aplica comisión</td>
 										<td>0</td>
 										<td>No aplica</td>
-										<td><strong>5.23%</strong></td>
-										<td><strong>5.32%</strong></td>
-										<td><strong>1.81%</strong></td>
-										<td>Enero</td>
-										<td>30/01/2020 al 05/02/2020</td>
+										<td><strong>5.13%</strong></td>
+										<td><strong>5.21%</strong></td>
+										<td><strong>1.68%</strong></td>
+										<td>Marzo</td>
+										<td>05/03/2020 al 11/03/2020</td>
 									</tr>
 									<tr>
 										<td scope="row">210 días</td>
 										<td>No aplica comisión</td>
 										<td>0</td>
 										<td>No aplica</td>
-										<td><strong>5.55%</strong></td>
-										<td><strong>5.64%</strong></td>
-										<td><strong>2.12%</strong></td>
-										<td>Enero</td>
-										<td>30/01/2020 al 05/02/2020</td>
+										<td><strong>5.45%</strong></td>
+										<td><strong>5.54%</strong></td>
+										<td><strong>1.99%</strong></td>
+										<td>Marzo</td>
+										<td>05/03/2020 al 11/03/2020</td>
 									</tr>
 									<tr>
 										<td scope="row">240 días</td>
 										<td>No aplica comisión</td>
 										<td>0</td>
 										<td>No aplica</td>
-										<td><strong>5.87%</strong></td>
-										<td><strong>5.96%</strong></td>
-										<td><strong>2.43%</strong></td>
-										<td>Enero</td>
-										<td>30/01/2020 al 05/02/2020</td>
+										<td><strong>5.77%</strong></td>
+										<td><strong>5.86%</strong></td>
+										<td><strong>2.30%</strong></td>
+										<td>Marzo</td>
+										<td>05/03/2020 al 11/03/2020</td>
 									</tr>
 									<tr>
 										<td scope="row">270 días</td>
 										<td>No aplica comisión</td>
 										<td>0</td>
 										<td>No aplica</td>
-										<td><strong>6.20%</strong></td>
-										<td><strong>6.29%</strong></td>
-										<td><strong>2.75%</strong></td>
-										<td>Enero</td>
-										<td>30/01/2020 al 05/02/2020</td>
+										<td><strong>6.08%</strong></td>
+										<td><strong>6.17%</strong></td>
+										<td><strong>2.60%</strong></td>
+										<td>Marzo</td>
+										<td>05/03/2020 al 11/03/2020</td>
 									</tr>
 									<tr>
 										<td scope="row">300 días</td>
 										<td>No aplica comisión</td>
 										<td>0</td>
 										<td>No aplica</td>
-										<td><strong>6.52%</strong></td>
-										<td><strong>6.61%</strong></td>
-										<td><strong>3.05%</strong></td>
-										<td>Enero</td>
-										<td>30/01/2020 al 05/02/2020</td>
+										<td><strong>6.40%</strong></td>
+										<td><strong>6.48%</strong></td>
+										<td><strong>2.90%</strong></td>
+										<td>Marzo</td>
+										<td>05/03/2020 al 11/03/2020</td>
 									</tr>
 									<tr>
 										<td scope="row">330 días</td>
 										<td>No aplica comisión</td>
 										<td>0</td>
 										<td>No aplica</td>
-										<td><strong>6.84%</strong></td>
-										<td><strong>6.92%</strong></td>
-										<td><strong>3.36%</strong></td>
-										<td>Enero</td>
-										<td>30/01/2020 al 05/02/2020</td>
+										<td><strong>6.72%</strong></td>
+										<td><strong>6.80%</strong></td>
+										<td><strong>3.21%</strong></td>
+										<td>Marzo</td>
+										<td>05/03/2020 al 11/03/2020</td>
 									</tr>
 									<tr>
 										<td scope="row">360 días</td>
 										<td>No aplica comisión</td>
 										<td>0</td>
 										<td>No aplica</td>
-										<td><strong>7.16%</strong></td>
-										<td><strong>7.24%</strong></td>
-										<td><strong>3.66%</strong></td>
-										<td>Enero</td>
-										<td>30/01/2020 al 05/02/2020</td>
+										<td><strong>7.03%</strong></td>
+										<td><strong>7.10%</strong></td>
+										<td><strong>3.50%</strong></td>
+										<td>Marzo</td>
+										<td>05/03/2020 al 11/03/2020</td>
 									</tr>
 								</tbody>
 							</table>
