@@ -56,6 +56,13 @@
 					<div class="col-12 col-md-6 offset-md-3 text-center py-3">
 						<h3 class="title-medium font-weight-bold">GUÍAS DE USO</h3>
 						<p class="lead font-weight-semibold">Selecciona la guía de tu interés por su categoría</p>
+
+						<div class="text-center">
+							<div id="loading" class="spinner-border text-success" role="status">
+								<span class="sr-only">Loading...</span>
+							</div>
+						</div>
+						
 						<form action="">
 							<div class="form-group">
 								<select class="form-control selectpicker" id="filterSelector">

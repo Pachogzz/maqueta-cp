@@ -47,14 +47,14 @@
 					<div class="col-12 col-md-6 col-lg-4 mb-4 mb-md-5">
 						<div class="h-100 bg-primary text-white text-center rounded p-5">
 							<i class="fas fa-users fa-5x mb-3"></i>
-							<h2 class="font-weight-bolder mb-3 counter-val">2,766,606</h2>
+							<h2 class="font-weight-bolder mb-3 counter-val">2,784,300</h2>
 							<h4>Socios</h4>
 						</div>
 					</div>
 					<div class="col-12 col-md-6 col-lg-4 mb-4 mb-md-5">
 						<div class="h-100 bg-quinary text-white text-center rounded p-5">
 							<i class="fas fa-child fa-5x mb-3"></i>
-							<h2 class="font-weight-bolder mb-3 counter-val">365,176</h2>
+							<h2 class="font-weight-bolder mb-3 counter-val">339,174</h2>
 							<h4>Ahorradores Menores de Edad</h4>
 						</div>
 					</div>
@@ -68,21 +68,21 @@
 					<div class="col-12 col-md-6 col-lg-4 mb-4 mb-md-5">
 						<div class="h-100 bg-quinary text-white text-center rounded p-5">
 							<i class="fas fa-piggy-bank fa-5x mb-3"></i>
-							<h2 class="font-weight-bolder mb-3 counter-val asterisk">49,895,860</h2>
+							<h2 class="font-weight-bolder mb-3 counter-val asterisk">50,364,602</h2>
 							<h4>Captación</h4>
 						</div>
 					</div>
 					<div class="col-12 col-md-6 col-lg-4 mb-4 mb-md-5">
 						<div class="h-100 bg-primary text-white text-center rounded p-5">
 							<i class="fas fa-money-bill-wave fa-5x mb-3"></i>
-							<h2 class="font-weight-bolder mb-3 counter-val asterisk">38,789,137</h2>
+							<h2 class="font-weight-bolder mb-3 counter-val asterisk">39,250,154</h2>
 							<h4>Colocación</h4>
 						</div>
 					</div>
 					<div class="col-12 col-md-6 col-lg-4 mb-4 mb-md-5">
 						<div class="h-100 bg-quinary text-white text-center rounded p-5">
 							<i class="fas fa-hand-holding-usd fa-5x mb-3"></i>
-							<h2 class="font-weight-bolder mb-3 counter-val asterisk">61,602,528</h2>
+							<h2 class="font-weight-bolder mb-3 counter-val asterisk">62,081,637</h2>
 							<h4>Activos</h4>
 						</div>
 					</div>
@@ -91,7 +91,7 @@
 				<div class="row">
 					<div class="col-12">
 						<p class="text-center text-grey2">CAJA POPULAR MEXICANA S.C. DE A.P. DE R.L. DE C.V. <br>
-						*Cifras en miles de pesos | Información estadística al 31 de enero de 2020</p>
+						*Cifras en miles de pesos | Información estadística al 29 de Febrero de 2020</p>
 					</div>
 				</div>
 			</div>

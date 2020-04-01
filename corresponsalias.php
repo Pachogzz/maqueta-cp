@@ -36,12 +36,12 @@
 							        </button>
 							      </div>
 							      <div class="modal-body">
-							        <iframe src="assets/img/secciones/corresponsalias/ENERO-CORRESPONSALIAS.html" class="w-100" height="600" frameborder="0"></iframe>
+							        <iframe src="assets/img/secciones/corresponsalias/FEBRERO-CORRESPONSALIAS.html" class="w-100" height="600" frameborder="0"></iframe>
 							      </div>
 							    </div>
 							  </div>
 							</div> <!-- ./ Modal Ends -->
-							<p class="mb-0 h3 font-weight-normal font-weight-bolder mt-3">Vigencia: ENERO 2020</p></a>
+							<p class="mb-0 h3 font-weight-normal font-weight-bolder mt-3">Vigencia: MARZO 2020</p></a>
 						</blockquote>
 					</div>
 				</div>

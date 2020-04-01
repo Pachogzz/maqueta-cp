@@ -81,7 +81,7 @@
 		<!-- Tiny Slider 2.0 -->
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"></script>
 		<!-- Selector de estados -->
-		<script type="text/javascript" src="assets/js/municipios.js"></script>
+		<script src="assets/js/municipios.js"></script>
 		<!-- Form Validatr -->
 		<script src="assets/js/validator.js"></script>
 		<!-- Counter Up -->
@@ -94,8 +94,8 @@
 		<!-- Custom JS -->
 		<script src="assets/js/site.js"></script>
 		<!-- Maps Google -->
-		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCiLXdNlZzFjV8DV-Rj16QWiN37zx2nbLo&callback=initMap" async defer></script>
-		<!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAY3wtYGDWhjl332uvDlxDkWpmh8Tum3qk&callback=initMap" async defer></script> -->
+		<!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCiLXdNlZzFjV8DV-Rj16QWiN37zx2nbLo&callback=initMap" async defer></script> -->
+		<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAY3wtYGDWhjl332uvDlxDkWpmh8Tum3qk&callback=initMap" async defer></script>
 		<script type="text/javascript" src="assets/js/maps-config.js"></script>
 		<script type="text/javascript" src="assets/js/select-drop.js"></script>
 	</body>

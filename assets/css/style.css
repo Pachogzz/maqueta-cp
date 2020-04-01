@@ -307,6 +307,19 @@ p a{ font-weight: bold; }
 		min-width: auto !important;
 	}
 
+/* Custom titles */
+	p.arrow-txt,
+	a.arrow-txt,
+	h1.arrow-txt,
+	h2.arrow-txt,
+	h3.arrow-txt,
+	h4.arrow-txt,
+	h5.arrow-txt,
+	h6.arrow-txt{
+		position: relative;
+		padding-left: 20px;
+	}
+
 /* =========================
 		1. HEADER
 ========================= */
@@ -569,6 +582,7 @@ p a{ font-weight: bold; }
 .accordion-cpm .card-header h2 button:hover{ text-decoration: none; }
 .accordion-cpm .card-header h2 button:focus{  }
 .accordion-cpm .card-body{}
+
 .tab-content .tab-pane ul,
 .accordion-cpm .card-body ul{ list-style: none; }
 ul.has-arrow li,
@@ -707,25 +721,32 @@ ul.has-arrow li:before,
 	border-left: 20px solid transparent;
 }
 
-.icon-tabs{}
-.icon-tabs .nav-item.active .nav-link{
+.responsive-tabs .nav-item.active .nav-link,
+.responsive-tabs.icon-tabs .nav-item.active .nav-link{
 	background-color: #45bf00;
 	color: #fafafa;
 }
-.icon-tabs .nav-link{
+.responsive-tabs .nav-link{
 	position: relative;
 	background-color: #fafafa;
 	min-height: 180px;
 	margin-bottom: 30px;
 }
-.icon-tabs.normal .nav-link{
-	min-height: 130px;
+.responsive-tabs.icon-tabs .nav-link{
+	min-height: 180px;
 }
-.icon-tabs .nav-link i{}
-.icon-tabs .nav-item.active .nav-link:before,
-.icon-tabs .nav-link i:before{}
-.icon-tabs .nav-item.active .nav-link:before,
-.icon-tabs .nav-link.active:before{
+.responsive-tabs.icon-tabs .nav-link i{
+	font-size: 3em;
+	margin-bottom: 1rem !important;
+}
+
+.responsive-tabs.icon-tabs .nav-item.active .nav-link:before,
+.responsive-tabs.icon-tabs .nav-link i:before{}
+
+.responsive-tabs .nav-item.active .nav-link:before,
+.responsive-tabs .nav-link.active:before,
+.responsive-tabs.icon-tabs .nav-item.active .nav-link:before,
+.responsive-tabs.icon-tabs .nav-link.active:before{
 	content: "";
 	position: absolute;
 	display: block;
@@ -822,6 +843,7 @@ ul.has-arrow li:before,
 	color:#09871a;
 	padding-top:10px;
 }
+#data-mapf{}
 #map {
 	height: 500px;
 	width: 100%;

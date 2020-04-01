@@ -164,7 +164,7 @@
             //Union de servicios
             var unionser = "";
             var uniontel = "";
-            if (luz === undefined) {
+            if (luz === "") {
                 luz = '';
             } else {
                 if (unionser == "") {
@@ -173,8 +173,8 @@
                     unionser += ', ' + luz;
                 }
             }
-            if (agua === undefined) {
-                agua = '';
+            if (agua === "") {
+                agua ='';
             } else {
                 if (unionser == "") {
                     unionser = agua;
@@ -182,7 +182,7 @@
                     unionser += ', ' + agua;
                 }
             }
-            if (telefonia === undefined) {
+            if (telefonia === "") {
                 telefonia = '';
             } else {
                 if (unionser == "") {
@@ -213,7 +213,7 @@
                     unionser += ', ' + crecep;
                 }
             }
-            if (remesas === undefined) {
+            if (remesas === "") {
                 remesas = '';
             } else {
                 if (unionser == "") {
@@ -304,14 +304,14 @@
                         seleccion++;
                     }
                     if (inpcajrec) {
-                        if (crecep == "SI") {
+                        if (crecep.length > 2) {
                             existe = true;
                         }
                     } else {
                         seleccion++;
                     }
                     if (inpcajdis) {
-                        if (cdisp == "SI") {
+                        if (cdisp.length > 2) {
                             existe = true;
                         }
                     } else {
@@ -321,7 +321,7 @@
                         existe = true;
                     }
                     if (existe) {
-                        var datainfo = "<div class='col-12 px-0 px-lg-auto'><div class='card w-100 rounded-0' style='margin-bottom: 15px;'><div class='card-header bg-tertiary text-white py-2 px-3'><h5 class='card-title my-1 data-info d-inline-block'>*sucursal*</h5><input type='button' class='btn btn-primary btn-sm datos-maker float-right' value='Ver en mapa' target='*localizacion*'></div><div class='card-body py-2 px-3'><p class='card-text data-info'><strong class='text-tertiary' id='hdir'>Dirección:</strong>  *direccionfinal*</p></div><ul class='list-group list-group-flush'><li class='list-group-item py-2 px-3 data-info' id='htel'><strong class='text-tertiary' >Teléfono: </strong> *lada*&nbsp;&nbsp;*tel*</li><li class='list-group-item py-2 px-3 data-info' id='hhoras'><strong class='text-tertiary' >Horarios: </strong>*horariolv*<br>*horariosb*<br>*horariodm*</li><li class='list-group-item py-2 px-3 data-info'  id='hserv'><strong class='text-tertiary'>Servicios: </strong> *servicios*.</li></ul><div class='card-body py-2 px-3 data-info'><div id='carouselExampleControls' class='carousel slide' data-ride='carousel'><div class='carousel-inner' id='carousel-inner'><div class='carousel-item active data-info' id='hhbanner1'><img class='d-block w-100 bbw'  src='*banner*'  id='hbanner1'><p class='data-info my-2 px-2' id='hinfo1'>*info1*</p><a href='*link1*' target='_blank' class='d-block w-100 text-center' ><input type='button' class='btn btn-primary btn-sm datos-maker m-auto' value='Ver m&aacute;s' id='hlink1'></a></div><div class='carousel-item  data-info' id='hhbanner2'><img class='d-block w-100 bbw' src='*banner2*'  id='hbanner2'><p class='data-info my-2 px-2' id='hinfo2'>*info2*</p><a href='*link2*' target='_blank' class='d-block w-100 text-center' ><input type='button' class='btn btn-primary btn-sm datos-maker' value='Ver m&aacute;s' id='hlink2'></a></div><div class='carousel-item  data-info' id='hhbanner3'><img class='d-block w-100 bbw' src='*banner3*'  id='hbanner3'><p class='data-info my-2 px-2' id='hinfo3'>*info3*</p><a href='*link3*' target='_blank' class='d-block w-100 text-center'><input type='button' class='btn btn-primary btn-sm datos-maker' value='Ver m&aacute;s' id='hlink3'></a></div></div><a class='carousel-control-prev' href='#carouselExampleControls' role='button' data-slide='prev'><i class='fas fa-chevron-left'></i></a><a class='carousel-control-next' href='#carouselExampleControls' role='button' data-slide='next'><i class='fas fa-chevron-right'></i></a></div></div><div class='card-body py-2 px-3'><p class='card-text data-info'><strong class='text-tertiary' id='dasa'>Direcci&oacute;n Asamblea:</strong>  *dasamblea*</p></div><div class='card-body py-2 px-3'><p class='card-text data-info'><strong class='text-tertiary' id='fasa'>Fecha:</strong>  *fasamblea*</p></div><div class='card-body py-2 px-3'><p class='card-text data-info'><strong class='text-tertiary' id='hasa'>Hora:</strong>  *hasamblea*</p></div><!--div class='card-body py-2 px-3'></div--></div>";
+                        var datainfo = "<div class='col-12 px-0 px-lg-auto'><div class='card w-100 rounded-0' style='margin-bottom: 15px;'><div class='card-header bg-tertiary text-white py-2 px-3'><h5 class='card-title my-1 data-info d-inline-block'>*sucursal*</h5><input type='button' class='btn btn-primary btn-sm datos-maker float-right' value='Ver en mapa' target='*localizacion*'></div><div class='card-body py-2 px-3'><p class='card-text data-info'><strong class='text-tertiary' id='hdir'>Dirección:</strong>  *direccionfinal*</p></div><ul class='list-group list-group-flush'><li class='list-group-item py-2 px-3 data-info' id='htel'><strong class='text-tertiary' >Teléfono: </strong> *lada*&nbsp;&nbsp;*tel*</li><li class='list-group-item py-2 px-3 data-info' id='hhoras'><strong class='text-tertiary' >Horarios: </strong>*horariolv*<br>*horariosb*<br>*horariodm*</li><li class='list-group-item py-2 px-3 data-info'  id='hserv'><strong class='text-tertiary'>Servicios: </strong> *servicios*.</li></ul><div class='card-body py-2 px-3 data-info'><div id='carouselExampleControls' class='carousel slide' data-ride='carousel'><div class='carousel-inner' id='carousel-inner'><div class='carousel-item active data-info' id='hhbanner1'><img class='d-block w-100 bbw'  src='*banner*'  id='hbanner1'><p class='data-info my-2 px-2' id='hinfo1'>*info1*</p><a href='*link1*' target='_blank' class='d-block w-100 text-center' ><input type='button' class='btn btn-primary btn-sm datos-maker m-auto' value='Ver m&aacute;s' id='hlink1'></a></div><div class='carousel-item  data-info' id='hhbanner2'><img class='d-block w-100 bbw' src='*banner2*'  id='hbanner2'><p class='data-info my-2 px-2' id='hinfo2'>*info2*</p><a href='*link2*' target='_blank' class='d-block w-100 text-center' ><input type='button' class='btn btn-primary btn-sm datos-maker' value='Ver m&aacute;s' id='hlink2'></a></div><div class='carousel-item  data-info' id='hhbanner3'><img class='d-block w-100 bbw' src='*banner3*'  id='hbanner3'><p class='data-info my-2 px-2' id='hinfo3'>*info3*</p><a href='*link3*' target='_blank' class='d-block w-100 text-center'><input type='button' class='btn btn-primary btn-sm datos-maker' value='Ver m&aacute;s' id='hlink3'></a></div></div><a class='carousel-control-prev' href='#carouselExampleControls' role='button' data-slide='prev'><i class='fas fa-chevron-left'></i></a><a class='carousel-control-next' href='#carouselExampleControls' role='button' data-slide='next'><i class='fas fa-chevron-right'></i></a></div></div><!-- div class='card-body py-2 px-3'><p class='card-text data-info'><strong class='text-tertiary' id='dasa'>Direcci&oacute;n Asamblea:</strong>  *dasamblea*</p></div><div class='card-body py-2 px-3'><p class='card-text data-info'><strong class='text-tertiary' id='fasa'>Fecha:</strong>  *fasamblea*</p></div><div class='card-body py-2 px-3'><p class='card-text data-info'><strong class='text-tertiary' id='hasa'>Hora:</strong>  *hasamblea*</p></div><div class='card-body py-2 px-3'></div--></div>";
                         var datainsert = datainfo.replace('*sucursal*', sucursal).replace('*ccarousel*', ccarousel).replace('*direccionfinal*', direccionfinal).replace('*banner*', banner).replace('*banner2*', banner2).replace('*horariolv*', horariolv).replace('*horariosb*', horariosb).replace('*horariodm*', horariodm).replace('*info1*', info1).replace('*info2*', info2).replace('*info3*', info3).replace('*banner3*', banner3).replace('*tel*', uniontel).replace('*lada*', lada).replace('*servicios*', unionser).replace('*localizacion*', localizacion).replace('*dasamblea*', dasamblea).replace('*fasamblea*', fasamblea).replace('*hasamblea*', hasamblea).replace('*link1*', link1).replace('*link2*', link2).replace('*link3*', link3);
                         $("#data-mapf").append(datainsert);
                         //Mapeo Inicio
@@ -427,4 +427,5 @@
             lat: newlat,
             lng: newlng
         });
+
     });

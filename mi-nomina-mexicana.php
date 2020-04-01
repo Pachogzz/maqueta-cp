@@ -32,7 +32,7 @@
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 						<!-- Nota Legal -->
 						<div class="bg-grey0 mb-5 p-5">
-							<p class="display-12"><strong>GAT nominal de 0.50% y GAT real de -2.88% antes de impuestos</strong>. La GAT real es el rendimiento que obtendrás después de descontar la inflación estimada. Para fines informativos y de comparación exclusivamente con monto de ahorro de $1,500.00 en adelante. Fecha de cálculo del 05 al 11 de Marzo del 2020.</p>
+							<p class="display-12"><strong>GAT nominal de 0.50% y GAT real de -2.88% antes de impuestos</strong>. La GAT real es el rendimiento que obtendrás después de descontar la inflación estimada. Para fines informativos y de comparación exclusivamente con monto de ahorro de $1,500.00 en adelante. Fecha de cálculo del 19 al 25 de Marzo del 2020.</p>
 							<p class="display-12">El producto solo se encuentra disponible en los siguientes estados: <strong>Puebla, Guanajuato y San Luis Potosí Caja Popular Mexicana S.C. de A.P. de R.L. de C.V.</strong></p>
 						</div>
 						<!-- Nota Legal -->

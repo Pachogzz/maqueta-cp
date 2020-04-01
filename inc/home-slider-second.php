@@ -9,6 +9,15 @@
 							</ol> -->
 							<div class="carousel-inner">
 								<div class="carousel-item active">
+									<img src="assets/img/slider/footer-home/HOME-SLIDER-CPM.jpg" class="d-block w-100" alt="...">
+									<div class="carousel-caption p-3 p-lg-5 bg-primary br-ntl-30 col-12 col-md-4 my-auto">
+										<p class="display-5"><strong>¡Sácale provecho a CPM Móvil y CPM en Línea!</strong></p>
+										<p class="display-18 text-yellow"><strong>Úsalas y súmate al movimiento #MeQuedoEnCasa</strong></p>
+										<p class="display-14">Realiza transferencias entre tus cuentas y a las de otros socios, consulta tus saldos, movimientos y mucho más.</p>
+										<a href="https://www.cpm.coop/serviciosdigitales" target="_self" class="btn btn-secondary br-30 px-5 font-weight-semibold">Saber más</a>
+									</div>
+								</div>
+								<div class="carousel-item">
 									<img src="assets/img/slider/footer-home/unete-a-nuestro-talento.jpg" class="d-block w-100" alt="...">
 									<div class="carousel-caption p-3 p-lg-5 bg-primary br-ntl-30 col-12 col-md-4 my-auto">
 										<p class="display-5"><strong>Únete a nuestro #TalentoCPM</strong></p>
