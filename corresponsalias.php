@@ -36,12 +36,12 @@
 							        </button>
 							      </div>
 							      <div class="modal-body">
-							        <iframe src="assets/img/secciones/corresponsalias/FEBRERO-CORRESPONSALIAS.html" class="w-100" height="600" frameborder="0"></iframe>
+							        <iframe src="assets/img/secciones/corresponsalias/JULIO-2020-CORRESPONSALIAS.html" class="w-100" height="600" frameborder="0"></iframe>
 							      </div>
 							    </div>
 							  </div>
 							</div> <!-- ./ Modal Ends -->
-							<p class="mb-0 h3 font-weight-normal font-weight-bolder mt-3">Vigencia: MARZO 2020</p></a>
+							<p class="mb-0 h3 font-weight-normal font-weight-bolder mt-3">Vigencia: JULIO 2020</p></a>
 						</blockquote>
 					</div>
 				</div>
@@ -75,7 +75,8 @@
 								<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionCICPM">
 									<div class="card-body bg-grey0 p-4">
 										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Desde las 7:00 a.m. y hasta las 8:00 p.m. hora centro, los 365 días del año.</li>
+											<li>Desde las 6:00 a.m. y hasta las 9:00 p.m. hora centro, los 365 días del año.</li>
+											<!-- <li>Desde las 7:00 a.m. y hasta las 8:00 p.m. hora centro, los 365 días del año.</li> -->
 											<li>La comisión por operación en tiendas OXXO será de $10.00 pesos.</li>
 											<li>Todas las operaciones serán solo en efectivo y moneda nacional.</li>
 											<li>Hasta por 5 mil pesos en cada operación, sin exceder un monto diario de 20 mil pesos por cada cuenta.</li>
@@ -137,7 +138,14 @@
 									<div class="card-body bg-grey0 p-4">
 										<div class="p-5 bg-white bw-1 border-grey1">
 											<p>Brinda en el establecimiento OXXO de tu preferencia, la Línea de Captura de 16 dígitos de la cuenta (s) que requieras pagar o depositar.</p>
-											<p>Solicita tu Línea de Captura de 16 dígitos acudiendo a cualquier sucursal de Caja Popular Mexicana, llamando a la línea 800 7100 800 de lunes a domingo de 7:00 a.m. a 9:00 p.m. o consultando tu estado de cuenta, a partir del emitido en el segundo bimestre del 2019.</p>
+											<p>Solicita tu Línea de Captura de 16 dígitos en cualquiera de los siguientes medios institucionales:</p>
+											<ul>
+												<li>Directamente en sucursal.</li>
+												<li>En tu estado de cuenta.</li>
+												<li>Llamando al 800 7100 800, de lunes a domingo de 7:00 a.m. a 9:00 p.m.</li>
+												<li>Enviando la palabra SALDO vía WhatsApp al 477 129 6048.</li>
+												<li>Enviando la palabra SALDO vía SMS al 43781.</li>
+											</ul>
 										</div>
 									</div>
 								</div>

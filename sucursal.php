@@ -31,7 +31,7 @@
             </div>
             <div class="col-auto my-1">
                 <div class="form-group selectWrapper">
-                            <select name="cbx_municipio" id="cbx_municipio"></select>
+                    <select name="cbx_municipio" id="cbx_municipio"></select>
                 </div>
             </div>
             <div class="col-auto my-1">
@@ -41,7 +41,7 @@
                 </button>
               </div>
             </div>
-            <div class="col-auto my-1">
+            <!--<div class="col-auto my-1">
                 <div class="custom-control custom-checkbox mr-sm-2 form-group">
                     <input class="custom-control-input" id="customControlAutosizing" valude="1" type="checkbox">
                         <label class="custom-control-label" for="customControlAutosizing">
@@ -59,7 +59,7 @@
                     </input>
                 </div>
             </div>
-            <!--<div class="col-auto my-1">
+            <div class="col-auto my-1">
                 <div class="custom-control custom-checkbox mr-sm-2 form-group">
                     <input class="custom-control-input" id="customControlAutosizing3" valude="3" type="checkbox">
                         <label class="custom-control-label" for="customControlAutosizing3">

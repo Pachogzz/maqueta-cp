@@ -8,7 +8,7 @@
 		<!-- SEO Tags -->
 		<title></title>
 		<meta name="description" content="Es una cooperativa de ahorro y préstamo con más 60 años de experiencia que contribuye a mejorar la calidad de vida de sus socios, educando en la cultura del ahorro, en la práctica de la ayuda mutua y el uso responsable del crédito por medio de sus diferentes productos de ahorro, crédito e inversión." />
-		<meta name="author" content="Diego Carranza, Pacho Gonzalez" />
+		<meta name="author" content="" />
 		<meta name="copyright" content="Caja Popular Mexicana 2020" />
 		<meta name="robots" content="index, nofollow" />
 		<link rel="canonical" href="https://www.cpm.coop/" />
@@ -54,13 +54,13 @@
 		<link rel="stylesheet" href="assets/css/timeline.css">
 		<link rel="stylesheet" href="assets/css/style.css">
 
-		<script>
+		<!-- <script>
 			(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 				new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 				j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 			})(window,document,'script','dataLayer','GTM-M9GJD7V');
-		</script>
+		</script> -->
 
 		<script>
 			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -71,6 +71,31 @@
 			ga('create', 'UA-100232444-1', 'auto');
 			ga('send', 'pageview');
 		</script>
+
+		<!-- Global site tag (gtag.js) - Google Ads: 940309924 -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=AW-940309924"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'AW-940309924');
+		</script>
+
+		<!-- Facebook Pixel Code -->
+		<script>
+			!function(f,b,e,v,n,t,s)
+			{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+			n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+			if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+			n.queue=[];t=b.createElement(e);t.async=!0;
+			t.src=v;s=b.getElementsByTagName(e)[0];
+			s.parentNode.insertBefore(t,s)}(window, document,'script',
+			'https://connect.facebook.net/en_US/fbevents.js');
+			fbq('init', '481981588912214');
+			fbq('track', 'PageView');
+		</script>
+		<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=481981588912214&ev=PageView&noscript=1"/></noscript>
+		<!-- End Facebook Pixel Code -->
 
 	</head>
 	<body>
@@ -88,7 +113,7 @@
 					<div class="collapse navbar-collapse" id="navbar">
 						<ul id="main-nav" class="navbar-nav ml-auto">
 							<li class="nav-item">
-								<a href="https://www.cpmenlinea.cpm.coop/" class="nav-link btn btn-outline-light py-1" target="_blank">Acceso CPM en Línea</a>
+								<a href="https://www.cpmenlinea.cpm.coop/" class="nav-link btn btn-light py-1" target="_blank"><strong>Acceso CPM en Línea</strong></a>
 							</li>
 							<!-- <li class="nav-item">
 								<a href="#" class="nav-link">Inmuebles</a>
@@ -104,7 +129,8 @@
 							</li> -->
 							<li class="nav-item dropdown menu-area">
 								<a class="nav-link dropdown-toggle btn btn-outline-light py-1 ml-1" id="mega-one" href="" alt="Menú principal" title="Menú principal" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-									<i class="fa fa-bars"></i>
+									<!-- <i class="fa fa-bars"></i> -->
+									Menú Principal
 								</a>
 								
 								<div class="dropdown-menu border-0 p-3 mega-area" aria-labelledby="mega-one">
@@ -165,7 +191,8 @@
 											<h6 class="font-weight-semibold text-white bg-primary text-center py-2 px-3 br-30">Sé un experto</h6>
 											<ul class="nav">
 												<li class="nav-item"><a href="https://cooperandoando.com/" class="nav-link" target="_blank">Blog Cooperando Ando</a></li>
-												<li class="nav-item"><a href="https://www.cpm.coop/educacion/" class="nav-link" target="_blank">Educación Cooperativa</a></li>
+												<li class="nav-item"><a href="https://www.cpm.coop/enlacecooperativo" class="nav-link">Enlace Cooperativo</a></li>
+												<!-- <li class="nav-item"><a href="https://www.cpm.coop/educacion/" class="nav-link" target="_blank">Educación Cooperativa</a></li> -->
 											</ul>
 										</div>
 									</div> <!-- ./ Mega Menu Área -->
@@ -220,7 +247,7 @@
 								
 								<li class="list-group-item title">Sé un experto</li>
 								<li class="list-group-item"><a href="https://cooperandoando.com/" target="_blank">Blog Cooperando Ando</a></li>
-								<li class="list-group-item"><a href="https://www.cpm.coop/educacion/" target="_blank">Educación Cooperativa</a></li>
+								<!-- <li class="list-group-item"><a href="https://www.cpm.coop/educacion/" target="_blank">Educación Cooperativa</a></li> -->
 							</ul>
 						</div> <!-- ./ Menu Mobile Collapsable -->
 					</div>

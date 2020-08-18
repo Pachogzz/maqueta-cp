@@ -52,10 +52,221 @@
 			</div>
 		</section>
 
+		<section class="mb-5">
+			<div class="container">
+				<div class="row">
+
+					<div class="col-12 col-md-6">
+						<div class="bw-5 border-primary rounded p-5 text-center h-100">
+							<h4 class="text-primary"><strong>APLICA PARA:</strong></h4>
+							<p class="display-22"><span class="text-primary">Más de 460</span> sucursales a tu servicio, no se cobran comisiones al recibir tu dinero.</p>
+							<p class="display-22">Servicio únicamente para socios beneficiarios o socios remitentes.</p>
+							<p class="display-22">Además puedes dejar una parte de tu dinero en <span class="text-primary">Servicuenta</span> o <span class="text-primary">Cuenta Mexicana</span> o abrir una <span class="text-primary">Rendicuenta</span>.</p>
+						</div>
+					</div>
+
+					<div class="col-12 col-md-6">
+						<div class="bw-5 border-primary rounded p-5 text-center h-100">
+							<h4 class="text-primary"><strong>CANALES DE CONTACTO:</strong></h4>
+							<p class="display-22">Estamos preparados para resolver tus dudas:</p>
+							<ul class="display-22 text-left mt-5">
+								<li>01800 xxxx xxxx</li>
+								<li>ayudacovid@cpm.coop</li>
+								<li>Manda el mensaje apoyo al 642 xxx xxx xx.</li>
+							</ul>
+							<ul class="social-icons mt-5 text-center">
+								<li><a href="https://www.facebook.com/CajaPopularMexicana/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+								<li><a href="https://twitter.com/CajaMexicana" target="_blank"><i class="fab fa-twitter"></i></a></li>
+								<li><a href="https://www.youtube.com/user/CajaPopularMexicana" target="_blank"><i class="fab fa-youtube"></i></a></li>
+								<li><a href="https://www.linkedin.com/company/caja-popular-mexicana/" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
+							</ul>
+						</div>
+					</div>
+
+				</div>
+
+					<div class="row">
+
+						<div class="col-12 col-md-8 offset-md-2 mt-5 text-center">
+							<p class="lead mb-5"><strong>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed quas, itaque id culpa, facere officia eligendi quos ea autem deleniti quod enim.</strong></p>
+							<a href="#" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#covidForm">
+								QUIERO SOLICITAR EL APOYO
+							</a>
+							<!-- Modal -->
+							<div class="modal fade" id="covidForm" tabindex="-1" role="dialog" aria-labelledby="covidFormTitle" aria-hidden="true">
+								<div class="modal-dialog modal-dialog-centered modal-xl" role="document">
+									<div class="modal-content">
+										<div class="modal-header bg-primary text-white">
+											<h5 class="modal-title" id="covidFormTitle"><strong>Solicitud de apoyo</strong></h5>
+											<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+												<span aria-hidden="true">
+													<i class="fas fa-times-circle text-white"></i>
+												</span>
+											</button>
+										</div>
+										<div class="modal-body">
+											<iframe src="http://localhost/cpm-html/covid19-form/form.html" frameborder="0" class="w-100 h-100" style="min-height: 700px;"></iframe>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+					</div>
+					
+			</div>
+		</section>
+
 		<section class="page-content">
 			<div class="container">
 
 				<div class="row row-eq-height">
+
+					<div class="col-12 mb-5">
+						<div class="accordion accordion-cpm" id="accordionCOVID-0">
+							
+							<div class="card">
+								<div class="card-header" id="headingOne-cero">
+									<h2 class="mb-0">
+										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseOne-cero" aria-expanded="true" aria-controls="collapseOne-cero">
+											<strong>Lorem ipsum dolor sit amet, consectetur adipisicing elit 1</strong>
+										</button>
+									</h2>
+								</div>
+
+								<div id="collapseOne-cero" class="collapse" aria-labelledby="headingOne-cero" data-parent="#accordionCOVID-0">
+									<div class="card-body bg-grey0 p-4">
+										<p class="text-primary"><strong>Lorem ipsum dolor sit amet, consectetur.</strong></p>
+										<div class="p-5 bg-white bw-1 border-grey1">
+											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui voluptate ratione, possimus. Vel expedita doloremque, ad, adipisci eaque rerum possimus officia quis aliquid aperiam hic dolores provident non sed debitis necessitatibus iste nemo pariatur itaque. Recusandae blanditiis tempora dignissimos corporis.</p>
+											<p><small>* Lorem ipsum dolor sit amet, consectetur adipisicing elit. Optio officiis minima temporibus animi blanditiis atque voluptates odit, mollitia numquam voluptatum?</small></p>
+											<h5 class="text-primary">Lorem ipsum dolor.</h5>
+											<ol class="">
+												<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, consequuntur impedit ratione quasi autem, corporis.</li>
+												<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias expedita assumenda id, hic facilis laudantium.</li>
+												<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis consequuntur aliquam corporis, maiores neque, voluptas.</li>
+												<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non adipisci consequatur incidunt, excepturi fuga magnam.</li>
+												<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero a quo alias sunt asperiores excepturi.</li>
+											</ol>
+										</div>
+									</div>
+								</div>
+							</div>
+							
+							<div class="card">
+								<div class="card-header" id="headingTwo-cero">
+									<h2 class="mb-0">
+										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo-cero" aria-expanded="true" aria-controls="collapseTwo-cero">
+											<strong>Lorem ipsum dolor sit amet, consectetur adipisicing elit 2</strong>
+										</button>
+									</h2>
+								</div>
+
+								<div id="collapseTwo-cero" class="collapse" aria-labelledby="headingTwo-cero" data-parent="#accordionCOVID-0">
+									<div class="card-body bg-grey0 p-4">
+										<p class="text-primary"><strong>Lorem ipsum dolor sit amet, consectetur.</strong></p>
+										<div class="p-5 bg-white bw-1 border-grey1">
+											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem est similique tempore numquam, repellat, itaque. Sunt eum perferendis obcaecati aliquid modi distinctio consectetur tempora nam, repellendus, a laborum minima, molestias, dolore aspernatur iure doloribus eaque odio eligendi. Recusandae maiores, alias?</p>
+											<p><small>* Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe tenetur iusto sint aliquam sed iure sunt accusantium omnis, suscipit deserunt?</small></p>
+											<h5 class="text-primary">Lorem ipsum dolor.</h5>
+											<ol class="">
+												<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, consequuntur impedit ratione quasi autem, corporis.</li>
+												<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias expedita assumenda id, hic facilis laudantium.</li>
+												<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis consequuntur aliquam corporis, maiores neque, voluptas.</li>
+												<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non adipisci consequatur incidunt, excepturi fuga magnam.</li>
+												<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero a quo alias sunt asperiores excepturi.</li>
+											</ol>
+										</div>
+									</div>
+								</div>
+							</div>
+							
+							<div class="card">
+								<div class="card-header" id="headingThree-cero">
+									<h2 class="mb-0">
+										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree-cero" aria-expanded="true" aria-controls="collapseThree-cero">
+											<strong>Lorem ipsum dolor sit amet, consectetur adipisicing elit 3</strong>
+										</button>
+									</h2>
+								</div>
+
+								<div id="collapseThree-cero" class="collapse" aria-labelledby="headingThree-cero" data-parent="#accordionCOVID-0">
+									<div class="card-body bg-grey0 p-4">
+										<p class="text-primary"><strong>Lorem ipsum dolor sit amet, consectetur.</strong></p>
+										<div class="p-5 bg-white bw-1 border-grey1">
+											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A eligendi quas tempore vel doloribus voluptate, aliquam distinctio placeat dolore enim! Maiores corporis hic ut distinctio sit facilis, consequuntur, rem quod expedita mollitia error aliquam minima qui eaque culpa doloremque suscipit!</p>
+											<p><small>* Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum quia odio cupiditate, unde magni ut tempora saepe hic ad itaque.</small></p>
+											<h5 class="text-primary">Lorem ipsum dolor.</h5>
+											<ol class="">
+												<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, consequuntur impedit ratione quasi autem, corporis.</li>
+												<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias expedita assumenda id, hic facilis laudantium.</li>
+												<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis consequuntur aliquam corporis, maiores neque, voluptas.</li>
+												<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non adipisci consequatur incidunt, excepturi fuga magnam.</li>
+												<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero a quo alias sunt asperiores excepturi.</li>
+											</ol>
+										</div>
+									</div>
+								</div>
+							</div>
+							
+							<div class="card">
+								<div class="card-header" id="headingFour-cero">
+									<h2 class="mb-0">
+										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFour-cero" aria-expanded="true" aria-controls="collapseFour-cero">
+											<strong>Lorem ipsum dolor sit amet, consectetur adipisicing elit 4</strong>
+										</button>
+									</h2>
+								</div>
+
+								<div id="collapseFour-cero" class="collapse" aria-labelledby="headingFour-cero" data-parent="#accordionCOVID-0">
+									<div class="card-body bg-grey0 p-4">
+										<p class="text-primary"><strong>Lorem ipsum dolor sit amet, consectetur.</strong></p>
+										<div class="p-5 bg-white bw-1 border-grey1">
+											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores dolorem, repellendus harum perferendis iusto in repellat doloremque atque eos illum omnis, animi consequatur sint asperiores. Quam sapiente, odio possimus quos et optio cum iure. Ratione dolores velit quia reiciendis itaque.</p>
+											<p><small>* Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum, sed, odio. Eos, commodi, ratione! Maxime excepturi nostrum dolor ratione quo.</small></p>
+											<h5 class="text-primary">Lorem ipsum dolor.</h5>
+											<ol class="">
+												<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, consequuntur impedit ratione quasi autem, corporis.</li>
+												<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias expedita assumenda id, hic facilis laudantium.</li>
+												<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis consequuntur aliquam corporis, maiores neque, voluptas.</li>
+												<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non adipisci consequatur incidunt, excepturi fuga magnam.</li>
+												<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero a quo alias sunt asperiores excepturi.</li>
+											</ol>
+										</div>
+									</div>
+								</div>
+							</div>
+							
+							<div class="card">
+								<div class="card-header" id="headingFive-cero">
+									<h2 class="mb-0">
+										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFive-cero" aria-expanded="true" aria-controls="collapseFive-cero">
+											<strong>Lorem ipsum dolor sit amet, consectetur adipisicing elit 5</strong>
+										</button>
+									</h2>
+								</div>
+
+								<div id="collapseFive-cero" class="collapse" aria-labelledby="headingFive-cero" data-parent="#accordionCOVID-0">
+									<div class="card-body bg-grey0 p-4">
+										<p class="text-primary"><strong>Lorem ipsum dolor sit amet, consectetur.</strong></p>
+										<div class="p-5 bg-white bw-1 border-grey1">
+											<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum quaerat aliquid expedita perferendis, reiciendis obcaecati atque praesentium non, delectus, adipisci debitis quisquam necessitatibus at, officiis amet. Amet dolorum ut, accusantium temporibus eveniet quae dignissimos excepturi minima harum, est sunt dolore.</p>
+											<p><small>* Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim quod quaerat vel laborum, repudiandae reprehenderit vitae nemo numquam consequuntur nulla.</small></p>
+											<h5 class="text-primary">Lorem ipsum dolor.</h5>
+											<ol class="">
+												<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, consequuntur impedit ratione quasi autem, corporis.</li>
+												<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias expedita assumenda id, hic facilis laudantium.</li>
+												<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis consequuntur aliquam corporis, maiores neque, voluptas.</li>
+												<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non adipisci consequatur incidunt, excepturi fuga magnam.</li>
+												<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero a quo alias sunt asperiores excepturi.</li>
+											</ol>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+
 					<div class="col-12">
 
 						<ul class="nav nav-pills justify-content-center responsive-tabs">

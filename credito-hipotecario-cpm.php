@@ -78,16 +78,17 @@
 						</div>
 						<!-- Nota Legal -->
 						<div class="bg-grey0 p-5 mb-5">
-							<p class="display-12"><strong>Costo Anual Total Promedio a 12.9% sin IVA</strong>. para finalidades de vivienda | <strong>24.3% </strong> <strong>para finalidades de liquidez</strong>. Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 30 de Junio de 2019.</strong></p>
-							<!-- <p class="display-12">*Cálculo para el <strong>Crédito Personal Plus CPM</strong> por la cantidad de <strong>$15,000.00 a un plazo de 12 meses con un monto mínimo de ahorro de $1,500.00</strong>.</p>
-							<ul class="display-12">
-								<li>Sujeto a aprobación de crédito.</li>
-								<li>Préstamo otorgado en moneda nacional.</li>
-								<li>Disponible en todas nuestras sucursales a nivel nacional.</li>
-								<li>La tasa de interés se asignará de acuerdo al historial crediticio interno y externo a Caja Popular Mexicana que presente el socio.</li>
-								<li>En la contratación del producto, el plan de pagos se establece de manera mensual</li>
-							</ul> -->
+							<p class="display-12">
+								<strong>Costo Anual Total Promedio a 11.8% sin IVA.</strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 30 de Junio de 2020</strong>.
+							</p>
 						</div>
+						<!-- Nota Legal -->
+						<!-- Legal Productos -->
+						<div class="bg-grey0 p-5 mb-5">
+							<p class="display-12">Tu <em>Contrato de apertura de crédito simple con garantía hipotecaria para finalidades de liquidez</em>  del <strong>Crédito Hipotecario CPM</strong>, ha cambiado en el <u>apartado de proemio</u> y <u>antecedentes</u>. Estos ajustes entrarán en vigor a partir del <strong>7 de septiembre del 2020</strong>, en esta fecha podrás realizar la consulta del documento en el segmento de contratos.  Si lo deseas, tendrás el derecho de dar por terminado el contrato de adhesión, siempre y cuando no existan adeudos pendientes por cubrir de tu crédito.</p>
+						</div>
+						<!-- Legal Productos -->
+						<!-- Simuladores -->
 						<div class="bg-grey0 p-5 mb-5">
 							<p class="display-12">[ii]Tasa en base al financiamiento: la tasa se determinará con base a la relación del valor de la vivienda para adquisición o sustitución de hipoteca y el financiamiento; o en su caso al valor de la construcción, remodelación y mejoramiento de la vivienda, dicho porcentaje, se establecerá en función del proyecto de obra.</p>
 							<table class="table text-center" style="font-size: 15px;">
@@ -102,17 +103,17 @@
 							    <tr>
 							      <th scope="row"><center>Mayor al 90% y hasta el 100%</center></th>
 							      <td><center><b>10.44% anual</b></center></td>
-							      <td><center><?php include('inc/calculadoras/calculadora-de-credito-90-100.php') ?></td>
+							      <td><center><?php include('inc/calculadoras/calculadora-de-credito-90-100.php') ?> <!-- ./ calculadora de credito --></td>
 							    </tr>
 							    <tr>
 							      <th scope="row"><center>Mayor al 80% y hasta el 90%</center></th>
 							      <td><center><b>10.32% anual</b></center></td>
-							      <td><center><?php include('inc/calculadoras/calculadora-de-credito-80-90.php') ?></td>
+							      <td><center><?php include('inc/calculadoras/calculadora-de-credito-80-90.php') ?> <!-- ./ calculadora de credito --></td>
 							    </tr>
 							    <tr>
 							      <th scope="row"><center>Hasta el 80%</center></th>
 							      <td><center><b>10.08% anual</b></center></td>
-							      <td><center><?php include('inc/calculadoras/calculadora-de-credito-80.php') ?></td>
+							      <td><center><?php include('inc/calculadoras/calculadora-de-credito-80.php') ?> <!-- ./ calculadora de credito --></td>
 							    </tr>
 							    <tr>
 							      <th scope="row"><center>Simulador para finalidades de liquidez</center></th>
@@ -122,7 +123,7 @@
 							  </tbody>
 							</table>
 					    </div>
-						<!-- Nota Legal -->
+						<!-- Simuladores -->
 					</div>
 					<div class="col-12 col-md-6">
 						<!-- MENU -->
@@ -142,7 +143,7 @@
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li>Montos desde $64,402.00 Hasta $19,320,600.00</li>
 											<li>Crédito otorgado en moneda nacional.</li>
-											<li>Préstamos para la adquisición de vivienda, se financiará hasta el 95% del valor avalúo de la misma o del precio de compra , debiendo considerar el que resulte menor, siempre y cuando no exceda el monto máximo del producto.</li>
+											<!-- <li>Préstamos para la adquisición de vivienda, se financiará hasta el 95% del valor avalúo de la misma o del precio de compra , debiendo considerar el que resulte menor, siempre y cuando no exceda el monto máximo del producto.</li> -->
 										</ul>
 										<h4>Plazo</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
@@ -171,7 +172,7 @@
 											<h4></h4>
 										    <ul class="p-5 bg-white bw-1 border-grey1">
 											<li><strong>CAT Promedio Crédito Hipotecario CPM</strong>
-												<p><strong>Costo Anual Total Promedio de 12.9% sin IVA para finalidades de vivienda | 24.3% para finalidades de liquidez. </strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 30 de Junio de 2019.</strong></p>
+												<p><strong>Costo Anual Total Promedio a 11.8% sin IVA.</strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 30 de Junio de 2020</strong>.</p>
 											</li>
 										</ul>
 									</div>
@@ -192,7 +193,7 @@
 												<li><a href="assets/pdfs/contratos/Credito-Hipotecario-CPM/Para-Finalidades-de-Vivienda/Adquisicion-de-Vivienda/FR-1387-Contrato-de-credito-hipotecario-de-vivienda-Rev-Prod-y-Cred-Fi01-07-19.pdf" target="_blank"><strong>Contrato hipotecario de vivienda</strong></a></li>
 												<li><a href="assets/pdfs/contratos/Credito-Hipotecario-CPM/Para-Finalidades-de-Vivienda/Construccion-Remodelacion-y-Ampliacion/FR-1837-Contrato-hip-vivienda-para-constr-remod-o-mejora-de-la-vi-Fi.pdf" target="_blank"><strong>Contrato hipotecario de vivienda para construcción, remodelación o mejoramientos de la vivienda</strong></a></li>
 												<li><a href="assets/pdfs/contratos/Credito-Hipotecario-CPM/Para-Finalidades-de-Vivienda/Sustitucion-de-Hipoteca/FR-1654-Cont-de-apert-de-cred-simp-int-y-grtia-hip-pago-de-pasiv-deriv.pdf" target="_blank"><strong>Contrato de apertura de crédito simple con garantía hipotecaria para pago de pasivos derivado de un crédito hipotecario para la adquisición de vivienda</strong></a></li>
-												<li><a href="assets/pdfs/contratos/Credito-Hipotecario-CPM/Para-Finalidades-de-Liquidez/FR-1919-Contrato-de-apertura-de-credito-simple-con-garantia-hipotecaria.pdf" target="_blank"><strong>Contrato de apertura de crédito simple con garantía hipotecaria</strong></a></li>
+												<li><a href="assets/pdfs/contratos/Credito-Hipotecario-CPM/Para-Finalidades-de-Liquidez/FR-1919_Contrato_de_apertura_de_credito_simple_con_garantia_hipotecaria-23abril.pdf" target="_blank"><strong>Contrato de apertura de crédito simple con garantía hipotecaria</strong></a></li>
 										    </ul>
 										</ul>
 									</div>
@@ -246,7 +247,7 @@
 										</ul>
 										<h4>Gastos de contratación</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Cuando exista una garantía prendaria o hipotecaria así como de seguro que lo cubra, los costos dependen del valor de la garantía.</li>
+											<li>Cuando exista una garantía hipotecaria, así como de seguro que lo cubra, los costos dependen del valor de la garantía.</li>
 											<li>Consulta los costos y comisiones de nuestros productos dando <a href="consulta-los-costos-y-comisiones-de-nuestros-productos">clic aquí</a>.</li>
 										</ul>
 										<h4>Recomendaciones</h4>

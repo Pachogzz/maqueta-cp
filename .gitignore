@@ -1,8 +1,10 @@
 # Max OS hidden file
 **/.DS_Store
 
-# Unused folder
+# Exclude folders
 unused
+assets/pdfs/revistas
+assets/pdfs/revistas/*
 
 # all node modules
 node_modules

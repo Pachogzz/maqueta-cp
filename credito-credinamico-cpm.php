@@ -26,21 +26,14 @@
 							<!-- <h2 class="d-inline-block border-primary text-primary font-weight-bolder bw-3 py-2 px-3 mb-3">DESCRIPCIÓN</h2> -->
 							<img width="" src="assets/img/secciones/logos-credito/credito-credinamico.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Obtén un crédito revolvente que cubra cualquiera de tus necesidades.</p>
-							<p class="lead my-3 font-weight-bold text-primary">Montos desde $10,000 hasta $128,804.00</p>
-							<p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/FR-1917_Contrato_de_apertura_de_credito_en_cuenta_corriente-22.pdf">aquí</a></p>
+							<p class="lead my-3 font-weight-bold text-primary">Montos desde $5,000.00 hasta $194,883.00</p>
+							<p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/contratos/Credito-Credinamico-cpm/FR-1917_Contrato_de_apertura_de_credito_en_cuenta_corriente-credinamico-20200327.pdf" target="_blank">aquí</a></p>
+							<!-- <p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/FR-1917_Contrato_de_apertura_de_credito_en_cuenta_corriente-22.pdf" target="_blank">aquí</a></p> -->
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 						<!-- Nota Legal -->
 						<div class="bg-grey0 p-5 mb-5">
-							<p class="display-12"><strong>Costo Anual Total Promedio de 25.1% sin IVA</strong>. Para fines informativos y de comparación exclusivamente. Fecha de cálculo <strong>31 de Diciembre de 2019</strong>.</p>
-							<!-- <p class="display-12">*Cálculo para el <strong>Crédito Personal Plus CPM</strong> por la cantidad de <strong>$15,000.00 a un plazo de 12 meses con un monto mínimo de ahorro de $1,500.00</strong>.</p>
-							<ul class="display-12">
-								<li>Sujeto a aprobación de crédito.</li>
-								<li>Préstamo otorgado en moneda nacional.</li>
-								<li>Disponible en todas nuestras sucursales a nivel nacional.</li>
-								<li>La tasa de interés se asignará de acuerdo al historial crediticio interno y externo a Caja Popular Mexicana que presente el socio.</li>
-								<li>En la contratación del producto, el plan de pagos se establece de manera mensual</li>
-							</ul> -->
+							<p class="display-12"><strong>Costo Anual Total Promedio de 25.2% sin IVA</strong>. Para fines informativos y de comparación exclusivamente. Fecha de cálculo <strong>30 de Junio de 2020</strong>.</p>
 						</div>
 						<!-- Nota Legal -->
 					</div>
@@ -60,13 +53,13 @@
 									<div class="card-body bg-grey0 p-4">
 										<h4>Monto</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Montos desde $10,000.00, hasta $128,804.00</li>
+											<li>Montos desde $5,000.00, hasta $194,883.00</li>
 											<li>Crédito otorgado en moneda nacional.</li>
 											<!-- <li>Hasta 20,000 (Al 31 de enero de 2019, importe $124,951.90) UDIS (Unidad de inversión que se actualiza mensualmente para su conversión en moneda nacional).</li> -->
 										</ul>
 										<h4>Plazo</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Hasta 12 meses con posibilidad de ampliación automática por uno o más periodos de igual vigencia.</li>
+											<li>Hasta 12 meses con posibilidad de ampliación por uno o más periodos de igual vigencia.</li>
 										</ul>
 									</div>
 								</div>
@@ -83,10 +76,10 @@
 									<div class="card-body bg-grey0 p-4">
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li><strong>Tasa de Interés</strong>
-												<p>Tasa de interés ordinaria anual fija desde un 12.00% hasta un 33.0% más IVA. La tasa se asignará de acuerdo al perfil crediticio del socio.</p>
+												<p>Tasa de interés ordinaria anual fija desde un 15.84% hasta un 23.04% más IVA. La tasa se asignará de acuerdo al perfil crediticio del socio.</p>
 											</li>
 											<li><strong>CAT Promedio Crédito Credinámico CPM</strong>
-												<p><strong>Costo Anual Total Promedio de 25.1% sin IVA.</strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo <strong>31 de Diciembre de 2019</strong>.</strong></p>
+												<p><strong>Costo Anual Total Promedio de 25.2% sin IVA.</strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo <strong>30 de Junio de 2020</strong>.</strong></p>
 											</li>
 										</ul>
 									</div>
@@ -105,7 +98,8 @@
 										<h4>Requisitos</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li>Ser <a href="ser-socio">socio</a> de Caja Popular Mexicana.</li>
-											<li>Ahorro del 10% del monto a solicitar como garantía, depositado en su Cuenta Mexicana.</li>
+											<li>No requiere de garantía líquida.</li>
+											<!-- <li>Ahorro del 10% del monto a solicitar como garantía, depositado en su Cuenta Mexicana.</li> -->
 										</ul>
 										<h4>Condiciones</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
@@ -117,7 +111,7 @@
 											<li>Identificación oficial y de la sociedad.</li>
 											<li>Comprobante de domicilio.</li>
 											<li>Comprobante de ingresos*</li>
-											<li>Comprobante de acredite la finalidad</li>
+											<!-- <li>Comprobante de acredite la finalidad</li> -->
 										</ul>
 										<p><small>*Aplican restricciones, para mayor información acude a nuestras sucursales.</small></p>
 									</div>
@@ -139,7 +133,7 @@
 										</ul>
 										<h4>Gastos de contratación</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Cuando exista una garantía prendaria o hipotecaria así como de seguro que lo cubra, los costos dependen del valor de la garantía.</li>
+											<!-- <li>Cuando exista una garantía prendaria o hipotecaria así como de seguro que lo cubra, los costos dependen del valor de la garantía.</li> -->
 											<li>Consulta los costos y comisiones de nuestros productos dando <a href="consulta-los-costos-y-comisiones-de-nuestros-productos">clic aquí</a>.</li>
 										</ul>
 										<h4>Recomendaciones</h4>

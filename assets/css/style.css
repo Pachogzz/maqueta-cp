@@ -1,4 +1,4 @@
-/*
++/*
 Theme Name: Portal Caja Popular Mexicana
 Description: Tema desarrollado para la empresa CMP
 Author: Pacho Gonzalez
@@ -181,7 +181,8 @@ p a{ font-weight: bold; }
 	.br-bl-0{ border-bottom-left-radius: 0 !important; }
 
 /* White Flange */
-	.haz-flange{}
+	.haz-flange{
+	}
 	.after-flange{
 		position: relative;
 	}
@@ -232,7 +233,7 @@ p a{ font-weight: bold; }
 	.styled-carousel .carousel-caption{
 		transform: translateY(-50%);
 		bottom: inherit;
-		top:80%;
+		top:50%;
 		color: #fff;
 		text-align: left;
 		background-color: rgb(69,191,0);
@@ -289,6 +290,7 @@ p a{ font-weight: bold; }
 		right: 12%;
 		font-size: 10px; 
 	}
+
 /* Arrow in text */
 	.arrow-txt:before{
 		font-family: "Font Awesome 5 Free";
@@ -351,37 +353,41 @@ p a{ font-weight: bold; }
 		2. NAVIGATION
 ========================= */
 .navbar {
-	padding-top:0;
-	padding-bottom:0;
+    padding-top:0;
+    padding-bottom:0;
 
 }
 .navbar-nav .navbar {
-	position: static;
+    position: static;
 }
 .navbar-nav {
-	position:static !important;
-}
-.navbar-nav li > a,
-.navbar-nav li > a:visited{
-	color: #fff;
+    position:static !important;
 }
 .navbar-nav li > a:hover,
 .navbar-nav li > a:focus,
 .navbar-nav li > a:active{
 	color: #8CF800;
 }
+.navbar-nav li > a,
+.navbar-nav li > a:visited{
+	color: #fff;
+}
+.navbar-nav li > a.btn-light,
+.navbar-nav li > a.btn-light:visited{
+	color: #45bf00;
+}
 .dropdown {
-	position:static;
+    position:static;
 }
 .dropdown-menu a {
-	width:100%;
+    width:100%;
 }
 #main-nav .dropdown-menu {
-	min-width:100%;
-	width:100%;
-	transition:all 0.5s ease;
-	background-color: rgba(255,255,255,.9);
-	border-bottom: 5px solid #45bf00 !important;
+    min-width:100%;
+    width:100%;
+    transition:all 0.5s ease;
+    background-color: rgba(255,255,255,.9);
+    border-bottom: 5px solid #45bf00 !important;
 }
 #main-nav .dropdown-menu .nav{
 	display: block;
@@ -582,9 +588,12 @@ p a{ font-weight: bold; }
 .accordion-cpm .card-header h2 button:hover{ text-decoration: none; }
 .accordion-cpm .card-header h2 button:focus{  }
 .accordion-cpm .card-body{}
-
 .tab-content .tab-pane ul,
 .accordion-cpm .card-body ul{ list-style: none; }
+.tab-content .tab-pane ol li,
+.accordion-cpm .card-body ol li{
+	margin-bottom: 10px;
+}
 ul.has-arrow li,
 .tab-content .tab-pane ul li,
 .accordion-cpm .card-body ul li{ position: relative; display: block; margin-bottom: 10px; }
@@ -759,36 +768,37 @@ ul.has-arrow li:before,
 	border-left: 20px solid transparent;
 }
 
+
 /* =========================
 		17. TABS TO ACCORDION
 ========================= */
 .nav-tabs.to-accordion {
-	display:none;
+    display:none;
 }
 
 @media(min-width:768px) {
-	.nav-tabs.to-accordion {
-		display: flex;
-	}
-	
-	.tab-content.to-accordion .card {
-		border: none;
-	}
+    .nav-tabs.to-accordion {
+        display: flex;
+    }
+    
+    .tab-content.to-accordion .card {
+        border: none;
+    }
 
-	.tab-content.to-accordion .card .card-header {
-		display:none;
-	}  
+    .tab-content.to-accordion .card .card-header {
+        display:none;
+    }  
 
-	.tab-content.to-accordion .card .collapse{
-		display:block;
-	}
+    .tab-content.to-accordion .card .collapse{
+        display:block;
+    }
 }
 
 @media(max-width:767px){
-	.tab-content.to-accordion  > .tab-pane {
-		display: block !important;
-		opacity: 1;
-	}
+    .tab-content.to-accordion  > .tab-pane {
+        display: block !important;
+        opacity: 1;
+    }
 }
 
 /* =========================
@@ -843,7 +853,6 @@ ul.has-arrow li:before,
 	color:#09871a;
 	padding-top:10px;
 }
-#data-mapf{}
 #map {
 	height: 500px;
 	width: 100%;
@@ -893,17 +902,17 @@ ul.has-arrow li:before,
 	19. MODALS
 ========================= */
 .modal-backdrop.fade.show:after {
-	content: "";
-	background-image: url('https://thumbs.gfycat.com/BitterEarnestBeardeddragon-small.gif');
-	background-repeat: no-repeat;
-	background-size: 100px;
-	height: 100px; 
-	width: 100px;
-	display: block;
-	position: absolute;
-	transform: translate(-50%, -50%);
-	top: 50%;
-	left: 50%;
+    content: "";
+    background-image: url('https://thumbs.gfycat.com/BitterEarnestBeardeddragon-small.gif');
+    background-repeat: no-repeat;
+    background-size: 100px;
+    height: 100px; 
+    width: 100px;
+    display: block;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
 }
 
 /*
@@ -913,7 +922,7 @@ ul.has-arrow li:before,
 
 /* Extra Small devices (portrait phones, 300px and up) */
 @media (min-width: 300px) {
-	html::before{
+	/*html::before{
 		content: "XS";
 		display: block;
 		position: fixed;
@@ -924,7 +933,7 @@ ul.has-arrow li:before,
 		left: 0;
 		padding: 10px;
 		z-index: 999;
-	}
+	}*/
 	#site-header-mobile .main-logo{
 		max-height: 40px;
 	}
@@ -975,7 +984,7 @@ ul.has-arrow li:before,
 }
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
-	html::before{
+	/*html::before{
 		content: "SM";
 		display: block;
 		position: fixed;
@@ -986,7 +995,7 @@ ul.has-arrow li:before,
 		left: 0;
 		padding: 10px;
 		z-index: 999;
-	}
+	}*/
 	.has-label::before{
 		left: -20px;
 		width: 30px;
@@ -1015,8 +1024,6 @@ ul.has-arrow li:before,
 		transform: none;
 		left: 0;
 		text-align: center;
-		min-width: 100%;
-		min-height: 220px;
 	}
 	.carousel-control-prev, .carousel-control-next{
 		z-index: 9;
@@ -1065,7 +1072,7 @@ ul.has-arrow li:before,
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
-	html::before{
+	/*html::before{
 		content: "MD";
 		display: block;
 		position: fixed;
@@ -1076,7 +1083,7 @@ ul.has-arrow li:before,
 		left: 0;
 		padding: 10px;
 		z-index: 999;
-	}
+	}*/
 
 	.has-label::before{
 		left: -40px;
@@ -1124,7 +1131,7 @@ ul.has-arrow li:before,
 
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) {
-	html::before{
+	/*html::before{
 		content: "LG";
 		display: block;
 		position: fixed;
@@ -1135,7 +1142,7 @@ ul.has-arrow li:before,
 		left: 0;
 		padding: 10px;
 		z-index: 999;
-	}
+	}*/
 	.has-label::before{
 		left: -40px;
 		width: 80px;
@@ -1186,7 +1193,7 @@ ul.has-arrow li:before,
 
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
-	html::before{
+	/*html::before{
 		content: "XL";
 		display: block;
 		position: fixed;
@@ -1197,7 +1204,7 @@ ul.has-arrow li:before,
 		left: 0;
 		padding: 10px;
 		z-index: 999;
-	}
+	}*/
 	.has-label::before{
 		left: -40px;
 		width: 80px;

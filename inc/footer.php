@@ -55,6 +55,7 @@
 						<ul class="nav justify-content-center">
 							<a class="nav-link" href="https://www.cpm.coop/inmuebles/" target="_blank"><small>Inmuebles</small></a>
 							<a class="nav-link" href="consulta-los-costos-y-comisiones-de-nuestros-productos"><small>Costos y comisiones de nuestros productos</small></a>
+							<a class="nav-link" href="criterios-contables-especiales"><small>Criterios contables especiales</small></a>
 							<a class="nav-link" href="aviso-de-privacidad"><small>Aviso de privacidad</small></a>
 							<a class="nav-link" href="politicas-de-uso"><small>Políticas de uso</small></a>
 							<a class="nav-link" href="mapa-de-sitio"><small>Mapa del sitio</small></a>
@@ -71,6 +72,33 @@
 			</div>
 		</section>
 
+		<!-- Load Facebook SDK for JavaScript -->
+		<div id="fb-root"></div>
+		<script>
+			window.fbAsyncInit = function() {
+				FB.init({
+					xfbml : true,
+					version : 'v6.0'
+					});
+			};
+			(function(d, s, id) {
+				var js, fjs = d.getElementsByTagName(s)[0];
+				if (d.getElementById(id)) return;
+				js = d.createElement(s); js.id = id;
+				js.src = 'https://connect.facebook.net/es_LA/sdk/xfbml.customerchat.js';
+				fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));
+		</script>
+
+		<!-- Your customer chat code -->
+		<div class="fb-customerchat"
+		    attribution=setup_tool
+		    page_id="508172242584661"
+			theme_color="#13cf13"
+			logged_in_greeting="Hola qué tal, gracias por contactarnos, ¿cómo puedo ayudarte?"
+			logged_out_greeting="Seguimos a tus órdenes, saludos.">
+		</div>
+
 		<!-- jQiuery -->
 		<script src="assets/js/jquery-3.4.1.min.js"></script>
 		<!-- jQuery Waypoints -->
@@ -81,11 +109,9 @@
 		<!-- Tiny Slider 2.0 -->
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"></script>
 		<!-- Selector de estados -->
-		<script src="assets/js/municipios.js"></script>
+		<script type="text/javascript" src="assets/js/municipios.js"></script>
 		<!-- Form Validatr -->
 		<script src="assets/js/validator.js"></script>
-		<!-- Counter Up -->
-		<script src="assets/js/jquery.counterup.js"></script>
 		<!-- Línea de tiempo -->
 		<script src='https://cdn.jsdelivr.net/scrollreveal.js/3.3.1/scrollreveal.min.js'></script>
 		<script src="assets/js/timeline.js"></script>

@@ -32,17 +32,14 @@
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 						<!-- Nota Legal -->
 						<div class="bg-grey0 p-5 mb-5">
-							<p class="display-12"><strong>Costo Anual Total Promedio de 25.5% sin IVA</strong>. Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 31 de Diciembre de 2019.</strong></p>
-							<!-- <p class="display-12">*Cálculo para el <strong>Crédito Productivo CPM</strong> por la cantidad de <strong>$15,000.00 a un plazo de 12 meses con un monto mínimo de ahorro de $1,500.00</strong>.</p>
-							<ul class="display-12">
-								<li>Sujeto a aprobación de crédito.</li>
-								<li>Préstamo otorgado en moneda nacional.</li>
-								<li>Disponible en todas nuestras sucursales a nivel nacional.</li>
-								<li>La tasa de interés se asignará de acuerdo al historial crediticio interno y externo a Caja Popular Mexicana que presente el socio.</li>
-								<li>En la contratación del producto, el plan de pagos se establece de manera mensual</li>
-							</ul> -->
+							<p class="display-12"><strong>Costo Anual Total Promedio de 23.5% sin IVA</strong>. Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 30 de Junio de 2020.</strong></p>
 						</div>
 						<!-- Nota Legal -->
+						<!-- Legal Productos -->
+						<div class="bg-grey0 p-5 pb-0 mb-5">
+							<p class="display-12">Tu <em>Contrato de apertura de crédito simple con garantía hipotecaria</em> del <strong>Crédito Productivo CPM</strong>, ha cambiado en el <u>apartado de proemio</u> y <u>antecedentes</u>. Estos ajustes entrarán en vigor a partir del <strong>7 de septiembre del 2020</strong>, en esta fecha podrás realizar la consulta del documento en el segmento de contratos.  Si lo deseas, tendrás el derecho de dar por terminado el contrato de adhesión, siempre y cuando no existan adeudos pendientes por cubrir de tu crédito.</p>
+						</div>
+						<!-- Legal Productos -->
 					</div>
 					<div class="col-12 col-md-6">
 						<!-- MENU -->
@@ -66,7 +63,7 @@
 										</ul>
 										<h4>Plazo</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Hasta 72 meses para finalidades de consumo.</li>
+											<li>Hasta 72 meses para créditos destinados para capital de trabajo.</li>
 											<li>Hasta 120 meses para construir o adquirir inmuebles y pago de deudas derivadas de estos conceptos. </li>
 											<li>Hasta 48 meses para socios participantes del programa “Semilla Cooperativa”.</li>
 											<li>En caso de pagos únicos, el plazo máximo será de 18 meses.</li>
@@ -90,7 +87,7 @@
 												<!-- <p>Tasa de interés ordinaria anual fija única del 24.2% más IVA. La tasa se asignará de acuerdo al perfil crediticio del socio.</p> -->
 											</li>
 											<li><strong>CAT Promedio Crédito Productivo CPM</strong>
-												<p><strong>Costo Anual Total Promedio de 25.5% sin IVA.</strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 31 de Diciembre de 2019.</strong></p>
+												<p><strong>Costo Anual Total Promedio de 23.5% sin IVA.</strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 30 de Junio de 2020.</strong></p>
 											</li>
 										</ul>
 									</div>
@@ -110,7 +107,7 @@
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li><a href="assets/pdfs/contratos/Credito-Productivo-de-CPM/FR-1920-Contrato-de-apertura-de-credito-simple.pdf" target="_blank"><strong>Contrato de apertura de crédito simple</strong></a></li>
 											<li><a href="assets/pdfs/contratos/Credito-Productivo-de-CPM/FR-1915-Contrato-apertura-de-credito-simple-con-garantia-prendaria.pdf" target="_blank"><strong>Contrato de apertura de crédito simple con garantía prendaria</strong></a></li>
-											<li><a href="assets/pdfs/contratos/Credito-Productivo-de-CPM/FR-1919-Contrato-deapertura-de-credito-simple-con-garantia-hipotecaria.pdf" target="_blank"><strong>Contrato de apertura de crédito simple con garantía hipotecaria</strong></a></li>
+											<li><a href="assets/pdfs/contratos/Credito-Hipotecario-CPM/Para-Finalidades-de-Liquidez/FR-1919_Contrato_de_apertura_de_credito_simple_con_garantia_hipotecaria-23abril.pdf" target="_blank"><strong>Contrato de apertura de crédito simple con garantía hipotecaria</strong></a></li>
 										</ul>
 									</div>
 								</div>

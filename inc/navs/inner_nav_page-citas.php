@@ -16,6 +16,11 @@
 							Ubica tu sucursal 
 						</a>
 					</div>
+					<div class="col-12 col-lg p-0 mb-2 mb-lg-0 ">
+						<a href="tarjeta-de-debito" class="btn bg-tertiary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
+							Tarjetas
+						</a>
+					</div>
 					<div class="dropdown col-12 col-lg p-0 mb-2 mb-lg-0 ">
 						<a href="#" class="btn bg-quaternary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white dropdown-toggle" type="button" id="dropdownMenuItem3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Créditos</a>
 						<div class="dropdown-menu bg-quaternary" aria-labelledby="dropdownMenuItem3">
@@ -50,6 +55,7 @@
 							<ul class="list-group w-100 pt-3">
 								<li class="list-group-item"><a href="ser-socip">Socio</a></li>
 								<li class="list-group-item"><a href="ubica-tu-sucursal">Ubica tu sucursal</a></li>
+								<li class="list-group-item"><a href="tarjeta-de-debito">Tarjetas</a></li>
 								<li class="list-group-item">
 									<a href="#" class="dropdown-toggle" type="button" id="dropdownMenuItem3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Créditos</a>
 									<div class="dropdown-menu bg-quaternary" aria-labelledby="dropdownMenuItem3">

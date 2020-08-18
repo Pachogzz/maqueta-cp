@@ -18,6 +18,15 @@
 									</div>
 								</div>
 								<div class="carousel-item">
+									<img src="assets/img/slider/footer-home/enlace-coop.jpg" class="d-block w-100" alt="Enlace Cooperativo">
+									<div class="carousel-caption p-3 p-lg-5 bg-primary br-ntl-30 col-12 col-md-4 my-auto">
+										<p class="display-5"><strong>Asesorías en vivo en un clic con Enlace Cooperativo</strong></p>
+										<p class="display-18 text-yellow"><strong>¡Inscríbete ya!</strong></p>
+										<p class="display-14">Recuerda que los temas se van actualizando y contamos con diversos horarios para tu comodidad.</p>
+										<a href="https://www.cpm.coop/enlacecooperativo" target="_self" class="btn btn-secondary br-30 px-5 font-weight-semibold">Saber más</a>
+									</div>
+								</div>
+								<div class="carousel-item">
 									<img src="assets/img/slider/footer-home/unete-a-nuestro-talento.jpg" class="d-block w-100" alt="...">
 									<div class="carousel-caption p-3 p-lg-5 bg-primary br-ntl-30 col-12 col-md-4 my-auto">
 										<p class="display-5"><strong>Únete a nuestro #TalentoCPM</strong></p>

@@ -88,467 +88,607 @@
 				</div>
 
 				<div class="row guides-grid">
-				  <div id="0" class="guides-grid-col col-12 col-md-6 col-lg-4">
-				    <div class="card h-100 guides-grid-block">
-				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
-				      <div class="card-body">
-				        <h4 class="card-title mb-3 font-weight-bolder">Guía de uso general</h4>
-				      </div>
-				      <div class="card-footer">
-						<div class="row">
-							<div class="col-6">
-								<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center" data-toggle="modal" data-target="#modalOne">Ver</a>
-								<div class="modal fade vh-100" id="modalOne" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle1">
-								  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
-								    <div class="modal-content">
-								      <div class="modal-header">
-								      	<h5 class="modal-title" id="modaltitle1">Guía de uso general</h5>
-								        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-								          <span aria-hidden="true">&times;</span>
-								        </button>
-								      </div>
-								      <div class="modal-body">
-								        <embed src="tutoriales/pdf/cpm-movil/CPM_guia_de_uso_movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
-								      </div>
-								    </div>
-								  </div>
-								</div> <!-- ./ Modal Ends -->
+
+				  <div id="0" class="guides-grid-col col-12">
+				  	<div class="row">
+					  <div class="guides-grid-col col-12 col-md-6 col-lg-4">
+					    <div class="card h-100 guides-grid-block">
+					      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
+					      <div class="card-body">
+					        <h4 class="card-title mb-3 font-weight-bolder">Guía de uso general</h4>
+					      </div>
+					      <div class="card-footer">
+							<div class="row">
+								<div class="col-6">
+									<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center" data-toggle="modal" data-target="#modalOne">Ver</a>
+									<div class="modal fade vh-100" id="modalOne" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle1">
+									  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
+									    <div class="modal-content">
+									      <div class="modal-header">
+									      	<h5 class="modal-title" id="modaltitle1">Guía de uso general</h5>
+									        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+									          <span aria-hidden="true">&times;</span>
+									        </button>
+									      </div>
+									      <div class="modal-body">
+									        <embed src="tutoriales/pdf/cpm-movil/CPM_guia_de_uso_movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+									      </div>
+									    </div>
+									  </div>
+									</div> <!-- ./ Modal Ends -->
+								</div>
+								<div class="col-6">
+									<a href="tutoriales/pdf/cpm-movil/CPM_guia_de_uso_movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+								</div>
 							</div>
-							<div class="col-6">
-								<a href="tutoriales/pdf/cpm-movil/CPM_guia_de_uso_movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
-							</div>
-						</div>
-				      </div>
-				    </div>
+					      </div>
+					    </div>
+					  </div>
+					  <div class="guides-grid-col col-12 col-md-6 col-lg-8">
+					  	<a href="serviciosdigitales">
+					  		<img class="w-100 img-fluid" src="assets/img/secciones/en-linea/nueva-imagen-cpm-movil-072020.png" alt="Nueva imagen CPM Móvil">
+					  	</a>
+					  </div>
+					</div>
 				  </div>
-				  <div id="1" class="guides-grid-col col-12 col-md-6 col-lg-4">
-				    <div class="card h-100 guides-grid-block">
-				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
-				      <div class="card-body">
-				        <h4 class="card-title mb-3 font-weight-bolder">Guía de primer ingreso</h4>
-				      </div>
-				      <div class="card-footer">
-						<div class="row">
-							<div class="col-6">
-								<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center"  data-toggle="modal" data-target="#modalTwo">Ver</a>
-								<div class="modal fade vh-100" id="modalTwo" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle2">
-								  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
-								    <div class="modal-content">
-								      <div class="modal-header">
-								      	<h5 class="modal-title" id="modaltitle2">Guía de primer ingreso</h5>
-								        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-								          <span aria-hidden="true">&times;</span>
-								        </button>
-								      </div>
-								      <div class="modal-body">
-								        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_primerIngreso_movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
-								      </div>
-								    </div>
-								  </div>
-								</div> <!-- ./ Modal Ends -->
+
+				  <div id="1" class="guides-grid-col col-12">
+				  	<div class="row">
+					  <div class="guides-grid-col col-12 col-md-6 col-lg-4">
+					    <div class="card h-100 guides-grid-block">
+					      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
+					      <div class="card-body">
+					        <h4 class="card-title mb-3 font-weight-bolder">Guía de primer ingreso</h4>
+					      </div>
+					      <div class="card-footer">
+							<div class="row">
+								<div class="col-6">
+									<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center"  data-toggle="modal" data-target="#modalTwo">Ver</a>
+									<div class="modal fade vh-100" id="modalTwo" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle2">
+									  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
+									    <div class="modal-content">
+									      <div class="modal-header">
+									      	<h5 class="modal-title" id="modaltitle2">Guía de primer ingreso</h5>
+									        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+									          <span aria-hidden="true">&times;</span>
+									        </button>
+									      </div>
+									      <div class="modal-body">
+									        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_primerIngreso_movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+									      </div>
+									    </div>
+									  </div>
+									</div> <!-- ./ Modal Ends -->
+								</div>
+								<div class="col-6">
+									<a href="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_primerIngreso_movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+								</div>
 							</div>
-							<div class="col-6">
-								<a href="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_primerIngreso_movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
-							</div>
-						</div>
-				      </div>
-				    </div>
+					      </div>
+					    </div>
+					  </div>
+					  <div class="guides-grid-col col-12 col-md-6 col-lg-8">
+					  	<a href="serviciosdigitales">
+					  		<img class="w-100 img-fluid" src="assets/img/secciones/en-linea/nueva-imagen-cpm-movil-072020.png" alt="Nueva imagen CPM Móvil">
+					  	</a>
+					  </div>
+					</div>
 				  </div>
-				  <div id="2" class="guides-grid-col col-12 col-md-6 col-lg-4">
-				    <div class="card h-100 guides-grid-block">
-				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
-				      <div class="card-body">
-				        <h4 class="card-title mb-3 font-weight-bolder">Guía de transferencias</h4>
-				      </div>
-				      <div class="card-footer">
-						<div class="row">
-							<div class="col-6">
-								<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center"  data-toggle="modal" data-target="#modalThree">Ver</a>
-								<div class="modal fade vh-100" id="modalThree" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle3">
-								  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
-								    <div class="modal-content">
-								      <div class="modal-header">
-								      	<h5 class="modal-title" id="modaltitle3">Guía de transferencias</h5>
-								        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-								          <span aria-hidden="true">&times;</span>
-								        </button>
-								      </div>
-								      <div class="modal-body">
-								        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_transacciones_movil_02.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
-								      </div>
-								    </div>
-								  </div>
-								</div> <!-- ./ Modal Ends -->
+
+				  <div id="2" class="guides-grid-col col-12">
+				  	<div class="row">
+					  <div class="guides-grid-col col-12 col-md-6 col-lg-4">
+					    <div class="card h-100 guides-grid-block">
+					      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
+					      <div class="card-body">
+					        <h4 class="card-title mb-3 font-weight-bolder">Guía de transferencias</h4>
+					      </div>
+					      <div class="card-footer">
+							<div class="row">
+								<div class="col-6">
+									<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center"  data-toggle="modal" data-target="#modalThree">Ver</a>
+									<div class="modal fade vh-100" id="modalThree" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle3">
+									  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
+									    <div class="modal-content">
+									      <div class="modal-header">
+									      	<h5 class="modal-title" id="modaltitle3">Guía de transferencias</h5>
+									        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+									          <span aria-hidden="true">&times;</span>
+									        </button>
+									      </div>
+									      <div class="modal-body">
+									        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_transacciones_movil_02.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+									      </div>
+									    </div>
+									  </div>
+									</div> <!-- ./ Modal Ends -->
+								</div>
+								<div class="col-6">
+									<a href="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_transacciones_movil_02.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+								</div>
 							</div>
-							<div class="col-6">
-								<a href="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_transacciones_movil_02.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
-							</div>
-						</div>
-				      </div>
-				    </div>
+					      </div>
+					    </div>
+					  </div>
+					  <div class="guides-grid-col col-12 col-md-6 col-lg-8">
+					  	<a href="serviciosdigitales">
+					  		<img class="w-100 img-fluid" src="assets/img/secciones/en-linea/nueva-imagen-cpm-movil-072020.png" alt="Nueva imagen CPM Móvil">
+					  	</a>
+					  </div>
+					</div>
 				  </div>
-				  <div id="3" class="guides-grid-col col-12 col-md-6 col-lg-4">
-				    <div class="card h-100 guides-grid-block">
-				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
-				      <div class="card-body">
-				        <h4 class="card-title mb-3 font-weight-bolder">Guía de consulta y eliminación de transferencias programadas</h4>
-				      </div>
-				      <div class="card-footer">
-						<div class="row">
-							<div class="col-6">
-								<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center"  data-toggle="modal" data-target="#modalFour">Ver</a>
-								<div class="modal fade vh-100" id="modalFour" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle4">
-								  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
-								    <div class="modal-content">
-								      <div class="modal-header">
-								      	<h5 class="modal-title" id="modaltitle4">Guía de consulta y eliminación de transferencias programadas</h5>
-								        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-								          <span aria-hidden="true">&times;</span>
-								        </button>
-								      </div>
-								      <div class="modal-body">
-								        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_consulta_administra_tranferencias_programadas_movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
-								      </div>
-								    </div>
-								  </div>
-								</div> <!-- ./ Modal Ends -->
+
+				  <div id="3" class="guides-grid-col col-12">
+				  	<div class="row">
+					  <div class="guides-grid-col col-12 col-md-6 col-lg-4">
+					    <div class="card h-100 guides-grid-block">
+					      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
+					      <div class="card-body">
+					        <h4 class="card-title mb-3 font-weight-bolder">Guía de consulta y eliminación de transferencias programadas</h4>
+					      </div>
+					      <div class="card-footer">
+							<div class="row">
+								<div class="col-6">
+									<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center"  data-toggle="modal" data-target="#modalFour">Ver</a>
+									<div class="modal fade vh-100" id="modalFour" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle4">
+									  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
+									    <div class="modal-content">
+									      <div class="modal-header">
+									      	<h5 class="modal-title" id="modaltitle4">Guía de consulta y eliminación de transferencias programadas</h5>
+									        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+									          <span aria-hidden="true">&times;</span>
+									        </button>
+									      </div>
+									      <div class="modal-body">
+									        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_consulta_administra_tranferencias_programadas_movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+									      </div>
+									    </div>
+									  </div>
+									</div> <!-- ./ Modal Ends -->
+								</div>
+								<div class="col-6">
+									<a href="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_consulta_administra_tranferencias_programadas_movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+								</div>
 							</div>
-							<div class="col-6">
-								<a href="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_consulta_administra_tranferencias_programadas_movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
-							</div>
-						</div>
-				      </div>
-				    </div>
+					      </div>
+					    </div>
+					  </div>
+					  <div class="guides-grid-col col-12 col-md-6 col-lg-8">
+					  	<a href="serviciosdigitales">
+					  		<img class="w-100 img-fluid" src="assets/img/secciones/en-linea/nueva-imagen-cpm-movil-072020.png" alt="Nueva imagen CPM Móvil">
+					  	</a>
+					  </div>
+					</div>
 				  </div>
-				  <div id="4" class="guides-grid-col col-12 col-md-6 col-lg-4">
-				    <div class="card h-100 guides-grid-block">
-				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
-				      <div class="card-body">
-				        <h4 class="card-title mb-3 font-weight-bolder">Guía de transferencias a cuentas de otros socios</h4>
-				      </div>
-				      <div class="card-footer">
-						<div class="row">
-							<div class="col-6">
-								<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center"  data-toggle="modal" data-target="#modalFive">Ver</a>
-								<div class="modal fade vh-100" id="modalFive" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle5">
-								  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
-								    <div class="modal-content">
-								      <div class="modal-header">
-								      	<h5 class="modal-title" id="modaltitle5">Guía de transferencias a cuentas de otros socios</h5>
-								        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-								          <span aria-hidden="true">&times;</span>
-								        </button>
-								      </div>
-								      <div class="modal-body">
-								        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_transferencias_de_socios_a_socios_Movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
-								      </div>
-								    </div>
-								  </div>
-								</div> <!-- ./ Modal Ends -->
+
+				  <div id="4" class="guides-grid-col col-12">
+				  	<div class="row">
+					  <div class="guides-grid-col col-12 col-md-6 col-lg-4">
+					    <div class="card h-100 guides-grid-block">
+					      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
+					      <div class="card-body">
+					        <h4 class="card-title mb-3 font-weight-bolder">Guía de transferencias a cuentas de otros socios</h4>
+					      </div>
+					      <div class="card-footer">
+							<div class="row">
+								<div class="col-6">
+									<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center"  data-toggle="modal" data-target="#modalFive">Ver</a>
+									<div class="modal fade vh-100" id="modalFive" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle5">
+									  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
+									    <div class="modal-content">
+									      <div class="modal-header">
+									      	<h5 class="modal-title" id="modaltitle5">Guía de transferencias a cuentas de otros socios</h5>
+									        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+									          <span aria-hidden="true">&times;</span>
+									        </button>
+									      </div>
+									      <div class="modal-body">
+									        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_transferencias_de_socios_a_socios_Movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+									      </div>
+									    </div>
+									  </div>
+									</div> <!-- ./ Modal Ends -->
+								</div>
+								<div class="col-6">
+									<a href="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_transferencias_de_socios_a_socios_Movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+								</div>
 							</div>
-							<div class="col-6">
-								<a href="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_transferencias_de_socios_a_socios_Movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
-							</div>
-						</div>
-				      </div>
-				    </div>
+					      </div>
+					    </div>
+					  </div>
+					  <div class="guides-grid-col col-12 col-md-6 col-lg-8">
+					  	<a href="serviciosdigitales">
+					  		<img class="w-100 img-fluid" src="assets/img/secciones/en-linea/nueva-imagen-cpm-movil-072020.png" alt="Nueva imagen CPM Móvil">
+					  	</a>
+					  </div>
+					</div>
 				  </div>
-				  <div id="5" class="guides-grid-col col-12 col-md-6 col-lg-4">
-				    <div class="card h-100 guides-grid-block">
-				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
-				      <div class="card-body">
-				        <h4 class="card-title mb-3 font-weight-bolder">Guía de administración de dispositivo</h4>
-				      </div>
-				      <div class="card-footer">
-						<div class="row">
-							<div class="col-6">
-								<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center"  data-toggle="modal" data-target="#modalSix">Ver</a>
-								<div class="modal fade vh-100" id="modalSix" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle6">
-								  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
-								    <div class="modal-content">
-								      <div class="modal-header">
-								      	<h5 class="modal-title" id="modaltitle6">Guía de administración de dispositivo</h5>
-								        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-								          <span aria-hidden="true">&times;</span>
-								        </button>
-								      </div>
-								      <div class="modal-body">
-								        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Administra_tu_dispositivo_Movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
-								      </div>
-								    </div>
-								  </div>
-								</div> <!-- ./ Modal Ends -->
+
+				  <div id="5" class="guides-grid-col col-12">
+				  	<div class="row">
+					  <div class="guides-grid-col col-12 col-md-6 col-lg-4">
+					    <div class="card h-100 guides-grid-block">
+					      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
+					      <div class="card-body">
+					        <h4 class="card-title mb-3 font-weight-bolder">Guía de administración de dispositivo</h4>
+					      </div>
+					      <div class="card-footer">
+							<div class="row">
+								<div class="col-6">
+									<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center"  data-toggle="modal" data-target="#modalSix">Ver</a>
+									<div class="modal fade vh-100" id="modalSix" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle6">
+									  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
+									    <div class="modal-content">
+									      <div class="modal-header">
+									      	<h5 class="modal-title" id="modaltitle6">Guía de administración de dispositivo</h5>
+									        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+									          <span aria-hidden="true">&times;</span>
+									        </button>
+									      </div>
+									      <div class="modal-body">
+									        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Administra_tu_dispositivo_Movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+									      </div>
+									    </div>
+									  </div>
+									</div> <!-- ./ Modal Ends -->
+								</div>
+								<div class="col-6">
+									<a href="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Administra_tu_dispositivo_Movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+								</div>
 							</div>
-							<div class="col-6">
-								<a href="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Administra_tu_dispositivo_Movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
-							</div>
-						</div>
-				      </div>
-				    </div>
+					      </div>
+					    </div>
+					  </div>
+					  <div class="guides-grid-col col-12 col-md-6 col-lg-8">
+					  	<a href="serviciosdigitales">
+					  		<img class="w-100 img-fluid" src="assets/img/secciones/en-linea/nueva-imagen-cpm-movil-072020.png" alt="Nueva imagen CPM Móvil">
+					  	</a>
+					  </div>
+					</div>
 				  </div>
-				  <div id="6" class="guides-grid-col col-12 col-md-6 col-lg-4">
-				    <div class="card h-100 guides-grid-block">
-				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
-				      <div class="card-body">
-				        <h4 class="card-title mb-3 font-weight-bolder">Guía de consulta de saldos</h4>
-				      </div>
-				      <div class="card-footer">
-						<div class="row">
-							<div class="col-6">
-								<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center"  data-toggle="modal" data-target="#modalSeven">Ver</a>
-								<div class="modal fade vh-100" id="modalSeven" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle7">
-								  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
-								    <div class="modal-content">
-								      <div class="modal-header">
-								      	<h5 class="modal-title" id="modaltitle7">Guía de consulta de saldos</h5>
-								        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-								          <span aria-hidden="true">&times;</span>
-								        </button>
-								      </div>
-								      <div class="modal-body">
-								        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Consulta_de_saldos_Movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
-								      </div>
-								    </div>
-								  </div>
-								</div> <!-- ./ Modal Ends -->
+
+				  <div id="6" class="guides-grid-col col-12">
+				  	<div class="row">
+					  <div class="guides-grid-col col-12 col-md-6 col-lg-4">
+					    <div class="card h-100 guides-grid-block">
+					      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
+					      <div class="card-body">
+					        <h4 class="card-title mb-3 font-weight-bolder">Guía de consulta de saldos</h4>
+					      </div>
+					      <div class="card-footer">
+							<div class="row">
+								<div class="col-6">
+									<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center"  data-toggle="modal" data-target="#modalSeven">Ver</a>
+									<div class="modal fade vh-100" id="modalSeven" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle7">
+									  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
+									    <div class="modal-content">
+									      <div class="modal-header">
+									      	<h5 class="modal-title" id="modaltitle7">Guía de consulta de saldos</h5>
+									        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+									          <span aria-hidden="true">&times;</span>
+									        </button>
+									      </div>
+									      <div class="modal-body">
+									        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Consulta_de_saldos_Movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+									      </div>
+									    </div>
+									  </div>
+									</div> <!-- ./ Modal Ends -->
+								</div>
+								<div class="col-6">
+									<a href="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Consulta_de_saldos_Movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+								</div>
 							</div>
-							<div class="col-6">
-								<a href="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Consulta_de_saldos_Movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
-							</div>
-						</div>
-				      </div>
-				    </div>
+					      </div>
+					    </div>
+					  </div>
+					  <div class="guides-grid-col col-12 col-md-6 col-lg-8">
+					  	<a href="serviciosdigitales">
+					  		<img class="w-100 img-fluid" src="assets/img/secciones/en-linea/nueva-imagen-cpm-movil-072020.png" alt="Nueva imagen CPM Móvil">
+					  	</a>
+					  </div>
+					</div>
 				  </div>
-				  <div id="7" class="guides-grid-col col-12 col-md-6 col-lg-4">
-				    <div class="card h-100 guides-grid-block">
-				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
-				      <div class="card-body">
-				        <h4 class="card-title mb-3 font-weight-bolder">Guía de consulta, bloqueo y desbloqueo de tarjetas</h4>
-				      </div>
-				      <div class="card-footer">
-						<div class="row">
-							<div class="col-6">
-								<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center"  data-toggle="modal" data-target="#modalEight">Ver</a>
-								<div class="modal fade vh-100" id="modalEight" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle8">
-								  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
-								    <div class="modal-content">
-								      <div class="modal-header">
-								      	<h5 class="modal-title" id="modaltitle8">Guía de consulta, bloqueo y desbloqueo de tarjetas</h5>
-								        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-								          <span aria-hidden="true">&times;</span>
-								        </button>
-								      </div>
-								      <div class="modal-body">
-								        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Consulta_tarjeta_de_debito_Movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
-								      </div>
-								    </div>
-								  </div>
-								</div> <!-- ./ Modal Ends -->
+
+				  <div id="7" class="guides-grid-col col-12">
+				  	<div class="row">
+					  <div class="guides-grid-col col-12 col-md-6 col-lg-4">
+					    <div class="card h-100 guides-grid-block">
+					      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
+					      <div class="card-body">
+					        <h4 class="card-title mb-3 font-weight-bolder">Guía de consulta, bloqueo y desbloqueo de tarjetas</h4>
+					      </div>
+					      <div class="card-footer">
+							<div class="row">
+								<div class="col-6">
+									<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center"  data-toggle="modal" data-target="#modalEight">Ver</a>
+									<div class="modal fade vh-100" id="modalEight" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle8">
+									  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
+									    <div class="modal-content">
+									      <div class="modal-header">
+									      	<h5 class="modal-title" id="modaltitle8">Guía de consulta, bloqueo y desbloqueo de tarjetas</h5>
+									        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+									          <span aria-hidden="true">&times;</span>
+									        </button>
+									      </div>
+									      <div class="modal-body">
+									        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Consulta_tarjeta_de_debito_Movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+									      </div>
+									    </div>
+									  </div>
+									</div> <!-- ./ Modal Ends -->
+								</div>
+								<div class="col-6">
+									<a href="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Consulta_tarjeta_de_debito_Movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+								</div>
 							</div>
-							<div class="col-6">
-								<a href="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Consulta_tarjeta_de_debito_Movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
-							</div>
-						</div>
-				      </div>
-				    </div>
+					      </div>
+					    </div>
+					  </div>
+					  <div class="guides-grid-col col-12 col-md-6 col-lg-8">
+					  	<a href="serviciosdigitales">
+					  		<img class="w-100 img-fluid" src="assets/img/secciones/en-linea/nueva-imagen-cpm-movil-072020.png" alt="Nueva imagen CPM Móvil">
+					  	</a>
+					  </div>
+					</div>
 				  </div>
-				  <div id="8" class="guides-grid-col col-12 col-md-6 col-lg-4">
-				    <div class="card h-100 guides-grid-block">
-				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
-				      <div class="card-body">
-				        <h4 class="card-title mb-3 font-weight-bolder">Guía de notificaciones de cuentas</h4>
-				      </div>
-				      <div class="card-footer">
-						<div class="row">
-							<div class="col-6">
-								<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center"  data-toggle="modal" data-target="#modalNine">Ver</a>
-								<div class="modal fade vh-100" id="modalNine" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle9">
-								  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
-								    <div class="modal-content">
-								      <div class="modal-header">
-								      	<h5 class="modal-title" id="modaltitle9">Guía de notificaciones de cuentas</h5>
-								        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-								          <span aria-hidden="true">&times;</span>
-								        </button>
-								      </div>
-								      <div class="modal-body">
-								        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Notificaciones_Movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
-								      </div>
-								    </div>
-								  </div>
-								</div> <!-- ./ Modal Ends -->
+
+				  <div id="8" class="guides-grid-col col-12">
+				  	<div class="row">
+					  <div class="guides-grid-col col-12 col-md-6 col-lg-4">
+					    <div class="card h-100 guides-grid-block">
+					      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
+					      <div class="card-body">
+					        <h4 class="card-title mb-3 font-weight-bolder">Guía de notificaciones de cuentas</h4>
+					      </div>
+					      <div class="card-footer">
+							<div class="row">
+								<div class="col-6">
+									<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center"  data-toggle="modal" data-target="#modalNine">Ver</a>
+									<div class="modal fade vh-100" id="modalNine" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle9">
+									  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
+									    <div class="modal-content">
+									      <div class="modal-header">
+									      	<h5 class="modal-title" id="modaltitle9">Guía de notificaciones de cuentas</h5>
+									        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+									          <span aria-hidden="true">&times;</span>
+									        </button>
+									      </div>
+									      <div class="modal-body">
+									        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Notificaciones_Movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+									      </div>
+									    </div>
+									  </div>
+									</div> <!-- ./ Modal Ends -->
+								</div>
+								<div class="col-6">
+									<a href="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Notificaciones_Movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+								</div>
 							</div>
-							<div class="col-6">
-								<a href="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Notificaciones_Movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
-							</div>
-						</div>
-				      </div>
-				    </div>
+					      </div>
+					    </div>
+					  </div>
+					  <div class="guides-grid-col col-12 col-md-6 col-lg-8">
+					  	<a href="serviciosdigitales">
+					  		<img class="w-100 img-fluid" src="assets/img/secciones/en-linea/nueva-imagen-cpm-movil-072020.png" alt="Nueva imagen CPM Móvil">
+					  	</a>
+					  </div>
+					</div>
 				  </div>
-				  <div id="9" class="guides-grid-col col-12 col-md-6 col-lg-4">
-				    <div class="card h-100 guides-grid-block">
-				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
-				      <div class="card-body">
-				        <h4 class="card-title mb-3 font-weight-bolder">Guía de consulta de actividad en línea y recibo electrónico</h4>
-				      </div>
-				      <div class="card-footer">
-						<div class="row">
-							<div class="col-6">
-								<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center"  data-toggle="modal" data-target="#modalTen">Ver</a>
-								<div class="modal fade vh-100" id="modalTen" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle10">
-								  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
-								    <div class="modal-content">
-								      <div class="modal-header">
-								      	<h5 class="modal-title" id="modaltitle10">Guía de consulta de actividad en línea y recibo electrónico</h5>
-								        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-								          <span aria-hidden="true">&times;</span>
-								        </button>
-								      </div>
-								      <div class="modal-body">
-								        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Consulta_de_actividad_enLinea_Movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
-								      </div>
-								    </div>
-								  </div>
-								</div> <!-- ./ Modal Ends -->
+
+				  <div id="9" class="guides-grid-col col-12">
+				  	<div class="row">
+					  <div class="guides-grid-col col-12 col-md-6 col-lg-4">
+					    <div class="card h-100 guides-grid-block">
+					      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
+					      <div class="card-body">
+					        <h4 class="card-title mb-3 font-weight-bolder">Guía de consulta de actividad en línea y recibo electrónico</h4>
+					      </div>
+					      <div class="card-footer">
+							<div class="row">
+								<div class="col-6">
+									<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center"  data-toggle="modal" data-target="#modalTen">Ver</a>
+									<div class="modal fade vh-100" id="modalTen" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle10">
+									  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
+									    <div class="modal-content">
+									      <div class="modal-header">
+									      	<h5 class="modal-title" id="modaltitle10">Guía de consulta de actividad en línea y recibo electrónico</h5>
+									        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+									          <span aria-hidden="true">&times;</span>
+									        </button>
+									      </div>
+									      <div class="modal-body">
+									        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Consulta_de_actividad_enLinea_Movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+									      </div>
+									    </div>
+									  </div>
+									</div> <!-- ./ Modal Ends -->
+								</div>
+								<div class="col-6">
+									<a href="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Consulta_de_actividad_enLinea_Movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+								</div>
 							</div>
-							<div class="col-6">
-								<a href="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Consulta_de_actividad_enLinea_Movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
-							</div>
-						</div>
-				      </div>
-				    </div>
+					      </div>
+					    </div>
+					  </div>
+					  <div class="guides-grid-col col-12 col-md-6 col-lg-8">
+					  	<a href="serviciosdigitales">
+					  		<img class="w-100 img-fluid" src="assets/img/secciones/en-linea/nueva-imagen-cpm-movil-072020.png" alt="Nueva imagen CPM Móvil">
+					  	</a>
+					  </div>
+					</div>
 				  </div>
-				  <div id="10" class="guides-grid-col col-12 col-md-6 col-lg-4">
-				    <div class="card h-100 guides-grid-block">
-				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
-				      <div class="card-body">
-				        <h4 class="card-title mb-3 font-weight-bolder">Guía de cambio de nombre de usuario</h4>
-				      </div>
-				      <div class="card-footer">
-						<div class="row">
-							<div class="col-6">
-								<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center"  data-toggle="modal" data-target="#modalEleven">Ver</a>
-								<div class="modal fade vh-100" id="modalEleven" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle11">
-								  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
-								    <div class="modal-content">
-								      <div class="modal-header">
-								      	<h5 class="modal-title" id="modaltitle11">Guía de cambio de nombre de usuario</h5>
-								        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-								          <span aria-hidden="true">&times;</span>
-								        </button>
-								      </div>
-								      <div class="modal-body">
-								        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Cambiar_nombre_de_usuario_Movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
-								      </div>
-								    </div>
-								  </div>
-								</div> <!-- ./ Modal Ends -->
+
+				  <div id="10" class="guides-grid-col col-12">
+				  	<div class="row">
+					  <div class="guides-grid-col col-12 col-md-6 col-lg-4">
+					    <div class="card h-100 guides-grid-block">
+					      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
+					      <div class="card-body">
+					        <h4 class="card-title mb-3 font-weight-bolder">Guía de cambio de nombre de usuario</h4>
+					      </div>
+					      <div class="card-footer">
+							<div class="row">
+								<div class="col-6">
+									<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center"  data-toggle="modal" data-target="#modalEleven">Ver</a>
+									<div class="modal fade vh-100" id="modalEleven" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle11">
+									  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
+									    <div class="modal-content">
+									      <div class="modal-header">
+									      	<h5 class="modal-title" id="modaltitle11">Guía de cambio de nombre de usuario</h5>
+									        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+									          <span aria-hidden="true">&times;</span>
+									        </button>
+									      </div>
+									      <div class="modal-body">
+									        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Cambiar_nombre_de_usuario_Movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+									      </div>
+									    </div>
+									  </div>
+									</div> <!-- ./ Modal Ends -->
+								</div>
+								<div class="col-6">
+									<a href="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Cambiar_nombre_de_usuario_Movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+								</div>
 							</div>
-							<div class="col-6">
-								<a href="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Cambiar_nombre_de_usuario_Movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
-							</div>
-						</div>
-				      </div>
-				    </div>
+					      </div>
+					    </div>
+					  </div>
+					  <div class="guides-grid-col col-12 col-md-6 col-lg-8">
+					  	<a href="serviciosdigitales">
+					  		<img class="w-100 img-fluid" src="assets/img/secciones/en-linea/nueva-imagen-cpm-movil-072020.png" alt="Nueva imagen CPM Móvil">
+					  	</a>
+					  </div>
+					</div>
 				  </div>
-				  <div id="11" class="guides-grid-col col-12 col-md-6 col-lg-4">
-				    <div class="card h-100 guides-grid-block">
-				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
-				      <div class="card-body">
-				        <h4 class="card-title mb-3 font-weight-bolder">Guía de cambio de contraseña</h4>
-				      </div>
-				      <div class="card-footer">
-						<div class="row">
-							<div class="col-6">
-								<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center"  data-toggle="modal" data-target="#modalTwelve">Ver</a>
-								<div class="modal fade vh-100" id="modalTwelve" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle12">
-								  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
-								    <div class="modal-content">
-								      <div class="modal-header">
-								      	<h5 class="modal-title" id="modaltitle12">Guía de cambio de contraseña</h5>
-								        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-								          <span aria-hidden="true">&times;</span>
-								        </button>
-								      </div>
-								      <div class="modal-body">
-								        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_cambiar_contrasena_Movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
-								      </div>
-								    </div>
-								  </div>
-								</div> <!-- ./ Modal Ends -->
+
+				  <div id="11" class="guides-grid-col col-12">
+				  	<div class="row">
+					  <div class="guides-grid-col col-12 col-md-6 col-lg-4">
+					    <div class="card h-100 guides-grid-block">
+					      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
+					      <div class="card-body">
+					        <h4 class="card-title mb-3 font-weight-bolder">Guía de cambio de contraseña</h4>
+					      </div>
+					      <div class="card-footer">
+							<div class="row">
+								<div class="col-6">
+									<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center"  data-toggle="modal" data-target="#modalTwelve">Ver</a>
+									<div class="modal fade vh-100" id="modalTwelve" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle12">
+									  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
+									    <div class="modal-content">
+									      <div class="modal-header">
+									      	<h5 class="modal-title" id="modaltitle12">Guía de cambio de contraseña</h5>
+									        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+									          <span aria-hidden="true">&times;</span>
+									        </button>
+									      </div>
+									      <div class="modal-body">
+									        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_cambiar_contrasena_Movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+									      </div>
+									    </div>
+									  </div>
+									</div> <!-- ./ Modal Ends -->
+								</div>
+								<div class="col-6">
+									<a href="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_cambiar_contrasena_Movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+								</div>
 							</div>
-							<div class="col-6">
-								<a href="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_cambiar_contrasena_Movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
-							</div>
-						</div>
-				      </div>
-				    </div>
+					      </div>
+					    </div>
+					  </div>
+					  <div class="guides-grid-col col-12 col-md-6 col-lg-8">
+					  	<a href="serviciosdigitales">
+					  		<img class="w-100 img-fluid" src="assets/img/secciones/en-linea/nueva-imagen-cpm-movil-072020.png" alt="Nueva imagen CPM Móvil">
+					  	</a>
+					  </div>
+					</div>
 				  </div>
-				  <div id="12" class="guides-grid-col col-12 col-md-6 col-lg-4">
-				    <div class="card h-100 guides-grid-block">
-				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
-				      <div class="card-body">
-				        <h4 class="card-title mb-3 font-weight-bolder">Guía de localización de cajeros y sucursales</h4>
-				      </div>
-				      <div class="card-footer">
-						<div class="row">
-							<div class="col-6">
-								<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center"  data-toggle="modal" data-target="#modalthirteen">Ver</a>
-								<div class="modal fade vh-100" id="modalthirteen" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle13">
-								  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
-								    <div class="modal-content">
-								      <div class="modal-header">
-								      	<h5 class="modal-title" id="modaltitle13">Guía de localización de cajeros y sucursales</h5>
-								        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-								          <span aria-hidden="true">&times;</span>
-								        </button>
-								      </div>
-								      <div class="modal-body">
-								        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Localiza_cajeros_y_sucursales_Movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
-								      </div>
-								    </div>
-								  </div>
-								</div> <!-- ./ Modal Ends -->
+
+				  <div id="12" class="guides-grid-col col-12">
+				  	<div class="row">
+					  <div class="guides-grid-col col-12 col-md-6 col-lg-4">
+					    <div class="card h-100 guides-grid-block">
+					      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
+					      <div class="card-body">
+					        <h4 class="card-title mb-3 font-weight-bolder">Guía de localización de cajeros y sucursales</h4>
+					      </div>
+					      <div class="card-footer">
+							<div class="row">
+								<div class="col-6">
+									<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center"  data-toggle="modal" data-target="#modalthirteen">Ver</a>
+									<div class="modal fade vh-100" id="modalthirteen" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle13">
+									  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
+									    <div class="modal-content">
+									      <div class="modal-header">
+									      	<h5 class="modal-title" id="modaltitle13">Guía de localización de cajeros y sucursales</h5>
+									        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+									          <span aria-hidden="true">&times;</span>
+									        </button>
+									      </div>
+									      <div class="modal-body">
+									        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Localiza_cajeros_y_sucursales_Movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+									      </div>
+									    </div>
+									  </div>
+									</div> <!-- ./ Modal Ends -->
+								</div>
+								<div class="col-6">
+									<a href="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Localiza_cajeros_y_sucursales_Movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+								</div>
 							</div>
-							<div class="col-6">
-								<a href="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Localiza_cajeros_y_sucursales_Movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
-							</div>
-						</div>
-				      </div>
-				    </div>
+					      </div>
+					    </div>
+					  </div>
+					  <div class="guides-grid-col col-12 col-md-6 col-lg-8">
+					  	<a href="serviciosdigitales">
+					  		<img class="w-100 img-fluid" src="assets/img/secciones/en-linea/nueva-imagen-cpm-movil-072020.png" alt="Nueva imagen CPM Móvil">
+					  	</a>
+					  </div>
+					</div>
 				  </div>
-				  <div id="13" class="guides-grid-col col-12 col-md-6 col-lg-4">
-				    <div class="card h-100 guides-grid-block">
-				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
-				      <div class="card-body">
-				        <h4 class="card-title mb-3 font-weight-bolder">Guía de administración de cuentas</h4>
-				      </div>
-				      <div class="card-footer">
-						<div class="row">
-							<div class="col-6">
-								<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center"  data-toggle="modal" data-target="#modalFourteen">Ver</a>
-								<div class="modal fade vh-100" id="modalFourteen" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle14">
-								  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
-								    <div class="modal-content">
-								      <div class="modal-header">
-								      	<h5 class="modal-title" id="modaltitle14">Guía de administración de cuentas</h5>
-								        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-								          <span aria-hidden="true">&times;</span>
-								        </button>
-								      </div>
-								      <div class="modal-body">
-								        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Configurar_cuentas_Movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
-								      </div>
-								    </div>
-								  </div>
-								</div> <!-- ./ Modal Ends -->
+
+				  <div id="13" class="guides-grid-col col-12">
+				  	<div class="row">
+					  <div class="guides-grid-col col-12 col-md-6 col-lg-4">
+					    <div class="card h-100 guides-grid-block">
+					      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
+					      <div class="card-body">
+					        <h4 class="card-title mb-3 font-weight-bolder">Guía de administración de cuentas</h4>
+					      </div>
+					      <div class="card-footer">
+							<div class="row">
+								<div class="col-6">
+									<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center"  data-toggle="modal" data-target="#modalFourteen">Ver</a>
+									<div class="modal fade vh-100" id="modalFourteen" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle14">
+									  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
+									    <div class="modal-content">
+									      <div class="modal-header">
+									      	<h5 class="modal-title" id="modaltitle14">Guía de administración de cuentas</h5>
+									        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+									          <span aria-hidden="true">&times;</span>
+									        </button>
+									      </div>
+									      <div class="modal-body">
+									        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Configurar_cuentas_Movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+									      </div>
+									    </div>
+									  </div>
+									</div> <!-- ./ Modal Ends -->
+								</div>
+								<div class="col-6">
+									<a href="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Configurar_cuentas_Movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+								</div>
 							</div>
-							<div class="col-6">
-								<a href="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Configurar_cuentas_Movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
-							</div>
-						</div>
-				      </div>
-				    </div>
+					      </div>
+					    </div>
+					  </div>
+					  <div class="guides-grid-col col-12 col-md-6 col-lg-8">
+					  	<a href="serviciosdigitales">
+					  		<img class="w-100 img-fluid" src="assets/img/secciones/en-linea/nueva-imagen-cpm-movil-072020.png" alt="Nueva imagen CPM Móvil">
+					  	</a>
+					  </div>
+					</div>
 				  </div>
 				</div>
 

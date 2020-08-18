@@ -58,7 +58,8 @@
 							<img width="" src="assets/img/secciones/logos-credito/credito-automotriz.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Adquiere el automóvil que tú quieras ya sea nuevo o seminuevo de agencia para uso personal o productivo ¡Te financiamos hasta el 100% del valor del vehículo!</p>
 							<p class="lead my-3 font-weight-bold text-primary">Montos desde $38,641.20 hasta $966,930.00</p>
-							<p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/contratos/Credito-Automotriz/FR-1916-Contrato-de-apertura-de-credito-automotriz.pdf" target="_blank">aquí</a></p>
+							<p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/contratos/Credito-Automotriz-cpm/FR-1916_Contrato_de_apertura_de_credito_automotriz-20200327.pdf" target="_blank">aquí</a></p>
+							<!-- <p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/contratos/Credito-Automotriz-cpm/FR-1916-Contrato-de-apertura-de-credito-automotriz.pdf" target="_blank">aquí</a></p> -->
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 						<div class="embed-responsive embed-responsive-16by9 mb-3 mb-lg-5">
@@ -67,7 +68,7 @@
 						<?php include('inc/calculadoras/calculadora-de-credito.php') ?> <!-- ./ calculadora de credito -->
 						<!-- Nota Legal -->
 						<div class="bg-grey0 p-5 mb-5">
-							<p class="display-12"><strong>Costo Anual Total Promedio de 20.3% sin IVA</strong>. Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 31 de Diciembre de 2019.</strong></p>
+							<p class="display-12"><strong>Costo Anual Total Promedio de 22.5% sin IVA</strong>. Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 30 de Junio de 2020.</strong></p>
 							<!-- <p class="display-12">*Cálculo para el <strong>Crédito Automotríz CPM</strong> por la cantidad de <strong>$15,000.00 a un plazo de 12 meses con un monto mínimo de ahorro de $1,500.00</strong>.</p>
 							<ul class="display-12">
 								<li>Sujeto a aprobación de crédito.</li>
@@ -120,10 +121,10 @@
 									<div class="card-body bg-grey0 p-4">
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li><strong>Tasa de Interés</strong>
-												<p>Tasa de interés ordinaria anual fija única de 12.84% más IVA hasta un 33.0% antes de impuestos. La tasa se asignará de acuerdo al perfil crediticio del socio.</p>
+												<p>Tasa de interés ordinaria anual fija única de 12.84% más IVA<!--  hasta un 33.0% antes de impuestos. La tasa se asignará de acuerdo al perfil crediticio del socio -->.</p>
 											</li>
 											<li><strong>CAT Promedio Crédito Automotriz CPM</strong>
-												<p><strong>Costo Anual Total Promedio de 20.3% sin IVA.</strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 31 de Diciembre de 2019.</strong></p>
+												<p><strong>Costo Anual Total Promedio de 22.5% sin IVA.</strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 30 de Junio de 2020.</strong></p>
 											</li>
 										</ul>
 									</div>
@@ -142,7 +143,8 @@
 										<h4>Requisitos</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li>Ser <a href="ser-socio">socio</a> de Caja Popular Mexicana.</li>
-											<li>Ahorro del 10% del monto a solicitar como garantía, depositado en su Cuenta Mexicana.</li>
+											<li>No requiere de garantía líquida.</li>
+											<!-- <li>Ahorro del 10% del monto a solicitar como garantía, depositado en su Cuenta Mexicana.</li> -->
 										</ul>
 										<h4>Condiciones</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
@@ -180,7 +182,7 @@
 										</ul>
 										<h4>Gastos de contratación</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Cuando exista una garantía prendaria o hipotecaria así como de seguro que lo cubra, los costos dependen del valor de la garantía.</li>
+											<li>Cuando exista una garantía prendaria, así como de seguro que lo cubra, los costos dependen del valor de la garantía.</li>
 											<li>Consulta los costos y comisiones de nuestros productos dando <a href="consulta-los-costos-y-comisiones-de-nuestros-productos">clic aquí</a>.</li>
 										</ul>
 										<h4>Recomendaciones</h4>
