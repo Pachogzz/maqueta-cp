@@ -17,15 +17,17 @@
 				<div class="row">
 					<div class="col-md-10 offset-md-1 text-center mb-5">
 						<p class="h3 w-100 mb-md-4"><strong>¡Ponemos <span class="text-primary">#MásTiempoEnTusManos!</span></strong></p>
-						<p class="h3 w-100 font-weight-semibold mb-md-4">Disfruta de tus actividades y a los tuyos, Usa nuestras plataformas CPM en Línea y CPM Móvil para realizar tus operaciones. donde sea, de forma fácil y segura, con tu mismo usuario y contraseña.</p>
-						<p class="h4">No olvides acudir a tu sucursal para contratar el servicio.</p>
+						<p class="h3 w-100 font-weight-semibold mb-md-4">Disfruta de tus actividades y a los tuyos. Usa nuestras plataformas CPM en Línea y CPM Móvil para realizar tus operaciones donde sea, de forma fácil y segura, con tu mismo usuario y contraseña.</p>
+						<p class="h4">No olvides acudir a tu sucursal para contratar el servicio y registrar tu dispositivo para hacer uso de nuestras plataformas.</p>
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-12">
 						<video autoplay loop muted inline class="w-100">
-							<source class="embed-responsive-item" src="assets/video/banner_cpm_sei_loop.mp4" type="video/mp4">
-							<img src="assets/img/secciones/banner-sei.jpg" />
+							<source class="embed-responsive-item" src="assets/video/cpm-movil-nueva-imagen.mp4" type="video/mp4">
+							<img src="assets/img/secciones/cpm-movil-nueva-imagen.jpg" />
+							<!-- <source class="embed-responsive-item" src="assets/video/banner_cpm_sei_loop.mp4" type="video/mp4"> -->
+							<!-- <img src="assets/img/secciones/banner-sei.jpg" /> -->
 						</video>
 					</div>
 				</div>

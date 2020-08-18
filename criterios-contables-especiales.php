@@ -18,20 +18,19 @@
 				<div class="row mb-5">
 					<div class="col-12 col-md-10 offset-md-1">
 						<blockquote class="blockquote p-5 border border-light bw-5 rounded border-grey1 text-center">
-							<p class="mb-0 h3 font-weight-normal">Consulta el <strong>BALANCE GENERAL</strong> con corte al 30 de junio de 2020 <a href="" class="font-weight-bold text-primary" data-toggle="modal" data-target="#modalCorresponsalias">AQUÍ</a>
+							<p class="mb-0 h3 font-weight-normal">Consulta el <strong>BALANCE GENERAL</strong> con corte al 30 de junio de 2020 <a href="" class="font-weight-bold text-primary" data-toggle="modal" data-target="#modalCriteriosContables">AQUÍ</a>
 							
-							<div class="modal fade vh-100" id="modalCorresponsalias" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle1">
+							<div class="modal fade vh-100" id="modalCriteriosContables" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle1">
 							  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-xl" role="document">
 							    <div class="modal-content">
 							      <div class="modal-header">
-							      	<h5 class="modal-title" id="modaltitle1">Guía de uso general</h5>
+							      	<h5 class="modal-title" id="modaltitle1">Criterios contables especiales</h5>
 							        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 							          <span aria-hidden="true">&times;</span>
 							        </button>
 							      </div>
 							      <div class="modal-body">
 							      	<img src="assets/img/secciones/criterios-contables/EEFF_Suscritos_CPM_Junio_2020_Suc.jpg" class="img-fluid" alt="">
-							        <!-- <iframe src="assets/img/secciones/corresponsalias/FEBRERO-CORRESPONSALIAS.html" class="w-100" height="600" frameborder="0"></iframe> -->
 							      </div>
 							      <div class="modal-footer text-center">
 							      	<a class="btn btn-primary" href="assets/img/secciones/criterios-contables/EEFF_Suscritos_CPM_Junio_2020_Suc.jpg" download>Descargar</a>

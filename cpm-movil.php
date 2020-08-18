@@ -31,7 +31,7 @@
 									</a>
 								</div>
 							</div>
-							<p class="mt-3 mb-2 lead font-weight-normal">Recuerda usar el mismo usuario y contraseña para acceder a <strong>CPM en Línea</strong></p>
+							<p class="mt-3 mb-2 lead font-weight-normal">Recuerda registrar tu dispositivo móvil para poder hacer uso de <strong>CPM en Línea</strong></p>
 							<p class=""><small>Consulta los términos y condiciones de nuestro servicio Electrónico por Internet dando <a href="terminos-y-condiciones-sei" target="_blank"><strong>clic aquí</small></strong></a>.</p>
 						</blockquote>
 					</div>
@@ -40,9 +40,11 @@
 				<div class="row video-tutorial-holder mb-5">
 					<div class="col-12 col-md-6 mb-3 mb-md-0">
 						<div class="embed-responsive embed-responsive-16by9">
-							<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wq1jWcMSXMM?rel=0" allowfullscreen></iframe>
+							<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/nZLaOsUI8H4?rel=0" allowfullscreen></iframe>
+							<!-- <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wq1jWcMSXMM?rel=0" allowfullscreen></iframe> -->
 						</div>
-						<div class="video-label bg-purple p-3 text-center"><p class="h3 text-white font-weight-bold mb-0">Guía de primer ingreso</p></div>
+						<div class="video-label bg-purple p-3 text-center"><p class="h3 text-white font-weight-bold mb-0">Cooperando por México</p></div>
+						<!-- <div class="video-label bg-purple p-3 text-center"><p class="h3 text-white font-weight-bold mb-0">Guía de primer ingreso</p></div> -->
 					</div>
 					<div class="col-12 col-md-6">
 						<div class="embed-responsive embed-responsive-16by9">
@@ -62,17 +64,22 @@
 								<span class="sr-only">Loading...</span>
 							</div>
 						</div>
+						<script>
+							$(document).ready(function(){
+								// $('#loading').hide();
+							});
+						</script>
 						
-						<form action="">
+						<form id="filtering_s" action="">
 							<div class="form-group">
 								<select class="form-control selectpicker" id="filterSelector">
 									<option value="seleccione">- Seleccione una guía -</option>
 									<option value="0">Guía de uso general</option>
 									<option value="1">Guía de primer ingreso</option>
-									<option value="2">Guía de transferencias</option>
+									<option value="5">Guía de administración de dispositivo</option>
+									<option value="2">Guía de transferencias entre cuentas propias</option>
 									<option value="3">Guía de consulta y eliminación de transferencias programadas</option>
 									<option value="4">Guía de transferencias a cuentas de otros socios</option>
-									<option value="5">Guía de administración de dispositivo</option>
 									<option value="6">Guía de consulta de saldos</option>
 									<option value="7">Guía de consulta, bloqueo y desbloqueo de tarjetas</option>
 									<option value="8">Guía de notificaciones de cuentas</option>
@@ -81,6 +88,7 @@
 									<option value="11">Guía de cambio de contraseña</option>
 									<option value="12">Guía de localización de cajeros y sucursales</option>
 									<option value="13">Guía de administración de cuentas</option>
+									<option value="14">Guía para disposición de Credinámico</option>
 								</select>
 							</div>
 						</form>
@@ -88,8 +96,7 @@
 				</div>
 
 				<div class="row guides-grid">
-
-				  <div id="0" class="guides-grid-col col-12">
+				  <div id="0" class="guides-grid-col">
 				  	<div class="row">
 					  <div class="guides-grid-col col-12 col-md-6 col-lg-4">
 					    <div class="card h-100 guides-grid-block">
@@ -129,10 +136,10 @@
 					  		<img class="w-100 img-fluid" src="assets/img/secciones/en-linea/nueva-imagen-cpm-movil-072020.png" alt="Nueva imagen CPM Móvil">
 					  	</a>
 					  </div>
-					</div>
+				    </div>
 				  </div>
 
-				  <div id="1" class="guides-grid-col col-12">
+				  <div id="1" class="guides-grid-col">
 				  	<div class="row">
 					  <div class="guides-grid-col col-12 col-md-6 col-lg-4">
 					    <div class="card h-100 guides-grid-block">
@@ -154,7 +161,7 @@
 									        </button>
 									      </div>
 									      <div class="modal-body">
-									        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_primerIngreso_movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+									        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_primerIngreso_movil_2020.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
 									      </div>
 									    </div>
 									  </div>
@@ -172,16 +179,16 @@
 					  		<img class="w-100 img-fluid" src="assets/img/secciones/en-linea/nueva-imagen-cpm-movil-072020.png" alt="Nueva imagen CPM Móvil">
 					  	</a>
 					  </div>
-					</div>
+				    </div>
 				  </div>
 
-				  <div id="2" class="guides-grid-col col-12">
+				  <div id="2" class="guides-grid-col">
 				  	<div class="row">
 					  <div class="guides-grid-col col-12 col-md-6 col-lg-4">
 					    <div class="card h-100 guides-grid-block">
 					      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
 					      <div class="card-body">
-					        <h4 class="card-title mb-3 font-weight-bolder">Guía de transferencias</h4>
+					        <h4 class="card-title mb-3 font-weight-bolder">Guía de transferencias entre cuentas propias</h4>
 					      </div>
 					      <div class="card-footer">
 							<div class="row">
@@ -191,20 +198,20 @@
 									  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
 									    <div class="modal-content">
 									      <div class="modal-header">
-									      	<h5 class="modal-title" id="modaltitle3">Guía de transferencias</h5>
+									      	<h5 class="modal-title" id="modaltitle3">Guía de transferencias entre cuentas propias</h5>
 									        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 									          <span aria-hidden="true">&times;</span>
 									        </button>
 									      </div>
 									      <div class="modal-body">
-									        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_transacciones_movil_02.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+									        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_transacciones_movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
 									      </div>
 									    </div>
 									  </div>
 									</div> <!-- ./ Modal Ends -->
 								</div>
 								<div class="col-6">
-									<a href="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_transacciones_movil_02.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+									<a href="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_transacciones_movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
 								</div>
 							</div>
 					      </div>
@@ -215,10 +222,10 @@
 					  		<img class="w-100 img-fluid" src="assets/img/secciones/en-linea/nueva-imagen-cpm-movil-072020.png" alt="Nueva imagen CPM Móvil">
 					  	</a>
 					  </div>
-					</div>
+				    </div>
 				  </div>
 
-				  <div id="3" class="guides-grid-col col-12">
+				  <div id="3" class="guides-grid-col">
 				  	<div class="row">
 					  <div class="guides-grid-col col-12 col-md-6 col-lg-4">
 					    <div class="card h-100 guides-grid-block">
@@ -258,10 +265,10 @@
 					  		<img class="w-100 img-fluid" src="assets/img/secciones/en-linea/nueva-imagen-cpm-movil-072020.png" alt="Nueva imagen CPM Móvil">
 					  	</a>
 					  </div>
-					</div>
+				    </div>
 				  </div>
 
-				  <div id="4" class="guides-grid-col col-12">
+				  <div id="4" class="guides-grid-col">
 				  	<div class="row">
 					  <div class="guides-grid-col col-12 col-md-6 col-lg-4">
 					    <div class="card h-100 guides-grid-block">
@@ -301,10 +308,10 @@
 					  		<img class="w-100 img-fluid" src="assets/img/secciones/en-linea/nueva-imagen-cpm-movil-072020.png" alt="Nueva imagen CPM Móvil">
 					  	</a>
 					  </div>
-					</div>
+				    </div>
 				  </div>
 
-				  <div id="5" class="guides-grid-col col-12">
+				  <div id="5" class="guides-grid-col">
 				  	<div class="row">
 					  <div class="guides-grid-col col-12 col-md-6 col-lg-4">
 					    <div class="card h-100 guides-grid-block">
@@ -344,10 +351,10 @@
 					  		<img class="w-100 img-fluid" src="assets/img/secciones/en-linea/nueva-imagen-cpm-movil-072020.png" alt="Nueva imagen CPM Móvil">
 					  	</a>
 					  </div>
-					</div>
+				    </div>
 				  </div>
 
-				  <div id="6" class="guides-grid-col col-12">
+				  <div id="6" class="guides-grid-col">
 				  	<div class="row">
 					  <div class="guides-grid-col col-12 col-md-6 col-lg-4">
 					    <div class="card h-100 guides-grid-block">
@@ -387,10 +394,10 @@
 					  		<img class="w-100 img-fluid" src="assets/img/secciones/en-linea/nueva-imagen-cpm-movil-072020.png" alt="Nueva imagen CPM Móvil">
 					  	</a>
 					  </div>
-					</div>
+				    </div>
 				  </div>
 
-				  <div id="7" class="guides-grid-col col-12">
+				  <div id="7" class="guides-grid-col">
 				  	<div class="row">
 					  <div class="guides-grid-col col-12 col-md-6 col-lg-4">
 					    <div class="card h-100 guides-grid-block">
@@ -430,10 +437,10 @@
 					  		<img class="w-100 img-fluid" src="assets/img/secciones/en-linea/nueva-imagen-cpm-movil-072020.png" alt="Nueva imagen CPM Móvil">
 					  	</a>
 					  </div>
-					</div>
+				    </div>
 				  </div>
 
-				  <div id="8" class="guides-grid-col col-12">
+				  <div id="8" class="guides-grid-col">
 				  	<div class="row">
 					  <div class="guides-grid-col col-12 col-md-6 col-lg-4">
 					    <div class="card h-100 guides-grid-block">
@@ -473,10 +480,10 @@
 					  		<img class="w-100 img-fluid" src="assets/img/secciones/en-linea/nueva-imagen-cpm-movil-072020.png" alt="Nueva imagen CPM Móvil">
 					  	</a>
 					  </div>
-					</div>
+				    </div>
 				  </div>
 
-				  <div id="9" class="guides-grid-col col-12">
+				  <div id="9" class="guides-grid-col">
 				  	<div class="row">
 					  <div class="guides-grid-col col-12 col-md-6 col-lg-4">
 					    <div class="card h-100 guides-grid-block">
@@ -516,10 +523,10 @@
 					  		<img class="w-100 img-fluid" src="assets/img/secciones/en-linea/nueva-imagen-cpm-movil-072020.png" alt="Nueva imagen CPM Móvil">
 					  	</a>
 					  </div>
-					</div>
+				    </div>
 				  </div>
 
-				  <div id="10" class="guides-grid-col col-12">
+				  <div id="10" class="guides-grid-col">
 				  	<div class="row">
 					  <div class="guides-grid-col col-12 col-md-6 col-lg-4">
 					    <div class="card h-100 guides-grid-block">
@@ -559,10 +566,10 @@
 					  		<img class="w-100 img-fluid" src="assets/img/secciones/en-linea/nueva-imagen-cpm-movil-072020.png" alt="Nueva imagen CPM Móvil">
 					  	</a>
 					  </div>
-					</div>
+				    </div>
 				  </div>
 
-				  <div id="11" class="guides-grid-col col-12">
+				  <div id="11" class="guides-grid-col">
 				  	<div class="row">
 					  <div class="guides-grid-col col-12 col-md-6 col-lg-4">
 					    <div class="card h-100 guides-grid-block">
@@ -602,10 +609,10 @@
 					  		<img class="w-100 img-fluid" src="assets/img/secciones/en-linea/nueva-imagen-cpm-movil-072020.png" alt="Nueva imagen CPM Móvil">
 					  	</a>
 					  </div>
-					</div>
+				    </div>
 				  </div>
 
-				  <div id="12" class="guides-grid-col col-12">
+				  <div id="12" class="guides-grid-col">
 				  	<div class="row">
 					  <div class="guides-grid-col col-12 col-md-6 col-lg-4">
 					    <div class="card h-100 guides-grid-block">
@@ -645,10 +652,10 @@
 					  		<img class="w-100 img-fluid" src="assets/img/secciones/en-linea/nueva-imagen-cpm-movil-072020.png" alt="Nueva imagen CPM Móvil">
 					  	</a>
 					  </div>
-					</div>
+				    </div>
 				  </div>
 
-				  <div id="13" class="guides-grid-col col-12">
+				  <div id="13" class="guides-grid-col">
 				  	<div class="row">
 					  <div class="guides-grid-col col-12 col-md-6 col-lg-4">
 					    <div class="card h-100 guides-grid-block">
@@ -688,8 +695,52 @@
 					  		<img class="w-100 img-fluid" src="assets/img/secciones/en-linea/nueva-imagen-cpm-movil-072020.png" alt="Nueva imagen CPM Móvil">
 					  	</a>
 					  </div>
-					</div>
+				    </div>
 				  </div>
+
+				  <div id="14" class="guides-grid-col">
+				  	<div class="row">
+					  <div class="guides-grid-col col-12 col-md-6 col-lg-4">
+					    <div class="card h-100 guides-grid-block">
+					      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
+					      <div class="card-body">
+					        <h4 class="card-title mb-3 font-weight-bolder">Guía para disposición de Credinámico</h4>
+					      </div>
+					      <div class="card-footer">
+							<div class="row">
+								<div class="col-6">
+									<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center"  data-toggle="modal" data-target="#modalFifteen">Ver</a>
+									<div class="modal fade vh-100" id="modalFifteen" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle15">
+									  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
+									    <div class="modal-content">
+									      <div class="modal-header">
+									      	<h5 class="modal-title" id="modaltitle15">Guía para disposición de Credinámico</h5>
+									        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+									          <span aria-hidden="true">&times;</span>
+									        </button>
+									      </div>
+									      <div class="modal-body">
+									        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_credinamico_Movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+									      </div>
+									    </div>
+									  </div>
+									</div> <!-- ./ Modal Ends -->
+								</div>
+								<div class="col-6">
+									<a href="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_credinamico_Movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+								</div>
+							</div>
+					      </div>
+					    </div>
+					  </div>
+					  <div class="guides-grid-col col-12 col-md-6 col-lg-8">
+					  	<a href="serviciosdigitales">
+					  		<img class="w-100 img-fluid" src="assets/img/secciones/en-linea/nueva-imagen-cpm-movil-072020.png" alt="Nueva imagen CPM Móvil">
+					  	</a>
+					  </div>
+				    </div>
+				  </div>
+
 				</div>
 
 			</div>
