@@ -1,9 +1,11 @@
 $(document).ready(function(){
 	$('#loading').hide();
+
 	// Get dinamically the site title
 	var titleSite = $('#sectionTitle').text();
-	console.log(titleSite);
-	$(document).prop('title', titleSite + " - Caja Popular Mexicana");
+	// console.log(titleSite);
+	// $(document).prop('title', titleSite + " - Caja Popular Mexicana");
+	$('title').html(titleSite + " - Caja popular Mexicana");
 
 	// Bloque que nos permite colocar dropdowns dentro del menú principal
 	$('.dropdown-submenu a.sub-drop').on("click", function(e){

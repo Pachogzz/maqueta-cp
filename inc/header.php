@@ -5,8 +5,8 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-		<!-- SEO Tags -->
-		<title></title>
+		<!-- SEO Tags Caja Popular Mexicana-->
+		<title> Caja Popular Mexicana</title>
 		<meta name="description" content="Es una cooperativa de ahorro y préstamo con más 60 años de experiencia que contribuye a mejorar la calidad de vida de sus socios, educando en la cultura del ahorro, en la práctica de la ayuda mutua y el uso responsable del crédito por medio de sus diferentes productos de ahorro, crédito e inversión." />
 		<meta name="author" content="" />
 		<meta name="copyright" content="Caja Popular Mexicana 2020" />
