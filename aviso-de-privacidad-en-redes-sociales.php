@@ -37,7 +37,7 @@ Atender sus dudas, inquietudes y quejas relacionadas con los productos y servici
 <p>Salvo los casos antes señalados, <strong>Caja Popular Mexicana</strong> no requiere que los usuarios de sus redes sociales revelen datos personales para interactuar, sin embargo, si usted decide libremente compartir información personal le recordamos que al tratarse de un sitio público, ésta podrá ser vista por los demás usuarios del sitio, a menos que sea enviada a través de mensajes privados (Inbox), en cuyo caso <strong>Caja Popular Mexicana</strong> asegura tratar confidencialmente todos los datos que le sean compartidos.</p>
 
 <p><strong>IV Contacto y medios para conocer el aviso de privacidad integral de <strong>Caja Popular Mexicana</strong>.</strong></p>
-Si usted desea más información sobre el tratamiento de los datos personales que lleva a cabo <strong>Caja Popular Mexicana</strong>, o desea ejercer sus derechos de acceso, rectificación, cancelación y oposición; o bien revocar su consentimiento, puede consultar el texto íntegro de nuestro Aviso de Privacidad en <a href="https://www.cpm.coop/aviso-de-privacidad/">https://www.cpm.coop/aviso-de-privacidad/</a> </p>
+Si usted desea más información sobre el tratamiento de los datos personales que lleva a cabo <strong>Caja Popular Mexicana</strong>, o desea ejercer sus derechos de acceso, rectificación, cancelación y oposición; o bien revocar su consentimiento, puede consultar el texto íntegro de nuestro Aviso de Privacidad en <a href="aviso-de-privacidad">https://www.cpm.coop/aviso-de-privacidad/</a> </p>
 
 				</div>
 			</div>

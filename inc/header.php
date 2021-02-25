@@ -5,7 +5,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-		<!-- SEO Tags Caja Popular Mexicana-->
+		<!-- SEO Tags -->
 		<title> Caja Popular Mexicana</title>
 		<meta name="description" content="Es una cooperativa de ahorro y préstamo con más 60 años de experiencia que contribuye a mejorar la calidad de vida de sus socios, educando en la cultura del ahorro, en la práctica de la ayuda mutua y el uso responsable del crédito por medio de sus diferentes productos de ahorro, crédito e inversión." />
 		<meta name="author" content="" />
@@ -42,8 +42,9 @@
 		<!-- Tiny Slider 2.0 -->
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/tiny-slider.css">
 		<!--[if (lt IE 9)]><script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.helper.ie8.js"></script><![endif]-->
-		<!-- FontAwesome 5 -->
-		<link rel="stylesheet" href="assets/css/all.min.css">
+		<!-- FontAwesome 5.15.1 -->
+		<link rel="stylesheet" href="assets/css/fontawesome.css">
+		<link rel="stylesheet" href="assets/css/all.css">
 		<!-- Animate CSS -->
 		<link rel="stylesheet" href="assets/css/animate.css">
 		<!-- Responsive tabs -->
@@ -53,14 +54,6 @@
 		<!-- Main CSS -->
 		<link rel="stylesheet" href="assets/css/timeline.css">
 		<link rel="stylesheet" href="assets/css/style.css">
-
-		<!-- <script>
-			(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-				new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-				j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-				'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-			})(window,document,'script','dataLayer','GTM-M9GJD7V');
-		</script> -->
 
 		<script>
 			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -89,12 +82,13 @@
 			if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
 			n.queue=[];t=b.createElement(e);t.async=!0;
 			t.src=v;s=b.getElementsByTagName(e)[0];
-			s.parentNode.insertBefore(t,s)}(window, document,'script',
+			s.parentNode.insertBefore(t,s)}(window,document,'script',
 			'https://connect.facebook.net/en_US/fbevents.js');
-			fbq('init', '481981588912214');
+			 fbq('init', '1530714186946463'); 
 			fbq('track', 'PageView');
 		</script>
-		<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=481981588912214&ev=PageView&noscript=1"/></noscript>
+		<noscript><img height="1" width="1" src="https://www.facebook.com/tr?id=1530714186946463&ev=PageView
+		&noscript=1"/></noscript>
 		<!-- End Facebook Pixel Code -->
 
 	</head>
@@ -145,9 +139,15 @@
 												<li class="nav-item">
 													<a href="asambleas" class="nav-link">Asambleas</a>
 												</li>
-												<!-- <li class="nav-item">
-													<a href="talento-cpm" class="nav-link">Talento CPM</a>
-												</li> -->
+												<li class="nav-item">
+													<a href="boletines" class="nav-link">Sala de prensa</a>
+												</li>
+												<li class="nav-item">
+													<a href="revistas" class="nav-link">Revistas</a>
+												</li>
+												<li class="nav-item">
+													<a href="noticias-cpm" class="nav-link">Noticias CPM</a>
+												</li>
 											</ul>
 										</div>
 										<div class="col-12 col-lg-4">
@@ -156,6 +156,7 @@
 												<li class="nav-item"><a href="ser-socio" class="nav-link">Ser socio</a></li>
 												<li class="nav-item"><a href="soy-menor-de-edad" class="nav-link">Ahorrador menor de edad</a></li>
 												<li class="nav-item"><a href="serviciosdigitales" class="nav-link">Servicio Electrónico por Internet</a></li>
+												<li class="nav-item"><a href="spei" class="nav-link">SPEI</a></li>
 												<li class="nav-item"><a href="corresponsalias" class="nav-link">Corresponsalías</a></li>
 												<li class="nav-item"><a href="necesitas-credito" class="nav-link">Créditos</a></li>
 												<li class="nav-item"><a href="ahorro-e-inversion" class="nav-link">Ahorro e inversión</a></li>
@@ -230,12 +231,15 @@
 								<li class="list-group-item title">Conócenos</li>
 								<li class="list-group-item"><a href="conocenos">Somos Caja Popular Mexicana</a></li>
 								<li class="list-group-item"><a href="asambleas"><i class="fa fa-map-marker-alt"></i> Asambleas</a></li>
-								<!-- <li class="list-group-item"><a href="talento-cpm">Talento CPM</a></li> -->
+								<li class="list-group-item"><a href="boletines">Sala de prensa</a></li>
+								<li class="list-group-item"><a href="revistas">Revistas</a></li>
+								<li class="list-group-item"><a href="noticias-cpm">Noticias CPM</a></li>
 								
 								<li class="list-group-item title">Queremos servirte</li>
 								<li class="list-group-item"><a href="ser-socio">Ser socio</a></li>
 								<li class="list-group-item"><a href="soy-menor-de-edad">Ahorrador menor de edad</a></li>
 								<li class="list-group-item"><a href="serviciosdigitales">Servicio Electrónico por Internet</a></li>
+								<li class="list-group-item"><a href="spei">SPEI</a></li>
 								<li class="list-group-item"><a href="corresponsalias">Corresponsalías</a></li>
 								<li class="list-group-item"><a href="necesitas-credito">Créditos</a></li>
 								<li class="list-group-item"><a href="ahorro-e-inversion">Ahorro e inversión</a></li>
@@ -247,6 +251,7 @@
 								
 								<li class="list-group-item title">Sé un experto</li>
 								<li class="list-group-item"><a href="https://cooperandoando.com/" target="_blank">Blog Cooperando Ando</a></li>
+								<li class="list-group-item"><a href="https://www.cpm.coop/enlacecooperativo">Enlace Cooperativo</a></li>
 								<!-- <li class="list-group-item"><a href="https://www.cpm.coop/educacion/" target="_blank">Educación Cooperativa</a></li> -->
 							</ul>
 						</div> <!-- ./ Menu Mobile Collapsable -->

@@ -36,7 +36,7 @@
 								<img src="assets/img/timeline/alemania.jpg" class="img-fluid" alt="CPM 1847 - Surge en alemania las cooperativas de ahorro y crédito.">
 							</div>
 							<div class="date">1847</div>
-							<p class="p-2 p-md-3 mb-0 display-18">Surgen en Alemania las <strong class="text-primary">cooperativas de ahorro y crédito</strong>, lo que actualmente son los “bancos cooperativos”, impulsadas por <i>Herman Schulze-Delitzsch y Friedrich Wuilhelm Raiffeisen</i>.</p>
+							<p class="p-2 p-md-3 mb-0 display-18">Surgen en Alemania las <strong class="text-primary">cooperativas de ahorro y crédito</strong>, lo que actualmente son los “bancos cooperativos”, impulsadas por <i>Herman Schulze-Delitzsch y Friedrich Wilhelm Raiffeisen</i>.</p>
 						</div>
 					</div>
 

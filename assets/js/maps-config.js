@@ -106,6 +106,7 @@
     <button onclick='getLocation()''>OBTENER</button>*/
     //Cierre permitir ubicacion
     //Cierre colocar mapa
+    
     //Funcion traer datos json
     window.eqfeed_callback = function(results) {
         //Datos de filtrado

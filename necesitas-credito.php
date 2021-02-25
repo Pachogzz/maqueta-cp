@@ -15,7 +15,8 @@
 		<section class="featured-module-home py-5 mb-5">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-8 offset-md-2">
+					<div class="col-md-10 offset-md-1">
+						<h2 class="display-4 text-primary font-weight-semibold mb-4">¡Queremos apoyarte a cumplir tus planes!</h2>
 						<p class="h3 text-center w-100 font-weight-semibold mb-md-4">Conoce la variedad de productos de crédito que tenemos a tu disposición</p>
 						<!-- <p class="h4 text-center w-100 font-weight-semibold">Informar a los usuarios sobre los diversos préstamos que tenemos a su disposición.</p> -->
 					</div>

@@ -64,7 +64,7 @@
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 						<!-- Nota Legal -->
 						<div class="bg-grey0 p-5 mb-5">
-							<p class="display-12"><strong>Costo Anual Total Promedio de 31.4% sin IVA</strong>. Para fines informativos y de comparación exclusivamente. Fecha de cálculo <strong>30 de Junio de 2020</strong>.</p>
+							<p class="display-12"><strong>Costo Anual Total Promedio de 30.9% sin IVA</strong>. Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 31 de Enero de 2021</strong>.</p>
 							<p class="display-12">*Cálculo para el <strong>Crédito Personal Plus CPM</strong> por la cantidad de <strong>$15,000.00 a un plazo de 12 meses con un monto mínimo de ahorro de $1,500.00</strong>.</p>
 							<ul class="display-12">
 								<li>Tabulador para fines informativos, no representa una contratación.</li>
@@ -78,9 +78,9 @@
 						</div>
 						<!-- Nota Legal -->
 						<!-- Legal Productos -->
-						<div class="bg-grey0 p-5 mb-5">
-							<p class="display-12">Tu <em>Contrato de apertura de crédito simple con garantía hipotecaria</em> del <strong>Crédito Persona Plus CPM</strong>, ha cambiado en el <u>apartado de proemio</u> y <u>antecedentes</u>. Estos ajustes entrarán en vigor a partir del <strong>7 de septiembre del 2020</strong>, en esta fecha podrás realizar la consulta  del documento en el segmento de contratos.  Si lo deseas, tendrás el derecho de dar por terminado el contrato de adhesión, siempre y cuando no existan adeudos pendientes por cubrir de tu crédito.</p>
-						</div>
+						<!-- <div class="border border-light bw-5 rounded border-grey1 p-5 mb-5">
+							<p class="display-12 mb-0">Tu <em>Contrato de apertura de crédito simple con garantía hipotecaria</em> del <strong>Crédito Personal Plus CPM</strong>, ha cambiado en el <u>apartado de proemio</u> y <u>antecedentes</u>. Estos ajustes entrarán en vigor a partir del <strong>7 de septiembre del 2020</strong>, en esta fecha podrás realizar la consulta  del documento en el segmento de contratos.  Si lo deseas, tendrás el derecho de dar por terminado el contrato de adhesión, siempre y cuando no existan adeudos pendientes por cubrir de tu crédito.</p>
+						</div> -->
 						<!-- Legal Productos -->
 					</div>
 					<div class="col-12 col-md-6">
@@ -129,7 +129,7 @@
 												<p>Tasa de interés ordinaria anual fija desde un 15.84% hasta un 25.80% más IVA. La tasa se asignará de acuerdo al perfil crediticio del socio.</p>
 											</li>
 											<li><strong>CAT Promedio Crédito Personal Plus CPM</strong>
-												<p><strong>Costo Anual Total Promedio de 31.4% sin IVA.</strong> Para fines informativos y de comparación exclusivamente. Fecha de cálculo <strong>30 de Junio de 2020</strong>.</p>
+												<p><strong>Costo Anual Total Promedio de 30.9% sin IVA.</strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 31 de Enero de 2021</strong>.</p>
 											</li>
 										</ul>
 									</div>
@@ -147,9 +147,9 @@
 								<div id="collapseTwo2" class="collapse" aria-labelledby="headingTwo2" data-parent="#accordionCICPM">
 									<div class="card-body bg-grey0 p-4">
 										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li><a href="assets/pdfs/contratos/Credito-Personal-Plus-CPM/FR-1920-Contrato-de-apertura-de-credito-simple.pdf" target="_blank"><strong>Contrato de apertura de crédito simple</strong></a></li>
-											<li><a href="assets/pdfs/contratos/Credito-Personal-Plus-CPM/FR-1915-Contrato-apertura-de-credito-simple-con-garantia-prendaria.pdf" target="_blank"><strong>Contrato de apertura de crédito simple con garantía prendaria</strong></a></li>
-											<li><a href="assets/pdfs/contratos/Credito-Hipotecario-CPM/Para-Finalidades-de-Liquidez/FR-1919_Contrato_de_apertura_de_credito_simple_con_garantia_hipotecaria-23abril.pdf" target="_blank"><strong>Contrato de apertura de crédito simple con garantía hipotecaria</strong></a></li>
+											<li><a href="assets/pdfs/contratos/Credito-Personal-Plus-CPM/122020/FR-1920_Contrato_de_apertura_de credito_simple_SUCURSAL.pdf" target="_blank"><strong>Contrato de apertura de crédito simple</strong></a></li>
+											<li><a href="assets/pdfs/contratos/Credito-Personal-Plus-CPM/122020/FR-1915_Contrato_apertura_de_credito_simple_con_garantia_prendaria.pdf" target="_blank"><strong>Contrato de apertura de crédito simple con garantía prendaria</strong></a></li>
+											<li><a href="assets/pdfs/contratos/Credito-Personal-Plus-CPM/122020/FR-1919_Contrato_de_apertura_de credito_simple_con_garantia_hipotecaria.pdf" target="_blank"><strong>Contrato de apertura de crédito simple con garantía hipotecaria</strong></a></li>
 										</ul>
 									</div>
 								</div>

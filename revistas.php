@@ -17,7 +17,7 @@
 				<div class="row mb-5">
 					<div class="col">
 						<blockquote class="blockquote p-5 border border-light bw-5 rounded border-grey1 text-center">
-							<p class="mb-0 lead font-weight-normal">Mantenente informado de todo lo relacionado con Caja Popular Mexicana y las <br>cooperativas en México y el mundo siguiendo nuestras publicaciones impresas.</p>
+							<p class="mb-0 lead font-weight-normal">Mantente informado de todo lo relacionado con Caja Popular Mexicana y las <br>cooperativas en México y el mundo, siguiendo nuestras publicaciones impresas.</p>
 						</blockquote>
 					</div>
 				</div> <!-- ./ Main info block -->
@@ -45,10 +45,12 @@
 						</form>
 					</div>
 				</div>
-
-				<?php include('inc/revistas/encuentro.php') ?>
-				<?php include('inc/revistas/patrimonio.php') ?>
-				<?php include('inc/revistas/compromiso.php') ?>
+				
+				<div class="row guides-grid">
+					<?php include('inc/sala-de-prensa/revistas/encuentro.php') ?>
+					<?php include('inc/sala-de-prensa/revistas/patrimonio.php') ?>
+					<?php include('inc/sala-de-prensa/revistas/compromiso.php') ?>
+				</div>
 
 			</div>
 		</section> <!-- ./ Page content -->

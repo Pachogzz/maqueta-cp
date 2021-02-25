@@ -18,36 +18,36 @@
 				<div class="row mb-3 mb-lg-5">
 					<div class="col-12 text-center">
 						<div id="carouselControls" class="carousel slide" data-ride="carousel">
-							<ol class="carousel-indicators">
+							<!-- <ol class="carousel-indicators">
 								<li data-target="#carouselControls" data-slide-to="0" class="active"></li>
 								<li data-target="#carouselControls" data-slide-to="1"></li>
 								<li data-target="#carouselControls" data-slide-to="2"></li>
-							</ol>
+							</ol> -->
 							<div class="carousel-inner">
 								<div class="carousel-item active">
 									<div class="h-100 w-100 text-center">
-										<img class="m-auto img-fluid" src="assets/img/secciones/citas/Citas-en-linea-LANDING-01.png" alt="Agenda tu cita">
+										<img class="m-auto img-fluid" src="assets/img/secciones/citas/Título-de-pagina-Citas.jpg" alt="Agenda tu cita">
+									</div>
+								</div>
+								<!-- <div class="carousel-item">
+									<div class="h-100 w-100 text-center">
+										<img class="m-auto img-fluid" src="assets/img/secciones/citas/Base-Citas-en-linea-SITIO-01.jpg" alt="Agenda tu cita">
 									</div>
 								</div>
 								<div class="carousel-item">
 									<div class="h-100 w-100 text-center">
-										<img class="m-auto img-fluid" src="assets/img/secciones/citas/Citas-en-linea-LANDING-02.png" alt="Agenda tu cita">
+										<img class="m-auto img-fluid" src="assets/img/secciones/citas/Base-Citas-en-linea-SITIO-02.jpg" alt="Agenda tu cita">
 									</div>
-								</div>
-								<div class="carousel-item">
-									<div class="h-100 w-100 text-center">
-										<img class="m-auto img-fluid" src="assets/img/secciones/citas/Citas-en-linea-LANDING-03.png" alt="Agenda tu cita">
-									</div>
-								</div>
+								</div> -->
 							</div>
-							<a class="carousel-control-prev" href="#carouselControls" role="button" data-slide="prev">
+							<!-- <a class="carousel-control-prev" href="#carouselControls" role="button" data-slide="prev">
 								<span class="carousel-control-prev-icon" aria-hidden="true"></span>
 								<span class="sr-only">Previous</span>
 							</a>
 							<a class="carousel-control-next" href="#carouselControls" role="button" data-slide="next">
 								<span class="carousel-control-next-icon" aria-hidden="true"></span>
 								<span class="sr-only">Next</span>
-							</a>
+							</a> -->
 						</div>
 					</div> <!-- ./ Video o imágen principal -->
 				</div> <!-- ./ End Row -->
@@ -56,7 +56,7 @@
 					<div class="col-12 ">
 						<blockquote class="blockquote p-5 border border-light bw-5 rounded border-grey1 text-center">
 							<p class="mb-3 h3 font-weight-normal">¡Solicita tu cita ya!</p>
-							<p class="mb-0 h3"><strong>Es muy fácil, solo escríbenos <a href="mailto:contacto@cpm.coop">aquí</a>, en la burbuja de chat o llámanos al 800 7100 800.</strong></p>
+							<p class="mb-0 h3"><strong>Es muy fácil, solo escríbenos <a href="https://www.messenger.com/t/CajaPopularMexicana" target="_blank">aquí</a>, en la burbuja de chat o llámanos al 800 7100 800.</strong></p>
 						</blockquote>
 					</div>
 				</div>
@@ -64,16 +64,16 @@
 					<div class="col-12 col-md-4 order-lg-2">
 						<div class="row">
 							<div class="landing-grid-box col-12 mb-5">
-								<a href="operaciones-disponibles-sei" class="h-100">
+								
 									<div class="landing-grid-box-info rounded bw-5 border-grey0 text-center h-100">
-										<i class="fas fa-info fa-4x bg-primary text-white rounded-circle"></i>
+										<i class="fas fa-info fa-3x bg-primary text-white rounded-circle"></i>
 										<h2 class="text-primary"><strong>¡No olvides!</strong></h2>
 										<ol type="1" class="text-left">
 											<li>Llegar <strong>10 minutos antes</strong> de la hora de tu cita.</li>
-											<li>A tu llegada a sucursal, selecciona la opción <strong>“CITADO”</strong> en el intro que verás para obtener tu turno, bríndanos el número telefónico que registrarte en la solicitud de cita y ¡listo! Con eso sabremos que llegaste y un ejecutivo pronto te pasará a escritorio.</li>
+											<li>A tu llegada a sucursal, selecciona la opción <strong>“CITADO”</strong> en el intro que verás para obtener tu turno, bríndanos el número telefónico que registraste en la solicitud de cita y ¡listo! Con eso sabremos que llegaste y un ejecutivo pronto te pasará a escritorio.</li>
 										</ol>
 									</div>
-								</a>
+								
 							</div>
 						</div>
 					</div>
@@ -93,10 +93,13 @@
 									<div class="card-body bg-grey0 p-4">
 										<h4>Puedes agendar tu cita para:</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Tramitar un crédito</li>
+											<li>Trámite de crédito</li>
 											<li>Entrega de un crédito</li>
 											<li>Solicitud de tu tarjeta de débito</li>
 											<li>Entrega de tarjeta de débito</li>
+											<li>Ingreso como socio</li>
+											<li>Ingreso como ahorrador menor de edad</li>
+											<li>Apertura de Rendicuenta</li>
 										</ul>
 									</div>
 								</div>
@@ -111,7 +114,34 @@
 								</div>
 								<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionCICPM">
 									<div class="card-body bg-grey0 p-4">
-										<p class="p-3 border border-grey1 bg-white">Por el momento, únicamente el servicio está disponible en la sucursal Villagrán y Arcos en la ciudad de Villagrán y Celaya respectivamente.</p>
+										<ul class="p-5 bg-white bw-1 border-grey1">
+										<p class="p-3 border border-grey1 bg-white">Por el momento, únicamente el servicio está disponible en las siguientes sucursales:</p>
+											<li>Villagrán en Villagrán, Gto.</li>
+											<!-- <li>Guanajuato en Celaya, Gto.</li> -->
+											<li>Los Arcos en Celaya, Gto.</li>
+											<li>Allende en Celaya, Gto.</li>
+											<li>Corregidora en Celaya, Gto.</li>
+											<li>Emiliano Zapata en Celaya, Gto.</li>
+											<li>Guanajuato en Celaya, Gto</li>
+											<li>Benito Juárez en San Pedro Mixtepec, Oaxaca.</li>
+											<li>Guillermo Valle Mejía en Miahuatlán, Oaxaca.</li>
+											<li>Río Grande en Villa de Tututepec, Oaxaca.</li>
+											<li>San Pedro Pochutla en San Pedro Pochutla, Oaxaca.</li>
+											<li>Juquila en Santa Catarina Juquila, Oaxaca.</li>
+											<li>La Soledad en San Pedro Mixtepec, Oaxaca.</li>
+											<li>Huatulco en Santa María Huatulco, Oaxaca</li>
+											<li>Pinotepa Nacional en Santiago Pinotepa Nacional, Oaxaca</li>
+											<li>Guezhe en Miahuatlán, Oaxaca</li>
+											<li>Costa chica en San Pedro Pochutla, Oaxaca</li>
+											<li>Bahías del pacífico en Santa María Huatulco, Oaxaca</li>
+											<li>Pelopenitza en Miahuatlán de Porfirio Diaz, Oaxaca</li>
+											<li>Torreón Centro en Torreón, Coahuila</li>
+											<li>Gómez Palacio en Gómez Palacio, Durango</li>
+											<li>Hamburgo en Gómez Palacio, Durango</li>
+											<li>Nueva Vizcaya en Victoria de Durango, Durango</li>
+											<li>Francisco Villa en Durango, Durango</li>
+											<!-- <p><strong>* NOTA:</strong> Atendiendo las recomendaciones de las autoridades locales, en estas sucursales no se ofrece servicio los días sábados, hasta nuevo aviso. Agradecemos tu comprensión.</p> -->
+										</ul>
 									</div>
 								</div>
 							</div>
@@ -140,7 +170,7 @@
 								<div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionCICPM">
 									<div class="card-body bg-grey0 p-4">
 										<div class="p-3 bg-white bw-1 border-grey1">
-											<p>Para poder agendar tu cita, debes brindar tu nombre completo, número de socio, correo electrónico y número telefónico como requisitos básicos. Adicional, el monto y finalidad deseada para tu trámite de crédito.</p>
+											<p>Para poder agendar tu cita, debes brindar tu nombre completo, número de socio, correo electrónico y número telefónico como requisitos básicos. En caso de solicitud de crédito adicionar la  finalidad, monto del crédito y tu actividad económica.</p>
 											<p>– Consulta nuestro aviso de privacidad en <a href="aviso-de-privacidad" class="text-primary"><strong>aquí</strong></a>.</p>
 										</div>
 									</div>

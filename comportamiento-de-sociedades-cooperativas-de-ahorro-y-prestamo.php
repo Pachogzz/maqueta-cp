@@ -16,7 +16,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-12 text-center">
-						<img src="assets/img/secciones/comportamiento-de-sociedades-cooperativas-de-ahorro-y-prestamo-2020-update.png" alt="" class="img-fluid mb-5">
+						<img src="assets/img/secciones/buro-de-entidades/Buro_entidades_DIC2020.jpg" alt="" class="img-fluid mb-5">
 					</div>
 				</div> <!-- ./ End Row -->
 			</div>

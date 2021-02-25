@@ -25,13 +25,13 @@
 						<h3 class="title-medium font-weight-bold">Presentación de candidatos para elección de consejeros</h3>
 					</div>
 					<div class="col-12 col-md-6">
-						<a href="candidatos-al-consejo-de-administrador" class="btn btn-block bg-primary text-white br-30 p-3 p-md-5 text-center display-5">
-							<span>Candidatos al Consejo de Administración</span> <i class="fa fa-chevron-circle-right 5x-fa"></i>
+						<a href="candidatos-al-consejo-de-administracion" class="btn btn-block bg-primary text-white br-30 p-3 p-md-5 mb-3 mb-md-0 text-center display-5">
+							<span>Candidatos al Consejo de <br>Administración</span> <i class="fa fa-chevron-circle-right 5x-fa"></i>
 						</a>
 					</div>
 					<div class="col-12 col-md-6">
 						<a href="candidatos-al-consejo-de-vigilancia" class="btn btn-block bg-primary text-white br-30 p-3 p-md-5 text-center display-5">
-							<span>Candidatos al Consejo de Vigilancia</span> <i class="fa fa-chevron-circle-right 5x-fa"></i>
+							<span>Candidatos al Consejo de  <br>Vigilancia</span> <i class="fa fa-chevron-circle-right 5x-fa"></i>
 						</a>
 					</div>
 				</div>

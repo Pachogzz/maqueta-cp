@@ -67,7 +67,7 @@
     								<table border='0' width='600' cellpadding='0' cellspacing='0' class='container' style='width:600px;max-width:600px;'>
     									<tr>
     										<td align='center' class='container-padding header' align='left' bgcolor='#45bf00' style='background-color:#45bf00;font-family:Helvetica, Arial, sans-serif;font-size:24px;font-weight:bold;padding-bottom:12px;padding-top:12px;color:#fff;padding-left:24px;padding-right:24px;text-align:center;'>
-    											<img src='http://cpm.coop/dev/assets/img/cpm-logo.png' width='90' height='90'>
+    											<img src='https://cpm.coop/assets/img/cpm-logo.png' width='90' height='90'>
     										</td>
     									</tr>
     									<tr>

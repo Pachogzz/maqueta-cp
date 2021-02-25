@@ -24,9 +24,9 @@
 
 				<div class="row mb-5">
 					<div class="col-12 col-md-10 offset-md-1 text-center">
-						<img src="assets/img/secciones/en-linea/cpm-operaciones-por-plataforma-transferencias.jpg" class="img-fluid" width="900">
-						<img src="assets/img/secciones/en-linea/cpm-operaciones-por-plataforma-consultas.jpg" class="img-fluid" width="900">
-						<img src="assets/img/secciones/en-linea/cpm-operaciones-por-plataforma-configuracion.jpg" class="img-fluid" width="900">
+						<img src="assets/img/secciones/en-linea/cpm-operaciones-por-plataforma-transferencias-112020.jpg" class="img-fluid" width="900">
+						<img src="assets/img/secciones/en-linea/cpm-operaciones-por-plataforma-consultas-112020.jpg" class="img-fluid" width="900">
+						<img src="assets/img/secciones/en-linea/cpm-operaciones-por-plataforma-configuracion-112020.jpg" class="img-fluid" width="900">
 					</div>
 				</div>
 

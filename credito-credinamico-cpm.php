@@ -27,13 +27,13 @@
 							<img width="" src="assets/img/secciones/logos-credito/credito-credinamico.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Obtén un crédito revolvente que cubra cualquiera de tus necesidades.</p>
 							<p class="lead my-3 font-weight-bold text-primary">Montos desde $5,000.00 hasta $194,883.00</p>
-							<p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/contratos/Credito-Credinamico-cpm/FR-1917_Contrato_de_apertura_de_credito_en_cuenta_corriente-credinamico-20200327.pdf" target="_blank">aquí</a></p>
+							<p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/contratos/2021/FR-1917_Contrato_de_apertura_de_credito_en_cuenta_corriente_SUCURSAL.pdf" target="_blank">aquí</a></p>
 							<!-- <p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/FR-1917_Contrato_de_apertura_de_credito_en_cuenta_corriente-22.pdf" target="_blank">aquí</a></p> -->
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 						<!-- Nota Legal -->
 						<div class="bg-grey0 p-5 mb-5">
-							<p class="display-12"><strong>Costo Anual Total Promedio de 25.2% sin IVA</strong>. Para fines informativos y de comparación exclusivamente. Fecha de cálculo <strong>30 de Junio de 2020</strong>.</p>
+							<p class="display-12"><strong>Costo Anual Total Promedio de 25.2% sin IVA</strong>. Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 31 de Enero de 2021</strong>.</p>
 						</div>
 						<!-- Nota Legal -->
 					</div>
@@ -79,7 +79,7 @@
 												<p>Tasa de interés ordinaria anual fija desde un 15.84% hasta un 23.04% más IVA. La tasa se asignará de acuerdo al perfil crediticio del socio.</p>
 											</li>
 											<li><strong>CAT Promedio Crédito Credinámico CPM</strong>
-												<p><strong>Costo Anual Total Promedio de 25.2% sin IVA.</strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo <strong>30 de Junio de 2020</strong>.</strong></p>
+												<p><strong>Costo Anual Total Promedio de 25.2% sin IVA.</strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo <strong>31 de Enero de 2021</strong>.</strong></p>
 											</li>
 										</ul>
 									</div>

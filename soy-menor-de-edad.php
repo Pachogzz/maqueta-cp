@@ -4,7 +4,7 @@
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
-						<h1 id="sectionTitle" class="display-4 br-30">Ahorrador Menor de Edad</h1>
+						<h1 id="sectionTitle" class="display-4 br-30">Ahorrador menor de edad</h1>
 					</div>
 				</div>
 			</div>
@@ -117,20 +117,22 @@
 							</div>
 
 							<div class="tab-pane bw-5 border-primary rounded p-4 bg-grey0 " id="v-Three">
-								<img src="assets/img/secciones/menor-de-edad/cpm-banner-generaccion.jpg" class="img-fluid">
+								<img src="assets/img/secciones/menor-de-edad/cpm-banner-generaccion-2020.png" class="img-fluid">
 								<h3 class="my-4 font-weight-semibold text-primary arrow-txt position-relative pl-3">ETAPAS</h3>
 								<div class="row">
 									<div class="col-12 col-md-6 h-100 mb-5">
 										<h5 class="font-weight-semibold text-center">SUCURSAL</h5>
 										<ul class="p-3 pl-5 p-lg-5 border border-grey1 bg-white">
-											<li>Del 15 de Mayo al 28 de Julio del 2019</li>
-											<li>Talleres Diversidad y Sinergia
+											<li>Del 28 de Julio al 25 de Agosto del 2020</li>
+											<li>Talleres <i>Juventud y Desafíos</i> y <i>Visión Cooperativa</i>
 												<ul>
-													<li>¡Descubre las ventajas de la diversidad y las fortalezas de trabajar cooperativamente!</li>
-													<li><strong class="text-primary">Desafío FaceCOOP</strong>: ¡Gánate tu pase a la siguiente etapa! Consigue las siguientes calcomanías en tu sucursal al asistir al taller: <br>
+													<li>¡Descubre los retos que se asumen en el camino de la vida y la visión para afrontarlos con liderazgo y de forma cooperativa!</li>
+													<li><strong class="text-primary">Desafío FaceCOOP</strong>: ¡Gánate tu pase a la siguiente etapa! Consigue las siguientes calcomanías inscribiéndote a las sesiones virtuales: <br><br>
+														<a href="https://calendly.com/jovencpm" class="btn btn-primary btn-md btn-block" target="_blank">Inscríbete a las sesiones</a>
+														<br><br>
 														<img src="assets/img/secciones/menor-de-edad/cpm-ahorrador-menor-de-edad-calcas.png" alt="">
 													</li>
-													<li>Consulta las bases del <a href="facecoop">desafío AQUÍ</a></li>
+													<li>Consulta las bases del <a href="facecoop"><strong>desafío AQUÍ</strong></a></li>
 												</ul>
 											</li>
 										</ul>
@@ -138,12 +140,12 @@
 									<div class="col-12 col-md-6 h-100 mb-5">
 										<h5 class="font-weight-semibold text-center">PLAZA</h5>
 										<ul class="p-3 pl-5 p-lg-5 border border-grey1 bg-white">
-											<li>Del 15 de julio al 28 de agosto de 2019</li>
+											<li>Del 26 de Agosto al 30 de Septiembre de 2020</li>
 											<li>Talleres
 												<ul>
-													<li><strong class="text-primary">Cooperativismo y pluralidad.</strong> Taller formativo que muestra al joven cooperativista las bondades del cooperativismo y la importancia de la pluralidad en las acciones de la vida diaria.</li>
-													<li><strong class="text-primary">Exprésate</strong> Concurso de expresión cultural, artística y tecnológica que llevará como tema “En Acción”</li>
-													<li><strong class="text-primary">Misión posible VIII.</strong> Concurso de expresión cultural, artística y tecnológica que llevará como tema “En Acción”</li>
+													<li><strong class="text-primary">Acción y Reacción:</strong> Taller formativo para sensibilizar al joven cooperativista sobre la importancia de ponerse en acción, para mejorar su camino en la vida.</li>
+													<li><strong class="text-primary">Exprésate:</strong> Concurso de expresión cultural, artística y tecnológica de manera virtual.</li>
+													<li><strong class="text-primary">Ser productivo:</strong> Exposición de productos sostenibles que ayuden a nuestro medio ambiente y al desarrollo social.</li>
 												</ul>
 											</li>
 											<li>¡Gánate tu pase a la etapa Nacional! Descubre con tu Educador Cooperativo cómo puedes ganarte un lugar</li>
@@ -154,7 +156,7 @@
 									<div class="col-12 col-md-6 h-100 mb-5">
 										<h5 class="font-weight-semibold text-center">ENCUENTRO NACIONAL</h5>
 										<ul class="p-3 pl-5 p-lg-5 border border-grey1 bg-white">
-											<li>Del 24 al 26 de Octubre de 2019*</li>
+											<li>Del 23 al 24 de Octubre de 2020</li>
 											<li>Las actividades serán ¡SORPRESA!</li>
 											<p><strong>MUY IMPORTANTE:</strong> Para llegar al Encuentro Nacional, es necesario que pases el proceso de selección de las dos primeras etapas.<br>
 											<span>* La fecha puede variar previo aviso</span></p>
@@ -163,9 +165,13 @@
 									<div class="col-12 col-md-6 h-100 mb-5">
 										<h5 class="font-weight-semibold text-center">INSTRUCCIONES PARA INSCRIBIRTE</h5>
 										<ul class="p-3 pl-5 p-lg-5 border border-grey1 bg-white">
-											<li><strong>PASO 1:</strong> Dar clic abajo en “¡Inscríbete ya!”</li>
-											<li><strong>PASO 2:</strong> Una vez en el portal, elige la categoría Ahorrador Menor de Edad, seguido de tu estado, ciudad y sucursal. </li>
-											<li><strong>PASO 3:</strong> Elige el taller Generacción #Joven, lee los requisitos CUIDADOSAMENTE y si cumples cada uno de ellos, no esperes más e <a href="https://www.cpm.coop/educacion/" target="_blank">¡INSCRÍBETE!</a> que el cupo es limitado.</li>
+											<li><strong>PASO 1:</strong> Registrarte en las sesiones:<br><br>
+												<a href="https://calendly.com/jovencpm" class="btn btn-primary btn-md mr-3" target="_blank">Juventud y Desafíos</a>
+												<a href="https://calendly.com/jovencpm" class="btn btn-primary btn-md" target="_blank">Visión Cooperativa</a>
+												<br><br>
+											</li>
+											<li><strong>PASO 2:</strong> Una vez que te registras a la sesión, selecciona el día y horario disponibles en los que deseas tomarla.</li>
+											<li><strong>PASO 3:</strong> ¡Inscríbete y no esperes más para llegar juntos al Encuentro Nacional de Jóvenes Ahorradores 2020!</li>
 										</ul>
 									</div>
 								</div>

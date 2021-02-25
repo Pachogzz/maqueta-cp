@@ -17,6 +17,7 @@
 				<div class="row">
 					<div class="col-12 text-center">
 						<img src="assets/img/secciones/asambleas/cpm-asambleas.png" alt="" class="img-fluid mb-5">
+						<img src="assets/img/secciones/asambleas/AVISO_ASAMBLEAS_20201229.jpg" alt="" class="img-fluid mb-5">
 					</div>
 				</div> 
 

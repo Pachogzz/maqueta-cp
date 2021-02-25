@@ -53,7 +53,7 @@
 							<p class="lead">Cuenta donde el menor de edad puede efectuar depósitos en cualquier fecha, a partir del monto mínimo que establezca al momento de aperturar la cuenta. El ahorro podrá ser retirado en los días pactados en el contrato, junto con los interés de acuerdo a la tasa.</p>
 							<p class="lead">Tendrás la posibilidad de cumplir los gustos que te mereces y al mismo tiempo mediante la constancia, crearte el hábito del ahorro.</p>
 							<p class="lead"><span class="font-weight-bold text-primary">Consulta los costos y comisiones de nuestro producto <a href="consulta-los-costos-y-comisiones-de-nuestros-productos">aquí.</a></span></p>
-							<p class="lead"><span class="font-weight-bold text-primary">Consulta el contrato universal <a href="assets/pdfs/FR-1008-Contrato-Universal.pdf" target="blank">aquí</a></span></p>
+							<p class="lead"><span class="font-weight-bold text-primary">Consulta el contrato universal <a href="assets/pdfs/20200909_FR-1008_Contrato_Universal.pdf" target="blank">aquí</a></span></p>
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 					</div>
@@ -125,7 +125,7 @@
 										</ul>
 										<h4>Plazos y vigencia</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>El plazo mínimo para la contratación de este producto es de 6 meses y el máximo de 1 año.</li>
+											<li>El plazo mínimo para la contratación de este producto es de 6 meses y el máximo de 3 años.</li>
 											<li>No podrá ser contratada a un plazo mayor a la fecha en la que el ahorrador menor de edad cumpla los 18 años.</li>
 											<li>El plazo o vigencia de la cuenta estará sujeta a las condiciones pactadas al momento de la contratación.</li>
 										</ul>
@@ -138,8 +138,8 @@
 							<div class="col-12 mt-5">
 								<!-- Nota Legal -->
 								<div class="bg-grey0 p-5">
-									<p class="display-12">Vigencia del <strong>19 al 25 de Marzo del 2020</strong></p>
-									<p class="display-12">Fecha de cálculo Marzo 2020</p>
+									<p class="display-12">Vigencia del <strong>18 al 24 de Febrero de 2021.</strong></p>
+									<p class="display-12">Fecha de cálculo Febrero 2021.</p>
 									<p class="display-12"><strong>* GAT NOMINAL</strong> antes de impuestos. Para fines informativos y de comparación.</p>
 									<p class="display-12"><strong>**GAT REAL</strong> antes de impuestos. Para fines informativos y de comparación. La GAT REAL es el rendimiento que obtendría después de descontar la inflación estimada Para fines informativos y de comparación exclusivamente.</p>
 								</div>
@@ -172,78 +172,100 @@
 								        <td>No aplica comisión</td>
 								        <td>0</td>
 								        <td>No aplica</td>
-										<td><strong>4.36%</strong></td>
-										<td><strong>4.42%</strong></td>
-										<td><strong>0.91%</strong></td>
-								        <td>Marzo</td>
-										<td>19/03/2020 al 25/03/2020</td>
+										<td><strong>2.73%</strong></td>
+										<td><strong>2.75%</strong></td>
+										<td><strong>-0.74%</strong></td>
+								        <td>Febrero</td>
+										<td>18/02/2021 al 24/02/2021</td>
 								    </tr>
 								    <tr>
 								        <td scope="row">210 días</td>
 								        <td>No aplica comisión</td>
 								        <td>0</td>
 								        <td>No aplica</td>
-										<td><strong>4.63%</strong></td>
-										<td><strong>4.70%</strong></td>
-										<td><strong>1.17%</strong></td>
-								        <td>Marzo</td>
-										<td>19/03/2020 al 25/03/2020</td>
+										<td><strong>2.91%</strong></td>
+										<td><strong>2.93%</strong></td>
+										<td><strong>-0.57%</strong></td>
+								        <td>Febrero</td>
+										<td>18/02/2021 al 24/02/2021</td>
 								    </tr>
 								    <tr>
 								        <td scope="row">240 días</td>
 								        <td>No aplica comisión</td>
 								        <td>0</td>
 								        <td>No aplica</td>
-										<td><strong>4.90%</strong></td>
-										<td><strong>4.97%</strong></td>
-										<td><strong>1.44%</strong></td>
-								        <td>Marzo</td>
-										<td>19/03/2020 al 25/03/2020</td>
+										<td><strong>3.08%</strong></td>
+										<td><strong>3.11%</strong></td>
+										<td><strong>-0.40%</strong></td>
+								        <td>Febrero</td>
+										<td>18/02/2021 al 24/02/2021</td>
 								    </tr>
 								    <tr>
 								        <td scope="row">270 días</td>
 								        <td>No aplica comisión</td>
 								        <td>0</td>
 								        <td>No aplica</td>
-										<td><strong>5.17%</strong></td>
-										<td><strong>5.23%</strong></td>
-										<td><strong>1.69%</strong></td>
-								        <td>Marzo</td>
-										<td>19/03/2020 al 25/03/2020</td>
+										<td><strong>3.26%</strong></td>
+										<td><strong>3.28%</strong></td>
+										<td><strong>-0.23%</strong></td>
+								        <td>Febrero</td>
+										<td>18/02/2021 al 24/02/2021</td>
 								    </tr>
 								    <tr>
 								        <td scope="row">300 días</td>
 								        <td>No aplica comisión</td>
 								        <td>0</td>
 								        <td>No aplica</td>
-										<td><strong>5.44%</strong></td>
-										<td><strong>5.50%</strong></td>
-										<td><strong>1.95%</strong></td>
-								        <td>Marzo</td>
-										<td>19/03/2020 al 25/03/2020</td>
+										<td><strong>3.43%</strong></td>
+										<td><strong>3.45%</strong></td>
+										<td><strong>-0.06%</strong></td>
+								        <td>Febrero</td>
+										<td>18/02/2021 al 24/02/2021</td>
 								    </tr>
 								    <tr>
 								        <td scope="row">330 días</td>
 								        <td>No aplica comisión</td>
 								        <td>0</td>
 								        <td>No aplica</td>
-										<td><strong>5.71%</strong></td>
-										<td><strong>5.77%</strong></td>
-										<td><strong>2.21%</strong></td>
-								        <td>Marzo</td>
-										<td>19/03/2020 al 25/03/2020</td>
+										<td><strong>3.61%</strong></td>
+										<td><strong>3.63%</strong></td>
+										<td><strong>0.10%</strong></td>
+								        <td>Febrero</td>
+										<td>18/02/2021 al 24/02/2021</td>
 								    </tr>
 								    <tr>
 								        <td scope="row">360 días</td>
 								        <td>No aplica comisión</td>
 								        <td>0</td>
 								        <td>No aplica</td>
-										<td><strong>5.98%</strong></td>
-										<td><strong>6.03%</strong></td>
-										<td><strong>2.46%</strong></td>
-								        <td>Marzo</td>
-										<td>19/03/2020 al 25/03/2020</td>
+										<td><strong>3.78%</strong></td>
+										<td><strong>3.80%</strong></td>
+										<td><strong>0.27%</strong></td>
+								        <td>Febrero</td>
+										<td>18/02/2021 al 24/02/2021</td>
 								    </tr>
+									<tr>
+										<td scope="row">720 días</td>
+										<td>No aplica comisión</td>
+										<td>0</td>
+										<td>No aplica</td>
+										<td><strong>3.96%</strong></td>
+										<td><strong>3.93%</strong></td>
+										<td><strong>0.39%</strong></td>
+										<td>Febrero</td>
+										<td>18/02/2021 al 24/02/2021</td>
+									</tr>
+									<tr>
+										<td scope="row">1080 días</td>
+										<td>No aplica comisión</td>
+										<td>0</td>
+										<td>No aplica</td>
+										<td><strong>4.06%</strong></td>
+										<td><strong>3.98%</strong></td>
+										<td><strong>0.44%</strong></td>
+										<td>Febrero</td>
+										<td>18/02/2021 al 24/02/2021</td>
+									</tr>
 								</tbody>
 							</table>
 						</div>

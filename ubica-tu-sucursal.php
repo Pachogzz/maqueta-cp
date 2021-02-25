@@ -19,14 +19,12 @@
 					<div class="col">
 						<blockquote class="blockquote mb-5 p-5 border border-light bw-5 rounded border-grey1 text-center">
 							<p class="h3 font-weight-bold text-primary">AVISO</p>
-<p class="mb-0 lead font-weight-normal">Ante el desafío que representa el cuidado de la salud de nuestros socios, colaboradores y público en general, te informamos que el horario de servicio en las sucursales será modificado de manera temporal, a partir del 23 de marzo hasta nuevo aviso, de la siguiente manera:</p>
-<br>
-<p class="mb-0 lead font-weight-normal"><span class="text-primary"><strong>Sucursales con horario corrido:</strong></span> 9:00 a 13:00hrs. de lunes a viernes y sábados de 9:00 a 14:00hrs.</p>
-<p class="mb-0 lead font-weight-normal"><span class="text-primary"><strong>Sucursales con horario continuo:</strong></span> 9:00 a 16:00hrs. de lunes a viernes y sábados de 9:00 a 14:00hrs.</p>
-<p class="mb-0 lead font-weight-normal"><span class="text-primary"><strong>Sucursales con horario comercial:</strong></span> 9:00 a 17:00hrs. de lunes a viernes y sábados de 9:00 a 14hrs.</p>
-<p class="mb-0 lead font-weight-normal"><span class="text-primary"><strong>El servicio en domingo queda suspendido.</strong></span></p>
-<br>
-<p class="h3 font-weight-bold">Consultar mas información <a href="https://www.facebook.com/CajaPopularMexicana/photos/a.508180245917194/2846261228775739/" class="text-primary" target="_blank">AQUÍ</a></p>
+							<p class="mb-0 lead font-weight-normal">Ante la apertura y liberación de actividades económicas en diferentes estados y municipios de nuestro país, comenzamos, de manera paulatina, la modificación de nuestros horarios de servicio en sucursales a partir del 7 de septiembre de 2020.</p>
+							<br>
+							<p class="mb-0 lead font-weight-normal"><strong>Consulta el horario de tu sucursal filtrando los campos correspondientes.</strong></p>
+							<br>
+							<p class="h3 font-weight-bold">Si tienes alguna duda, <span class="text-primary">escríbenos vía Messenger de Facebook</span> en la burbuja verde.</p>
+							<!-- <p class="h3 font-weight-bold">Consulta más información <a href="https://www.facebook.com/CajaPopularMexicana/photos/a.508180245917194/2846261228775739/" class="text-primary" target="_blank">AQUÍ</a></p> -->
 						</blockquote>
 					</div>
 				</div>

@@ -1,20 +1,17 @@
 		<section id="home-slider" class="styled-carousel haz-flange after-flange">
 			<div class="home-slider">
 				<div id="mainSlideNav" class="carousel slide" data-ride="carousel">
-					<!-- <ol class="carousel-indicators">
-						<li data-target="#mainSlideNav" data-slide-to="0" class="active"></li>
-						<li data-target="#mainSlideNav" data-slide-to="1"></li>
-						<li data-target="#mainSlideNav" data-slide-to="2"></li>
-					</ol> -->
 					<div class="carousel-inner">
-						<div class="carousel-item active align-items-center" data-interval="6000">
-							<video autoplay loop muted class="video-bg container-fluid px-0" id="video-bg">
-								<source 
-									class="d-block w-100"
-									src="https://content.jwplatform.com/videos/bdE18yrZ-Lexig6CZ.mp4" 
-									type="video/mp4" 
-									alt="Bienvenido a Caja Popular Mexicana">
-							</video>
+						<div class="carousel-item active align-items-center text-center" data-interval="6000">
+			              <video autoplay loop muted class="video-bg container-fluid px-0" id="video-bg">
+			                <source 
+			                  class="d-block w-100"
+			                  src="assets/video/CPM-TV-2020-SITIO–WEB-10-M-HD.mp4" 
+			                  type="video/mp4" 
+			                  alt="Bienvenido a Caja Popular Mexicana">
+			              </video>
+			                  <!-- src="https://content.jwplatform.com/videos/fBa20Ki6-Lexig6CZ.mp4"  -->
+
 							<div 
 								class="
 									carousel-caption 
@@ -25,26 +22,12 @@
 									br-ntl-30 
 									has-label"
 							>
-								<h2 class="display-5"><strong>Bienvenido a Caja Popular Mexicana.</strong></h2>
-								<h5 class="text-yellow mb-2"><strong>Tu cooperativa confiable</strong></h5>
-								<a href="conocenos" class="btn btn-secondary br-30 px-5 font-weight-semibold">Saber más</a>
+                <h2 class="text-yellow display-5 montserrat bolder"><strong>¡Bienvenido a Caja Popular Mexicana!</strong></h2>
+                <h5 class="mb-2 montserrat medium">Somos una cooperativa de ahorro y préstamo, orgullosamente mexicana, cuyo motor son nuestros más de 2 millones 800 mil socios <strong>¡Vamos juntos, #CooperandoPorMéxico!</strong></h5>
+                <a href="conocenos" class="btn btn-secondary br-30 px-5 font-weight-semibold">Saber más</a>
 							</div>
 						</div>
-						<!-- <div class="carousel-item align-items-center" data-interval="6000">
-							<img src="assets/img/cpm-mainslider-image-01.jpg" class="d-block w-100" alt="...">
-							<div class="carousel-caption d-none d-md-block p-5 py-md-2 p-lg-5 bg-primary text-white text-left br-ntl-30 col-6 col-lg-3 my-auto has-label">
-								<h2 class="display-5 font-weight-bold">Bienvenido a Caja Popular Mexicana</h2>
-							</div>
-						</div> -->
 					</div>
-					<!-- <a class="carousel-control-prev" href="#mainSlideNav" role="button" data-slide="prev">
-						<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-						<span class="sr-only">Previous</span>
-					</a>
-					<a class="carousel-control-next" href="#mainSlideNav" role="button" data-slide="next">
-						<span class="carousel-control-next-icon" aria-hidden="true"></span>
-						<span class="sr-only">Next</span>
-					</a> -->
 				</div>
 			</div>
 		</section> <!-- /. Slider Home -->

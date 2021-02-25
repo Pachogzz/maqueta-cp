@@ -30,18 +30,18 @@
 							  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-xl" role="document">
 							    <div class="modal-content">
 							      <div class="modal-header">
-							      	<h5 class="modal-title" id="modaltitle1">Guía de uso general</h5>
+							      	<h5 class="modal-title" id="modaltitle1">Establecimientos participantes</h5>
 							        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
 							          <span aria-hidden="true">&times;</span>
 							        </button>
 							      </div>
 							      <div class="modal-body">
-							        <iframe src="assets/img/secciones/corresponsalias/JULIO-2020-CORRESPONSALIAS.html" class="w-100" height="600" frameborder="0"></iframe>
+							        <iframe src="assets/img/secciones/corresponsalias/2020/DICIEMBRE-2020-CORRESPONSALIAS.html" class="w-100" height="600" frameborder="0"></iframe>
 							      </div>
 							    </div>
 							  </div>
 							</div> <!-- ./ Modal Ends -->
-							<p class="mb-0 h3 font-weight-normal font-weight-bolder mt-3">Vigencia: JULIO 2020</p></a>
+							<p class="mb-0 h3 font-weight-normal font-weight-bolder mt-3">Vigencia: DICIEMBRE 2020</p></a>
 						</blockquote>
 					</div>
 				</div>
@@ -77,7 +77,7 @@
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li>Desde las 6:00 a.m. y hasta las 9:00 p.m. hora centro, los 365 días del año.</li>
 											<!-- <li>Desde las 7:00 a.m. y hasta las 8:00 p.m. hora centro, los 365 días del año.</li> -->
-											<li>La comisión por operación en tiendas OXXO será de $10.00 pesos.</li>
+											<li>La comisión por operación en tiendas OXXO será de $12.00 pesos.</li>
 											<li>Todas las operaciones serán solo en efectivo y moneda nacional.</li>
 											<li>Hasta por 5 mil pesos en cada operación, sin exceder un monto diario de 20 mil pesos por cada cuenta.</li>
 										</ul>
@@ -119,9 +119,17 @@
 											            <th scope="row">Mi Nómina Mexicana</th>
 											            <td>&nbsp;</td>
 											        </tr>
+											        <tr>
+											            <th scope="row">Mi Alcancía</th>
+											            <td>&nbsp;</td>
+											        </tr>
+											        <tr>
+											            <th scope="row">Mi Alcancía Jr.</th>
+											            <td>&nbsp;</td>
+											        </tr>
 											    </tbody>
 											</table>
-											<p class="mt-3 mb-0"><small>NOTA: Consulta el apartado restricciones del servicio.</small></p>
+											<p class="mt-3 mb-0"><small>NOTA: Consulta el apartado restricciones del servicio. Para conocer tu Línea de Captura, consulta el apartado <strong>Requisitos</strong> de esta sección.</small></p>
 										</div>
 									</div>
 								</div>
@@ -143,9 +151,10 @@
 												<li>Directamente en sucursal.</li>
 												<li>En tu estado de cuenta.</li>
 												<li>Llamando al 800 7100 800, de lunes a domingo de 7:00 a.m. a 9:00 p.m.</li>
-												<li>Enviando la palabra SALDO vía WhatsApp al 477 129 6048.</li>
-												<li>Enviando la palabra SALDO vía SMS al 43781.</li>
+												<li>Enviando la palabra SALDO vía WhatsApp al 477 129 6048 (para conocer la Línea de Captura de tu crédito).</li>
+												<li>Enviando la palabra SALDO vía SMS al 43781 (para conocer la Línea de Captura de tu crédito).</li>
 											</ul>
+											<p><small>NOTA: En el servicio de WhatsApp y SMS, también puedes realizar la consulta del saldo de tus créditos.</small></p>
 										</div>
 									</div>
 								</div>
@@ -168,7 +177,7 @@
 												<li>Retiros de cuentas.</li>
 												<li>Apertura de cuentas.</li>
 												<li>No se recibirán depósitos a Rendicuentas (Plazo fijo).</li>
-												<li>No se recibirán pagos a préstamos renovados, reestructurados, que se encuentren en cartera legal, cartera castigada o eliminada.</li>
+												<!-- <li>No se recibirán pagos a préstamos renovados, reestructurados, que se encuentren en cartera legal, cartera castigada o eliminada.</li> -->
 												<li>No podrán recibirse depósitos utilizando los 16 números de las tarjetas de débito expedidas por la sociedad.</li>
 											</ul>
 										</div>

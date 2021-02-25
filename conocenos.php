@@ -16,7 +16,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-10 offset-md-1">
-						<p class="h3 text-center w-100 font-weight-lighter">Somos una cooperativa de ahorro y préstamo que durante más de 68 años de servicio, ha contribuido al mejoramiento de la calidad de vida de nuestros socios; ofreciendo servicios de educación cooperativa y financiera que fomentan la vivencia de nuestros valores, además del uso responsable de los servicios de ahorro, crédito e inversión.</p>
+						<p class="h3 text-center w-100 font-weight-lighter">Somos una cooperativa de ahorro y préstamo que durante más de 69 años de servicio, hemos contribuido al mejoramiento de la calidad de vida de nuestros socios; ofreciendo servicios de educación cooperativa y financiera que fomentan la vivencia de nuestros valores, además del uso responsable de los servicios de ahorro, crédito e inversión.</p>
 					</div>
 				</div>
 			</div>
@@ -187,6 +187,66 @@
 						</div>
 					</div>
 				</div> <!-- ./ Tab Content -->
+
+				<div class="row mb-5">
+					<div class="col-12 col-md-10 offset-md-1">
+						<div id="playerList"></div>
+						
+						<script>
+
+						  // 2. This code loads the IFrame Player API code asynchronously.
+						  var tag = document.createElement('script');
+
+						  tag.src = "https://www.youtube.com/iframe_api";
+						  var firstScriptTag = document.getElementsByTagName('script')[0];
+						  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+						  // 3. This function creates an <iframe> (and YouTube player)
+						  //    after the API code downloads.
+						  var player;
+						  function onYouTubeIframeAPIReady() {
+						    player = new YT.Player('playerList', {
+						      height: '680',
+						      width: '1080',
+						      playerVars: { 
+						      	'autoplay': 0, 
+						      	'rel': 0,
+						      	listType: 'playlist',
+						      	list: 'PLguI2Hcl-wqcJv123DAJf63q7aFO7R-Ni'
+						      },
+						      events: {
+						        'onReady': onPlayerReady,
+						        'onStateChange': onPlayerStateChange
+						      }
+						    });
+						  }
+
+						  // 4. The API will call this function when the video player is ready.
+						  function onPlayerReady(event) {
+						  	event.target.setVolume(50);
+						    event.target.playVideo();
+							event.target.setPlaybackQuality('hd1080');
+						  }
+
+						  // 5. The API calls this function when the player's state changes.
+						  //    The function indicates that when playing a video (state=1),
+						  //    the player should play for six seconds and then stop.
+						  var done = false;
+						  function onPlayerStateChange(event) {
+						    if (event.data == YT.PlayerState.BUFFERING) {
+						      event.target.setPlaybackQuality('hd1080');
+						    }
+						    if (event.data == YT.PlayerState.PLAYING && !done) {
+						      // setTimeout(stopVideo, 27000);
+						      done = true;
+						    }
+						  }
+						  function stopVideo() {
+						    player.stopVideo();
+						  }
+						</script>
+					</div>
+				</div>
 
 				<div class="row">
 					<div class="col-md-10 offset-md-1">

@@ -32,9 +32,9 @@
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 						<!-- Nota Legal -->
 						<div class="bg-grey0 p-5">
-							<p class="display-12">Vigencia del <strong>19 al 25 de Marzo del 2020</strong></p>
-							<p class="display-12">Fecha de cálculo Marzo 2020</p>
-							<p class="display-12"><strong>* GAT NOMINAL de -2.68% y GAT real de -5.95% antes de impuestos</strong>. La GAT real es el rendimiento que obtendrás después de descontar la inflación estimada. Para fines informativos y de comparación exclusivamente; tasa fija de rendimiento de $1,500 en adelante 1.31% anual antes de impuestos.</p>
+							<p class="display-12">Vigencia del <strong>18 al 24 de Febrero de 2021.</strong></p>
+							<p class="display-12">Fecha de cálculo Febrero 2021.</p>
+							<p class="display-12"><strong>* GAT NOMINAL de -2.68% y GAT real de -5.99% antes de impuestos</strong>. La GAT real es el rendimiento que obtendrás después de descontar la inflación estimada. Para fines informativos y de comparación exclusivamente; tasa fija de rendimiento de $1,500 en adelante 1.31% anual antes de impuestos.</p>
 						</div>
 						<!-- Nota Legal -->
 					</div>

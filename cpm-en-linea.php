@@ -30,11 +30,10 @@
 				<div class="row video-tutorial-holder mb-5">
 					<div class="col-12 col-md-6 mb-3 mb-md-0">
 						<div class="embed-responsive embed-responsive-16by9">
-							<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/nZLaOsUI8H4?rel=0" allowfullscreen></iframe>
-							<!-- <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9i5BUEnW-_Q?rel=0" allowfullscreen></iframe> -->
+							<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2JMJfA7toJE?rel=0" allowfullscreen></iframe>
+							<!-- <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/nZLaOsUI8H4?rel=0" allowfullscreen></iframe> -->
 						</div>
-						<div class="video-label bg-purple p-3 text-center"><p class="h3 text-white font-weight-bold mb-0">Cooperando por México</p></div>
-						<!-- <div class="video-label bg-purple p-3 text-center"><p class="h3 text-white font-weight-bold mb-0">Guía de primer ingreso</p></div> -->
+						<div class="video-label bg-purple p-3 text-center"><p class="h3 text-white font-weight-bold mb-0">SPEI en CPM en Línea</p></div>
 					</div>
 					<div class="col-12 col-md-6">
 						<div class="embed-responsive embed-responsive-16by9">
@@ -63,6 +62,7 @@
 									<!-- <option value="1">Guía primer ingreso</option> -->
 									<option value="2">Guía de transferencias entre cuentas propias</option>
 									<option value="5">Guía de administración de dispositivo</option>
+									<option value="18">Guía de SPEI</option>
 									<option value="3">Guía de consulta y eliminación de transferencias programadas</option>
 									<option value="4">Guía de transferencias a cuentas de otros socios</option>
 									<option value="6">Guía de consulta de saldos</option>
@@ -104,14 +104,14 @@
 								        </button>
 								      </div>
 								      <div class="modal-body">
-								        <embed src="tutoriales/pdf/cpm-en-linea/CPM_guia_de_uso_digital.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+								        <embed src="tutoriales/pdf/cpm-en-linea/2020/Linea_CPM_guia_de_uso_digital.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
 								      </div>
 								    </div>
 								  </div>
 								</div> <!-- ./ Modal Ends -->
 							</div>
 							<div class="col-6">
-								<a href="tutoriales/pdf/cpm-en-linea/CPM_guia_de_uso_digital.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+								<a href="tutoriales/pdf/cpm-en-linea/2020/Linea_CPM_guia_de_uso_digital.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
 							</div>
 						</div>
 				      </div>
@@ -170,14 +170,14 @@
 								        </button>
 								      </div>
 								      <div class="modal-body">
-								        <embed src="tutoriales/pdf/cpm-en-linea/CPM_Omnicanalidad_infografico_transacciones_en_linea.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+								        <embed src="tutoriales/pdf/cpm-en-linea/2020/Linea_CPM_Omnicanalidad_infografico_transacciones_digital.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
 								      </div>
 								    </div>
 								  </div>
 								</div> <!-- ./ Modal Ends -->
 							</div>
 							<div class="col-6">
-								<a href="tutoriales/pdf/cpm-en-linea/CPM_Omnicanalidad_infografico_transacciones_en_linea.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+								<a href="tutoriales/pdf/cpm-en-linea/2020/Linea_CPM_Omnicanalidad_infografico_transacciones_digital.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
 							</div>
 						</div>
 				      </div>
@@ -203,14 +203,14 @@
 								        </button>
 								      </div>
 								      <div class="modal-body">
-								        <embed src="tutoriales/pdf/cpm-en-linea/CPM_Omnicanalidad_infografico_consulta_administra_transferencias_programadas_enLinea.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+								        <embed src="tutoriales/pdf/cpm-en-linea/2020/Linea_CPM_Omnicanalidad_infografico_consulta_administra_transferencias_programadas_enLinea.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
 								      </div>
 								    </div>
 								  </div>
 								</div> <!-- ./ Modal Ends -->
 							</div>
 							<div class="col-6">
-								<a href="tutoriales/pdf/cpm-en-linea/CPM_Omnicanalidad_infografico_consulta_administra_transferencias_programadas_enLinea.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+								<a href="tutoriales/pdf/cpm-en-linea/2020/Linea_CPM_Omnicanalidad_infografico_consulta_administra_transferencias_programadas_enLinea.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
 							</div>
 						</div>
 				      </div>
@@ -236,14 +236,14 @@
 								        </button>
 								      </div>
 								      <div class="modal-body">
-								        <embed src="tutoriales/pdf/cpm-en-linea/CPM_Omnicanalidad_infografico_transferencias_de_socios_a_socios_enLinea.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+								        <embed src="tutoriales/pdf/cpm-en-linea/2020/Linea_CPM_Omnicanalidad_infografico_Transfeencia_a_cuentas_de_otros_socios.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
 								      </div>
 								    </div>
 								  </div>
 								</div> <!-- ./ Modal Ends -->
 							</div>
 							<div class="col-6">
-								<a href="tutoriales/pdf/cpm-en-linea/CPM_Omnicanalidad_infografico_transferencias_de_socios_a_socios_enLinea.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+								<a href="tutoriales/pdf/cpm-en-linea/2020/Linea_CPM_Omnicanalidad_infografico_Transfeencia_a_cuentas_de_otros_socios.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
 							</div>
 						</div>
 				      </div>
@@ -269,14 +269,14 @@
 								        </button>
 								      </div>
 								      <div class="modal-body">
-								        <embed src="tutoriales/pdf/cpm-en-linea/CPM_Omnicanalidad_infografico_Administra_tu_dispositivo_enLinea.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+								        <embed src="tutoriales/pdf/cpm-en-linea/2020/Linea_CPM_Omnicanalidad_infografico_Administra_tu_dispositivo_CPM_LINEA.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
 								      </div>
 								    </div>
 								  </div>
 								</div> <!-- ./ Modal Ends -->
 							</div>
 							<div class="col-6">
-								<a href="tutoriales/pdf/cpm-en-linea/CPM_Omnicanalidad_infografico_Administra_tu_dispositivo_enLinea.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+								<a href="tutoriales/pdf/cpm-en-linea/2020/Linea_CPM_Omnicanalidad_infografico_Administra_tu_dispositivo_CPM_LINEA.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
 							</div>
 						</div>
 				      </div>
@@ -302,14 +302,14 @@
 								        </button>
 								      </div>
 								      <div class="modal-body">
-								        <embed src="tutoriales/pdf/cpm-en-linea/CPM_Omnicanalidad_infografico_Consulta_de_saldos_enLinea.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+								        <embed src="tutoriales/pdf/cpm-en-linea/2020/Linea_CPM_Omnicanalidad_infografico_Consulta_de_saldos_enLinea.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
 								      </div>
 								    </div>
 								  </div>
 								</div> <!-- ./ Modal Ends -->
 							</div>
 							<div class="col-6">
-								<a href="tutoriales/pdf/cpm-en-linea/CPM_Omnicanalidad_infografico_Consulta_de_saldos_enLinea.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+								<a href="tutoriales/pdf/cpm-en-linea/2020/Linea_CPM_Omnicanalidad_infografico_Consulta_de_saldos_enLinea.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
 							</div>
 						</div>
 				      </div>
@@ -335,14 +335,14 @@
 								        </button>
 								      </div>
 								      <div class="modal-body">
-								        <embed src="tutoriales/pdf/cpm-en-linea/CPM_Omnicanalidad_infografico_Consulta_tarjeta_de_debito_enLinea.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+								        <embed src="tutoriales/pdf/cpm-en-linea/2020/Linea_CPM_Omnicanalidad_infografico_Consulta_tarjeta_de_debito_enLinea.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
 								      </div>
 								    </div>
 								  </div>
 								</div> <!-- ./ Modal Ends -->
 							</div>
 							<div class="col-6">
-								<a href="tutoriales/pdf/cpm-en-linea/CPM_Omnicanalidad_infografico_Consulta_tarjeta_de_debito_enLinea.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+								<a href="tutoriales/pdf/cpm-en-linea/2020/Linea_CPM_Omnicanalidad_infografico_Consulta_tarjeta_de_debito_enLinea.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
 							</div>
 						</div>
 				      </div>
@@ -368,7 +368,7 @@
 								        </button>
 								      </div>
 								      <div class="modal-body">
-								        <embed src="tutoriales/pdf/cpm-en-linea/CPM_Omnicanalidad_infografico_Notificaciones_enLinea.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+								        <embed src="tutoriales/pdf/cpm-en-linea/2020/Linea_CPM_Omnicanalidad_infografico_Notificaciones_enLinea.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
 								      </div>
 								    </div>
 								  </div>
@@ -401,14 +401,14 @@
 								        </button>
 								      </div>
 								      <div class="modal-body">
-								        <embed src="tutoriales/pdf/cpm-en-linea/CPM_Omnicanalidad_infografico_Administra_terceros_enLinea.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+								        <embed src="tutoriales/pdf/cpm-en-linea/2020/Linea_CPM_Omnicanalidad_infografico_Administra_terceros_enLinea.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
 								      </div>
 								    </div>
 								  </div>
 								</div> <!-- ./ Modal Ends -->
 							</div>
 							<div class="col-6">
-								<a href="tutoriales/pdf/cpm-en-linea/CPM_Omnicanalidad_infografico_Administra_terceros_enLinea.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+								<a href="tutoriales/pdf/cpm-en-linea/2020/Linea_CPM_Omnicanalidad_infografico_Administra_terceros_enLinea.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
 							</div>
 						</div>
 				      </div>
@@ -434,14 +434,14 @@
 								        </button>
 								      </div>
 								      <div class="modal-body">
-								        <embed src="tutoriales/pdf/cpm-en-linea/CPM_Omnicanalidad_infografico_Consulta_de_actividad_enLinea_enLinea.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+								        <embed src="tutoriales/pdf/cpm-en-linea/2020/Linea_CPM_Omnicanalidad_infografico_Consulta_de_actividad_enLinea_enLinea.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
 								      </div>
 								    </div>
 								  </div>
 								</div> <!-- ./ Modal Ends -->
 							</div>
 							<div class="col-6">
-								<a href="tutoriales/pdf/cpm-en-linea/CPM_Omnicanalidad_infografico_Consulta_de_actividad_enLinea_enLinea.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+								<a href="tutoriales/pdf/cpm-en-linea/2020/Linea_CPM_Omnicanalidad_infografico_Consulta_de_actividad_enLinea_enLinea.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
 							</div>
 						</div>
 				      </div>
@@ -467,14 +467,14 @@
 								        </button>
 								      </div>
 								      <div class="modal-body">
-								        <embed src="tutoriales/pdf/cpm-en-linea/CPM_Omnicanalidad_infografico_Cambiar_nombre_de_usuario_enLinea.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+								        <embed src="tutoriales/pdf/cpm-en-linea/2020/Linea_CPM_Omnicanalidad_Cambio_nombre_de_usuario_CPM_Linea.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
 								      </div>
 								    </div>
 								  </div>
 								</div> <!-- ./ Modal Ends -->
 							</div>
 							<div class="col-6">
-								<a href="tutoriales/pdf/cpm-en-linea/CPM_Omnicanalidad_infografico_Cambiar_nombre_de_usuario_enLinea.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+								<a href="tutoriales/pdf/cpm-en-linea/2020/Linea_CPM_Omnicanalidad_Cambio_nombre_de_usuario_CPM_Linea.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
 							</div>
 						</div>
 				      </div>
@@ -500,14 +500,14 @@
 								        </button>
 								      </div>
 								      <div class="modal-body">
-								        <embed src="tutoriales/pdf/cpm-en-linea/CPM_Omnicanalidad_infografico_Administrar_limites_enLinea.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+								        <embed src="tutoriales/pdf/cpm-en-linea/2020/Linea_CPM_Omnicanalidad_infografico_Administrar_limites_enLinea.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
 								      </div>
 								    </div>
 								  </div>
 								</div> <!-- ./ Modal Ends -->
 							</div>
 							<div class="col-6">
-								<a href="tutoriales/pdf/cpm-en-linea/CPM_Omnicanalidad_infografico_Administrar_limites_enLinea.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+								<a href="tutoriales/pdf/cpm-en-linea/2020/Linea_CPM_Omnicanalidad_infografico_Administrar_limites_enLinea.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
 							</div>
 						</div>
 				      </div>
@@ -533,14 +533,14 @@
 								        </button>
 								      </div>
 								      <div class="modal-body">
-								        <embed src="tutoriales/pdf/cpm-en-linea/CPM_Omnicanalidad_infografico_cambiar_contrasena_enLinea.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+								        <embed src="tutoriales/pdf/cpm-en-linea/2020/Linea_CPM_Omnicanalidad_infografico_cambiar_contrasena_enLinea.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
 								      </div>
 								    </div>
 								  </div>
 								</div> <!-- ./ Modal Ends -->
 							</div>
 							<div class="col-6">
-								<a href="tutoriales/pdf/cpm-en-linea/CPM_Omnicanalidad_infografico_cambiar_contrasena_enLinea.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+								<a href="tutoriales/pdf/cpm-en-linea/2020/Linea_CPM_Omnicanalidad_infografico_cambiar_contrasena_enLinea.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
 							</div>
 						</div>
 				      </div>
@@ -599,14 +599,14 @@
 								        </button>
 								      </div>
 								      <div class="modal-body">
-								        <embed src="tutoriales/pdf/cpm-en-linea/CPM_Omnicanalidad_infografico_Administrar_plantillas_enLinea.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+								        <embed src="tutoriales/pdf/cpm-en-linea/2020/Linea_CPM_Omnicanalidad_infografico_Administrar_plantillas_enLinea.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
 								      </div>
 								    </div>
 								  </div>
 								</div> <!-- ./ Modal Ends -->
 							</div>
 							<div class="col-6">
-								<a href="tutoriales/pdf/cpm-en-linea/CPM_Omnicanalidad_infografico_Administrar_plantillas_enLinea.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+								<a href="tutoriales/pdf/cpm-en-linea/2020/Linea_CPM_Omnicanalidad_infografico_Administrar_plantillas_enLinea.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
 							</div>
 						</div>
 				      </div>
@@ -678,6 +678,82 @@
 				      </div>
 				    </div>
 				  </div>
+
+				  <div id="18" class="guides-grid-col col-12 col-md-6 col-lg-4">
+				    <div class="card h-100 guides-grid-block">
+				      <img src="assets/img/icons/icon-pdf.png" class="" width="100" height="100">
+				      <div class="card-body">
+				        <h4 class="card-title mb-3 font-weight-bolder">Guía de SPEI</h4>
+				      </div>
+				      <div class="card-footer">
+						<div class="row">
+							<div class="col-6">
+								<a href="#" class="btn btn-md btn-block rounded-pill bg-primary text-white text-center" data-toggle="modal" data-target="#modalNineteen">Ver</a>
+								<div class="modal fade vh-100" id="modalNineteen" tabindex="-1" role="dialog" aria-hidden="true" aria-labelledby="modaltitle19">
+								  <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable modal-lg" role="document">
+								    <div class="modal-content">
+								      <div class="modal-header">
+								      	<h5 class="modal-title" id="modaltitle19">Guía de SPEI</h5>
+								        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+								          <span aria-hidden="true">&times;</span>
+								        </button>
+								      </div>
+								      <div class="modal-body">
+								        <embed src="tutoriales/pdf/cpm-en-linea/CPM_Omnicanalidad_guia_SPEI_enLinea.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+								      </div>
+								    </div>
+								  </div>
+								</div> <!-- ./ Modal Ends -->
+							</div>
+							<div class="col-6">
+								<a href="tutoriales/pdf/cpm-en-linea/CPM_Omnicanalidad_guia_SPEI_enLinea.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+							</div>
+						</div>
+				      </div>
+				    </div>
+				  </div>
+
+				</div>
+
+				<!-- Grid: Mas opciones -->
+				<div class="row row-eq-height">
+					<div class="landing-grid-box col-12 col-md-4 mb-5">
+						<a href="operaciones-disponibles-sei" class="h-100">
+							<div class="landing-grid-box-info rounded bw-5 border-grey0 text-center h-100">
+								<i class="fas fa-clipboard-list fa-4x bg-primary text-white rounded-circle"></i>
+								<h3>Operaciones disponibles</h3>
+								<p>Consulta todo lo que puedes realizar en CPM Móvil y CPM en Línea</p>
+							</div>
+						</a>
+					</div>
+					<div class="landing-grid-box col-12 col-md-4 mb-5">
+						<a href="preguntas-frecuentes-sei" class="h-100">
+							<div class="landing-grid-box-info rounded bw-5 border-grey0 text-center h-100">
+								<i class="far fa-question-circle fa-4x bg-primary text-white rounded-circle"></i>
+								<h3>Preguntas <br>frecuentes</h3>
+								<p>Resuelve tus dudas con un solo clic</p>	
+							</div>
+						</a>
+					</div>
+					<div class="landing-grid-box col-12 col-md-4 mb-5">
+						<a href="consideraciones-tecnicas-sei" class="h-100">
+							<div class="landing-grid-box-info rounded bw-5 border-grey0 text-center h-100">
+								<i class="fas fa-cog fa-4x bg-primary text-white rounded-circle"></i>
+								<h3>Consideraciones técnicas</h3>
+								<p>Conoce lo que necesitas para una mejor experiencia de nuestro Servicio Electrónico por Internet</p>
+							</div>
+						</a>
+					</div>
+				</div>
+
+				<!-- Grid: Consejos de seguridad -->
+				<div class="row row-eq-height">
+					<div class="landing-grid-box col-12">
+						<div class="landing-grid-box-info rounded bw-5 border-grey0 text-center py-5">
+							<h3 class="">No olvides revisar estos consejos de seguridad que tenemos para tí</h3>
+							<a href="consejo-de-seguridad-sei" class="btn btn-lg bg-blue3 text-white">Por tu seguridad</a>
+						</div>
+					</div>
 				</div>
 
 			</div>

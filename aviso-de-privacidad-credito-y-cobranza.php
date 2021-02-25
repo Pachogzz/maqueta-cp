@@ -74,7 +74,7 @@
 						  
 						<p><strong>IX Cambios en el Aviso de Privacidad.</strong></p>
 
-						<p>Este Aviso de Privacidad está vigente desde el 1º de enero de 2012 y podrá ser modificado en forma discrecional por el responsable en términos de la normatividad aplicable, cualquier modificación al mismo será comunicada por el responsable mediante la publicación del nuevo Aviso de Privacidad en la página de internet <a href="https://www.cpm.coop/aviso-de-privacidad-credito-y-cobranza/">https://www.cpm.coop/aviso-de-privacidad-credito-y-cobranza/</a> así como en nuestras sucursales.</p>
+						<p>Este Aviso de Privacidad está vigente desde el 1º de enero de 2012 y podrá ser modificado en forma discrecional por el responsable en términos de la normatividad aplicable, cualquier modificación al mismo será comunicada por el responsable mediante la publicación del nuevo Aviso de Privacidad en la página de internet <a href="aviso-de-privacidad-credito-y-cobranza">https://www.cpm.coop/aviso-de-privacidad-credito-y-cobranza/</a> así como en nuestras sucursales.</p>
 						 
 
 						<p><strong>Última actualización 3 de Abril del 2017</strong></p>

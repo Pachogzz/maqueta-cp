@@ -12,7 +12,7 @@
 						</a>
 					</div>
 					<div class="col-12 col-lg p-0 mb-2 mb-lg-0 ">
-						<a href="candidatos-al-consejo-de-administrador" class="btn bg-primary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
+						<a href="candidatos-al-consejo-de-administracion" class="btn bg-primary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
 							Consejo de Administración
 						</a>
 					</div>
@@ -42,7 +42,7 @@
 						<div class="collapse w-100" id="innerMenuMobile">
 							<ul class="list-group w-100 pt-3">
 								<li class="list-group-item"><a href="crd20">Candidatos</a></li>
-								<li class="list-group-item"><a href="candidatos-al-consejo-de-administrador">Candidatos al Consejo de Administrador</a></li>
+								<li class="list-group-item"><a href="candidatos-al-consejo-de-administracion">Candidatos al Consejo de Administrador</a></li>
 								<li class="list-group-item"><a href="candidatos-al-consejo-de-vigilancia">Candidatos al Consejo de Vigilancia</a></li>
 								<li class="list-group-item"><a href="dirigentes">Dirigentes</a></li>
 							</ul>

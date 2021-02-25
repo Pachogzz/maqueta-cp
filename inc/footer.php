@@ -29,7 +29,7 @@
 								</a>
 							</div>
 							<div class="col-6 col-md-auto mt-3 mt-md-0">
-								<a href="https://www.integradoracentral.coop/" target="_blank">
+								<a href="http://www.integradoracentral.coop/" target="_blank">
 									<img src="assets/img/fic-g-logo-2.png" alt="" class="img-fluid" height="90" width="auto">
 								</a>
 							</div>
@@ -39,6 +39,7 @@
 						<ul class="social-icons pt-3 pt-md-0 text-right">
 							<li><a href="https://www.facebook.com/CajaPopularMexicana/" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
 							<li><a href="https://twitter.com/CajaMexicana" target="_blank"><i class="fab fa-twitter"></i></a></li>
+							<li><a href="https://www.instagram.com/cajapopularmexicana" target="_blank"><i class="fab fa-instagram"></i></a></li>
 							<li><a href="https://www.youtube.com/user/CajaPopularMexicana" target="_blank"><i class="fab fa-youtube"></i></a></li>
 							<li><a href="https://www.linkedin.com/company/caja-popular-mexicana/" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
 						</ul>

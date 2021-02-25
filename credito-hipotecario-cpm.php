@@ -79,14 +79,14 @@
 						<!-- Nota Legal -->
 						<div class="bg-grey0 p-5 mb-5">
 							<p class="display-12">
-								<strong>Costo Anual Total Promedio a 11.8% sin IVA.</strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 30 de Junio de 2020</strong>.
+								<strong>Costo Anual Total Promedio a 11.7% sin IVA.</strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 31 de Enero de 2021</strong>.
 							</p>
 						</div>
 						<!-- Nota Legal -->
 						<!-- Legal Productos -->
-						<div class="bg-grey0 p-5 mb-5">
-							<p class="display-12">Tu <em>Contrato de apertura de crédito simple con garantía hipotecaria para finalidades de liquidez</em>  del <strong>Crédito Hipotecario CPM</strong>, ha cambiado en el <u>apartado de proemio</u> y <u>antecedentes</u>. Estos ajustes entrarán en vigor a partir del <strong>7 de septiembre del 2020</strong>, en esta fecha podrás realizar la consulta del documento en el segmento de contratos.  Si lo deseas, tendrás el derecho de dar por terminado el contrato de adhesión, siempre y cuando no existan adeudos pendientes por cubrir de tu crédito.</p>
-						</div>
+						<!-- <div class="border border-light bw-5 rounded border-grey1 p-5 mb-5">
+							<p class="display-12 mb-0">Tu <em>Contrato de apertura de crédito simple con garantía hipotecaria para finalidades de liquidez</em>  del <strong>Crédito Hipotecario CPM</strong>, ha cambiado en el <u>apartado de proemio</u> y <u>antecedentes</u>. Estos ajustes entrarán en vigor a partir del <strong>7 de septiembre del 2020</strong>, en esta fecha podrás realizar la consulta del documento en el segmento de contratos.  Si lo deseas, tendrás el derecho de dar por terminado el contrato de adhesión, siempre y cuando no existan adeudos pendientes por cubrir de tu crédito.</p>
+						</div> -->
 						<!-- Legal Productos -->
 						<!-- Simuladores -->
 						<div class="bg-grey0 p-5 mb-5">
@@ -102,23 +102,23 @@
 							  <tbody>
 							    <tr>
 							      <th scope="row"><center>Mayor al 90% y hasta el 100%</center></th>
-							      <td><center><b>10.44% anual</b></center></td>
-							      <td><center><?php include('inc/calculadoras/calculadora-de-credito-90-100.php') ?> <!-- ./ calculadora de credito --></td>
-							    </tr>
+							      <td><center><b>9.96% anual</b></center></td>
+							      <td><center><?php // include('inc/calculadoras/calculadora-de-credito-hipotecario-90-100.php') ?></td>
+							    </tr> <!-- ./ calculadora de credito -->
 							    <tr>
 							      <th scope="row"><center>Mayor al 80% y hasta el 90%</center></th>
-							      <td><center><b>10.32% anual</b></center></td>
-							      <td><center><?php include('inc/calculadoras/calculadora-de-credito-80-90.php') ?> <!-- ./ calculadora de credito --></td>
-							    </tr>
+							      <td><center><b>9.72% anual</b></center></td>
+							      <td><center><?php // include('inc/calculadoras/calculadora-de-credito-hipotecario-80-90.php') ?></td>
+							    </tr> <!-- ./ calculadora de credito -->
 							    <tr>
 							      <th scope="row"><center>Hasta el 80%</center></th>
-							      <td><center><b>10.08% anual</b></center></td>
-							      <td><center><?php include('inc/calculadoras/calculadora-de-credito-80.php') ?> <!-- ./ calculadora de credito --></td>
-							    </tr>
+							      <td><center><b>9.60% anual</b></center></td>
+							      <td><center><?php // include('inc/calculadoras/calculadora-de-credito-hipotecario-80.php') ?></td>
+							    </tr> <!-- ./ calculadora de credito -->
 							    <tr>
 							      <th scope="row"><center>Simulador para finalidades de liquidez</center></th>
 							      <td><center><b> </b></center></td>
-							      <td><center><?php include('inc/calculadoras/calculadora-de-credito-liquidez.php') ?></td>
+							      <td><center><?php include('inc/calculadoras/calculadora-de-credito-hipotecario-liquidez.php') ?></td>
 							    </tr>
 							  </tbody>
 							</table>
@@ -165,14 +165,15 @@
 									<div class="card-body bg-grey0 p-4">
 											<h4>Tasa de Interés</h4>
 											<ul class="p-5 bg-white bw-1 border-grey1">
-												<li>Para finalidades de vivienda, la tasa de interés ordinaria anual fija desde un 10.08% hasta un 10.44% (ii) sin IVA.</li>
+												<li>Para finalidades de vivienda, la tasa de interés ordinaria anual fija desde un 9.60% hasta un 9.96% (ii) sin IVA.</li>
+												<!-- <li>Para finalidades de vivienda, la tasa de interés ordinaria anual fija desde un 10.08% hasta un 10.44% (ii) sin IVA.</li> -->
 												<li>Para finalidades de liquidez, la tasa de interés ordinaria anual fija única de 17.16% más IVA.</li>
 												<!-- <li>La retención del IVA dependerá de la finalidad del crédito.</li> -->
 										    </ul>
 											<h4></h4>
 										    <ul class="p-5 bg-white bw-1 border-grey1">
 											<li><strong>CAT Promedio Crédito Hipotecario CPM</strong>
-												<p><strong>Costo Anual Total Promedio a 11.8% sin IVA.</strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 30 de Junio de 2020</strong>.</p>
+												<p><strong>Costo Anual Total Promedio a 11.7% sin IVA.</strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 31 de Enero de 2021</strong>.</p>
 											</li>
 										</ul>
 									</div>
@@ -190,10 +191,10 @@
 								<div id="collapseTwo2" class="collapse" aria-labelledby="headingTwo2" data-parent="#accordionCICPM">
 									<div class="card-body bg-grey0 p-4">
 											<ul class="p-5 bg-white bw-1 border-grey1">
-												<li><a href="assets/pdfs/contratos/Credito-Hipotecario-CPM/Para-Finalidades-de-Vivienda/Adquisicion-de-Vivienda/FR-1387-Contrato-de-credito-hipotecario-de-vivienda-Rev-Prod-y-Cred-Fi01-07-19.pdf" target="_blank"><strong>Contrato hipotecario de vivienda</strong></a></li>
-												<li><a href="assets/pdfs/contratos/Credito-Hipotecario-CPM/Para-Finalidades-de-Vivienda/Construccion-Remodelacion-y-Ampliacion/FR-1837-Contrato-hip-vivienda-para-constr-remod-o-mejora-de-la-vi-Fi.pdf" target="_blank"><strong>Contrato hipotecario de vivienda para construcción, remodelación o mejoramientos de la vivienda</strong></a></li>
-												<li><a href="assets/pdfs/contratos/Credito-Hipotecario-CPM/Para-Finalidades-de-Vivienda/Sustitucion-de-Hipoteca/FR-1654-Cont-de-apert-de-cred-simp-int-y-grtia-hip-pago-de-pasiv-deriv.pdf" target="_blank"><strong>Contrato de apertura de crédito simple con garantía hipotecaria para pago de pasivos derivado de un crédito hipotecario para la adquisición de vivienda</strong></a></li>
-												<li><a href="assets/pdfs/contratos/Credito-Hipotecario-CPM/Para-Finalidades-de-Liquidez/FR-1919_Contrato_de_apertura_de_credito_simple_con_garantia_hipotecaria-23abril.pdf" target="_blank"><strong>Contrato de apertura de crédito simple con garantía hipotecaria</strong></a></li>
+												<li><a href="assets/pdfs/contratos/2021/FR-1387_Contrato_de_credito_hipotecario_CPM_para_adquisicion_de_vivienda.pdf" target="_blank"><strong>Contrato hipotecario de vivienda</strong></a></li>
+												<li><a href="assets/pdfs/contratos/2021/FR-1837_Contrato_hip__vivienda_para_constr__remod__o_mejora__de_la_vi_Fi___.pdf" target="_blank"><strong>Contrato hipotecario de vivienda para construcción, remodelación o mejoramientos de la vivienda</strong></a></li>
+												<li><a href="assets/pdfs/contratos/2021/FR-1654_Cont_de_apert_de_cred_simp_int_y_grtia_hip__pago_de_pasiv__deriv___.pdf" target="_blank"><strong>Contrato de apertura de crédito simple con garantía hipotecaria para pago de pasivos derivado de un crédito hipotecario para la adquisición de vivienda</strong></a></li>
+												<li><a href="assets/pdfs/contratos/FR-1919_Contrato_de_apertura_de_credito_simple_con_garantia_hipotecaria-122020.pdf" target="_blank"><strong>Contrato de apertura de crédito simple con garantía hipotecaria</strong></a></li>
 										    </ul>
 										</ul>
 									</div>

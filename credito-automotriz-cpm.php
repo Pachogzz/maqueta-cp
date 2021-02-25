@@ -57,26 +57,19 @@
 							<!-- <h2 class="d-inline-block border-primary text-primary font-weight-bolder bw-3 py-2 px-3 mb-3">DESCRIPCIÓN</h2> -->
 							<img width="" src="assets/img/secciones/logos-credito/credito-automotriz.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Adquiere el automóvil que tú quieras ya sea nuevo o seminuevo de agencia para uso personal o productivo ¡Te financiamos hasta el 100% del valor del vehículo!</p>
-							<p class="lead my-3 font-weight-bold text-primary">Montos desde $38,641.20 hasta $966,930.00</p>
-							<p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/contratos/Credito-Automotriz-cpm/FR-1916_Contrato_de_apertura_de_credito_automotriz-20200327.pdf" target="_blank">aquí</a></p>
-							<!-- <p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/contratos/Credito-Automotriz-cpm/FR-1916-Contrato-de-apertura-de-credito-automotriz.pdf" target="_blank">aquí</a></p> -->
+							<p class="lead my-3 font-weight-bold text-primary">Montos desde $39,633.00 hasta $990,825.00</p>
+							<p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/contratos/2021/FR-1916_Contrato_de_apertura_de_credito_automotriz.pdf" target="_blank">aquí</a></p>
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 						<div class="embed-responsive embed-responsive-16by9 mb-3 mb-lg-5">
 							<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9diWKW-ZxEg" allowfullscreen></iframe>
 						</div>
-						<?php include('inc/calculadoras/calculadora-de-credito.php') ?> <!-- ./ calculadora de credito -->
+
+						<?php include('inc/calculadoras/calculadora-de-credito-automotriz.php') ?> <!-- ./ calculadora de credito -->
+						
 						<!-- Nota Legal -->
 						<div class="bg-grey0 p-5 mb-5">
-							<p class="display-12"><strong>Costo Anual Total Promedio de 22.5% sin IVA</strong>. Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 30 de Junio de 2020.</strong></p>
-							<!-- <p class="display-12">*Cálculo para el <strong>Crédito Automotríz CPM</strong> por la cantidad de <strong>$15,000.00 a un plazo de 12 meses con un monto mínimo de ahorro de $1,500.00</strong>.</p>
-							<ul class="display-12">
-								<li>Sujeto a aprobación de crédito.</li>
-								<li>Préstamo otorgado en moneda nacional.</li>
-								<li>Disponible en todas nuestras sucursales a nivel nacional.</li>
-								<li>La tasa de interés se asignará de acuerdo al historial crediticio interno y externo a Caja Popular Mexicana que presente el socio.</li>
-								<li>En la contratación del producto, el plan de pagos se establece de manera mensual</li>
-							</ul> -->
+							<p class="display-12"><strong>Costo Anual Total Promedio de 25.4% sin IVA</strong>. Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 31 de Enero de 2021.</strong></p>
 						</div>
 						<!-- Nota Legal -->
 					</div>
@@ -96,9 +89,8 @@
 									<div class="card-body bg-grey0 p-4">
 										<h4>Monto</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>Montos desde $38,641.20 hasta $966,930.00</li>
+											<li>Montos desde $39,633.00 hasta $990,825.00</li>
 											<li>Crédito otorgado en moneda nacional.</li>
-											<!-- <li>Hasta 150,000.00 UDIS (Al 31 de enero de 2019, importe $937,139.25] UDIS [Unidad de inversión que se actualiza mensualmente para su conversión en moneda nacional).</li> -->
 										</ul>
 										<h4>Plazo</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
@@ -121,10 +113,10 @@
 									<div class="card-body bg-grey0 p-4">
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li><strong>Tasa de Interés</strong>
-												<p>Tasa de interés ordinaria anual fija única de 12.84% más IVA<!--  hasta un 33.0% antes de impuestos. La tasa se asignará de acuerdo al perfil crediticio del socio -->.</p>
+												<p>Tasa de interés ordinaria anual fija única de 12.84% más IVA.</p>
 											</li>
 											<li><strong>CAT Promedio Crédito Automotriz CPM</strong>
-												<p><strong>Costo Anual Total Promedio de 22.5% sin IVA.</strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 30 de Junio de 2020.</strong></p>
+												<p><strong>Costo Anual Total Promedio de 25.4% sin IVA.</strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 31 de Enero de 2021.</strong></p>
 											</li>
 										</ul>
 									</div>
@@ -144,7 +136,6 @@
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li>Ser <a href="ser-socio">socio</a> de Caja Popular Mexicana.</li>
 											<li>No requiere de garantía líquida.</li>
-											<!-- <li>Ahorro del 10% del monto a solicitar como garantía, depositado en su Cuenta Mexicana.</li> -->
 										</ul>
 										<h4>Condiciones</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
@@ -160,7 +151,6 @@
 											<li>Comprobante de ingresos*</li>
 											<li>Cotización del seguro a contratar en aquellos casos que sea objeto de financiamiento.</li>
 											<li>Cotización del vehículo expedido por la agencia automotriz.</li>
-											<!-- <li>Cotización del vehículo expedido por la agencia automotriz en caso de que la finalidad sea productiva.</li> -->
 										</ul>
 										<p><small>*Aplican restricciones, para mayor información acude a nuestras sucursales.</small></p>
 									</div>

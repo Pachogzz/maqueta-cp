@@ -14,6 +14,7 @@
 
 		<section class="page-content">
 			<div class="container">
+
 				<div class="row mb-5">
 					<div class="col">
 						<blockquote class="blockquote p-5 border border-light bw-5 rounded border-grey1 text-center">
@@ -40,11 +41,10 @@
 				<div class="row video-tutorial-holder mb-5">
 					<div class="col-12 col-md-6 mb-3 mb-md-0">
 						<div class="embed-responsive embed-responsive-16by9">
-							<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/nZLaOsUI8H4?rel=0" allowfullscreen></iframe>
-							<!-- <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wq1jWcMSXMM?rel=0" allowfullscreen></iframe> -->
+							<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/jucJ__OH2Fc?rel=0" allowfullscreen></iframe>
+							<!-- <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/nZLaOsUI8H4?rel=0" allowfullscreen></iframe> -->
 						</div>
-						<div class="video-label bg-purple p-3 text-center"><p class="h3 text-white font-weight-bold mb-0">Cooperando por México</p></div>
-						<!-- <div class="video-label bg-purple p-3 text-center"><p class="h3 text-white font-weight-bold mb-0">Guía de primer ingreso</p></div> -->
+						<div class="video-label bg-purple p-3 text-center"><p class="h3 text-white font-weight-bold mb-0">SPEI en CPM Móvil</p></div>
 					</div>
 					<div class="col-12 col-md-6">
 						<div class="embed-responsive embed-responsive-16by9">
@@ -53,6 +53,16 @@
 						<div class="video-label bg-purple p-3 text-center"><p class="h3 text-white font-weight-bold mb-0">Guía de transferencias</p></div>
 					</div>
 				</div> <!-- ./ Video guides -->
+
+				<!-- Cinto animado: Servicios Digitales -->
+				<div class="row mb-5 pb-5">
+					<div class="col-12">
+						<video autoplay loop muted inline class="w-100">
+							<source class="embed-responsive-item" src="assets/video/Video_para_httpswww.cpm.coop-serviciosdigitales_112020.mp4" type="video/mp4">
+							<img src="assets/img/secciones/cpm-movil-nueva-imagen.jpg" />
+						</video>
+					</div>
+				</div>
 
 				<div class="row mb-5">
 					<div class="col-12 col-md-6 offset-md-3 text-center py-3">
@@ -66,7 +76,7 @@
 						</div>
 						<script>
 							$(document).ready(function(){
-								// $('#loading').hide();
+								$('#loading').hide();
 							});
 						</script>
 						
@@ -118,14 +128,14 @@
 									        </button>
 									      </div>
 									      <div class="modal-body">
-									        <embed src="tutoriales/pdf/cpm-movil/CPM_guia_de_uso_movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+									        <embed src="tutoriales/pdf/cpm-movil/2020/Movil_CPM_guia_de_uso_movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
 									      </div>
 									    </div>
 									  </div>
 									</div> <!-- ./ Modal Ends -->
 								</div>
 								<div class="col-6">
-									<a href="tutoriales/pdf/cpm-movil/CPM_guia_de_uso_movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+									<a href="tutoriales/pdf/cpm-movil/2020/Movil_CPM_guia_de_uso_movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
 								</div>
 							</div>
 					      </div>
@@ -204,14 +214,14 @@
 									        </button>
 									      </div>
 									      <div class="modal-body">
-									        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_transacciones_movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+									        <embed src="tutoriales/pdf/cpm-movil/2020/Movil_CPM_Omnicanalidad_infografico_transacciones_movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
 									      </div>
 									    </div>
 									  </div>
 									</div> <!-- ./ Modal Ends -->
 								</div>
 								<div class="col-6">
-									<a href="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_transacciones_movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+									<a href="tutoriales/pdf/cpm-movil/2020/Movil_CPM_Omnicanalidad_infografico_transacciones_movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
 								</div>
 							</div>
 					      </div>
@@ -247,14 +257,14 @@
 									        </button>
 									      </div>
 									      <div class="modal-body">
-									        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_consulta_administra_tranferencias_programadas_movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+									        <embed src="tutoriales/pdf/cpm-movil/2020/Movil_CPM_Omnicanalidad_infografico_consulta_administra_tranferencias_programadas_movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
 									      </div>
 									    </div>
 									  </div>
 									</div> <!-- ./ Modal Ends -->
 								</div>
 								<div class="col-6">
-									<a href="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_consulta_administra_tranferencias_programadas_movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+									<a href="tutoriales/pdf/cpm-movil/2020/Movil_CPM_Omnicanalidad_infografico_consulta_administra_tranferencias_programadas_movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
 								</div>
 							</div>
 					      </div>
@@ -290,14 +300,14 @@
 									        </button>
 									      </div>
 									      <div class="modal-body">
-									        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_transferencias_de_socios_a_socios_Movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+									        <embed src="tutoriales/pdf/cpm-movil/2020/Movil_CPM_Omnicanalidad_infografico_Transferencias_a_cuentas_de_otros_socios.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
 									      </div>
 									    </div>
 									  </div>
 									</div> <!-- ./ Modal Ends -->
 								</div>
 								<div class="col-6">
-									<a href="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_transferencias_de_socios_a_socios_Movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+									<a href="tutoriales/pdf/cpm-movil/2020/Movil_CPM_Omnicanalidad_infografico_Transferencias_a_cuentas_de_otros_socios.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
 								</div>
 							</div>
 					      </div>
@@ -333,14 +343,14 @@
 									        </button>
 									      </div>
 									      <div class="modal-body">
-									        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Administra_tu_dispositivo_Movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+									        <embed src="tutoriales/pdf/cpm-movil/2020/Movil_CPM_Omnicanalidad_infografico_Administra_tu_dispositivo_CPM_Movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
 									      </div>
 									    </div>
 									  </div>
 									</div> <!-- ./ Modal Ends -->
 								</div>
 								<div class="col-6">
-									<a href="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Administra_tu_dispositivo_Movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+									<a href="tutoriales/pdf/cpm-movil/2020/Movil_CPM_Omnicanalidad_infografico_Administra_tu_dispositivo_CPM_Movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
 								</div>
 							</div>
 					      </div>
@@ -376,14 +386,14 @@
 									        </button>
 									      </div>
 									      <div class="modal-body">
-									        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Consulta_de_saldos_Movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+									        <embed src="tutoriales/pdf/cpm-movil/2020/Movil_CPM_Omnicanalidad_infografico_Consulta_de_saldos_Movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
 									      </div>
 									    </div>
 									  </div>
 									</div> <!-- ./ Modal Ends -->
 								</div>
 								<div class="col-6">
-									<a href="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Consulta_de_saldos_Movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+									<a href="tutoriales/pdf/cpm-movil/2020/Movil_CPM_Omnicanalidad_infografico_Consulta_de_saldos_Movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
 								</div>
 							</div>
 					      </div>
@@ -419,14 +429,14 @@
 									        </button>
 									      </div>
 									      <div class="modal-body">
-									        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Consulta_tarjeta_de_debito_Movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+									        <embed src="tutoriales/pdf/cpm-movil/2020/Movil_CPM_Omnicanalidad_infografico_Consulta_tarjeta_de_debito_Movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
 									      </div>
 									    </div>
 									  </div>
 									</div> <!-- ./ Modal Ends -->
 								</div>
 								<div class="col-6">
-									<a href="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Consulta_tarjeta_de_debito_Movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+									<a href="tutoriales/pdf/cpm-movil/2020/Movil_CPM_Omnicanalidad_infografico_Consulta_tarjeta_de_debito_Movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
 								</div>
 							</div>
 					      </div>
@@ -462,14 +472,14 @@
 									        </button>
 									      </div>
 									      <div class="modal-body">
-									        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Notificaciones_Movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+									        <embed src="tutoriales/pdf/cpm-movil/2020/Movil_CPM_Omnicanalidad_infografico_Notificaciones_Movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
 									      </div>
 									    </div>
 									  </div>
 									</div> <!-- ./ Modal Ends -->
 								</div>
 								<div class="col-6">
-									<a href="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Notificaciones_Movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+									<a href="tutoriales/pdf/cpm-movil/2020/Movil_CPM_Omnicanalidad_infografico_Notificaciones_Movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
 								</div>
 							</div>
 					      </div>
@@ -548,14 +558,14 @@
 									        </button>
 									      </div>
 									      <div class="modal-body">
-									        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Cambiar_nombre_de_usuario_Movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+									        <embed src="tutoriales/pdf/cpm-movil/2020/Movil_CPM_Omnicanalidad_infografico_Cambiar_nombre_de_usuario_Movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
 									      </div>
 									    </div>
 									  </div>
 									</div> <!-- ./ Modal Ends -->
 								</div>
 								<div class="col-6">
-									<a href="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_Cambiar_nombre_de_usuario_Movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+									<a href="tutoriales/pdf/cpm-movil/2020/Movil_CPM_Omnicanalidad_infografico_Cambiar_nombre_de_usuario_Movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
 								</div>
 							</div>
 					      </div>
@@ -591,14 +601,14 @@
 									        </button>
 									      </div>
 									      <div class="modal-body">
-									        <embed src="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_cambiar_contrasena_Movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
+									        <embed src="tutoriales/pdf/cpm-movil/2020/Movil_CPM_Omnicanalidad_infografico_cambiar_contraseña_Movil.pdf" type="application/pdf" class="vh-100" width="100%" height="100%">
 									      </div>
 									    </div>
 									  </div>
 									</div> <!-- ./ Modal Ends -->
 								</div>
 								<div class="col-6">
-									<a href="tutoriales/pdf/cpm-movil/CPM_Omnicanalidad_infografico_cambiar_contrasena_Movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
+									<a href="tutoriales/pdf/cpm-movil/2020/Movil_CPM_Omnicanalidad_infografico_cambiar_contraseña_Movil.pdf" class="btn btn-md btn-block rounded-pill bg-purple text-white text-center" download>Descargar</a>
 								</div>
 							</div>
 					      </div>
@@ -740,7 +750,47 @@
 					  </div>
 				    </div>
 				  </div>
+				</div>
 
+				<!-- Grid: Mas opciones -->
+				<div class="row row-eq-height">
+					<div class="landing-grid-box col-12 col-md-4 mb-5">
+						<a href="operaciones-disponibles-sei" class="h-100">
+							<div class="landing-grid-box-info rounded bw-5 border-grey0 text-center h-100">
+								<i class="fas fa-clipboard-list fa-4x bg-primary text-white rounded-circle"></i>
+								<h3>Operaciones disponibles</h3>
+								<p>Consulta todo lo que puedes realizar en CPM Móvil y CPM en Línea</p>
+							</div>
+						</a>
+					</div>
+					<div class="landing-grid-box col-12 col-md-4 mb-5">
+						<a href="preguntas-frecuentes-sei" class="h-100">
+							<div class="landing-grid-box-info rounded bw-5 border-grey0 text-center h-100">
+								<i class="far fa-question-circle fa-4x bg-primary text-white rounded-circle"></i>
+								<h3>Preguntas <br>frecuentes</h3>
+								<p>Resuelve tus dudas con un solo clic</p>	
+							</div>
+						</a>
+					</div>
+					<div class="landing-grid-box col-12 col-md-4 mb-5">
+						<a href="consideraciones-tecnicas-sei" class="h-100">
+							<div class="landing-grid-box-info rounded bw-5 border-grey0 text-center h-100">
+								<i class="fas fa-cog fa-4x bg-primary text-white rounded-circle"></i>
+								<h3>Consideraciones técnicas</h3>
+								<p>Conoce lo que necesitas para una mejor experiencia de nuestro Servicio Electrónico por Internet</p>
+							</div>
+						</a>
+					</div>
+				</div>
+
+				<!-- Grid: Consejos de seguridad -->
+				<div class="row row-eq-height">
+					<div class="landing-grid-box col-12">
+						<div class="landing-grid-box-info rounded bw-5 border-grey0 text-center py-5">
+							<h3 class="">No olvides revisar estos consejos de seguridad que tenemos para tí</h3>
+							<a href="consejo-de-seguridad-sei" class="btn btn-lg bg-blue3 text-white">Por tu seguridad</a>
+						</div>
+					</div>
 				</div>
 
 			</div>

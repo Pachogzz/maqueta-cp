@@ -27,7 +27,7 @@
 							<img width="" src="assets/img/secciones/logos-ahorro/servicuenta.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Es un depósito de dinero a la vista que te permite manejar cómodamente tu dinero realizando disposiciones inmediatas; puedes realizar depósitos y retiros sin restricción alguna, sin cobro de comisión por saldo promedio, retiros o depósitos.</p>
 							<p class="lead"><span class="font-weight-bold text-primary">Consulta los costos y comisiones de nuestro producto <a href="consulta-los-costos-y-comisiones-de-nuestros-productos">aquí.</a></span></p>
-							<p class="lead"><span class="font-weight-bold text-primary">Consulta el contrato universal <a href="assets/pdfs/FR-1008-Contrato-Universal.pdf" target="blank">aquí</a></span></p>
+							<p class="lead"><span class="font-weight-bold text-primary">Consulta el contrato universal <a href="assets/pdfs/20200909_FR-1008_Contrato_Universal.pdf" target="blank">aquí</a></span></p>
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 					</div>
@@ -107,8 +107,8 @@
 							<div class="col-12 mt-5">
 								<!-- Nota Legal -->
 								<div class="bg-grey0 p-5">
-									<p class="display-12">Vigencia del <strong>19 al 25 de Marzo del 2020</strong></p>
-									<p class="display-12">Fecha de cálculo Marzo 2020</p>
+									<p class="display-12">Vigencia del <strong>18 al 24 de Febrero de 2021.</strong></p>
+									<p class="display-12">Fecha de cálculo Febrero 2021.</p>
 									<p class="display-12"><strong>* GAT NOMINAL</strong> antes de impuestos. Para fines informativos y de comparación.</p>
 									<p class="display-12"><strong>**GAT REAL</strong> antes de impuestos. Para fines informativos y de comparación. La GAT REAL es el rendimiento que obtendría después de descontar la inflación estimada Para fines informativos y de comparación exclusivamente.</p>
 								</div>
@@ -132,52 +132,52 @@
 								</thead>
 								<tbody>
 									<tr>
-										<td scope="row">$ 1500.00 A $ 10,000.00</td>
-										<td><strong>2.61%</strong></td>
-										<td><strong>2.64%</strong></td>
-										<td><strong>-0.81%</strong></td>
+										<td scope="row">$1,500.00 A $25,000.00 </td>
+										<td><strong>1.58%</strong></td>
+										<td><strong>1.59%</strong></td>
+										<td><strong>-1.86%</strong></td>
 									</tr>
 									<tr>
-										<td scope="row">$ 10,001.01 A $ 25,000</td>
-										<td><strong>2.81%</strong></td>
-										<td><strong>2.85%</strong></td>
-										<td><strong>-0.61%</strong></td>
+										<td scope="row">$25,000.01 A $50,000.00</td>
+										<td><strong>1.70%</strong></td>
+										<td><strong>1.71%</strong></td>
+										<td><strong>-1.75%</strong></td>
 									</tr>
 									<tr>
-										<td scope="row">$ 25,001.00 A $ 50,000</td>
-										<td><strong>3.01%</strong></td>
-										<td><strong>3.05%</strong></td>
-										<td><strong>-0.41%</strong></td>
+										<td scope="row">$50,000.01 A $100,000.00</td>
+										<td><strong>1.82%</strong></td>
+										<td><strong>1.84%</strong></td>
+										<td><strong>-1.63%</strong></td>
 									</tr>
 									<tr>
-										<td scope="row">$ 50,001.00 A $ 100,000.00</td>
-										<td><strong>3.22%</strong></td>
-										<td><strong>3.27%</strong></td>
-										<td><strong>-0.20%</strong></td>
+										<td scope="row">$100,000.01 A $250,000.00</td>
+										<td><strong>1.95%</strong></td>
+										<td><strong>1.97%</strong></td>
+										<td><strong>-1.50%</strong></td>
 									</tr>
 									<tr>
-										<td scope="row">$ 100,001.00 A $ 250,000.00</td>
-										<td><strong>3.42%</strong></td>
-										<td><strong>3.47%</strong></td>
-										<td><strong>-0.01%</strong></td>
+										<td scope="row">$250,000.01 A $500,000.00</td>
+										<td><strong>2.07%</strong></td>
+										<td><strong>2.09%</strong></td>
+										<td><strong>-1.38%</strong></td>
 									</tr>
 									<tr>
-										<td scope="row">$ 250,001.00 A $ 500,000.00</td>
-										<td><strong>3.62%</strong></td>
-										<td><strong>3.68%</strong></td>
-										<td><strong>0.19%</strong></td>
+										<td scope="row">$500,000.01 A $1,000,000.00</td>
+										<td><strong>2.19%</strong></td>
+										<td><strong>2.21%</strong></td>
+										<td><strong>-1.26%</strong></td>
 									</tr>
 									<tr>
-										<td scope="row">$ 500,001.00 A 1,000,000.00</td>
-										<td><strong>3.82%</strong></td>
-										<td><strong>3.89%</strong></td>
-										<td><strong>0.39%</strong></td>
+										<td scope="row">$1,000,000.01 A $2,500,000.00</td>
+										<td><strong>2.31%</strong></td>
+										<td><strong>2.33%</strong></td>
+										<td><strong>-1.15%</strong></td>
 									</tr>
 									<tr>
-										<td scope="row">$ 1,000,001.00 En adelante</td>
-										<td><strong>4.03%</strong></td>
-										<td><strong>4.11%</strong></td>
-										<td><strong>0.60%</strong></td>
+										<td scope="row">$2,500,000.00 En adelante</td>
+										<td><strong>2.44%</strong></td>
+										<td><strong>2.47%</strong></td>
+										<td><strong>-1.02%</strong></td>
 									</tr>
 								</tbody>
 							</table>

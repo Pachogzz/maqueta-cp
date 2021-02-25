@@ -1,4 +1,4 @@
-+/*
+/*
 Theme Name: Portal Caja Popular Mexicana
 Description: Tema desarrollado para la empresa CMP
 Author: Pacho Gonzalez
@@ -35,7 +35,12 @@ Tags: October CMS, Laravel, SASS, JS, PHP, MySQL, CSS
 /* =========================
 		0. GLOBALS
 ========================= */
-*{ font-family: 'Montserrat', sans-serif; }
+/**, ::before, ::after{ font-family: 'Montserrat', sans-serif !important; }*/
+.montserrat{ font-family: 'Montserrat', sans-serif !important; }
+.montserrat.light{ font-family: 'Montserrat', sans-serif; font-weight: 300 !important; }
+.montserrat.medium{ font-family: 'Montserrat', sans-serif; font-weight: 400 !important; }
+.montserrat.bold{ font-family: 'Montserrat', sans-serif; font-weight: 600 !important; }
+.montserrat.bolder{ font-family: 'Montserrat', sans-serif; font-weight: 700 !important; }
 p{ font-size: 16px; }
 p a{ font-weight: bold; }
 /* Extra Color */
@@ -190,7 +195,7 @@ p a{ font-weight: bold; }
 		content: "";
 		display: block;
 		position: absolute;
-		bottom: 0;
+		bottom: -30px;
 		left: 0;
 		width: 100%;
 		height: 30px;
@@ -255,10 +260,14 @@ p a{ font-weight: bold; }
 		border-radius: 50%;
 		text-align: center;
 	}
-	.social-icons li > a > i{
+	.social-icons li > a > i,
+	.social-icons li > a > svg{
 		color: #fff;
 		line-height: 40px;
 		font-size: 20px;
+	}
+	.social-icons li > a > svg{
+		margin-top: 10px;
 	}
 /* Z-Index's */
 	.z-index-1{ z-index: 1; }
@@ -282,7 +291,7 @@ p a{ font-weight: bold; }
 		width: 100%;
 	}
 	.asterisk:before{
-		font-family: "Font Awesome 5 Free";
+		font-family: "Font Awesome 5 Free" !important;
 		font-weight: 900;
 		content: "\f069";
 		position: absolute;
@@ -293,7 +302,7 @@ p a{ font-weight: bold; }
 
 /* Arrow in text */
 	.arrow-txt:before{
-		font-family: "Font Awesome 5 Free";
+		font-family: "Font Awesome 5 Free" !important;
 		font-weight: 900;
 		content: "\f0da";
 		position: absolute;
@@ -378,6 +387,9 @@ p a{ font-weight: bold; }
 }
 .dropdown {
     position:static;
+}
+.inner-nav-page .dropdown{
+	position: relative;
 }
 .dropdown-menu a {
     width:100%;
@@ -573,7 +585,7 @@ p a{ font-weight: bold; }
 	font-weight: bold; 
 }
 .accordion-cpm .card-header h2 button:before{
-	font-family: "Font Awesome 5 Free";
+	font-family: "Font Awesome 5 Free" !important;
 	font-weight: 900;
 	content: "\f056";
 	position: absolute;
@@ -600,7 +612,7 @@ ul.has-arrow li,
 ul.has-arrow li:before,
 .tab-content .tab-pane ul li:before,
 .accordion-cpm .card-body ul li:before{
-	font-family: "Font Awesome 5 Free";
+	font-family: "Font Awesome 5 Free" !important;
 	font-weight: 900;
 	content: "\f0da";
 	position: absolute;
@@ -634,12 +646,14 @@ ul.has-arrow li:before,
 	margin-top: -60px;
 	margin-bottom: 40px;
 }
-.landing-grid-box-info i{
+.landing-grid-box-info i,
+.landing-grid-box-info svg{
 	width: 120px;
 	height: 120px;
 	margin-top: -60px;
 	margin-bottom: 40px;
 }
+.landing-grid-box-info svg{}
 .landing-grid-box-info i:before{
 	line-height: 115px;
 }
@@ -675,9 +689,24 @@ ul.has-arrow li:before,
 	display: block;
 	margin:0 auto;
 }
-.guides-grid .guides-grid-col .guides-grid-block .card-body{}
-.guides-grid .guides-grid-col .guides-grid-block .card-body .card-title{}
-.guides-grid .guides-grid-col .guides-grid-block .card-footer{}
+
+.simple-cGrid{
+	margin-bottom: 3rem !important;
+}
+.simple-cGrid .simple-cGrid-col{
+	margin-bottom: 30px;
+}
+.simple-cGrid .simple-cGrid-col .simple-cGrid-block{
+	border: 5px solid #45bf00;
+	text-align: center;
+	padding: 3rem 0rem 0rem;
+	border-radius: 0.25rem;
+	height: 100% !important;
+}
+.simple-cGrid .simple-cGrid-col .guides-grid-block img{
+	display: block;
+	margin:0 auto;
+}
 
 /* =========================
 		16. TABS
@@ -897,6 +926,14 @@ ul.has-arrow li:before,
 	color: #09871a;
 	border-bottom: 1px solid #ccc;
 }
+
+	/* Selective hide */
+	.suc-TUXPAN #htel{
+		display: block !important;
+	}
+	.suc-MANGLARES #htel{
+		display: none;
+	}
 
 /* =========================
 	19. MODALS
@@ -1232,7 +1269,7 @@ ul.has-arrow li:before,
 	}
 	/* Main Slider */
 	.styled-carousel .carousel-caption{
-		top:80%;
+		top:70%;
 	}
 	.styled-carousel.with-caption .carousel-caption{
 		position: absolute;

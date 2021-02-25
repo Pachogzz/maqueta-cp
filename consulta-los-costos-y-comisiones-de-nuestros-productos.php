@@ -49,9 +49,9 @@
 														<td>No aplica<br>comisión</td>
 														<td>0.00</td>
 														<td>No aplica</td>
-														<td><strong>Min.: 12.00% hasta un Mx: 33.00%</strong><br> *La tasa se asignara de acuerdo al perfil crediticio del Socio.</td>
-														<td><strong>31.6% sin IVA%</strong></td>
-														<td>31/12/2019</td>
+														<td><strong>Min.: 15.84% hasta un Mx: 25.80%</strong><br> *La tasa se asignara de acuerdo al perfil crediticio del Socio.</td>
+														<td><strong>30.9% sin IVA</strong></td>
+														<td>31/01/2021</td>
 													</tr>
 												</tbody>
 											</table>
@@ -92,9 +92,9 @@
 													<td>No aplica<br>comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>Min.: 12.00% hasta un Máx: 33.00%</strong><br>*La tasa se asignará de acuerdo al perfil crediticio del socio.</td>
-													<td><strong>25.1% sin IVA</strong></td>
-													<td>31/12/2019</td>
+													<td><strong>Min.: 15.84% hasta un Máx: 23.04%</strong><br>*La tasa se asignará de acuerdo al perfil crediticio del socio.</td>
+													<td><strong>25.2% sin IVA</strong></td>
+													<td>31/01/2021</td>
 												</tr>
 											</tbody>
 										</table>
@@ -136,8 +136,8 @@
 													<td>0.00</td>
 													<td>No aplica</td>
 													<td><strong>12.24%<p></p></strong></td>
-													<td><strong>32496813783425200000000000000000000000.0% sin IVA</strong></td>
-													<td>31/12/19</td>
+													<td><strong>2,358,676,891,059,460,000,000,000,000,000,000,000.0% sin IVA</strong></td>
+													<td>31/01/2021</td>
 												</tr>
 											</tbody>
 										</table>
@@ -147,49 +147,6 @@
 								</div>
 							</div>
 							<!-- Crédito Inmediato CPM -->
-
-							<!-- Crédito Productivo CPM -->
-							<div class="card">
-								<div class="card-header" id="headingFourt">
-									<h2 class="mb-0">
-										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-											Crédito Productivo CPM
-										</button>
-									</h2>
-								</div>
-								<div id="collapseFour" class="collapse" aria-labelledby="headingThree" data-parent="#accordionCCNP1">
-									<div class="card-body bg-grey0 p-4">
-										<h4>Crédito Productivo CPM</h4>
-										<table class="table table-responsive-md table-bordered p-5 bg-white text-center display-14">
-											<thead class="bg-primary text-white">
-												<tr>
-													<th scope="col">Nombre comercial del producto</th>
-													<th scope="col">Concepto</th>
-													<th scope="col">Monto</th>
-													<th scope="col">Periodicidad</th>
-													<th scope="col"><strong>Tasas de intereses anual fija antes de impuestos</strong></th>
-													<th scope="col"><strong>*CAT PROMEDIO</strong></th>
-													<th scope="col">Fecha de cálculo</th>
-												</tr>
-											</thead>
-											<tbody>
-												<tr>
-													<td scope="row">Crédito Productivo CPM</td>
-													<td>No aplica comisión</td>
-													<td>0.00</td>
-													<td>No aplica</td>
-													<td><strong>19.44%<p></p></strong></td>
-													<td><strong>25.5% sin IVA</strong></td>
-													<td>31/12/19</td>
-												</tr>
-											</tbody>
-										</table>
-										<p><strong>*CAT </strong>es el costo anual total del financiamiento expresado en términos porcentuales anuales que, para fines informativos y de comparación, incorpora la totalidad de los costos y gastos inherentes a los créditos.</p>
-										<p>El préstamo otorgado es en moneda nacional. Disponible en todas nuestras sucursales a nivel nacional.</p>
-									</div>
-								</div>
-							</div>
-							<!-- Crédito Productivo CPM -->
 
 							<!-- Crédito Automotriz CPM -->
 							<div class="card">
@@ -220,8 +177,8 @@
 													<td>0.00</td>
 													<td>No aplica</td>
 													<td><strong>12.84%</strong></td>
-													<td><strong>20.3% sin IVA</strong></td>
-													<td>31/12/19</td>
+													<td><strong>25.4% sin IVA</strong></td>
+													<td>31/01/2021</td>
 												</tr>
 											</tbody>
 										</table>
@@ -263,9 +220,9 @@
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>Min.: 10.08% hasta Max: 10.44% [¡¡]<br> </strong></td>
-													<td><strong>12.9% sin IVA</strong></td>
-													<td>31/12/19</td>
+													<td><strong>Mín.: 9.60% hasta Máx.: 9.96% [ii] sin IVA.<br> </strong></td>
+													<td><strong>11.7% sin IVA</strong></td>
+													<td>31/01/2021</td>
 												</tr>
 												<tr>
 													<td scope="row">Finalidad de liquidez</td>
@@ -273,8 +230,8 @@
 													<td>0.00</td>
 													<td>No aplica</td>
 													<td><strong>17.16%<br> </strong></td>
-													<td><strong>24.3% sin IVA</strong></td>
-													<td>31/12/19</td>
+													<td><strong>11.7% sin IVA</strong></td>
+													<td>31/01/2021</td>
 												</tr>
 											</tbody>
 										</table>
@@ -291,15 +248,15 @@
 											<tbody>
 												<tr>
 													<td scope="row">Mayor al 90% y hasta el 100%</td>
-													<td>10.44% anual</td>
+													<td>9.96% anual</td>
 												</tr>
 												<tr>
 													<td scope="row">Mayor al 80% y hasta el 90%</td>
-													<td>10.32% anual</td>
+													<td>9.72% anual</td>
 												</tr>
 												<tr>
 													<td scope="row">Hasta el 80%</td>
-													<td>10.08% anual</td>
+													<td>9.60% anual</td>
 												</tr>
 											</tbody>
 										</table>
@@ -308,10 +265,52 @@
 								</div>
 							</div>
 							<!-- Crédito Hipotecario CPM -->
+
+							<!-- Crédito Productivo CPM -->
+							<div class="card">
+								<div class="card-header" id="headingFourt">
+									<h2 class="mb-0">
+										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+											Crédito Productivo CPM
+										</button>
+									</h2>
+								</div>
+								<div id="collapseFour" class="collapse" aria-labelledby="headingThree" data-parent="#accordionCCNP1">
+									<div class="card-body bg-grey0 p-4">
+										<h4>Crédito Productivo CPM</h4>
+										<table class="table table-responsive-md table-bordered p-5 bg-white text-center display-14">
+											<thead class="bg-primary text-white">
+												<tr>
+													<th scope="col">Nombre comercial del producto</th>
+													<th scope="col">Concepto</th>
+													<th scope="col">Monto</th>
+													<th scope="col">Periodicidad</th>
+													<th scope="col"><strong>Tasas de intereses anual fija antes de impuestos</strong></th>
+													<th scope="col"><strong>*CAT PROMEDIO</strong></th>
+													<th scope="col">Fecha de cálculo</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td scope="row">Crédito Productivo CPM</td>
+													<td>No aplica comisión</td>
+													<td>0.00</td>
+													<td>No aplica</td>
+													<td><strong>19.44%<p></p></strong></td>
+													<td><strong>23.5% sin IVA</strong></td>
+													<td>31/01/2021</td>
+												</tr>
+											</tbody>
+										</table>
+										<p><strong>*CAT </strong>es el costo anual total del financiamiento expresado en términos porcentuales anuales que, para fines informativos y de comparación, incorpora la totalidad de los costos y gastos inherentes a los créditos.</p>
+										<p>El préstamo otorgado es en moneda nacional. Disponible en todas nuestras sucursales a nivel nacional.</p>
+									</div>
+								</div>
+							</div>
+							<!-- Crédito Productivo CPM -->
 						</div>
 
 						<h1 class="d-inline-block px-lg-5 py-lg-3 br-30 text-black font-weight-semibold">Ahorro</h1>
-						
 						<div class="accordion accordion-cpm" id="accordionCCNP2">
 							<!-- Cuenta Mexicana -->
 							<div class="card">
@@ -344,11 +343,11 @@
 												<td scope="row">No aplica comisión</td>
 												<td>0.00</td>
 												<td>No aplica</td>
-												<td><strong>3.79%</strong></td>
-												<td><strong>3.86%</strong></td>
-												<td><strong>0.36%</strong></td>
-												<td>19/03/2020</td>
-												<td>25/03/2020</td>
+												<td><strong>3.19%</strong></td>
+												<td><strong>3.24%</strong></td>
+												<td><strong>-0.27%</strong></td>
+												<td>18/02/2021</td>
+												<td>24/02/2021</td>
 											</tr>
 										</tbody>
 									</table>
@@ -393,77 +392,99 @@
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>5.13%</strong></td>
-													<td><strong>5.21%</strong></td>
-													<td><strong>1.68%</strong></td>
-													<td>19/03/2020</td>
-													<td>25/03/2020</td>
+													<td><strong>3.12%</strong></td>
+													<td><strong>3.15%</strong></td>
+													<td><strong>-0.36%</strong></td>
+													<td>18/02/2021</td>
+													<td>24/02/2021</td>
 												</tr>
 												<tr>
 													<td scope="row">210 días</td>
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>5.45%</strong></td>
-													<td><strong>5.54%</strong></td>
-													<td><strong>1.99%</strong></td>
-													<td>19/03/2020</td>
-													<td>25/03/2020</td>
+													<td><strong>3.32%</strong></td>
+													<td><strong>3.35%</strong></td>
+													<td><strong>-0.16%</strong></td>
+													<td>18/02/2021</td>
+													<td>24/02/2021</td>
 												</tr>
 												<tr>
 													<td scope="row">240 días</td>
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>5.77%</strong></td>
-													<td><strong>5.86%</strong></td>
-													<td><strong>2.30%</strong></td>
-													<td>19/03/2020</td>
-													<td>25/03/2020</td>
+													<td><strong>3.52%</strong></td>
+													<td><strong>3.55%</strong></td>
+													<td><strong>0.03%</strong></td>
+													<td>18/02/2021</td>
+													<td>24/02/2021</td>
 												</tr>
 												<tr>
 													<td scope="row">270 días</td>
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>6.08%</strong></td>
-													<td><strong>6.17%</strong></td>
-													<td><strong>2.60%</strong></td>
-													<td>19/03/2020</td>
-													<td>25/03/2020</td>
+													<td><strong>3.72%</strong></td>
+													<td><strong>3.75%</strong></td>
+													<td><strong>0.22%</strong></td>
+													<td>18/02/2021</td>
+													<td>24/02/2021</td>
 												</tr>
 												<tr>
 													<td scope="row">300 días</td>
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>6.40%</strong></td>
-													<td><strong>6.48%</strong></td>
-													<td><strong>2.90%</strong></td>
-													<td>19/03/2020</td>
-													<td>25/03/2020</td>
+													<td><strong>3.92%</strong></td>
+													<td><strong>3.95%</strong></td>
+													<td><strong>0.42%</strong></td>
+													<td>18/02/2021</td>
+													<td>24/02/2021</td>
 												</tr>
 												<tr>
 													<td scope="row">330 días</td>
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>6.72%</strong></td>
-													<td><strong>6.80%</strong></td>
-													<td><strong>3.21%</strong></td>
-													<td>19/03/2020</td>
-													<td>25/03/2020</td>
+													<td><strong>4.12%</strong></td>
+													<td><strong>4.15%</strong></td>
+													<td><strong>0.61%</strong></td>
+													<td>18/02/2021</td>
+													<td>24/02/2021</td>
 												</tr>
 												<tr>
 													<td scope="row">360 días</td>
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>7.03%</strong></td>
-													<td><strong>7.10%</strong></td>
-													<td><strong>3.50%</strong></td>
-													<td>19/03/2020</td>
-													<td>25/03/2020</td>
+													<td><strong>4.32%</strong></td>
+													<td><strong>4.35%</strong></td>
+													<td><strong>0.80%</strong></td>
+													<td>18/02/2021</td>
+													<td>24/02/2021</td>
+												</tr>
+												<tr>
+													<td scope="row">720 días</td>
+													<td>No aplica comisión</td>
+													<td>0.00</td>
+													<td>No aplica</td>
+													<td><strong>4.52%</strong></td>
+													<td><strong>4.48%</strong></td>
+													<td><strong>0.93%</strong></td>
+													<td>18/02/2021</td>
+													<td>24/02/2021</td>
+												</tr>
+												<tr>
+													<td scope="row">1080 días</td>
+													<td>No aplica comisión</td>
+													<td>0.00</td>
+													<td>No aplica</td>
+													<td><strong>4.64%</strong></td>
+													<td><strong>4.53%</strong></td>
+													<td><strong>0.98%</strong></td>
+													<td>18/02/2021</td>
+													<td>24/02/2021</td>
 												</tr>
 											</tbody>
 										</table>
@@ -507,11 +528,11 @@
 													<td scope="row">No aplica comisión por apertura de la cuenta.</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>2.61%</strong></td>
-													<td><strong>2.64%</strong></td>
-													<td><strong>-0.81%</strong></td>
-													<td>19/03/2020</td>
-													<td>25/03/2020</td>
+													<td><strong>1.58%</strong></td>
+													<td><strong>1.59%</strong></td>
+													<td><strong>-1.86%</strong></td>
+													<td>18/02/2021</td>
+													<td>24/02/2021</td>
 												</tr>
 												<tr>
 													<td scope="row">Retiros en cajeros automáticos internacionales</td>
@@ -640,98 +661,126 @@
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>3.80%</strong></td>
-													<td><strong>3.87%</strong></td>
-													<td><strong>0.37%</strong></td>
+													<td><strong>2.56%</strong></td>
+													<td><strong>2.59%</strong></td>
+													<td><strong>-0.90%</strong></td>
 													<td><strong> </strong></td>
 													<td><strong> </strong></td>
 													<td><strong> </strong></td>
-													<td>19/03/2020</td>
-													<td>25/03/2020</td>
+													<td>18/02/2021</td>
+													<td>24/02/2021</td>
 												</tr>
 												<tr>
 													<td scope="row">A 60 días</td>
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>4.01%</strong></td>
-													<td><strong>4.08%</strong></td>
-													<td><strong>0.58%</strong></td>
+													<td><strong>2.66%</strong></td>
+													<td><strong>2.69%</strong></td>
+													<td><strong>-0.80%</strong></td>
 													<td><strong> </strong></td>
 													<td><strong> </strong></td>
 													<td><strong> </strong></td>
-													<td>19/03/2020</td>
-													<td>25/03/2020</td>
+													<td>18/02/2021</td>
+													<td>24/02/2021</td>
 												</tr>
 												<tr>
 													<td scope="row">A 90 días</td>
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>4.22%</strong></td>
-													<td><strong>4.29%</strong></td>
-													<td><strong>0.78%</strong></td>
+													<td><strong>2.76%</strong></td>
+													<td><strong>2.79%</strong></td>
+													<td><strong>-0.71%</strong></td>
 													<td><strong> </strong></td>
 													<td><strong> </strong></td>
 													<td><strong> </strong></td>
-													<td>19/03/2020</td>
-													<td>25/03/2020</td>
+													<td>18/02/2021</td>
+													<td>24/02/2021</td>
 												</tr>
-												<tr>
+												<!-- <tr>
 													<td scope="row">A 120 días</td>
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>4.44%</strong></td>
-													<td><strong>4.51%</strong></td>
-													<td><strong>0.99%</strong></td>
-													<td><strong>4.41%</strong></td>
-													<td><strong>4.48%</strong></td>
-													<td><strong>0.96%</strong></td>
-													<td>19/03/2020</td>
-													<td>25/03/2020</td>
+													<td><strong>3.14%</strong></td>
+													<td><strong>3.17%</strong></td>
+													<td><strong>-0.39%</strong></td>
+													<td><strong>3.11%</strong></td>
+													<td><strong>3.14%</strong></td>
+													<td><strong>-0.42%</strong></td>
+													<td>18/02/2021</td>
+													<td>24/02/2021</td>
 												</tr>
 												<tr>
 													<td scope="row">A 150 días</td>
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>4.65%</strong></td>
-													<td><strong>4.72%</strong></td>
-													<td><strong>1.20%</strong></td>
-													<td><strong>4.60%</strong></td>
-													<td><strong>4.67%</strong></td>
-													<td><strong>1.15%</strong></td>
-													<td>19/03/2020</td>
-													<td>25/03/2020</td>
-												</tr>
+													<td><strong>3.25%</strong></td>
+													<td><strong>3.29%</strong></td>
+													<td><strong>-0.28%</strong></td>
+													<td><strong>3.21%</strong></td>
+													<td><strong>3.24%</strong></td>
+													<td><strong>-0.32%</strong></td>
+													<td>18/02/2021</td>
+													<td>24/02/2021</td>
+												</tr> -->
 												<tr>
 													<td scope="row">A 180 días</td>
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>4.87%</strong></td>
-													<td><strong>4.93%</strong></td>
-													<td><strong>1.40%</strong></td>
-													<td><strong>4.81%</strong></td>
-													<td><strong>4.87%</strong></td>
-													<td><strong>1.34%</strong></td>
-													<td>19/03/2020</td>
-													<td>25/03/2020</td>
+													<td><strong>3.05%</strong></td>
+													<td><strong>3.07%</strong></td>
+													<td><strong>-0.43%</strong></td>
+													<td><strong>2.97%</strong></td>
+													<td><strong>2.99%</strong></td>
+													<td><strong>-0.51%</strong></td>
+													<td>18/02/2021</td>
+													<td>24/02/2021</td>
 												</tr>
 												<tr>
 													<td scope="row">A 360 días</td>
 													<td>No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>6.22%</strong></td>
-													<td><strong>6.22%</strong></td>
-													<td><strong>2.65%</strong></td>
-													<td><strong>6.09%</strong></td>
-													<td><strong>6.26%</strong></td>
-													<td><strong>2.69%</strong></td>
-													<td>19/03/2020</td>
-													<td>25/03/2020</td>
+													<td><strong>3.64%</strong></td>
+													<td><strong>3.64%</strong></td>
+													<td><strong>0.12%</strong></td>
+													<td><strong>3.45%</strong></td>
+													<td><strong>3.51%</strong></td>
+													<td><strong>-0.01%</strong></td>
+													<td>18/02/2021</td>
+													<td>24/02/2021</td>
+												</tr>
+												<tr>
+													<td scope="row">A 720 días</td>
+													<td>No aplica comisión</td>
+													<td>0.00</td>
+													<td>No aplica</td>
+													<td><strong></strong></td>
+													<td><strong></strong></td>
+													<td><strong></strong></td>
+													<td><strong>3.49%</strong></td>
+													<td><strong>3.55%</strong></td>
+													<td><strong>0.03%</strong></td>
+													<td>18/02/2021</td>
+													<td>24/02/2021</td>
+												</tr>
+												<tr>
+													<td scope="row">A 1080 días</td>
+													<td>No aplica comisión</td>
+													<td>0.00</td>
+													<td>No aplica</td>
+													<td><strong></strong></td>
+													<td><strong></strong></td>
+													<td><strong></strong></td>
+													<td><strong>3.50%</strong></td>
+													<td><strong>3.56%</strong></td>
+													<td><strong>0.04%</strong></td>
+													<td>18/02/2021</td>
+													<td>24/02/2021</td>
 												</tr>
 											</tbody>
 										</table>
@@ -776,9 +825,9 @@
 													<td>Por evento</td>
 													<td><strong>0.50%</strong></td>
 													<td><strong>0.50%</strong></td>
-													<td><strong>-2.88%</strong></td>
-													<td>19/03/2020</td>
-													<td>25/03/2020</td>
+													<td><strong>-2.92%</strong></td>
+													<td>18/02/2021</td>
+													<td>24/02/2021</td>
 												</tr>
 												<tr>
 													<td scope="row">Consulta de saldo en cajeros automáticos internacionales</td>
@@ -882,11 +931,11 @@
 													<td scope="row">No aplica comisión</td>
 													<td>0.00</td>
 													<td>No aplica</td>
-													<td><strong>3.79%</strong></td>
-													<td><strong>3.86%</strong></td>
-													<td><strong>0.36%</strong></td>
-													<td>19/03/2020</td>
-													<td>25/03/2020</td>
+													<td><strong>3.19%</strong></td>
+													<td><strong>3.24%</strong></td>
+													<td><strong>-0.27%</strong></td>
+													<td>18/02/2021</td>
+													<td>24/02/2021</td>
 												</tr>
 												<tr>
 													<td scope="row">Retiros en cajeros automáticos internacionales</td>
@@ -895,8 +944,8 @@
 													<td><strong>0.50%</strong></td>
 													<td><strong>0.50%</strong></td>
 													<td><strong>-3.25%</strong></td>
-													<td>19/03/2020</td>
-													<td>25/03/2020</td>
+													<td>18/02/2021</td>
+													<td>24/02/2021</td>
 												</tr>
 												<tr>
 													<td scope="row">Consulta de saldo en cajeros automáticos internacionales</td>
@@ -1002,77 +1051,99 @@
 													<td>No aplica comisión</td>
 													<td>0</td>
 													<td>No aplica</td>
-													<td><strong>4.36%</strong></td>
-													<td><strong>4.42%</strong></td>
-													<td><strong>0.91%</strong></td>
-													<td><strong>Marzo</strong></td>
-													<td>19/03/2020 al 25/03/2020</td>
+													<td><strong>2.73%</strong></td>
+													<td><strong>2.75%</strong></td>
+													<td><strong>-0.74%</strong></td>
+													<td>Febrero</td>
+													<td>18/02/2021 al 24/02/2021</td>
 												</tr>
 												<tr>
 													<td scope="row">210 días</td>
 													<td>No aplica comisión</td>
 													<td>0</td>
 													<td>No aplica</td>
-													<td><strong>4.63%</strong></td>
-													<td><strong>4.70%</strong></td>
-													<td><strong>1.17%</strong></td>
-													<td><strong>Marzo</strong></td>
-													<td>19/03/2020 al 25/03/2020</td>
+													<td><strong>2.91%</strong></td>
+													<td><strong>2.93%</strong></td>
+													<td><strong>-0.57%</strong></td>
+													<td>Febrero</td>
+													<td>18/02/2021 al 24/02/2021</td>
 												</tr>
 												<tr>
 													<td scope="row">240 días</td>
 													<td>No aplica comisión</td>
 													<td>0</td>
 													<td>No aplica</td>
-													<td><strong>4.90%</strong></td>
-													<td><strong>4.97%</strong></td>
-													<td><strong>1.44%</strong></td>
-													<td><strong>Marzo</strong></td>
-													<td>19/03/2020 al 25/03/2020</td>
+													<td><strong>3.08%</strong></td>
+													<td><strong>3.11%</strong></td>
+													<td><strong>-0.40%</strong></td>
+													<td>Febrero</td>
+													<td>18/02/2021 al 24/02/2021</td>
 												</tr>
 												<tr>
 													<td scope="row">270 días</td>
 													<td>No aplica comisión</td>
 													<td>0</td>
 													<td>No aplica</td>
-													<td><strong>5.17%</strong></td>
-													<td><strong>5.23%</strong></td>
-													<td><strong>1.69%</strong></td>
-													<td><strong>Marzo</strong></td>
-													<td>19/03/2020 al 25/03/2020</td>
+													<td><strong>3.26%</strong></td>
+													<td><strong>3.28%</strong></td>
+													<td><strong>-0.23%</strong></td>
+													<td>Febrero</td>
+													<td>18/02/2021 al 24/02/2021</td>
 												</tr>
 												<tr>
 													<td scope="row">300 días</td>
 													<td>No aplica comisión</td>
 													<td>0</td>
 													<td>No aplica</td>
-													<td><strong>5.44%</strong></td>
-													<td><strong>5.50%</strong></td>
-													<td><strong>1.95%</strong></td>
-													<td><strong>Marzo</strong></td>
-													<td>19/03/2020 al 25/03/2020</td>
+													<td><strong>3.43%</strong></td>
+													<td><strong>3.45%</strong></td>
+													<td><strong>-0.06%</strong></td>
+													<td>Febrero</td>
+													<td>18/02/2021 al 24/02/2021</td>
 												</tr>
 												<tr>
 													<td scope="row">330 días</td>
 													<td>No aplica comisión</td>
 													<td>0</td>
 													<td>No aplica</td>
-													<td><strong>5.71%</strong></td>
-													<td><strong>5.77%</strong></td>
-													<td><strong>2.21%</strong></td>
-													<td><strong>Marzo</strong></td>
-													<td>19/03/2020 al 25/03/2020</td>
+													<td><strong>3.61%</strong></td>
+													<td><strong>3.63%</strong></td>
+													<td><strong>0.10%</strong></td>
+													<td>Febrero</td>
+													<td>18/02/2021 al 24/02/2021</td>
 												</tr>
 												<tr>
 													<td scope="row">360 días</td>
 													<td>No aplica comisión</td>
 													<td>0</td>
 													<td>No aplica</td>
-													<td><strong>5.98%</strong></td>
-													<td><strong>6.03%</strong></td>
-													<td><strong>2.46%</strong></td>
-													<td><strong>Marzo</strong></td>
-													<td>19/03/2020 al 25/03/2020</td>
+													<td><strong>3.78%</strong></td>
+													<td><strong>3.80%</strong></td>
+													<td><strong>0.27%</strong></td>
+													<td>Febrero</td>
+													<td>18/02/2021 al 24/02/2021</td>
+												</tr>
+												<tr>
+													<td scope="row">720 días</td>
+													<td>No aplica comisión</td>
+													<td>0</td>
+													<td>No aplica</td>
+													<td><strong>3.96%</strong></td>
+													<td><strong>3.93%</strong></td>
+													<td><strong>0.39%</strong></td>
+													<td>Febrero</td>
+													<td>18/02/2021 al 24/02/2021</td>
+												</tr>
+												<tr>
+													<td scope="row">1080 días</td>
+													<td>No aplica comisión</td>
+													<td>0</td>
+													<td>No aplica</td>
+													<td><strong>4.06%</strong></td>
+													<td><strong>3.98%</strong></td>
+													<td><strong>0.44%</strong></td>
+													<td>Febrero</td>
+													<td>18/02/2021 al 24/02/2021</td>
 												</tr>
 											</tbody>
 										</table>

@@ -3,27 +3,28 @@
 				<div class="row text-center">
 					<div class="col-12 col-lg z-index-1">
 						<a href="#" class="btn btn-primary btn-lg btn-block rounded-pill w-100 w-lg-75 mx-auto p-3 mb-2 mb-lg-0 active">
-							Comunicación <i class="fa fa-chevron-circle-right"></i>
+							Sala de prensa <i class="fa fa-chevron-circle-right"></i>
 						</a>
 					</div>
 					<div class="col-12 col-lg p-0 pl-md-0 pl-lg-3 mb-2 mb-lg-0 white-circle-n-line">
-						<a href="revistas" class="btn bg-tertiary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
+					<!-- <div class="col-12 col-lg p-0 mb-2 mb-lg-0 "> -->
+						<a href="https://www.cpm.coop/revistas" class="btn bg-primary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
 							Revistas
 						</a>
 					</div>
 					<div class="col-12 col-lg p-0 mb-2 mb-lg-0 ">
-						<a href="cpm-movil" class="btn bg-primary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
-							Noticias
-						</a>
-					</div>
-					<div class="col-12 col-lg p-0 mb-2 mb-lg-0 ">
-						<a href="cpm-en-linea" class="btn bg-quaternary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
-							Notas de prensa
-						</a>
-					</div>
-					<div class="col-12 col-lg p-0 mb-2 mb-lg-0 ">
-						<a href="Boletines" class="btn bg-primary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
+						<a href="https://www.cpm.coop/boletines" class="btn bg-quaternary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
 							Boletines
+						</a>
+					</div>
+					<div class="col-12 col-lg p-0 mb-2 mb-lg-0 ">
+						<a href="https://www.cpm.coop/noticias-cpm" class="btn bg-primary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
+							Noticias CPM
+						</a>
+					</div>
+					<div class="col-12 col-lg p-0 mb-2 mb-lg-0 ">
+						<a href="https://www.cpm.coop/notas-de-prensa" class="btn bg-quaternary btn-lg btn-block w-100 rounded-0 py-3 px-0 text-white">
+							Notas de prensa
 						</a>
 					</div>
 				</div>
@@ -36,15 +37,15 @@
 					<div class="col-12">
 						<div class="dropdown">
 							<a class="btn btn-primary rounded-pill text-white w-100 float-right" data-toggle="collapse" href="#innerMenuMobile" role="button" aria-expanded="false" aria-controls="innerMenuMobile">
-								Comunicación <i class="fa fa-chevron-circle-down"></i>
+								Sala de prensa <i class="fa fa-chevron-circle-down"></i>
 							</a>
 						</div>
 						<div class="collapse w-100" id="innerMenuMobile">
 							<ul class="list-group w-100 pt-3">
+								<!-- <li class="list-group-item"><a href="noticias-cpm">Noticias</a></li> -->
 								<li class="list-group-item"><a href="revistas">Revistas</a></li>
-								<li class="list-group-item"><a href="cpm-movil">Noticias</a></li>
-								<li class="list-group-item"><a href="cpm-en-linea">Notas de prensa</a></li>
-								<li class="list-group-item"><a href="Boletines">Boletines</a></li>
+								<li class="list-group-item"><a href="boletines">Boletines</a></li>
+								<li class="list-group-item"><a href="notas-de-prensa">Revistas</a></li>
 							</ul>
 						</div> <!-- ./ Menu Mobile Collapsable -->
 					</div>

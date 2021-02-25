@@ -1,7 +1,6 @@
 <?php include('inc/header.php'); ?>
 
 		<section class="after-flange header-title-inner bg-gradient-green">
-		<!-- <section class="after-flange header-title-inner" style="background-image: url('assets/img/secciones/cpm-servicio-en-linea.jpg'), url('assets/img/secciones/cpm-servicio-en-linea-bg.jpg'); background-position: bottom right, center; background-size: auto 100%; background-repeat: no-repeat, repeat-x;"> -->
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
 					<div class="col">
@@ -13,18 +12,17 @@
 
 		<?php include('inc/navs/inner_nav_page-cpm-en-linea.php') ?>
 
-		<section class="main-tag-line py-5">
+		<!-- <section class="main-tag-line py-5">
 			<div class="container">
 				<div class="row">
 					<div class="col-12">
 						<video autoplay loop muted inline class="w-100">
-							<source class="embed-responsive-item" src="assets/video/banner_cpm_sei_loop.mp4" type="video/mp4">
-							<img src="assets/img/secciones/banner-sei.jpg" />
+							<source class="embed-responsive-item" src="assets/video/Video_para_www.cpm.coop-preguntas-frecuentes-sei_112020.mp4" type="video/mp4">
 						</video>
 					</div>
 				</div>
 			</div>
-		</section> <!-- /. Main Tag Line -->
+		</section> --> <!-- /. Main Tag Line -->
 
 		<section class="page-content">
 			<div class="container">
@@ -37,7 +35,7 @@
 							<div class="card">
 								<div class="card-header" id="headingOne">
 									<h2 class="mb-0">
-										<button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
 											<strong>¿Qué requisitos necesito para contratar el Servicio Electrónico por Internet?</strong>
 										</button>
 									</h2>
@@ -72,7 +70,7 @@
 								</div>
 							</div>
 
-							<div class="card">
+							<!-- <div class="card">
 								<div class="card-header" id="headingThree">
 									<h2 class="mb-0">
 										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
@@ -92,7 +90,7 @@
 										</ul>
 									</div>
 								</div>
-							</div>
+							</div> -->
 
 							<div class="card">
 								<div class="card-header" id="headingFour">
@@ -112,10 +110,27 @@
 							</div>
 
 							<div class="card">
+								<div class="card-header" id="headingFourTwo">
+									<h2 class="mb-0">
+										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+											<strong>¿En dónde puedo descargar la aplicación CPM Móvil Plus?</strong>
+										</button>
+									</h2>
+								</div>
+								<div id="collapseFour" class="collapse" aria-labelledby="headingFourTwo" data-parent="#accordionCICPM">
+									<div class="card-body bg-grey0 p-4">
+										<div class="p-5 bg-white bw-1 border-grey1">
+											<p>Según el sistema operativo del dispositivo móvil, si es Android en <a href="https://play.google.com/store/apps/details?id=coop.cpm.cpmenlinea.mobile&amp;hl=es_MX" target="_blank"><strong>Play Store</strong></a>, si es iOS en <a href="https://apps.apple.com/mx/app/cpm-movil/id1395963629" target="_blank"><strong>App Store</strong></a></p>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="card">
 								<div class="card-header" id="headingFive">
 									<h2 class="mb-0">
 										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-											<strong>¿Cómo puedo obtener ayuda para realizar operaciones a través de CPM en Línea / CPM Móvil?</strong>
+											<strong>¿Cómo puedo obtener ayuda para realizar operaciones?</strong>
 										</button>
 									</h2>
 								</div>
@@ -149,7 +164,7 @@
 								<div class="card-header" id="headingSeven">
 									<h2 class="mb-0">
 										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-											<strong>¿Qué debo hacer si olvidé mi contraseña?</strong>
+											<strong>¿Qué debo hacer si olvidé mi contraseña para ingresar a CPM Movil y CPM en Línea?</strong>
 										</button>
 									</h2>
 								</div>
@@ -200,7 +215,7 @@
 								<div class="card-header" id="headingTen">
 									<h2 class="mb-0">
 										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
-											<strong>¿Cómo puedo solicitar una aclaración de mis movimientos realizados a través de CPM en Línea/CPM Móvil?</strong>
+											<strong>¿Cómo puedo solicitar una aclaración de mis movimientos realizados?</strong>
 										</button>
 									</h2>
 								</div>

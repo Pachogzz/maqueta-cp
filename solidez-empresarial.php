@@ -3,16 +3,6 @@
 		<section class="after-flange header-title-inner bg-gradient-green">
 			<div class="container h-100">
 				<div class="row h-100 align-items-center">
-				<!-- <div class="row h-100 align-items-center has-video-bg">
-					<div class="bg-video-title w-100 text-center">
-						<video autoplay loop muted class="video-bg container px-0" id="video-bg">
-							<source 
-								class=""
-								src="assets/video/conocenos.mp4" 
-								type="video/mp4" 
-								alt="Bienvenido a Caja Popular Mexicana">
-						</video>
-					</div> -->
 					<div class="col">
 						<h1 id="sectionTitle" class="display-4 br-30">Solidez Empresarial</h1>
 					</div>
@@ -47,42 +37,42 @@
 					<div class="col-12 col-md-6 col-lg-4 mb-4 mb-md-5">
 						<div class="h-100 bg-primary text-white text-center rounded p-5">
 							<i class="fas fa-users fa-5x mb-3"></i>
-							<h2 class="font-weight-bolder mb-3 counter-val">2,784,300</h2>
+							<h2 class="font-weight-bolder mb-3 counter-val">2,912,350</h2>
 							<h4>Socios</h4>
 						</div>
 					</div>
 					<div class="col-12 col-md-6 col-lg-4 mb-4 mb-md-5">
 						<div class="h-100 bg-quinary text-white text-center rounded p-5">
 							<i class="fas fa-child fa-5x mb-3"></i>
-							<h2 class="font-weight-bolder mb-3 counter-val">339,174</h2>
+							<h2 class="font-weight-bolder mb-3 counter-val">326,855</h2>
 							<h4>Ahorradores Menores de Edad</h4>
 						</div>
 					</div>
 					<div class="col-12 col-md-6 col-lg-4 mb-4 mb-md-5">
 						<div class="h-100 bg-primary text-white text-center rounded p-5">
 							<i class="fas fa-store-alt fa-5x mb-3"></i>
-							<h2 class="font-weight-bolder mb-3 counter-val">474</h2>
+							<h2 class="font-weight-bolder mb-3 counter-val">478</h2>
 							<h4>Sucursales</h4>
 						</div>
 					</div>
 					<div class="col-12 col-md-6 col-lg-4 mb-4 mb-md-5">
 						<div class="h-100 bg-quinary text-white text-center rounded p-5">
 							<i class="fas fa-piggy-bank fa-5x mb-3"></i>
-							<h2 class="font-weight-bolder mb-3 counter-val asterisk">50,364,602</h2>
+							<h2 class="font-weight-bolder mb-3 counter-val asterisk">56,337,697</h2>
 							<h4>Captación</h4>
 						</div>
 					</div>
 					<div class="col-12 col-md-6 col-lg-4 mb-4 mb-md-5">
 						<div class="h-100 bg-primary text-white text-center rounded p-5">
 							<i class="fas fa-money-bill-wave fa-5x mb-3"></i>
-							<h2 class="font-weight-bolder mb-3 counter-val asterisk">39,250,154</h2>
+							<h2 class="font-weight-bolder mb-3 counter-val asterisk">39,381,948</h2>
 							<h4>Colocación</h4>
 						</div>
 					</div>
 					<div class="col-12 col-md-6 col-lg-4 mb-4 mb-md-5">
 						<div class="h-100 bg-quinary text-white text-center rounded p-5">
 							<i class="fas fa-hand-holding-usd fa-5x mb-3"></i>
-							<h2 class="font-weight-bolder mb-3 counter-val asterisk">62,081,637</h2>
+							<h2 class="font-weight-bolder mb-3 counter-val asterisk">68,076,406</h2>
 							<h4>Activos</h4>
 						</div>
 					</div>
@@ -91,7 +81,7 @@
 				<div class="row">
 					<div class="col-12">
 						<p class="text-center text-grey2">CAJA POPULAR MEXICANA S.C. DE A.P. DE R.L. DE C.V. <br>
-						*Cifras en miles de pesos | Información estadística al 29 de Febrero de 2020</p>
+						*Cifras en miles de pesos | Información estadística al 31 de Enero de 2021</p>
 					</div>
 				</div>
 			</div>
@@ -100,3 +90,12 @@
 <?php include('inc/boletin-and-banner.php') ?>
 
 <?php include('inc/footer.php'); ?>
+		
+<!-- Counter Up -->
+<script src="assets/js/jquery.counterup.js"></script>
+<script>
+	$(document).ready(function(){
+		// Inicializa el contador de los números ( actualmente ubicado solamente en Solidez Empresarial )
+		$('.counter-val').rCounter({});
+	});
+</script>

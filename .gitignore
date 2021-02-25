@@ -3,8 +3,13 @@
 
 # Exclude folders
 unused
+unused/*
+assets/pdfs/contratos
+assets/pdfs/contratos/*
 assets/pdfs/revistas
 assets/pdfs/revistas/*
+assets/pdfs/boletines
+assets/pdfs/boletines/*
 
 # all node modules
 node_modules

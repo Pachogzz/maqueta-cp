@@ -1,14 +1,14 @@
 		<div class="row mt-4 mt-md-5 mb-4 mb-md-5">
 			<div class="col-12 col-lg-9 mb-3 mb-lg-0">
 				<div class="bg-grey0 p-4 p-md-5 h-100">
-					<p class="display-12">Con la finalidad de atender sus aclaraciones, consultas y reclamaciones relacionadas con las operaciones y servicios que realice con nosotros Caja Popular Mexicana pone a su disposición la Unidad Especializada de Atención a Usuarios (UNE), con domicilio en <strong>Calle Ignacio Altamirano No. 407, Colonia San Juan de Dios, C.P. 37004, en la ciudad de León, Gto.</strong>, así como un número telefónico gratuito <strong>01 800 276 86 37</strong> y <strong>01 477 7 88 80 00 extensión 8142</strong> y correo electrónico <strong>une@cpm.coop</strong>.</p>
+					<p class="display-12">Con la finalidad de atender sus aclaraciones, consultas y reclamaciones relacionadas con las operaciones y servicios que realice con nosotros Caja Popular Mexicana pone a su disposición la Unidad Especializada de Atención a Usuarios (UNE), con domicilio en <strong>Calle Ignacio Altamirano No. 407, Colonia San Juan de Dios, C.P. 37004, en la ciudad de León, Gto.</strong>, así como un número telefónico gratuito <strong>800 276 86 37</strong> y <strong>477 7 88 80 00 extensión 8142</strong> y correo electrónico <strong>une@cpm.coop</strong>.</p>
 					<p class="display-12">Situaciones que NO pueden ser atendidas por la UNE</p>
 					<ul class="display-12">
 						<li>Solicitudes de reestructura o convenios de pago de créditos.</li>
 						<li>Asuntos relacionados con solicitudes de crédito.</li>
 						<li>Aquellas que se encuentren en trámite ante la CONDUSEF o en proceso Judicial.</li>
 					</ul>
-					<p class="display-12"><strong>Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros (CONDUSEF)</strong>, al teléfono <strong>01800 999 80 80</strong> y en el D.F. al <strong>55 5340 0999</strong>, página de internet <strong>www.condusef.gob.mx</strong> y al correo electrónico <strong>asesoria@condusef.gob.mx</strong></p>
+					<p class="display-12"><strong>Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros (CONDUSEF)</strong>, al teléfono <strong>800 999 80 80</strong> y en la Ciudad de México al <strong>55 5340 0999</strong>, página de internet <strong>www.condusef.gob.mx</strong> y al correo electrónico <strong>asesoria@condusef.gob.mx</strong></p>
 				</div>
 			</div>
 			<div class="col-12 col-lg-3">

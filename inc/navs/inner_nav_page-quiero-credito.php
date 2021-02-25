@@ -50,7 +50,7 @@
 						</div>
 						<div class="collapse w-100" id="innerMenuMobile">
 							<ul class="list-group w-100 pt-3">
-								<li class="list-group-item"><a href="ser-socip">Socio</a></li>
+								<li class="list-group-item"><a href="ser-socio">Socio</a></li>
 								<li class="list-group-item"><a href="ubica-tu-sucursal">Ubica tu sucursal</a></li>
 								<li class="list-group-item">
 									<a href="#" class="dropdown-toggle" type="button" id="dropdownMenuItem3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Créditos</a>

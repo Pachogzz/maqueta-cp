@@ -27,13 +27,13 @@
 							<img width="" src="assets/img/secciones/logos-credito/credito-inmediato.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Obtén un crédito inmediato, de igual o menor monto a tu ahorro, con una tasa accesible</p>
 							<p class="lead my-3 font-weight-bold text-primary">Montos desde $2,000.00 hasta $30,000,000.00</p>
-							<p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/FR-1920_Contrato_de_apertura_de_credito_simple.pdf" target="_blank">aquí</a></p>
+							<p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/contratos/FR-1920_Contrato_de_apertura_de_credito_simple_SUCURSAL-122020.pdf" target="_blank">aquí</a></p>
 							<!-- <p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/contratos/Credito-Inmediato-CPM/FR-1920-Contrato-de-apertura-de-credito-simple.pdf">aquí</a></p> -->
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 						<!-- Nota Legal -->
 						<div class="bg-grey0 p-5 mb-5">
-							<p class="display-12"><strong>Costo Anual Total Promedio de 392,491,855,591,545,000,000,000,000,000,000,000,000.0% sin IVA</strong>. Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 30 de Junio de 2020.</strong></p>
+							<p class="display-12"><strong>Costo Anual Total Promedio de 2,358,676,891,059,460,000,000,000,000,000,000,000.0% sin IVA</strong>. Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 31 de Enero de 2021.</strong></p>
 							<!-- <p class="display-12">*Cálculo para el <strong>Crédito Inmediato CPM</strong> por la cantidad de <strong>$15,000.00 a un plazo de 12 meses con un monto mínimo de ahorro de $1,500.00</strong>.</p>
 							<ul class="display-12">
 								<li>Sujeto a aprobación de crédito.</li>
@@ -44,6 +44,10 @@
 							</ul> -->
 						</div>
 						<!-- Nota Legal -->
+						<!-- Nota Legal 2 -->
+						<div class="bg-grey0 p-5 mb-5">
+							<p class="display-12">El cálculo del CAT de este producto de crédito considera la garantía en ahorro requerida para su trámite, ahorro que gana interés. Para mayor información consulta a un ejecutivo en sucursal. Sujeto a aprobación de crédito.</p>
+						</div>
 					</div>
 					<div class="col-12 col-md-6">
 						<!-- MENU -->
@@ -68,7 +72,8 @@
 										<ul class="p-5 bg-white bw-1 border-grey1">
 											<li>Hasta 72 meses en créditos garantizados líquida basada en Cuenta Mexicana.</li>
 											<li>En caso de pagos únicos, el plazo máximo será de 18 meses</li>
-											<li>Tratándose de créditos garantizados con Rendicuenta, el plazo será de conformidad con el vencimiento de la inversión.</li>
+											<li>Tratándose de créditos garantizados con Rendicuenta, el plazo será de conformidad con el vencimiento de la inversión, siempre y cuando no sea mayor a 12 meses.</li>
+											<!-- <li>Tratándose de créditos garantizados con Rendicuenta, el plazo será de conformidad con el vencimiento de la inversión.</li> -->
 										</ul>
 									</div>
 								</div>
@@ -88,7 +93,7 @@
 												<p>Tasa de interés ordinaria anual fija única del 12.24 más IVA.</p>
 											</li>
 											<li><strong>CAT Promedio Crédito Inmediato CPM</strong>
-												<p><strong>Costo Anual Total Promedio de 392,491,855,591,545,000,000,000,000,000,000,000,000.0% sin IVA</strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 30 de Junio de 2020.</strong></p>
+												<p><strong>Costo Anual Total Promedio de 2,358,676,891,059,460,000,000,000,000,000,000,000.0% sin IVA</strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 31 de Enero de 2021.</strong></p>
 											</li>
 										</ul>
 									</div>
@@ -111,9 +116,10 @@
 										</ul>
 										<h4>Condiciones</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">
-											<li>El ahorro será conforme al porcentaje de financiamiento sobre el monto del crédito o de la inversión en garantía.<br/>
-											Mínimo de 100% y máximo del 115%.</li>
+											<li>El ahorro será conforme al porcentaje de financiamiento sobre el monto del crédito o de la inversión en garantía. <br>Mínimo de 100% y máximo del 120%.</li>
+											<!-- <li>El ahorro será conforme al porcentaje de financiamiento sobre el monto del crédito o de la inversión en garantía.<br/> Mínimo de 100% y máximo del 115%.</li> -->
 											<li>Podrás obtener más de un Crédito Inmediato garantizado con Rendicuenta, siempre y cuando se respete el aforo de garantía de cada préstamo.</li>
+											<li>Tratándose de créditos garantizados con Rendicuenta, no aplicarán como garantía líquida para el Crédito Inmediato las inversiones bajo la modalidad de pago periódico de interés.</li>
 										</ul>
 										<h4>Documentos generales</h4>
 										<ul class="p-5 bg-white bw-1 border-grey1">

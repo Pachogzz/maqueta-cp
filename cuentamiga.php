@@ -7,7 +7,7 @@
 						<h1 id="sectionTitle" class="display-4 br-30">Cuentamiga</h1>
 					</div>
 				</div>
-			</div>
+			</div>ƒ
 		</section> <!-- /. Page Title -->
 
 		<?php include('inc/navs/inner_nav_page-quiero-ahorrar.php') ?>
@@ -27,7 +27,7 @@
 							<img width="" src="assets/img/secciones/logos-ahorro/cuentamiga.png" class="d-block w-100 py-2 px-3 mb-3">
 							<p class="lead">Cuentamiga, es una cuenta de ahorro diseñada para niños y jóvenes menores de 18 años, que quieran iniciar el hábito del ahorro; da la posibilidad de que, cuando seas mayor de edad, puedas ingresar como socio y hacer uso de nuestros diferentes servicios.</p>
 							<p class="lead"><span class="font-weight-bold text-primary"><a href="consulta-los-costos-y-comisiones-de-nuestros-productos">Consulta los costos y comisiones de nuestro producto aquí.</a></span></p>
-							<p class="lead"><span class="font-weight-bold text-primary">Consulta el contrato universal <a href="assets/pdfs/FR-1008-Contrato-Universal.pdf" target="blank">aquí</a></span></p>
+							<p class="lead"><span class="font-weight-bold text-primary">Consulta el contrato universal <a href="assets/pdfs/20200909_FR-1008_Contrato_Universal.pdf" target="blank">aquí</a></span></p>
 						</div>
 						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
 					</div>
@@ -103,8 +103,8 @@
 							<div class="col-12 mt-5">
 								<!-- Nota Legal -->
 								<div class="bg-grey0 p-5">
-									<p class="display-12">Vigencia del <strong>19 al 25 de Marzo del 2020</strong></p>
-									<p class="display-12">Fecha de cálculo Marzo 2020</p>
+									<p class="display-12">Vigencia del <strong>18 al 24 de Febrero de 2021.</strong></p>
+									<p class="display-12">Fecha de cálculo Febrero 2021.</p>
 									<p class="display-12"><strong>* GAT NOMINAL</strong> antes de impuestos. Para fines informativos y de comparación.</p>
 									<p class="display-12"><strong>**GAT REAL</strong> antes de impuestos. Para fines informativos y de comparación. La GAT REAL es el rendimiento que obtendría después de descontar la inflación estimada Para fines informativos y de comparación exclusivamente.</p>
 								</div>
@@ -129,21 +129,21 @@
 								<tbody>
 									<tr>
 										<td scope="row">$ 20.00 A $ 25,000.00</td>
-										<td><strong>3.79%</strong></td>
-										<td><strong>3.86%</strong></td>
-										<td><strong>0.36%</strong></td>
+										<td><strong>3.19%</strong></td>
+										<td><strong>3.24%</strong></td>
+										<td><strong>-0.27%</strong></td>
 									</tr>
 									<tr>
 										<td scope="row">$ 25,001.00 A $ 50,000.00</td>
-										<td><strong>3.90%</strong></td>
-										<td><strong>3.97%</strong></td>
-										<td><strong>0.47%</strong></td>
+										<td><strong>3.32%</strong></td>
+										<td><strong>3.37%</strong></td>
+										<td><strong>-0.14%</strong></td>
 									</tr>
 									<tr>
 										<td scope="row">$ 50,000.01 EN ADELANTE</td>
-										<td><strong>4.01%</strong></td>
-										<td><strong>4.08%</strong></td>
-										<td><strong>0.58%</strong></td>
+										<td><strong>3.46%</strong></td>
+										<td><strong>3.52%</strong></td>
+										<td><strong>0.00%</strong></td>
 									</tr>
 								</tbody>
 							</table>
