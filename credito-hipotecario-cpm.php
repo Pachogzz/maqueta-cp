@@ -1,0 +1,279 @@
+<?php include('inc/header.php'); ?>
+
+		<section class="after-flange header-title-inner bg-gradient-green">
+			<div class="container h-100">
+				<div class="row h-100 align-items-center">
+					<div class="col">
+						<h1 id="sectionTitle" class="display-4 br-30">Crédito Hipotecario CPM</h1>
+					</div>
+				</div>
+			</div>
+		</section> <!-- /. Page Title -->
+
+		<?php include('inc/navs/inner_nav_page-quiero-credito.php') ?> <!-- ./ Menú entre seccion -->
+
+		<section class="page-content">
+			<div class="container">
+				<div class="row mb-3 mb-lg-5">
+					<div class="col-12 text-center">
+						<div id="carouselControls" class="carousel slide" data-ride="carousel">
+							<ol class="carousel-indicators">
+								<li data-target="#carouselControls" data-slide-to="0" class="active"></li>
+								<li data-target="#carouselControls" data-slide-to="1"></li>
+								<li data-target="#carouselControls" data-slide-to="2"></li>
+								<li data-target="#carouselControls" data-slide-to="3"></li>
+								<li data-target="#carouselControls" data-slide-to="4"></li>
+							</ol>
+							<div class="carousel-inner">
+								<div class="carousel-item active">
+									<div class="h-100 w-100 text-center">
+										<img class="m-auto img-fluid" src="assets/img/secciones/creditos/hipotecario_0.jpg" alt="">
+									</div>
+								</div>
+								<div class="carousel-item">
+									<div class="h-100 w-100 text-center">
+										<img class="m-auto img-fluid" src="assets/img/secciones/creditos/hipotecario_1.jpg" alt="">
+									</div>
+								</div>
+								<div class="carousel-item">
+									<div class="h-100 w-100 text-center">
+										<img class="m-auto img-fluid" src="assets/img/secciones/creditos/hipotecario_2.jpg" alt="">
+									</div>
+								</div>
+								<div class="carousel-item">
+									<div class="h-100 w-100 text-center">
+										<img class="m-auto img-fluid" src="assets/img/secciones/creditos/hipotecario_3.jpg" alt="">
+									</div>
+								</div>
+								<div class="carousel-item">
+									<div class="h-100 w-100 text-center">
+										<img class="m-auto img-fluid" src="assets/img/secciones/creditos/hipotecario_4.jpg" alt="">
+									</div>
+								</div>
+							</div>
+							<a class="carousel-control-prev" href="#carouselControls" role="button" data-slide="prev">
+								<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+								<span class="sr-only">Previous</span>
+							</a>
+							<a class="carousel-control-next" href="#carouselControls" role="button" data-slide="next">
+								<span class="carousel-control-next-icon" aria-hidden="true"></span>
+								<span class="sr-only">Next</span>
+							</a>
+						</div>
+					</div>
+				</div> <!-- ./ End Row -->
+				<div class="row">
+					<div class="col-12 col-md-6">
+						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
+						<div class="has-label pb-5 pt-0 px-5">
+							<!-- <h2 class="d-inline-block border-primary text-primary font-weight-bolder bw-3 py-2 px-3 mb-3">DESCRIPCIÓN</h2> -->
+							<img width="" src="assets/img/secciones/logos-credito/credito-hipotecario.png" class="d-block w-100 py-2 px-3 mb-3">
+							<p class="lead">Adquiere tu vivienda nueva o usada, construcción, remodelación o mejoramiento sin propósito comercial, sustitución de hipoteca o cualquier otra finalidad lícita que garantice el préstamo con la vivienda propiedad del socio.</p>
+							<p class="lead my-3 font-weight-bold text-primary">Montos desde $64,402.00 Hasta $19,320,600.00 </p>
+							<!-- <p class="lead font-weight-bold text-primary">Consulta el contrato general <a href="assets/pdfs/FR-1917_Contrato_de_apertura_de_credito_en_cuenta_corriente.pdf" target="_blank">aquí</a></p> -->
+						</div>
+						<!-- Bloque "NOTA", ahora llamado "DESCRIPCIÓN" -->
+						<div class="embed-responsive embed-responsive-16by9 mb-3 mb-lg-5">
+							<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9diWKW-ZxEg" allowfullscreen></iframe>
+						</div>
+						<!-- Nota Legal -->
+						<div class="bg-grey0 p-5 mb-5">
+							<p class="display-12">
+								<strong>Costo Anual Total Promedio a 11.7% sin IVA.</strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 31 de Enero de 2021</strong>.
+							</p>
+						</div>
+						<!-- Nota Legal -->
+						<!-- Legal Productos -->
+						<!-- <div class="border border-light bw-5 rounded border-grey1 p-5 mb-5">
+							<p class="display-12 mb-0">Tu <em>Contrato de apertura de crédito simple con garantía hipotecaria para finalidades de liquidez</em>  del <strong>Crédito Hipotecario CPM</strong>, ha cambiado en el <u>apartado de proemio</u> y <u>antecedentes</u>. Estos ajustes entrarán en vigor a partir del <strong>7 de septiembre del 2020</strong>, en esta fecha podrás realizar la consulta del documento en el segmento de contratos.  Si lo deseas, tendrás el derecho de dar por terminado el contrato de adhesión, siempre y cuando no existan adeudos pendientes por cubrir de tu crédito.</p>
+						</div> -->
+						<!-- Legal Productos -->
+						<!-- Simuladores -->
+						<div class="bg-grey0 p-5 mb-5">
+							<p class="display-12">[ii]Tasa en base al financiamiento: la tasa se determinará con base a la relación del valor de la vivienda para adquisición o sustitución de hipoteca y el financiamiento; o en su caso al valor de la construcción, remodelación y mejoramiento de la vivienda, dicho porcentaje, se establecerá en función del proyecto de obra.</p>
+							<table class="table text-center" style="font-size: 15px;">
+							  <thead>
+							    <tr>
+							      <th scope="col"><center>Financiamiento</center></th>
+							      <th scope="col"><center>Tasa de interés</center></th>
+							      <th scope="col"><center>Simulador</center></th>
+							    </tr>
+							  </thead>
+							  <tbody>
+							    <tr>
+							      <th scope="row"><center>Mayor al 90% y hasta el 100%</center></th>
+							      <td><center><b>9.96% anual</b></center></td>
+							      <td><center><?php // include('inc/calculadoras/calculadora-de-credito-hipotecario-90-100.php') ?></td>
+							    </tr> <!-- ./ calculadora de credito -->
+							    <tr>
+							      <th scope="row"><center>Mayor al 80% y hasta el 90%</center></th>
+							      <td><center><b>9.72% anual</b></center></td>
+							      <td><center><?php // include('inc/calculadoras/calculadora-de-credito-hipotecario-80-90.php') ?></td>
+							    </tr> <!-- ./ calculadora de credito -->
+							    <tr>
+							      <th scope="row"><center>Hasta el 80%</center></th>
+							      <td><center><b>9.60% anual</b></center></td>
+							      <td><center><?php // include('inc/calculadoras/calculadora-de-credito-hipotecario-80.php') ?></td>
+							    </tr> <!-- ./ calculadora de credito -->
+							    <tr>
+							      <th scope="row"><center>Simulador para finalidades de liquidez</center></th>
+							      <td><center><b> </b></center></td>
+							      <td><center><?php include('inc/calculadoras/calculadora-de-credito-hipotecario-liquidez.php') ?></td>
+							    </tr>
+							  </tbody>
+							</table>
+					    </div>
+						<!-- Simuladores -->
+					</div>
+					<div class="col-12 col-md-6">
+						<!-- MENU -->
+						<div class="accordion accordion-cpm" id="accordionCICPM">
+							<div class="card">
+								<div class="card-header" id="headingOne">
+									<h2 class="mb-0">
+										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+											Montos y plazos
+										</button>
+									</h2>
+								</div>
+
+								<div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionCICPM">
+									<div class="card-body bg-grey0 p-4">
+										<h4>Monto</h4>
+										<ul class="p-5 bg-white bw-1 border-grey1">
+											<li>Montos desde $64,402.00 Hasta $19,320,600.00</li>
+											<li>Crédito otorgado en moneda nacional.</li>
+											<!-- <li>Préstamos para la adquisición de vivienda, se financiará hasta el 95% del valor avalúo de la misma o del precio de compra , debiendo considerar el que resulte menor, siempre y cuando no exceda el monto máximo del producto.</li> -->
+										</ul>
+										<h4>Plazo</h4>
+										<ul class="p-5 bg-white bw-1 border-grey1">
+											<li>Hasta 240 meses para finalidades de adquisición de vivienda nueva o usada, construcción, remodelación o mejoramiento de la vivienda, así como la sustitución de hipoteca por adquisición de vivienda.</li>
+											<li>Hasta 120 meses, cuando se trate de finalidades de liquidez.</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+							<div class="card">
+								<div class="card-header" id="headingTwo">
+									<h2 class="mb-0">
+										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+											Tasas y CAT
+										</button>
+									</h2>
+								</div>
+								<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionCICPM">
+									<div class="card-body bg-grey0 p-4">
+											<h4>Tasa de Interés</h4>
+											<ul class="p-5 bg-white bw-1 border-grey1">
+												<li>Para finalidades de vivienda, la tasa de interés ordinaria anual fija desde un 9.60% hasta un 9.96% (ii) sin IVA.</li>
+												<!-- <li>Para finalidades de vivienda, la tasa de interés ordinaria anual fija desde un 10.08% hasta un 10.44% (ii) sin IVA.</li> -->
+												<li>Para finalidades de liquidez, la tasa de interés ordinaria anual fija única de 17.16% más IVA.</li>
+												<!-- <li>La retención del IVA dependerá de la finalidad del crédito.</li> -->
+										    </ul>
+											<h4></h4>
+										    <ul class="p-5 bg-white bw-1 border-grey1">
+											<li><strong>CAT Promedio Crédito Hipotecario CPM</strong>
+												<p><strong>Costo Anual Total Promedio a 11.7% sin IVA.</strong> Para fines informativos y de comparación exclusivamente. <strong>Fecha de cálculo 31 de Enero de 2021</strong>.</p>
+											</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+
+							<div class="card">
+								<div class="card-header" id="headingTwo2">
+									<h2 class="mb-0">
+										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo2" aria-expanded="false" aria-controls="collapseTwo2">
+											Contratos
+										</button>
+									</h2>
+								</div>
+								<div id="collapseTwo2" class="collapse" aria-labelledby="headingTwo2" data-parent="#accordionCICPM">
+									<div class="card-body bg-grey0 p-4">
+											<ul class="p-5 bg-white bw-1 border-grey1">
+												<li><a href="assets/pdfs/contratos/2021/FR-1387_Contrato_de_credito_hipotecario_CPM_para_adquisicion_de_vivienda.pdf" target="_blank"><strong>Contrato hipotecario de vivienda</strong></a></li>
+												<li><a href="assets/pdfs/contratos/2021/FR-1837_Contrato_hip__vivienda_para_constr__remod__o_mejora__de_la_vi_Fi___.pdf" target="_blank"><strong>Contrato hipotecario de vivienda para construcción, remodelación o mejoramientos de la vivienda</strong></a></li>
+												<li><a href="assets/pdfs/contratos/2021/FR-1654_Cont_de_apert_de_cred_simp_int_y_grtia_hip__pago_de_pasiv__deriv___.pdf" target="_blank"><strong>Contrato de apertura de crédito simple con garantía hipotecaria para pago de pasivos derivado de un crédito hipotecario para la adquisición de vivienda</strong></a></li>
+												<li><a href="assets/pdfs/contratos/FR-1919_Contrato_de_apertura_de_credito_simple_con_garantia_hipotecaria-122020.pdf" target="_blank"><strong>Contrato de apertura de crédito simple con garantía hipotecaria</strong></a></li>
+										    </ul>
+										</ul>
+									</div>
+								</div>
+							</div>
+
+							<div class="card">
+								<div class="card-header" id="headingThree">
+									<h2 class="mb-0">
+										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFourt" aria-expanded="false" aria-controls="collapseFourt">
+											Requisitos y generales
+										</button>
+									</h2>
+								</div>
+								<div id="collapseFourt" class="collapse" aria-labelledby="headingThree" data-parent="#accordionCICPM">
+									<div class="card-body bg-grey0 p-4">
+										<h4>Requisitos</h4>
+										<ul class="p-5 bg-white bw-1 border-grey1">
+											<li>Ser <a href="ser-socio">socio</a> de Caja Popular Mexicana.</li>
+											<li>Ahorro del 10% del monto a solicitar como garantía, depositando en Cuenta Mexicana cuando la finalidad sea de liquidez.</li>
+										</ul>
+										<h4>Condiciones</h4>
+										<ul class="p-5 bg-white bw-1 border-grey1">
+											<li>El inmueble deberá contar con seguro de daños con las coberturas básicas de riesgos a los que se considere expuesto de acuerdo con la zona, que deberá permanecer vigente durante el plazo del crédito.</li>
+											<li>Podrá mantener a la vez máximo dos préstamos al amparo de este producto, siempre y cuando su finalidad no sea la misma.</li>
+										</ul>
+										<h4>Documentos generales</h4>
+										<ul class="p-5 bg-white bw-1 border-grey1">
+											<li>Identificación oficial y de la sociedad.</li>
+											<li>Comprobante de domicilio.</li>
+											<li>Comprobante de ingresos*</li>
+											<li>Comprobante que acredite la finalidad</li>
+										</ul>
+										<p><small>*Aplican restricciones, para mayor información acude a nuestras sucursales.</small></p>
+									</div>
+								</div>
+							</div>
+							<div class="card">
+								<div class="card-header" id="headingThree">
+									<h2 class="mb-0">
+										<button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+											Costos y comisiones
+										</button>
+									</h2>
+								</div>
+								<div id="collapseSix" class="collapse" aria-labelledby="headingThree" data-parent="#accordionCICPM">
+									<div class="card-body bg-grey0 p-4">
+										<h4>Costos y comisiones</h4>
+										<ul class="p-5 bg-white bw-1 border-grey1">
+											<li>Sin comisión por apertura o administración del crédito.</li>
+										</ul>
+										<h4>Gastos de contratación</h4>
+										<ul class="p-5 bg-white bw-1 border-grey1">
+											<li>Cuando exista una garantía hipotecaria, así como de seguro que lo cubra, los costos dependen del valor de la garantía.</li>
+											<li>Consulta los costos y comisiones de nuestros productos dando <a href="consulta-los-costos-y-comisiones-de-nuestros-productos">clic aquí</a>.</li>
+										</ul>
+										<h4>Recomendaciones</h4>
+										<ul class="p-5 bg-white bw-1 border-grey1">
+											<li>Contratar créditos por arriba de tu capacidad de pago puede afectar tu historial crediticio.</li>
+											<li>Incumplir con tus obligaciones te puede generar comisiones e intereses moratorios.</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+						<!-- MENU -->
+						<!-- Formulario Dudas -->
+						<div class="bg-grey0 p-5 my-5">
+							<h3 class="font-weight-bolder">¿Dudas sobre nuestro Crédito Hipotecario CPM?</h3>
+							<hr>
+							<?php include('inc/forms/formulario_credito-hipotecario.php') ?> <!-- ./ Formulario gral de sección -->
+						</div>
+						<!-- Formulario Dudas -->
+					</div>
+				</div> <!-- ./ End Row -->
+			<?php include('inc/une-recursos.php'); ?>
+			</div>
+		</section>
+
+<?php include('inc/boletin-and-banner.php') ?> <!-- ./ Boletín y banner -->
+
+<?php include('inc/footer.php'); ?>

@@ -1,0 +1,18 @@
+# Max OS hidden file
+**/.DS_Store
+
+# Exclude folders
+unused
+unused/*
+assets/pdfs/contratos
+assets/pdfs/contratos/*
+assets/pdfs/revistas
+assets/pdfs/revistas/*
+assets/pdfs/boletines
+assets/pdfs/boletines/*
+
+# all node modules
+node_modules
+
+# dont add .DS_store
+assets/css/.DS_Store

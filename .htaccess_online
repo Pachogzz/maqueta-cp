@@ -1,0 +1,120 @@
+##	Redirects example.com/cool-page.html to example.com/cool-page
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteCond %{REQUEST_URI} ^(.+)\.php$
+RewriteRule (.*)\.php$ /$1 [R=301,L]
+
+RewriteEngine On
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://www.cpm.coop/$1 [R,L]
+
+##credito
+Redirect 301 /credinamico/									https://www.cpm.coop/credito-credinamico-cpm
+Redirect 301 /credinamico									https://www.cpm.coop/credito-credinamico-cpm
+Redirect 301 /necesitas-credito/credito-automotriz/         https://www.cpm.coop/credito-automotriz-cpm
+Redirect 301 /necesitas-credito/credito-automotriz			https://www.cpm.coop/credito-automotriz-cpm
+Redirect 301 /creditohipotecariocpm							https://www.cpm.coop/credito-hipotecario-cpm
+Redirect 301 /creditohipotecariocpm/						https://www.cpm.coop/credito-hipotecario-cpm
+Redirect 301 /credito-inmediato-cpm/                        https://www.cpm.coop/credito-inmediato-cpm
+Redirect 301 /credito-productivo-cpm/           			https://www.cpm.coop/credito-automotriz-cpm
+Redirect 301 /credito-personal-plus-cpm/					https://www.cpm.coop/credito-personal-plus-cpm
+Redirect 301 /necesitas-credito/						    https://www.cpm.coop/necesitas-credito
+Redirect 301 /mi-alcancia/              					https://www.cpm.coop/mi-alcancia
+Redirect 301 /mi-alcancia-junior/						    https://www.cpm.coop/mi-alcancia-junior
+
+##ahorro
+Redirect 301 /quieres-ahorrar-e-invertir/					https://www.cpm.coop/ahorro-e-inversion
+Redirect 301 /quieres-ahorrar-e-invertir					https://www.cpm.coop/ahorro-e-inversion
+Redirect 301 /quieres-ahorrar-e-invertir/rendicuenta/		https://www.cpm.coop/rendicuenta
+Redirect 301 /quieres-ahorrar-e-invertir/rendicuenta		https://www.cpm.coop/rendicuenta
+Redirect 301 /quieres-ahorrar-e-invertir/cuenta-mexicana/	https://www.cpm.coop/cuenta-mexicana
+Redirect 301 /quieres-ahorrar-e-invertir/cuenta-mexicana	https://www.cpm.coop/cuenta-mexicana
+Redirect 301 /quieres-ahorrar-e-invertir/servicuenta/		https://www.cpm.coop/servicuenta
+Redirect 301 /quieres-ahorrar-e-invertir/servicuenta		https://www.cpm.coop/servicuenta
+Redirect 301 /quieres-ahorrar-e-invertir/cuentamiga/		https://www.cpm.coop/cuentamiga
+Redirect 301 /quieres-ahorrar-e-invertir/cuentamiga			https://www.cpm.coop/cuentamiga
+Redirect 302 /tarjetas/										https://www.cpm.coop/tarjeta-de-debito
+Redirect 302 /tarjetas										https://www.cpm.coop/tarjeta-de-debito
+Redirect 301 /debitojr/                                     https://www.cpm.coop/tarjeta-de-debito
+Redirect 301 /debitojr                                      https://www.cpm.coop/tarjeta-de-debito
+Redirect 301 /mi-nomina-mexicana/		                    https://www.cpm.coop/mi-nomina-mexicana
+
+##seguros
+Redirect 301 /necesitas-un-seguro/              			https://www.cpm.coop/necesitas-un-seguro
+Redirect 301 /necesitas-un-seguro/miseguro-prybe/			https://www.cpm.coop/miseguro-prybe
+Redirect 301 /necesitas-un-seguro/miseguro-prybe			https://www.cpm.coop/miseguro-prybe
+Redirect 301 /necesitas-un-seguro/miautoseguro-cpm/			https://www.cpm.coop/miautoseguro-prybe
+Redirect 301 /necesitas-un-seguro/miautoseguro-cpm			https://www.cpm.coop/miautoseguro-prybe
+
+##legales
+Redirect 301 /legales/									    https://www.cpm.coop/aviso-de-privacidad
+Redirect 301 /legales									    https://www.cpm.coop/aviso-de-privacidad
+Redirect 301 /aviso-de-privacidad-para-postulantes/			https://www.cpm.coop/aviso-de-privacidad-postulantes
+Redirect 301 /aviso-de-privacidad-para-postulantes		    https://www.cpm.coop/aviso-de-privacidad-postulantes
+Redirect 302 /terminos-y-condiciones-de-servicios-digitales/	https://www.cpm.coop/terminos-y-condiciones-sei
+Redirect 302 /terminos-y-condiciones-de-servicios-digitales		https://www.cpm.coop/terminos-y-condiciones-sei
+Redirect 302 /buro-de-entidades/							https://www.cpm.coop/buro-de-entidades-financieras
+Redirect 302 /buro-de-entidades								https://www.cpm.coop/buro-de-entidades-financieras
+
+##SEI
+Redirect 301 /serviciosdigitales/                           https://www.cpm.coop/serviciosdigitales
+# Redirect 302 /serviciosdigitales                         	https://www.cpm.coop/serviciosdigitales
+Redirect 301 /cpmenlinea/									https://www.cpm.coop/cpm-en-linea
+Redirect 301 /cpm-movil/									https://www.cpm.coop/cpm-movil
+
+##cpm
+Redirect 302 /conoce-a-caja-popular-mexicana/				https://www.cpm.coop/conocenos
+Redirect 302 /conoce-a-caja-popular-mexicana				https://www.cpm.coop/conocenos
+Redirect 302 /requisitos/									https://www.cpm.coop/ser-socio
+Redirect 302 /requisitos									https://www.cpm.coop/ser-socio
+Redirect 301 /quieres-saber-las-tasas-de-rendimiento/		https://www.cpm.coop/quieres-saber-las-tasas-de-rendimiento
+Redirect 301 /soy-menor-de-edad/						    https://www.cpm.coop/soy-menor-de-edad
+Redirect 301 /ubica-tu-sucursal/						    https://www.cpm.coop/ubica-tu-sucursal
+
+##sucursales
+Redirect 301 /calendario-asamblea/							https://www.cpm.coop/ubica-tu-sucursal
+Redirect 301 /calendario-asamblea							https://www.cpm.coop/ubica-tu-sucursal
+
+## <IfModule mod_rewrite.c>
+## 	RewriteEngine On
+## 	RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /(([^/]+/)*([^/.]+))\.php[\ ?]
+## 	RewriteRule \.php$ /%1/ [R=301,NC,L]
+## 	RewriteRule ^(.*)/$ /$1.php [NC,L]
+## </IfModule>
+
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(([A-Za-z0-9\-]+/)*[A-Za-z0-9\-]+)?$ $1.php
+
+ErrorDocument 404 /404
+
+# <IfModule mod_expires.c>
+# ExpiresActive On
+# ExpiresByType image/jpg "access 1 hour"
+# ExpiresByType image/jpeg "access 1 hour"
+# ExpiresByType image/gif "access 1 hour"
+# ExpiresByType image/png "access 1 hour"
+# ExpiresByType text/css "access 1 hour"
+# ExpiresByType text/html "access 1 hour"
+# ExpiresByType application/pdf "access 1 hour"
+# ExpiresByType text/x-javascript "access 1 hour"
+# ExpiresByType application/x-shockwave-flash "access 1 hour"
+# ExpiresByType image/x-icon "access 1 hour"
+# ExpiresDefault "access 1 day"
+# </IfModule>
+RewriteCond %{HTTP_HOST} ^cpm\.coop$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.cpm\.coop$
+RewriteRule ^consideraciones\-tecnicas\/$ "https\:\/\/www\.cpm\.coop\/consideraciones\-tecnicas\-sei" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^simulador\-hipotecario\-de\-vivienda\/$ "https\:\/\/www\.cpm\.coop\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^aviso\-de\-privacidad\-en\-redes\-sociales\/$ "https\:\/\/www\.cpm\.coop\/aviso\-de\-privacidad\-en\-redes\-sociales" [R=301,L]
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php72” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php72 .php .php7 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit
